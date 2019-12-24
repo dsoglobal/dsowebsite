@@ -31,9 +31,5 @@ sections:
         avatar: images/anthonyb.jpg
         content: >-
           Happy Joy Joy2       
-subtitle: 
-date: '2019-12-01'
-thumb_img_path: images/georgetown.png
-content_img_path: images/georgetown.png
-layout: project
+layout: home
 ---
