@@ -1,28 +1,28 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "icon": "fa-twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "dribbble",
-            "title": "Dribbble",
-            "icon": "fa-dribbble",
-            "url": "https://dribbble.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "icon": "fa-linkedin",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "dribbble",
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/dsoglobal"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/company/1093573"
+    },
+    {
+      "type": "twitter",
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/dsoglobal"
+    },
+    {
+      "type": "instagram",
+      "title": "Email",
+      "icon": "fa-envelope",
+      "url": "mailto:inquiries@dsoglobal.org"
+    }
+  ]
 }
