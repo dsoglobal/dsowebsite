@@ -4,5 +4,5 @@ menu:
   main:
     name: Projects
     weight: 3
-layout: blog
+layout: portfolio
 ---
