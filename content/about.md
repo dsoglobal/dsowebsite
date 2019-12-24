@@ -1,7 +1,7 @@
 ---
 title: About Us
-subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+subtitle: Our mission is to partner with social impact organizations to tackle the world's challenges.
+img_path: 
 menu:
   main:
     name: About
@@ -9,10 +9,11 @@ menu:
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+# Our Vision
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Our vision in the short-term is to increase the availability and accessibility of “Fortune 500” caliber volunteer consulting teams. Over the long run, we aim to take a leadership role in negotiating more deliberate collaboration between the business and civic/non profit worlds. To us, every partner is an opportunity to empathize and apply insights and practices from across a wide range of sectors — and create a more inclusive approach in social impact.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+# Our History
+DSO started in 2008 as a student organization looking to increase awareness at Carnegie Mellon University about International Development. Through its time at CMU, we learned that there were many students looking to get hands-on experience in the field as well as professional mentorship.
 
-*Thank You for reading!*
+As DSO’s original members graduated and went into different jobs in the industry, they were surprised to find that many professionals wanted to volunteer for an organization where they could make an impact and develop personally. Finally, many members wanted a way to give back to the community and to mentor students. Recognizing this unique combination of supply of interested student and professional volunteers, DSO started its consultancy in the fall of 2010 with professionals from Pittsburgh, Seattle, and Washington DC working with students at Carnegie Mellon and has now expanded to San Francisco and Berkeley.
