@@ -8,6 +8,6 @@ menu:
   main:
     name: Our Teams
     weight: 2
-layout: projects
+layout: portfolio
 ---
 
