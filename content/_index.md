@@ -48,7 +48,7 @@ sections:
     type: postsblock
   - component: contact_block.html
     section_id: contact
-    subtitle: An optional subtitle of the section
+    subtitle: Drop Us a Note to Learn More
     title: Contact Us
     type: contactblock
 menu:
