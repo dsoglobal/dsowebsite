@@ -6,6 +6,6 @@ layout_style: mosaic
 menus:
   main:
     weight: 2
-    title: Teams
+    title: Portfolio
 template: portfolio
 ---
