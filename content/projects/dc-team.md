@@ -1,10 +1,11 @@
 ---
-title: DC Team
+title: Teams
 date: 2019-12-24T08:35:30.683Z
-thumb_img_path: /images/georgetown.png
+thumb_img_path: ''
 menu:
   main:
-    name: ''
+    name: Teams
+    weight: 3
 layout: project
 ---
 
