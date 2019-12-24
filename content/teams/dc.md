@@ -6,6 +6,6 @@ thumb_img_path: images/georgetown.png
 content_img_path: 
 layout: project
 ---
-# Engagement Leads
+### Engagement Leads
 
-# Students
+### Students
