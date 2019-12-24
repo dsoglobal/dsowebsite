@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Projects
 menu:
   main:
-    name: Blog
+    name: Projects
     weight: 3
 layout: blog
 ---
