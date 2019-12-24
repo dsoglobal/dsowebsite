@@ -1,21 +1,43 @@
 ---
-title: Why Fonts Matter
-date: '2019-03-27'
-thumb_img_path: images/12.jpg
-content_img_path: images/12.jpg
+title: Memunatu
+subtitle: Aligning girls literacy and leadership with strong champions and partners
+date: 2017-04-01T04:00:00.000Z
+thumb_img_path: /images/journalism-issue-ipad-picture.png
+content_img_path: ''
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
+  DSO partnered with Banyan, a mental health organization that has been an
+  integral part of the care of for people with mental illness in Chennai since
+  1993. The teams consisted of 6 volunteers from DSO and several stakeholders
+  from Banyan.
 layout: post
 ---
+| **Youth** | **Education** | **Africa** | **Research** | **Partnerships** | **Fund Development** |
+| --------- | ------------- | ---------- | ------------ | ---------------- | -------------------- |
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+Memunatu promotes literacy, leadership, and empowerment for teenage girls (10-17 years old) in West Africa through a community-driven publication / magazine that has educational and fun content. Starting in Sierra Leone, Memunatu has the power to engage and inspire girls across the continent.
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+**What We Did:**
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+* Researched who comprises Boards, who comprises Leadership Councils, and best practices of Boards and Leadership Councils
+* Developed a framework to adapt and evaluate potential Leadership Council Members and engaging these Members in the short-term and long-term
+* Recommended archetypes of Leadership Council Members and specific people that may be a good fit
+* Researched comparable organizations as well as partnerships and fundraising best practices
+* Listed and identified top partnership, grant and corporate donation, and venture philanthropist and impact investor opportunities
+* Developed a scorecard to adapt and evaluate potential partnership and funding opportunities in the short-term and long-term
+* Offered specific recommendations for implementation
+
+**Partner Testimonial:**
+
+> “It was a pleasure working with DSO. The team was professional—I could depend on DSO to produce quality work. The final presentation was indicative of that! My team and I found both the presentation and accompanying deliverables to be thoroughly researched and well organized. This showed great attention to detail and speaks to the standards to which they hold their team. Overall, what impressed me most about DSO was how they cared about our mission. This passion showed when they engaged with our team and their own. I particularly appreciated how DSO team members \[went] out of their way to attend our event. Not only did this show eagerness to learn more about our organization, but it also demonstrated their personal support for our work!”
+>
+> – Mariama Kabia, Co-Founder, Memunatu
+
+**Project Time Frame:** February - April 2017
+
+**Team:** Edgar Ortiz, Elizabeth Prosch, Luke Butcher, Maxine Yao, Amy Badiani, and Aruna Cadambi
+
+**Results:**
+
+Memunatu recruited Leadership Council members DSO recommended, implemented the engagement framework, and applied the partnership evaluation methodology.
