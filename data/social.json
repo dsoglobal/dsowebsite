@@ -1,7 +1,7 @@
 {
   "links": [
     {
-      "type": "dribbble",
+      "type": "facebook",
       "title": "Facebook",
       "icon": "fa-facebook",
       "url": "https://www.facebook.com/dsoglobal"
@@ -19,6 +19,7 @@
       "url": "https://twitter.com/dsoglobal"
     },
     {
+      "type": "email",
       "title": "Email",
       "icon": "fa-usps",
       "url": "mailto:inquiries@dsoglobal.org"
