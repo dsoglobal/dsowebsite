@@ -6,8 +6,7 @@ subtitle: >-
 layout_style: tiles
 menu:
   main:
-    name: Our Teams
     weight: 2
-layout: portfolio
+    title: Our Teams
+template: portfolio
 ---
-
