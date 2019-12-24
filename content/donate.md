@@ -8,4 +8,4 @@ menu:
     weight: 4
 layout: page
 ---
-DSO received its non profit 501c3 tax exempt status in February 2012. Donations are welcome and can be placed through our [GlobalGiving Page](https://www.globalgiving.org/donate/24402/development-solutions-organization-dso/){:target="_blank"}.
+DSO received its non profit 501c3 tax exempt status in February 2012. Donations are welcome and can be placed through our [GlobalGiving Page](https://www.globalgiving.org/donate/24402/development-solutions-organization-dso/).
