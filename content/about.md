@@ -14,10 +14,10 @@ layout: page
 
 Our vision in the short-term is to increase the availability and accessibility of “Fortune 500” caliber volunteer consulting teams. Over the long run, we aim to take a leadership role in negotiating more deliberate collaboration between the business and civic/non profit worlds. To us, every partner is an opportunity to empathize and apply insights and practices from across a wide range of sectors — and create a more inclusive approach in social impact.
 
-![](/images/dsomodel.png)
-
 # Our History
 
 DSO started in 2008 as a student organization looking to increase awareness at Carnegie Mellon University about International Development. Through its time at CMU, we learned that there were many students looking to get hands-on experience in the field as well as professional mentorship.
 
 As DSO’s original members graduated and went into different jobs in the industry, they were surprised to find that many professionals wanted to volunteer for an organization where they could make an impact and develop personally. Finally, many members wanted a way to give back to the community and to mentor students. Recognizing this unique combination of supply of interested student and professional volunteers, DSO started its consultancy in the fall of 2010 with professionals from Pittsburgh, Seattle, and Washington DC working with students at Carnegie Mellon and has now expanded to San Francisco and Berkeley.
+
+![](/images/dsomodel.png)
