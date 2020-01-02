@@ -44,7 +44,7 @@ sections:
     num_posts_displayed: 3
     section_id: latest-posts
     subtitle: ''
-    title: Featured Initiative
+    title: Featured Initiatives
     type: postsblock
   - component: contact_block.html
     section_id: contact
