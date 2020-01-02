@@ -41,7 +41,7 @@ sections:
       - label: View All Projects
         url: blog/index.html
     component: posts_block.html
-    num_posts_displayed: 1
+    num_posts_displayed: 3
     section_id: latest-posts
     subtitle: ''
     title: Featured Initiative
