@@ -1,7 +1,9 @@
 ---
 title: About Us
-subtitle: Our mission is to partner with social impact organizations to tackle the world's challenges.
-img_path: 
+subtitle: >-
+  Our mission is to partner with social impact organizations to tackle the
+  world's challenges.
+img_path: /images/dsomodel.png
 menu:
   main:
     name: About
