@@ -3,6 +3,7 @@ title: Projects
 menu:
   main:
     name: Projects
-    weight: 3
+    weight: 2
 layout: blog
 ---
+
