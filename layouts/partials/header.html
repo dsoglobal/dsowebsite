@@ -21,9 +21,19 @@
           <button id="menu-close" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-close" aria-hidden="true"></span></button>
           <ul class="menu">
             {{ range $item := .Site.Menus.main }}
-            <li class="menu-item {{ if eq $.URL $item.URL }} current-menu-item{{ end }}">
-              <a href="{{ $item.URL | relURL }}">{{ $item.Name }}</a>
-            </li>
+              {{ if .HasChildren }}
+                  <li class="menu-item {{ if eq $.URL $item.URL }} current-menu-item{{ end }}">
+                  <a href="{{ $item.URL | relURL }}">{{ $item.Name }}</a>
+                  <ul class="sub-menu">
+                    {{ range .Children }}
+                      {{ template "menu-item" (dict "entry" . "page" $page) }}
+                    {{ end }}
+                  </ul>
+                </li>
+              {{ else }}
+              <li class="menu-item {{ if eq $.URL $item.URL }} current-menu-item{{ end }}">
+                <a href="{{ $item.URL | relURL }}">{{ $item.Name }}</a>
+              </li>
             {{ end }}
           </ul><!-- .menu -->
         </div><!-- .site-nav-inside -->
