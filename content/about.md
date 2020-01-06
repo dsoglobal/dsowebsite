@@ -10,6 +10,12 @@ menu:
     weight: 4
 layout: page
 ---
+# Our Model
+
+* **Students -** Students work as consultants under professional mentors and gain hands-on experience in solving real-world business problems of our partners.
+* **Engagement Leads -** Engagement Leads or mentors manage positive relationships with clients, ensure projects run smoothly, and mentor students.
+* **Partners -** Partners work with DSO and benefit from high quality services from dedicated teams of University students and professionals.
+
 # Our Vision
 
 Our vision in the short-term is to increase the availability and accessibility of “Fortune 500” caliber volunteer consulting teams. Over the long run, we aim to take a leadership role in negotiating more deliberate collaboration between the business and civic/non profit worlds. To us, every partner is an opportunity to empathize and apply insights and practices from across a wide range of sectors — and create a more inclusive approach in social impact.
