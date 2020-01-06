@@ -10,7 +10,7 @@ menu:
   main:
     identifier: teams
     name: Teams
-    parent: teams
+    parent: ''
     weight: 3
 layout: project
 ---
