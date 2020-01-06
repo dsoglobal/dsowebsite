@@ -7,7 +7,7 @@ menu:
   main:
     identifier: dc
     name: Washington DC
-    parent: ''
+    parent: projects
     weight: 4
 layout: project
 ---
