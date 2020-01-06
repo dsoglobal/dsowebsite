@@ -4,7 +4,7 @@ subtitle: Special Details
 date: 2019-12-24T08:52:21.001Z
 thumb_img_path: ''
 menu:
-  projects:
+  main:
     identifier: dcteam
     name: Washington DC
     parent: teamsmain
