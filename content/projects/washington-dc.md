@@ -7,7 +7,7 @@ menu:
   main:
     identifier: dcteam
     name: Washington DC
-    parent: project
+    parent: projects
     weight: ''
 layout: project
 ---
