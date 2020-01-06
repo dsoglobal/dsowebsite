@@ -8,7 +8,7 @@ menu:
     identifier: dc
     name: Washington DC
     parent: teams
-    weight: ''
+    weight: 1
 layout: project
 ---
 Special Stuff
