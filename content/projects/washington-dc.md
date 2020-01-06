@@ -7,8 +7,8 @@ menu:
   main:
     identifier: dcteam
     name: Washington DC
-    parent: ''
-    weight: ''
+    parent: teamsmain
+    weight: 3
 layout: project
 ---
 Special Stuff
