@@ -8,7 +8,7 @@ date: 2019-12-24T08:35:30.683Z
 thumb_img_path: ''
 menu:
   main:
-    identifier: teamsmain
+    identifier: projects
     name: Teams
     parent: ''
     weight: 3
