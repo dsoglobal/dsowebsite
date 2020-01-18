@@ -4,7 +4,7 @@ sections:
 - component: hero_block.html
     content: >-
       DSO teams consult to develop impactful solutions. Check out our projects to learn more about what we do!
-    section_id: blogheader
+    section_id: main-header
     title: Our Projects
     type: heroblock
 - component: posts_block.html
