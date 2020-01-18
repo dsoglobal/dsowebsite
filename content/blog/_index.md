@@ -1,13 +1,15 @@
 ---
 title: Projects
 sections:
-- component: hero_block.html
+  - component: hero_block.html
     content: >-
-      DSO teams consult to develop impactful solutions. Check out our projects to learn more about what we do!
-    section_id: main-header
-    title: Our Projects
+      We team professional engagement leads with students to provide consulting
+      services to social enterprises and local and international development
+      organizations.
+    section_id: headerproj
+    title: Development Solution Organization
     type: heroblock
-- component: posts_block.html
+  - component: posts_block.html
     num_posts_displayed: 3
     section_id: main-posts
     subtitle: ''
