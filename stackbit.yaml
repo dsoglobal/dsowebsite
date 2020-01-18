@@ -345,19 +345,19 @@ models:
         description: Which menus should this page show up in
   project:
     type: page
-    label: Project
+    label: Teams
     template: project
-    folder: projects
+    folder: teams
     fields:
       - type: string
         name: title
         label: Title
-        description: The title of the project
+        description: The title of the teams
         required: true
       - type: string
         name: subtitle
         label: Subtitle
-        description: The text shown just below the project title.
+        description: The text shown just below the teams title.
       - type: date
         name: date
         label: Date
@@ -365,14 +365,14 @@ models:
       - type: image
         name: thumb_img_path
         label: Featured Image
-        description: The image shown in the project page.
+        description: The image shown in the teams page.
       - type: image
         name: content_img_path
         label: Alternative Featured Image
-        description: The image shown in the single project.
+        description: The image shown in the single team.
       - type: page_menus
         name: menu
-        label: Project Menus
+        label: Team Menus
         description: Which menus should this page show up in
   section:
     type: object
