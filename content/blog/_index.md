@@ -9,7 +9,7 @@ sections:
     title: Our Projects
     type: heroblock
   - component: posts_block.html
-    num_posts_displayed: 3
+    num_posts_displayed: 1000
     section_id: main-posts
     subtitle: ''
     title: Recent Projects
