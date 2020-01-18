@@ -343,10 +343,10 @@ models:
         name: menu
         label: Post Menus
         description: Which menus should this page show up in
-  project:
+  team:
     type: page
     label: Teams
-    template: project
+    template: team
     folder: teams
     fields:
       - type: string
