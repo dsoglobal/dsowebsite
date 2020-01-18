@@ -3,11 +3,10 @@ title: Projects
 sections:
   - component: hero_block.html
     content: >-
-      We team professional engagement leads with students to provide consulting
-      services to social enterprises and local and international development
-      organizations.
+      DSO teams work with non profits and social enterprises to develop impactful 
+      solutions. Check out our projects below to learn more about what we do!
     section_id: headerproj
-    title: Development Solution Organization
+    title: Our Projects
     type: heroblock
   - component: posts_block.html
     num_posts_displayed: 3
