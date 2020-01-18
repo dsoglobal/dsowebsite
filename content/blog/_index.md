@@ -8,7 +8,7 @@ sections:
     section_id: headerproj
     title: Our Projects
     type: heroblock
-  - component: posts_block.html
+  - component: posts_block_full.html
     num_posts_displayed: 1000
     section_id: main-posts
     subtitle: ''
