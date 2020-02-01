@@ -638,7 +638,7 @@ collections:
             name: layout
             label: Layout
             required: true
-            default: blog
+            default: projects
   - name: portfolio
     label: Portfolio
     files:
