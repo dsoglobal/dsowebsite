@@ -597,6 +597,37 @@ collections:
             label: Title
             required: true
             hint: The title of the page.
+          - name: heroblock
+                widget: object
+                label: Hero Section
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.
+                  - widget: string
+                    name: section_id
+                    label: Element ID
+                    required: false
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: hero_block.html
+                  - widget: markdown
+                    name: content
+                    label: Content
+                    required: false
+                    hint: The text content of the section.
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: heroblock
           - widget: object
             name: menu
             label: Projects Menus
