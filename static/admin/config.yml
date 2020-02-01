@@ -590,7 +590,7 @@ collections:
     files:
       - name: projects
         label: Projects
-        file: content/blog/_index.md
+        file: content/projects/_index.md
         fields:
           - widget: string
             name: title
