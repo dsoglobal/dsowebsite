@@ -592,11 +592,6 @@ collections:
         label: Projects
         file: content/projects/_index.md
         fields:
-          - widget: string
-            name: title
-            label: Title
-            required: true
-            hint: The title of the page.
           - widget: object
             name: heroblock
             label: Hero Section
@@ -604,7 +599,7 @@ collections:
               - widget: string
                 name: title
                 label: Title
-                required: false
+                required: true
                 hint: The title of the section.
               - widget: string
                 name: section_id
