@@ -586,10 +586,10 @@ collections:
             required: true
             default: home
   - name: blog
-    label: Blog
+    label: Projects
     files:
       - name: blog
-        label: Blog
+        label: Projects
         file: content/blog/_index.md
         fields:
           - widget: string
@@ -599,7 +599,7 @@ collections:
             hint: The title of the page.
           - widget: object
             name: menu
-            label: Blog Menus
+            label: Projects Menus
             required: false
             hint: Which menus should this page show up in
             fields:
