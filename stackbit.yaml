@@ -217,7 +217,7 @@ models:
         description: Which menus should this page show up in
   blog:
     type: page
-    label: Blog
+    label: Projects
     template: blog
     file: blog/_index.md
     hideContent: true
@@ -228,9 +228,19 @@ models:
         label: Title
         description: The title of the page.
         required: true
+	  - type: list
+        name: sections
+        label: Sections
+        description: Project page sections.
+        items:
+          type: reference
+          labelField: title
+          models:
+		    - heroblock
+            - postsblock
       - type: page_menus
         name: menu
-        label: Blog Menus
+        label: Project Menus
         description: Which menus should this page show up in
   portfolio:
     type: page
