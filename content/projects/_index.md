@@ -9,9 +9,6 @@ sections:
     type: heroblock
   - component: posts_block_full.html
     num_posts_displayed: 1000
-    section_id: main-posts
-    subtitle: Recent Projects
-    title: Recent Projects
     type: postsblock
 menu:
   main:
