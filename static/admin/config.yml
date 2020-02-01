@@ -585,10 +585,10 @@ collections:
             label: Layout
             required: true
             default: home
-  - name: blog
+  - name: projects
     label: Projects
     files:
-      - name: blog
+      - name: projects
         label: Projects
         file: content/blog/_index.md
         fields:
