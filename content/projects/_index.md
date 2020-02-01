@@ -1,19 +1,10 @@
 ---
 title: Projects
-sections:
-  - component: hero_block.html
-    content: >-
-      DSO teams work with non profits and social enterprises to develop impactful 
-      solutions. Check out our projects below to learn more about what we do!
-    section_id: headerproj
-    title: Our Projects
-    type: heroblock
-  - component: posts_block_full.html
-    num_posts_displayed: 1000
-    section_id: main-posts
-    subtitle: ''
-    title: Recent Projects
-    type: postsblock
+heroblock:
+  content: >-
+    DSO teams work with non profits and social enterprises to develop impactful
+    solutions. Check out our projects below to learn more about what we do!
+  title: Our Projects
 menu:
   main:
     name: Projects
