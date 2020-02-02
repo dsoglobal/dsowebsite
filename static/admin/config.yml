@@ -917,10 +917,10 @@ collections:
         required: false
         hint: Teams page sections.
         types:
-            - name: testimonialsblock
-              widget: object
-              label: Testimonials Section
-              fields:
+          - name: testimonialsblock
+            widget: object
+            label: Testimonials Section
+            fields:
               - widget: string
                 name: title
                 label: Title
@@ -944,12 +944,12 @@ collections:
                 name: testimonialslist
                 label: Testimonials
                 required: false
-               fields:
-                 - widget: string
-                   name: author
-                   label: Author
-                   required: false
-                   hint: The author of the testimonial.
+                fields:
+                  - widget: string
+                    name: author
+                    label: Author
+                    required: false
+                    hint: The author of the testimonial.
                   - widget: image
                     name: avatar
                     label: Avatar
@@ -965,60 +965,60 @@ collections:
                     label: Reference Type Name
                     required: true
                     hint: >-
-                  Name of the Stackbit object model, used by fields of type
-                  reference
+                    Name of the Stackbit object model, used by fields of type
+                    reference
                     default: testimonialsblock
           - name: portfolioblock
             widget: object
             label: Latest Portfolio
             fields:
               - widget: string
-            name: title
-            label: Title
-            required: false
-            hint: The title of the section.
+                name: title
+                label: Title
+                required: false
+                hint: The title of the section.
               - widget: string
-            name: section_id
-            label: Element ID
-            required: false
+                name: section_id
+                label: Element ID
+                required: false
               - widget: hidden
-            name: component
-            label: Component
-            required: true
-            default: portfolio_block.html
+                name: component
+                label: Component
+                required: true
+                default: portfolio_block.html
               - widget: string
-            name: subtitle
-            label: Subtitle
-            required: false
-            hint: The subtitle of the section.
+                name: subtitle
+                label: Subtitle
+                required: false
+                hint: The subtitle of the section.
               - widget: select
-            name: layout_style
-            label: Layout Style
-            required: false
-            default: mosaic
-            hint: The layout style of the projects section.
-            options:
-              - mosaic
-              - tiles
+                name: layout_style
+                label: Layout Style
+                required: false
+                default: mosaic
+                hint: The layout style of the projects section.
+                options:
+                  - mosaic
+                  - tiles
               - widget: number
-            name: num_projects_displayed
-            label: Number of projects to display
-            required: true
-            valueType: int
+                name: num_projects_displayed
+                label: Number of projects to display
+                required: true
+                valueType: int
               - widget: string
-            name: view_all_text
-            label: All projects button text
-            required: false
-            hint: The text displayed inside the button.
+                name: view_all_text
+                label: All projects button text
+                required: false
+                hint: The text displayed inside the button.
               - widget: string
-            name: view_all_url
-            label: All projects button URL
-            required: false
+                name: view_all_url
+                label: All projects button URL
+                required: false
               - widget: hidden
-            name: type
-            label: Reference Type Name
-            required: true
-            hint: >-
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
                   Name of the Stackbit object model, used by fields of type
                   reference
                 default: portfolioblock
