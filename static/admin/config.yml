@@ -1063,7 +1063,7 @@ collections:
         name: layout
         label: Layout
         required: true
-        default: project
+        default: home
       - widget: markdown
         name: body
         label: Content
