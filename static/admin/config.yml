@@ -889,7 +889,7 @@ collections:
     fields:
       - widget: string
         name: title
-        label: Title
+        label: PageTitle
         required: true
         hint: The title of the people
       - widget: string
