@@ -964,9 +964,7 @@ collections:
                     name: type
                     label: Reference Type Name
                     required: true
-                    hint: >-
-                    Name of the Stackbit object model, used by fields of type
-                    reference
+                    hint: Name of the Stackbit object model
                     default: testimonialsblock
           - name: portfolioblock
             widget: object
