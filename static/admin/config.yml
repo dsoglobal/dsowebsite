@@ -1071,4 +1071,4 @@ collections:
         hint: Page content
     filter:
       field: layout
-      value: project
+      value: home
