@@ -22,5 +22,6 @@ menu:
     name: Teams
     parent: ''
     weight: 3
+layout: home
 ---
 
