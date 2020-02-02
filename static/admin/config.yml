@@ -996,13 +996,13 @@ collections:
                 label: Layout Style
                 required: false
                 default: mosaic
-                hint: The layout style of the projects section.
+                hint: The layout style of the section.
                 options:
                   - mosaic
                   - tiles
               - widget: number
                 name: num_projects_displayed
-                label: Number of projects to display
+                label: Number of people to display
                 required: true
                 valueType: int
               - widget: string
@@ -1012,7 +1012,7 @@ collections:
                 hint: The text displayed inside the button.
               - widget: string
                 name: view_all_url
-                label: All projects button URL
+                label: All people button URL
                 required: false
               - widget: hidden
                 name: type
