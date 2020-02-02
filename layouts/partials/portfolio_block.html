@@ -10,7 +10,7 @@
     </div><!-- .block-header -->
     <div class="block-content">
       <div class="portfolio-feed layout-{{ .section.layout_style }}">
-        {{ $display_projects := ((.Site.GetPage "section" "/people").Pages).ByDate.Reverse }}
+        {{ $display_projects := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
         {{ $recent_projects := $display_projects | first .section.num_projects_displayed }}
         {{ $post_len := len $recent_projects }}
         {{ range $post_idx, $post := $recent_projects }}
