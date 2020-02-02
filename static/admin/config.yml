@@ -934,9 +934,9 @@ collections:
     filter:
       field: layout
       value: post
-  - name: project
-    label: Projects
-    folder: content/projects
+  - name: people
+    label: People
+    folder: content/people
     create: true
     extension: md
     slug: '{{slug}}'
@@ -945,12 +945,12 @@ collections:
         name: title
         label: Title
         required: true
-        hint: The title of the project
+        hint: The title of the people
       - widget: string
         name: subtitle
         label: Subtitle
         required: false
-        hint: The text shown just below the project title.
+        hint: The text shown just below the person.
       - widget: date
         name: date
         label: Date
@@ -959,7 +959,7 @@ collections:
         name: thumb_img_path
         label: Featured Image
         required: false
-        hint: The image shown in the project page.
+        hint: The image shown in the people page.
       - widget: image
         name: content_img_path
         label: Alternative Featured Image
