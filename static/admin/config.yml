@@ -960,12 +960,14 @@ collections:
                     label: Content
                     required: false
                     hint: The text content of the testimonial.
-                  - widget: hidden
-                    name: type
-                    label: Reference Type Name
-                    required: true
-                    hint: Name of the Stackbit object model
-                    default: testimonialsblock
+                   - widget: hidden
+                     name: type
+                     label: Reference Type Name
+                     required: true
+                     hint: >-
+                       Name of the Stackbit object model, used by fields of type
+                       reference
+                     default: testimonialsblock
           - name: portfolioblock
             widget: object
             label: Latest Portfolio
