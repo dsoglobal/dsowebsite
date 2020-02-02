@@ -1004,12 +1004,7 @@ collections:
                 name: num_projects_displayed
                 label: Number of people to display
                 required: true
-                valueType: int
-              - widget: string
-                name: view_all_text
-                label: All projects button text
-                required: false
-                hint: The text displayed inside the button.
+                valueType: int          
               - widget: string
                 name: view_all_url
                 label: All people button URL
