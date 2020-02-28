@@ -892,31 +892,47 @@ collections:
         label: PageTitle
         required: true
         hint: The title of the people
-      - widget: string
-        name: subtitle
-        label: Subtitle
-        required: false
-        hint: The text shown just below the person.
       - widget: date
         name: date
         label: Date
         required: true
-      - widget: image
-        name: thumb_img_path
-        label: Featured Image
-        required: false
-        hint: The image shown in the people page.
-      - widget: image
-        name: content_img_path
-        label: Alternative Featured Image
-        required: false
-        hint: The image shown in the single project.
       - widget: list
         name: sections
         label: Sections
         required: false
         hint: Teams page sections.
         types:
+          - name: heroblock
+            widget: object
+            label: Hero Section
+            fields:
+              - widget: string
+                name: title
+                label: Title
+                required: false
+                hint: The title of the section.
+              - widget: string
+                name: section_id
+                label: Element ID
+                required: false
+              - widget: hidden
+                name: component
+                label: Component
+                required: true
+                default: hero_block.html
+              - widget: markdown
+                name: content
+                label: Content
+                required: false
+                hint: The text content of the section.
+              - widget: hidden
+                name: type
+                label: Reference Type Name
+                required: true
+                hint: >-
+                  Name of the Stackbit object model, used by fields of type
+                  reference
+                default: heroblock   
           - name: testimonialsblock
             widget: object
             label: Testimonials Section
