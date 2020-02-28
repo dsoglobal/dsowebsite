@@ -1,7 +1,7 @@
 ---
 title: Teams
 sections:
-- component: hero_block.html
+  - component: hero_block.html
     content: >-
       Our teams are the heart of DSO. We have teams in several locations including
       Washington DC, San Francisco Bay Area, Berkeley, and Pittsburgh with
