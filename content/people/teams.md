@@ -7,7 +7,6 @@ sections:
       Washington DC, San Francisco Bay Area, Berkeley, and Pittsburgh with
       additional members all around the US and world.
     section_id: hero
-    thumb_img_path: ''
     title: Our Teams
     type: heroblock
   - component: portfolio_block.html
