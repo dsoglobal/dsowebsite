@@ -22,7 +22,6 @@
               <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
             </div>
             {{ end }}
-            <span class="view-all">{{ $.section.view_all_text | default "View All" }}</span>
           </a>
           {{ else }}
           <a href="{{ $post.URL }}" class="post-link">
