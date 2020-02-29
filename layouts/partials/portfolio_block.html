@@ -1,9 +1,9 @@
 <section id="{{ .section.section_id }}" class="block hero-block outer">
-  <div class="inner-small">
+  <div class="inner">
     <div class="block-header">
       <h2 class="block-title">{{ .section.title }}</h2>
       {{ if .section.subtitle }}
-      <p class="block-subtitle">
+      <p class="block-content">
         {{ .section.subtitle | safeHTML }}
       </p>
       {{ end }}
