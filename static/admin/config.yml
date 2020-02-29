@@ -881,7 +881,7 @@ collections:
       field: layout
       value: post
   - name: people
-    label: People
+    label: Teams
     folder: content/people
     create: true
     extension: md
