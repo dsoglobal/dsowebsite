@@ -940,7 +940,7 @@ collections:
                 default: heroblock   
           - name: testimonialsblock
             widget: object
-            label: Testimonials Section
+            label: Add Team Members
             fields:
               - widget: string
                 name: title
@@ -968,8 +968,8 @@ collections:
                 fields:
                   - widget: string
                     name: author
-                    label: Author
-                    required: false
+                    label: Name
+                    required: true
                     hint: The author of the testimonial.
                   - widget: image
                     name: avatar
