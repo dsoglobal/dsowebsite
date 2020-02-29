@@ -11,13 +11,11 @@ sections:
     title: Our Teams
     type: heroblock
   - component: portfolio_block.html
-    layout_style: tiles
-    num_projects_displayed: 18
-    title: Engagement Leads
+    layout_style: mosaic
+    num_projects_displayed: 5
+    title: ''
     type: portfolioblock
-    subtitle: >-
-      Our Engagement Leads are professionals from a variety of industries that
-      lead our project teams.
+    subtitle: ''
 menu:
   main:
     identifier: teams
