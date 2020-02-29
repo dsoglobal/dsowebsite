@@ -1,5 +1,5 @@
 ---
-title: Teams
+title: Main Teams Page
 date: 2020-02-29T01:24:42.264Z
 sections:
   - component: portfolio_block.html
