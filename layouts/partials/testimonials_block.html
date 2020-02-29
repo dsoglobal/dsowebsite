@@ -14,13 +14,13 @@
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
           <blockquote class="testimonial">
+            <cite class="testimonial-author">{{ $testimonial.author }}</cite>
             <p class="testimonial-text">{{ $testimonial.content | safeHTML }}</p>
-            <footer class="testimonial-footer">
-              <cite class="testimonial-author">{{ $testimonial.author }}</cite>
+            <!--  footer class="testimonial-footer" -->             
               {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
               {{ end }}              
-            </footer>
+            <!-- /footer -->
           </blockquote><!-- .testimonial -->
           {{ end }}
         </div><!-- .testimonials-list -->
