@@ -991,7 +991,7 @@ collections:
                     default: testimonialsblock
           - name: portfolioblock
             widget: object
-            label: Latest Portfolio
+            label: Add Teams Section
             fields:
               - widget: string
                 name: title
@@ -1023,7 +1023,7 @@ collections:
                   - tiles
               - widget: number
                 name: num_projects_displayed
-                label: Number of people to display
+                label: Number of teams to display
                 required: true
                 valueType: int          
               - widget: string
