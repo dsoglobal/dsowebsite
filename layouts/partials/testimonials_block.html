@@ -16,10 +16,10 @@
           <blockquote class="testimonial">
             <p class="testimonial-text">{{ $testimonial.content | safeHTML }}</p>
             <footer class="testimonial-footer">
+              <cite class="testimonial-author">{{ $testimonial.author }}</cite>
               {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-              {{ end }}
-              <cite class="testimonial-author">{{ $testimonial.author }}</cite>
+              {{ end }}              
             </footer>
           </blockquote><!-- .testimonial -->
           {{ end }}
