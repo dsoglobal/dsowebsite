@@ -891,11 +891,16 @@ collections:
         name: title
         label: PageTitle
         required: true
-        hint: The title of the people
+        hint: The title of the page
       - widget: date
         name: date
         label: Date
-        required: true
+        required: false
+      - widget: image
+        name: thumb_img_path
+        label: Team Image
+        required: false
+        hint: The image shown in the team page
       - widget: list
         name: sections
         label: Sections
