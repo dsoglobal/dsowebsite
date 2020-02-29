@@ -17,7 +17,7 @@ sections:
     type: portfolioblock
     subtitle: >-
       Our Engagement Leads are professionals from a variety of industries that
-      lead our project teams
+      lead our project teams.
 menu:
   main:
     identifier: teams
