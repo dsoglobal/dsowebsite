@@ -653,6 +653,128 @@ collections:
             label: Layout
             required: true
             default: projects
+  - name: teamsmain
+    label: Teams
+    files:
+      - name: teamsm
+        label: Main Team Page
+        file: content/teams/_index.md
+        fields:
+          - widget: list
+            name: sections
+            label: Sections
+            required: false
+            hint: Teams page sections.
+            types:
+              - name: heroblock
+                widget: object
+                label: Hero Section
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: true
+                    hint: The title of the section.
+                  - widget: string
+                    name: section_id
+                    label: Element ID
+                    required: false
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: hero_block.html
+                  - widget: markdown
+                    name: content
+                    label: Content
+                    required: false
+                    hint: The text content of the section.
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: heroblock
+              - name: portfolioblock
+                widget: object
+                label: Hub Teams
+                fields:
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: portfolio_block.html               
+                  - widget: number
+                    name: num_projects_displayed
+                    label: Number of teams to display
+                    required: true
+                    valueType: int
+                  - widget: list
+                    name: actions
+                    label: Action Buttons
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: postsblock  
+          - widget: object
+            name: menu
+            label: Teams Menus
+            required: false
+            hint: Which menus should this page show up in
+            fields:
+              - widget: object
+                name: main
+                label: Main menu item
+                required: false
+                hint: Main menu item for this page
+                fields:
+                  - widget: string
+                    name: name
+                    label: Title
+                    required: false
+                    hint: The title of the menu item
+                  - widget: number
+                    name: weight
+                    label: Weight
+                    required: false
+                    hint: Position for sorting
+                    valueType: int
+                  - widget: string
+                    name: identifier
+                    label: Identifier
+                    required: false
+                    hint: >-
+                      The identifier of a menu item could be used as a parent
+                      menu of another menu item
+                  - widget: string
+                    name: parent
+                    label: Parent Menu Identifier
+                    required: false
+                    hint: >-
+                      The parent of an entry should be the identifier of another
+                      entry.
+          - widget: hidden
+            name: layout
+            label: Layout
+            required: true
+            default: projects
   - name: contact
     label: Contact
     files:
