@@ -7,7 +7,7 @@ sections:
   - type: testimonialsblock
     component: testimonials_block.html
     title: Bay Area Team
-    section_id: bayarea
+    section_id: ''
     testimonialslist:
       - type: testimonialsblock
         author: Amy Badiani
