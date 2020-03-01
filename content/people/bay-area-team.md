@@ -17,6 +17,7 @@ sections:
           - label: Learn More
             url: >-
               https://docs.google.com/presentation/d/e/2PACX-1vSWNrC7xg-ujsFaqu1ZVZ6xC3x0ixMK0UMc6_xY5hgLrVPFed3JO4GDkHbYCv6uEzpqXI7fSFWnSxEw/embed?start=false&loop=false&delayms=60000&slide=id.g1106f1990d_0_152
+    section_id: bayarea
 layout: home
 ---
 
