@@ -10,7 +10,7 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: Anthony Buchanan
-        content: Test
+        content: CXO and Engagement Lead
         avatar: /images/anthonyb.jpg
     subtitle: We da best!
 layout: home
