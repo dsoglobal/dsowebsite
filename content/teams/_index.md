@@ -2,16 +2,13 @@
 title: Our Teams
 date: ''
 sections:
-  - type: portfolioblock
-    component: portfolio_block.html
-    layout_style: tiles
+  - type: heroblock
+    component: hero_block.html
     title: Our Teams
-    subtitle: >-
+    content: >-
       Our teams are the heart of DSO. We have teams in several locations
       including Washington DC, San Francisco Bay Area, Berkeley, and Pittsburgh
       with additional members all around the US and world.
-    num_projects_displayed: 5
-    section_id: mainteams
 menu:
   main:
     identifier: teams
