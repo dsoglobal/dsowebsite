@@ -701,30 +701,43 @@ collections:
                 widget: object
                 label: Hub Teams
                 fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.
+                  - widget: string
+                    name: section_id
+                    label: Element ID
+                    required: true
                   - widget: hidden
                     name: component
                     label: Component
                     required: true
-                    default: portfolio_block.html               
+                    default: portfolio_block.html
+                  - widget: string
+                    name: subtitle
+                    label: Subtitle
+                    required: false
+                    hint: The subtitle of the section.
+                  - widget: select
+                    name: layout_style
+                    label: Layout Style
+                    required: false
+                    default: mosaic
+                    hint: The layout style of the section.
+                    options:
+                      - mosaic
+                      - tiles
                   - widget: number
                     name: num_projects_displayed
                     label: Number of teams to display
                     required: true
-                    valueType: int
-                  - widget: list
-                    name: actions
-                    label: Action Buttons
+                    valueType: int          
+                  - widget: string
+                    name: view_all_url
+                    label: All teams button URL
                     required: false
-                    fields:
-                      - widget: string
-                        name: label
-                        label: Label
-                        required: true
-                        hint: The text displayed inside the button.
-                      - widget: string
-                        name: url
-                        label: Button URL
-                        required: false
                   - widget: hidden
                     name: type
                     label: Reference Type Name
@@ -732,7 +745,7 @@ collections:
                     hint: >-
                       Name of the Stackbit object model, used by fields of type
                       reference
-                    default: postsblock  
+                    default: portfolioblock
           - widget: object
             name: menu
             label: Teams Menus
@@ -1124,56 +1137,7 @@ collections:
                     hint: >-
                       Name of the Stackbit object model, used by fields of type
                       reference
-                    default: testimonialsblock
-          - name: portfolioblock
-            widget: object
-            label: Add Teams Section
-            fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of the section.
-              - widget: string
-                name: section_id
-                label: Element ID
-                required: true
-              - widget: hidden
-                name: component
-                label: Component
-                required: true
-                default: portfolio_block.html
-              - widget: string
-                name: subtitle
-                label: Subtitle
-                required: false
-                hint: The subtitle of the section.
-              - widget: select
-                name: layout_style
-                label: Layout Style
-                required: false
-                default: mosaic
-                hint: The layout style of the section.
-                options:
-                  - mosaic
-                  - tiles
-              - widget: number
-                name: num_projects_displayed
-                label: Number of teams to display
-                required: true
-                valueType: int          
-              - widget: string
-                name: view_all_url
-                label: All people button URL
-                required: false
-              - widget: hidden
-                name: type
-                label: Reference Type Name
-                required: true
-                hint: >-
-                  Name of the Stackbit object model, used by fields of type
-                  reference
-                default: portfolioblock
+                    default: testimonialsblock   
       - widget: object
         name: menu
         label: Project Menus
