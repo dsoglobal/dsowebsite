@@ -881,7 +881,7 @@ collections:
       field: layout
       value: post
   - name: people
-    label: Teams
+    label: Individual Teams
     folder: content/people
     create: true
     extension: md
@@ -1015,7 +1015,7 @@ collections:
               - widget: string
                 name: section_id
                 label: Element ID
-                required: false
+                required: true
               - widget: hidden
                 name: component
                 label: Component
