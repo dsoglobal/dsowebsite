@@ -3,7 +3,7 @@ title: Our Teams
 date: ''
 sections:
   - component: portfolio_block.html
-    layout_style: tiles
+    layout_style: mosaic
     num_projects_displayed: 5
     title: Our Teams
     type: portfolioblock
@@ -20,4 +20,4 @@ menu:
     weight: 3
 layout: home
 ---
-
+Teams
