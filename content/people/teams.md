@@ -1,6 +1,6 @@
 ---
 title: Our Teams
-date: 2020-02-29T01:24:42.264Z
+date: ''
 sections:
   - component: portfolio_block.html
     layout_style: tiles
