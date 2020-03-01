@@ -235,6 +235,11 @@
   font-size: inherit;
   font-weight: bold;
   margin: 0;
+  
+  &:after {
+    content:"\a";
+    white-space: pre;
+  }
 }
 
 .testimonial-avatar {
