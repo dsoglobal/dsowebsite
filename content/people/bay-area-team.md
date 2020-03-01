@@ -6,7 +6,7 @@ thumb_img_path: >-
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
-    title: SF Team
+    title: Bay Area Team
     subtitle: We da best!
     testimonialslist:
       - type: testimonialsblock
