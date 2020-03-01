@@ -17,6 +17,9 @@ sections:
         author: Amy Badiani
         avatar: /images/amyb.jpg
         content: CXO and Engagement Lead
+menu:
+  main:
+    name: Bay Area
 layout: home
 ---
 Bay Area
