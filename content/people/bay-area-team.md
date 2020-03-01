@@ -1,7 +1,8 @@
 ---
 title: Bay Area Team
 date: ''
-thumb_img_path: /images/1194983776544615185us_capitol_building_ink_01.svg.med.png
+thumb_img_path: >-
+  /images/6624fd411b4972567f8dd65e350aa4c3_golden-gate-bridge-graphics-svg-dxf-eps-png-cdr-ai-pdf-vector-art-_1500-1500.jpeg
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
@@ -11,7 +12,7 @@ sections:
       - type: testimonialsblock
         author: Amy Badiani
         content: CXO and Engagement Lead
-        avatar: /images/anthonyb.jpg
+        avatar: /images/amyb.jpg
         actions:
           - label: Learn More
             url: >-
