@@ -19,10 +19,10 @@ sections:
     subtitle: We da best!
 menu:
   main:
-    name: DC Team
-    weight: 1
-    identifier: dcteam
-    parent: teams
+    name: ''
+    weight: ''
+    identifier: ''
+    parent: ''
 layout: home
 ---
 DC Team
