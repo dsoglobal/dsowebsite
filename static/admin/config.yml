@@ -701,30 +701,16 @@ collections:
                 widget: object
                 label: Hub Teams
                 fields:
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: false
-                    hint: The title of the section.
-                  - widget: string
-                    name: section_id
-                    label: Element ID
-                    required: true
                   - widget: hidden
                     name: component
                     label: Component
                     required: true
-                    default: portfolio_block.html
-                  - widget: string
-                    name: subtitle
-                    label: Subtitle
-                    required: false
-                    hint: The subtitle of the section.
+                    default: portfolio_block.html             
                   - widget: select
                     name: layout_style
                     label: Layout Style
                     required: false
-                    default: mosaic
+                    default: tiles
                     hint: The layout style of the section.
                     options:
                       - mosaic
