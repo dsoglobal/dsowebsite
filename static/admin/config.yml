@@ -673,7 +673,7 @@ collections:
                   - widget: string
                     name: title
                     label: Title
-                    required: true
+                    required: false
                     hint: The title of the section.
                   - widget: string
                     name: section_id
@@ -709,7 +709,7 @@ collections:
                   - widget: select
                     name: layout_style
                     label: Layout Style
-                    required: false
+                    required: true
                     default: tiles
                     hint: The layout style of the section.
                     options:
