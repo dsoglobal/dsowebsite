@@ -22,4 +22,3 @@ menu:
     name: Bay Area
 layout: home
 ---
-Bay Area
