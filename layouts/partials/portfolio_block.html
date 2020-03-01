@@ -24,7 +24,7 @@
             {{ end }}
           </a>
           {{ else }}
-          <a href="{{ $post.URL }}" class="post-link">
+          <a href="{{ $post.URL | relURL}}" class="post-link">
             {{ if $post.Params.thumb_img_path }}
             <div class="post-thumbnail">
               <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
@@ -38,6 +38,13 @@
         </article><!-- .post -->
         {{ end }}
       </div><!-- .portfolio-feed -->
+      {{ if .section.actions }}
+      <p class="block-cta">
+        {{ range $action := .section.actions }}
+        <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+        {{ end }}
+      </p><!-- .block-cta -->
+        {{ end }}
     </div><!-- .block-content -->
   </div><!-- .inner -->
 </section><!-- .block -->
