@@ -10,19 +10,17 @@
         {{ end }}
       </div><!-- .block-header -->
       {{ if .section.testimonialslist }}
-      <div class="block-content">
+      <div class="block-content testimonial-footer">
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
-          <div class="testimonial testimonial-footer">            
+          <div class="testimonial">            
             <p class="testimonial-text">
                {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
               {{ end }}      
-              <cite class="testimonial-author">{{ $testimonial.author }}</cite>
+              <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
               {{ $testimonial.content | safeHTML }}
             </p>
-            <!--  footer class="testimonial-footer" -->            
-            <!-- /footer -->
           </blockquote><!-- .testimonial -->
           {{ end }}
         </div><!-- .testimonials-list -->
