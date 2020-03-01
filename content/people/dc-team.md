@@ -6,7 +6,7 @@ sections:
   - type: testimonialsblock
     component: testimonials_block.html
     title: DC Team
-    section_id: ''
+    section_id: dcteam
     testimonialslist:
       - type: testimonialsblock
         author: Anthony Buchanan
