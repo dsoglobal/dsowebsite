@@ -963,24 +963,38 @@ collections:
                 hint: The subtitle of the section.
               - widget: list
                 name: testimonialslist
-                label: Testimonials
+                label: Team Members
                 required: false
                 fields:
                   - widget: string
                     name: author
                     label: Name
                     required: true
-                    hint: The author of the testimonial.
+                    hint: The name of the team member.
                   - widget: image
                     name: avatar
-                    label: Avatar
+                    label: Picture
                     required: false
-                    hint: The avatar of the testimonial author.
+                    hint: The picture of the team member.
                   - widget: string
                     name: content
-                    label: Content
+                    label: Title
                     required: false
-                    hint: The text content of the testimonial.
+                    hint: The title of the team member.
+                  - widget: list
+                    name: actions
+                    label: Link to Learn More
+                    required: false
+                    fields:
+                      - widget: string
+                        name: label
+                        label: Label
+                        required: true
+                        hint: The text displayed inside the button.
+                      - widget: string
+                        name: url
+                        label: Button URL
+                        required: false
                   - widget: hidden
                     name: type
                     label: Reference Type Name
