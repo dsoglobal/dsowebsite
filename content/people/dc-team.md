@@ -12,6 +12,10 @@ sections:
         author: Anthony Buchanan
         content: CXO and Engagement Lead
         avatar: /images/anthonyb.jpg
+        actions:
+          - label: Learn More
+            url: >-
+              https://docs.google.com/presentation/d/e/2PACX-1vSWNrC7xg-ujsFaqu1ZVZ6xC3x0ixMK0UMc6_xY5hgLrVPFed3JO4GDkHbYCv6uEzpqXI7fSFWnSxEw/embed?start=false&loop=false&delayms=60000&slide=id.g16e0bbe55d_1_0
     subtitle: We da best!
 layout: home
 ---
