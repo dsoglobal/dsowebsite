@@ -22,15 +22,15 @@
               {{ $testimonial.content | safeHTML }}
             </p>
           </blockquote><!-- .testimonial -->
-          {{ end }}
-          {{ if .section.actions }}
+          {{ end }}          
+        {{ end }}
+        </div><!-- .testimonials-list -->
+        {{ if .section.actions }}
             <p class="block-cta">
              {{ range $action := .section.actions }}
                <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
           {{ end }}
             </p><!-- .block-cta -->
-        {{ end }}
-        </div><!-- .testimonials-list -->
       </div><!-- .block-content -->
       {{ end }}
     </div><!-- .block-inside -->
