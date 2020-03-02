@@ -20,5 +20,9 @@ sections:
 menu:
   main:
     name: Bay Area
+    parent: teams
+    weight: 1
+    identifier: bayarea
 layout: home
 ---
+
