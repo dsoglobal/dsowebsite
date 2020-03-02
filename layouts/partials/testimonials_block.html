@@ -23,6 +23,13 @@
             </p>
           </blockquote><!-- .testimonial -->
           {{ end }}
+          {{ if .section.actions }}
+            <p class="block-cta">
+             {{ range $action := .section.actions }}
+               <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+          {{ end }}
+        </p><!-- .block-cta -->
+        {{ end }}
         </div><!-- .testimonials-list -->
       </div><!-- .block-content -->
       {{ end }}
