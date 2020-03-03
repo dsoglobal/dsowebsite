@@ -13,7 +13,7 @@
       <div class="block-content">
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
-        <blockquote class="testimonial  testimonial-footer">		  
+        <p class="testimonial-footer">		  
             <p class="testimonial" >
                {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
@@ -26,7 +26,7 @@
                 <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
                   {{ end }}
                 </p>
-          </blockquote><!-- .testimonial -->          
+          </p><!-- .testimonial -->          
             </p><!-- .block-cta -->
           {{ end }}          
         {{ end }}
