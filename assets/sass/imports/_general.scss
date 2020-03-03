@@ -283,6 +283,23 @@ a.button {
     -webkit-transition: .3s ease;
     width: 100%;
   }
+  
+  a.buttonsimple {
+  border: 0;
+  position: relative;
+  padding-bottom: 0.75em;
+  padding-top: 0.75em;
+
+  &:before,
+  &:after {   
+    box-sizing: border-box;
+    content: "";
+    height: 32%;
+    left: 0;
+    position: absolute;
+    width: 100%;
+  }
+
 
   &:before {
     border-bottom: 0;
