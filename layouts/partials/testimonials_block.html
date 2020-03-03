@@ -14,7 +14,7 @@
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
         <p class="testimonial-footer">		  
-            <p class="testimonial" >
+            <p class="testimonial">
                {{ if $testimonial.avatar }}
                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                {{ end }}      
@@ -22,7 +22,7 @@
                {{ $testimonial.content | safeHTML }}
 	       {{ if $testimonial.actions }}
 		  {{ range $action := $testimonial.actions }}
-                     <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+                     <a href="{{ $action.url | relURL }}" class="buttonsimple">{{ $action.label }}</a>
 		  {{ end }}
                {{ end }}                
             </p><!-- .testimonial -->          
