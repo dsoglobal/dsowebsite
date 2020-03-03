@@ -22,9 +22,10 @@
               {{ $testimonial.content | safeHTML }}
 			  {{ if $testimonial.actions }}
                 <p class="block-cta">
-                <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+                  <a href="{{ $testimonial.actions.action.url | relURL }}" class="button">{{ $testimonial.actions.label }}</a>
+				</p>
               {{ end }}
-                </p>
+                
           </p><!-- .testimonial -->          
             </p><!-- .block-cta -->
           {{ end }}          
