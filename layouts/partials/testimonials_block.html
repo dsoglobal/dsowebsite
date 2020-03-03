@@ -1,33 +1,33 @@
 <section id="{{ .section.section_id }}" class="block testimonials-block outer">
   <div class="inner">
-    <div class="block-header">
-       <h2 class="block-title line-top">{{ .section.title }}</h2>
-       {{ if .section.subtitle }}
-       <p class="block-subtitle">
-        {{ .section.subtitle | safeHTML }}
-       </p>
-       {{ end }}
-  </div><!-- .block-header -->
     <div class="block-inside">
+      <div class="block-header">
+        <h2 class="block-title line-top">{{ .section.title }}</h2>
+        {{ if .section.subtitle }}
+        <p class="block-subtitle">
+          {{ .section.subtitle | safeHTML }}
+        </p>
+        {{ end }}
+      </div><!-- .block-header -->
       {{ if .section.testimonialslist }}
       <div class="block-content">
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
-          <div class="testimonial">            
+		  <blockquote class="testimonial testimonial-footer">		  
             <p class="testimonial-text" >
                {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
               {{ end }}      
               <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
               {{ $testimonial.content | safeHTML }}
+			  {{ if .section.actions }}
+                <p class="block-cta">
+                 {{ range $action := .section.actions }}
+                <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+              {{ end }}
+                </p><!-- .block-cta -->
+          </blockquote><!-- .testimonial -->          
             </p>
-          </blockquote><!-- .testimonial -->
-          {{ if .section.actions }}
-            <p class="block-cta">
-             {{ range $action := .section.actions }}
-               <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-          {{ end }}
-            </p><!-- .block-cta -->
           {{ end }}          
         {{ end }}
         </div><!-- .testimonials-list -->        
