@@ -11,10 +11,10 @@
       </div><!-- .block-header -->
       {{ if .section.testimonialslist }}
       <div class="block-content">
-        <div class="testimonials-list">
+        <div class="testimonials-list testimonial-footer">
           {{ range $testimonial := .section.testimonialslist }}
         <blockquote class="testimonial">		  
-            <p class="testimonialmain testimonial-footer" >
+            <p class="testimonialmain" >
                {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
               {{ end }}      
