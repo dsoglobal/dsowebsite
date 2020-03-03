@@ -13,20 +13,20 @@
       <div class="block-content">
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
-            <blockquote class="testimonial testimonial-footer">		  
-              {{ if $testimonial.avatar }}
-                <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-              {{ end }}
-	     <p class="testimonial-text" >
-              <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
-                {{ $testimonial.content | safeHTML }}
-	         {{ if .section.actions }}
+            <blockquote class="testimonial testimonial-footer">		
+	      <p class="testimonial-text" >
+                <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
+                  {{ $testimonial.content | safeHTML }}
+	          {{ if .section.actions }}
                   <p class="block-cta">
                     {{ range $action := .section.actions }}
                      <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-                 {{ end }}
+                    {{ end }}
                   </p><!-- .block-cta -->
-           </p>
+              </p>
+              {{ if $testimonial.avatar }}
+                <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+              {{ end }}	    
           </blockquote><!-- .testimonial -->       
           {{ end }}  
         {{ end }}
