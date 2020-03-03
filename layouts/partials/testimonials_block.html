@@ -14,7 +14,7 @@
         <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
 		  <blockquote class="testimonial testimonial-footer">		  
-            <p class="testimonial-text" >
+            <p class="testimonialmain" >
                {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
               {{ end }}      
