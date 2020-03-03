@@ -287,8 +287,6 @@ a.button {
   a.buttonsimple {
     border: 0;
     position: relative;
-    display: inline-block;
-    padding: 0.25em 40px;
     
     &:before {
       content:"\a";
