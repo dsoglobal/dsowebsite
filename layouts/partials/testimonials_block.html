@@ -20,13 +20,11 @@
                {{ end }}      
                   <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
                {{ $testimonial.content | safeHTML }}
-			      {{ if $testimonial.actions }}
-				       {{ range $action := $testimonial.actions }}
-                          <p class="block-cta">
-                          <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-					   {{ end }}
-				   </p><!-- .block-cta -->
-                  {{ end }}                
+	       {{ if $testimonial.actions }}
+		  {{ range $action := $testimonial.actions }}
+                     <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+		  {{ end }}
+               {{ end }}                
             </p><!-- .testimonial -->          
         </p>        
         {{ end }}
