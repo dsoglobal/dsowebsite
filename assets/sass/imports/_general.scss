@@ -261,7 +261,7 @@ a.button {
   }
 }
 
-a.button {
+a.button, a.buttonsimple {
   padding-bottom: 0.75em;
   padding-top: 0.75em;
 }
@@ -287,13 +287,13 @@ a.button {
   a.buttonsimple {
     border: 0;
     position: relative;
-    padding-bottom: 0.75em;
-    padding-top: 0.75em;
+    display: inline-block;
+    padding: 0.25em 40px;
     
     &:before {
       content:"\a";
       white-space: pre;
-   }
+    }
 
     &:before,
     &:after {   
@@ -303,6 +303,7 @@ a.button {
       left: 0;
       position: absolute;
       width: 100%;
+      box-sizing: border-box;
     }
   }
 
