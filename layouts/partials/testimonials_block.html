@@ -16,15 +16,15 @@
             <blockquote class="testimonial testimonial-footer">		
 	      <p class="testimonial-text" >
                 <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
-                <cite class="testimonial-author">{{ $testimonial.content | safeHTML }}</cite>  
-	          {{ if .section.actions }}
-                 {{ range $action := .section.actions }}
+                {{ $testimonial.content | safeHTML }}  
+	         {{ if .section.actions }}
+                   {{ range $action := .section.actions }}
                     <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-              {{ end }}
-              </p>
-              {{ if $testimonial.avatar }}
-                <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-              {{ end }}	    
+                 {{ end }}
+		 {{ if $testimonial.avatar }}
+                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+                 {{ end }}	    
+              </p>              
           </blockquote><!-- .testimonial -->       
           {{ end }}  
         {{ end }}
