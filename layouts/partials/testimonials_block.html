@@ -1,17 +1,17 @@
 <section id="{{ .section.section_id }}" class="block testimonials-block outer">
-  <div class="block-header">
-   <h2 class="block-title line-top">{{ .section.title }}</h2>
-    {{ if .section.subtitle }}
-    <p class="block-subtitle">
-     {{ .section.subtitle | safeHTML }}
-    </p>
-    {{ end }}
-  </div><!-- .block-header -->
   <div class="inner">
+    <div class="block-header">
+       <h2 class="block-title line-top">{{ .section.title }}</h2>
+       {{ if .section.subtitle }}
+       <p class="block-subtitle">
+        {{ .section.subtitle | safeHTML }}
+       </p>
+       {{ end }}
+  </div><!-- .block-header -->
     <div class="block-inside">
       {{ if .section.testimonialslist }}
       <div class="block-content">
-        <div class="testimonials-list  testimonial-footer">
+        <div class="testimonials-list">
           {{ range $testimonial := .section.testimonialslist }}
           <div class="testimonial">            
             <p class="testimonial-text" >
