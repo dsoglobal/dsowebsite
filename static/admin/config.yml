@@ -991,11 +991,7 @@ collections:
         name: title
         label: PageTitle
         required: true
-        hint: The title of the page
-      - widget: date
-        name: date
-        label: Date
-        required: false
+        hint: The title of the page  
       - widget: image
         name: thumb_img_path
         label: Team Image
@@ -1009,17 +1005,13 @@ collections:
         types:
           - name: heroblock
             widget: object
-            label: Hero Section
+            label: Header Section
             fields:
               - widget: string
                 name: title
                 label: Title
                 required: false
-                hint: The title of the section.
-              - widget: string
-                name: section_id
-                label: Element ID
-                required: false
+                hint: The title of the section.        
               - widget: hidden
                 name: component
                 label: Component
@@ -1046,11 +1038,7 @@ collections:
                 name: title
                 label: Title
                 required: false
-                hint: The title of the section.
-              - widget: string
-                name: section_id
-                label: Element ID
-                required: false
+                hint: The title of the section.          
               - widget: hidden
                 name: component
                 label: Component
