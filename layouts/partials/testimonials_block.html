@@ -20,11 +20,10 @@
               {{ end }}      
               <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
               {{ $testimonial.content | safeHTML }}
-			  {{ if .section.actions }}
+			  {{ if $testimonial.actions }}
                 <p class="block-cta">
-                 {{ range $action := .section.actions }}
                 <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-                  {{ end }}
+              {{ end }}
                 </p>
           </p><!-- .testimonial -->          
             </p><!-- .block-cta -->
