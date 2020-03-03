@@ -15,7 +15,7 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: Amy Badiani
-        avatar: /images/amyb.jpg
+        avatar: /images/0-3-.jpg
         content: CXO and Engagement Lead
 menu:
   main:
