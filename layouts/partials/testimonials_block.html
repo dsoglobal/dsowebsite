@@ -16,19 +16,17 @@
         <p class="testimonial-footer">		  
             <p class="testimonial" >
                {{ if $testimonial.avatar }}
-              <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-              {{ end }}      
-              <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
-              {{ $testimonial.content | safeHTML }}
-			  {{ if $testimonial.actions }}
-                <p class="block-cta">
-                  <a href="{{ $testimonial.actions.action.url | relURL }}" class="button">{{ $testimonial.actions.label }}</a>
-				</p>
-              {{ end }}
-                
-          </p><!-- .testimonial -->          
-            </p><!-- .block-cta -->
-          {{ end }}          
+                  <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+               {{ end }}      
+                  <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
+               {{ $testimonial.content | safeHTML }}
+			      {{ if $testimonial.actions }}
+                    <p class="block-cta">
+                       <a href="{{ $testimonial.actions.action.url | relURL }}" class="button">{{ $testimonial.actions.label }}</a>
+				   </p><!-- .block-cta -->
+                  {{ end }}                
+            </p><!-- .testimonial -->          
+        </p>        
         {{ end }}
         </div><!-- .testimonials-list -->        
       </div><!-- .block-content -->
