@@ -11,10 +11,10 @@
       </div><!-- .block-header -->
       {{ if .section.testimonialslist }}
       <div class="block-content">
-        <div class="testimonials-list">
+        <div class="testimonials-list  testimonial-footer">
           {{ range $testimonial := .section.testimonialslist }}
           <div class="testimonial">            
-            <p class="testimonial-text testimonial-footer" >
+            <p class="testimonial-text" >
                {{ if $testimonial.avatar }}
               <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
               {{ end }}      
@@ -22,15 +22,15 @@
               {{ $testimonial.content | safeHTML }}
             </p>
           </blockquote><!-- .testimonial -->
-          {{ end }}          
-        {{ end }}
-        </div><!-- .testimonials-list -->
-        {{ if .section.actions }}
+          {{ if .section.actions }}
             <p class="block-cta">
              {{ range $action := .section.actions }}
                <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
           {{ end }}
             </p><!-- .block-cta -->
+          {{ end }}          
+        {{ end }}
+        </div><!-- .testimonials-list -->        
       </div><!-- .block-content -->
       {{ end }}
     </div><!-- .block-inside -->
