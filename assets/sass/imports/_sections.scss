@@ -211,6 +211,10 @@
   }  
    a.button {
      font-size: 14px;
+     &:before {
+       content:"\a";
+       white-space: pre;
+     }
   }
 }
 
