@@ -16,13 +16,13 @@
         <p class="testimonial-footer">		  
             <p class="testimonial">
                {{ if $testimonial.avatar }}
-                  <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL | default "/images/logo-2-.png" }}" alt="Author avatar">
+                  <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                {{ end }}      
                   <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
                {{ $testimonial.content | safeHTML }}
 	         {{ if $testimonial.actions }}
 		   {{ range $action := $testimonial.actions }}
-		        <a href="{{ $action.url | relURL }}" class="button" target="_blank">{{ $action.label }}</a>
+		        <p><a href="{{ $action.url | relURL }}" class="button" target="_blank">{{ $action.label }}</a></p>
 		   {{ end }}
 		 {{ end }}         
             </p><!-- .testimonial -->          
