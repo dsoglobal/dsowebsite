@@ -23,6 +23,7 @@ sections:
       - type: testimonialsblock
         author: Emily Rosenberg
         content: Engagement Lead
+        avatar: /images/logo-2-.png
       - type: testimonialsblock
         author: Haidi Al-Shabrawey
         content: Engagement Lead
