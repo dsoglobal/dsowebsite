@@ -66,6 +66,7 @@ sections:
         content: Student Consultant
       - type: testimonialsblock
         author: Michael Miller
+        content: Student Consultant
     title: DC Team
 layout: home
 ---
