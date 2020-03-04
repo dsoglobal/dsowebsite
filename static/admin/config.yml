@@ -1064,6 +1064,7 @@ collections:
                     label: Picture
                     required: false
                     hint: The picture of the team member.
+                    default: /images/logo-2-.png
                   - widget: string
                     name: content
                     label: Title
