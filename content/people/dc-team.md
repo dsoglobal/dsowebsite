@@ -58,15 +58,19 @@ sections:
       - type: testimonialsblock
         author: Jacob Cohen
         content: Student Consultant
+        avatar: /images/blank.png
       - type: testimonialsblock
         author: Chloe Li
         content: Student Consultant
+        avatar: /images/blank.png
       - type: testimonialsblock
         author: Susie Kim
         content: Student Consultant
+        avatar: /images/blank.png
       - type: testimonialsblock
         author: Michael Miller
         content: Student Consultant
+        avatar: /images/blank.png
     title: DC Team
 layout: home
 ---
