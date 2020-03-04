@@ -208,6 +208,9 @@
   a.button:before, 
   a.button:after {
     border: 0px solid;
+  }  
+   a.button {
+     font-size: 14px;
   }
 }
 
@@ -244,7 +247,7 @@
   font-weight: bold;
   margin: 0;
   
-  &:after {
+  &:after, &:before {
     content:"\a";
     white-space: pre;
   }
