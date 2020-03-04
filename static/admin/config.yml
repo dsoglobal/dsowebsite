@@ -1091,7 +1091,7 @@ collections:
                       Name of the Stackbit object model, used by fields of type
                       reference
                     default: testimonialsblock
-   - name: peoplepost
+  - name: peoplepost
     label: Individual Team Members
     folder: content/people/teammates
     create: true
