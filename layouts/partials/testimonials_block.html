@@ -20,7 +20,7 @@
                {{ end }}
 	       {{ if  $testimonial.actions}}
 		    {{ range $action := $testimonial.actions }}
-                      <a href="{{ $action.url | relURL }}"><cite class="testimonial-author button">{{ $testimonial.author }}</cite></a>  
+                      <a href="{{ $action.url | relURL }}" class="button"><cite class="testimonial-author">{{ $testimonial.author }}</cite></a>  
 		    {{ end }}
 	       {{ else }}
 		    <cite class="testimonial-author">{{ $testimonial.author }}</cite>
