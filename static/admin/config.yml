@@ -1143,7 +1143,7 @@ collections:
       value: home  
   - name: peoplepost
     label: Individual Team Members
-    folder: content/people/teammates
+    folder: content/teammates
     create: true
     extension: md
     slug: '{{slug}}'
