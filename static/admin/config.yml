@@ -1147,6 +1147,10 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
+      - widget: date
+        name: date
+        label: Date
+        required: true
       - widget: string
         name: title
         label: Name
