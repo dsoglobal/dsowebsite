@@ -26,6 +26,4 @@ layout: post
 
 **Aspiration(s):** To lead a team using technology to inspire and innovate (CTO/COO)
 
-## **[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**         
-
-# **[Back to Teams](/teams)**
+## **[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**
