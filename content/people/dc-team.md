@@ -5,8 +5,8 @@ thumb_img_path: /images/1194983776544615185us_capitol_building_ink_01.svg.med.pn
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Engagement Leads and Advisers
-    subtitle: DC Teams Engagement Leads...
+    title: DC Team
+    subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
         author: Anthony Buchanan
