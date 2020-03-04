@@ -1090,7 +1090,66 @@ collections:
                     hint: >-
                       Name of the Stackbit object model, used by fields of type
                       reference
-                    default: testimonialsblock   
+                    default: testimonialsblock
+   - name: peoplepost
+    label: Individual Team Members
+    folder: content/people/teammates
+    create: true
+    extension: md
+    slug: '{{slug}}'
+    fields:
+      - widget: string
+        name: title
+        label: Name
+        required: true
+        hint: Your Name
+      - widget: string
+        name: subtitle
+        label: Tags
+        required: false
+        hint: A few words that describe you (e.g. creative, friendly, etc).
+      - widget: string
+        name: work
+        label: Work Title
+        required: false
+        hint: Your Work Title
+     - widget: string
+        name: company
+        label: Work Company
+        required: false
+        hint: Your Work Title
+      - widget: image
+        name: thumb_img_path
+        label: Your Picture
+        required: false
+        hint: The image shown
+      - widget: list
+        name: actions
+        label: Social Media Links
+        required: false
+        fields:
+          - widget: string
+            name: label
+            label: Label
+            required: true
+            hint: The text displayed inside the button.
+          - widget: string
+            name: url
+            label: Button URL
+            required: false        
+      - widget: hidden
+        name: layout
+        label: Layout
+        required: true
+        default: post
+      - widget: markdown
+        name: body
+        label: Content
+        required: false
+        hint: Page content
+    filter:
+      field: layout
+      value: post     
       - widget: object
         name: menu
         label: Project Menus
