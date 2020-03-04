@@ -197,9 +197,9 @@
 /* Testimonials */
 .testimonial {
   border: 0;
-  font-size: 1rem;
-  line-height: 1.66667;
-  margin: 0 0 1.66667em;
+  font-size: .85rem;
+  line-height: 1.25;
+  margin: 0 0 1.5em;
   padding: 0;
   text-align: center;
   
@@ -212,8 +212,8 @@
 }
 
 .testimonial-text {
-  margin-bottom: 1.66667rem;
-  padding-top: 2.0rem;
+  margin-bottom: 1.5rem;
+  padding-top: 1.5rem;
   position: relative;
 
   &:before {
@@ -240,7 +240,7 @@
 
 .testimonial-author {
   color: _palette(secondary);
-  font-size: inherit;
+  font-size: 0.85rem;
   font-weight: bold;
   margin: 0;
   
