@@ -51,5 +51,16 @@ sections:
         author: Sneha Krishnan
         content: Adviser
         avatar: /images/duser.png
+  - type: testimonialsblock
+    component: testimonials_block.html
+    subtitle: Student Consultants
+    testimonialslist:
+      - type: testimonialsblock
+        author: Jacob Cohen
+        content: Michael Miller
+      - type: testimonialsblock
+        author: Chloe Li
+      - type: testimonialsblock
+        author: Susie Kim
 layout: home
 ---
