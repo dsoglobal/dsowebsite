@@ -13,6 +13,15 @@ sections:
         author: Amy Badiani
         avatar: /images/0-3-.jpg
         content: CXO and Engagement Lead
+  - type: testimonialsblock
+    component: testimonials_block.html
+    title: Stanford Team
+    subtitle: Engagement Leads and Advisers
+    testimonialslist:
+      - type: testimonialsblock
+        author: Saurabh Sanghvi
+        content: CXO and Engagement Lead
+        avatar: /images/saurabh_orig.jpg
 menu:
   main:
     name: Bay Area
