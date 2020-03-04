@@ -7,6 +7,8 @@ thumb_img_path: /images/anthonyb.jpg
 actions:
   - label: LinkedIn
     url: 'https://www.linkedin.com/in/anthonyjbuchanan'
+  - label: Website
+    url: 'http://anthonybuchanan.org'
 layout: post
 ---
 **Why I joined DSO:** Work with inspiring people and use technology to make the world a better place
@@ -23,3 +25,5 @@ layout: post
 **Ask me about/I'm passionate about:** Consulting, resumes, technology, current events, finding deals, travel
 
 **Aspiration(s):** To lead a team using technology to inspire and innovate (CTO/COO)
+
+> # **[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**
