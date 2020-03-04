@@ -6,8 +6,8 @@ thumb_img_path: >-
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Engagement Lead
-    subtitle: Main
+    title: 'Berkeley Team '
+    subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
         author: Amy Badiani
