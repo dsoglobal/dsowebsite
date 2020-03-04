@@ -1090,8 +1090,7 @@ collections:
                     hint: >-
                       Name of the Stackbit object model, used by fields of type
                       reference
-                    default: testimonialsblock                    
-                  - widget: object
+                    default: testimonialsblock
           - name: menu
             label: Project Menus
             required: false
