@@ -5,8 +5,8 @@ thumb_img_path: /images/1194983776544615185us_capitol_building_ink_01.svg.med.pn
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Engagement Lead
-    subtitle: Main
+    title: Engagement Leads and Advisers
+    subtitle: DC Teams Engagement Leads...
     testimonialslist:
       - type: testimonialsblock
         author: Anthony Buchanan
@@ -20,6 +20,30 @@ sections:
         author: Haejin Hwang
         avatar: /images/haejin.png
         content: Engagement Lead
+      - type: testimonialsblock
+        author: Emily Rosenberg
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Haidi Al-Shabrawey
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Jack Chan
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Justin Pizzimenti
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Marcy Held
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Mary Mallampalli
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Prince Mallari
+        content: Engagement Lead
+      - type: testimonialsblock
+        author: Sneha Krishnan
+        content: Adviser
 layout: home
 ---
 
