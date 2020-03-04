@@ -62,5 +62,6 @@ sections:
         author: Chloe Li
       - type: testimonialsblock
         author: Susie Kim
+    title: DC
 layout: home
 ---
