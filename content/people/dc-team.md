@@ -23,28 +23,35 @@ sections:
       - type: testimonialsblock
         author: Emily Rosenberg
         content: Engagement Lead
-        avatar: /images/logo-2-.png
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Haidi Al-Shabrawey
         content: Engagement Lead
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Jack Chan
         content: Engagement Lead
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Justin Pizzimenti
         content: Engagement Lead
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Marcy Held
         content: Engagement Lead
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Mary Mallampalli
         content: Engagement Lead
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Prince Mallari
         content: Engagement Lead
+        avatar: /images/duser.png
       - type: testimonialsblock
         author: Sneha Krishnan
         content: Adviser
+        avatar: /images/duser.png
 layout: home
 ---
 
