@@ -208,16 +208,17 @@
   a.button:before, 
   a.button:after {
     border: 0px solid;
+  }
 }
 
 .testimonial-text {
   margin-bottom: 1.66667rem;
-  padding-top: 2.5rem;
+  padding-top: 2.0rem;
   position: relative;
 
   &:before {
     display: block;
-    font-size: 2.0rem;
+    font-size: 1.5rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     left: 0;
