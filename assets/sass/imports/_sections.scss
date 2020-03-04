@@ -213,7 +213,7 @@
      font-size: 14px;
      &:before {
        content:"\a";
-       white-space: pre;
+       white-space: pre-wrap;
      }
   }
 }
