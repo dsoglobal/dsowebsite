@@ -21,8 +21,8 @@
                   <cite class="testimonial-author">{{ $testimonial.author }}</cite>           
                {{ $testimonial.content | safeHTML }}
 	         {{ if $testimonial.actions }}
-		   {{ range $action := $testimonial.actions }}		    
-                        <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+		   {{ range $action := $testimonial.actions }}
+		        <a href="{{ $action.url | relURL }}" class="button" target="_blank">{{ $action.label }}</a>
 		   {{ end }}
 		 {{ end }}         
             </p><!-- .testimonial -->          
