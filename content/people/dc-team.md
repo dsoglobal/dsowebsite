@@ -57,11 +57,15 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: Jacob Cohen
-        content: Michael Miller
+        content: Student Consultant
       - type: testimonialsblock
         author: Chloe Li
+        content: Student Consultant
       - type: testimonialsblock
         author: Susie Kim
+        content: Student Consultant
+      - type: testimonialsblock
+        author: Michael Miller
     title: DC Team
 layout: home
 ---
