@@ -1,4 +1,5 @@
 ---
+date: 2020-03-04T06:55:48.808Z
 title: Anthony Buchanan
 subtitle: Technology Makes Me Happy
 work: Senior Lead Technologist
