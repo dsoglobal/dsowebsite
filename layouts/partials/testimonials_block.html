@@ -19,7 +19,9 @@
                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                {{ end }}
 	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
-	       {{ $testimonial.content | safeHTML }}   
+	       {{ if  $testimonial.content}}
+	       		{{ $testimonial.content | safeHTML }}
+	       {{ end }} 
 	       {{ if  $testimonial.actions}}
 		    {{ range $action := $testimonial.actions }}
                       <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
