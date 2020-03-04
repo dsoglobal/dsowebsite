@@ -4,7 +4,8 @@ subtitle: Technology Makes Me Happy
 work: Senior Lead Technologist
 company: Booz Allen Hamilton
 thumb_img_path: /images/anthonyb.jpg
-actions: []
+actions:
+  - label: LinkedIn
 layout: post
 ---
 **Why I joined DSO:** Work with inspiring people and use technology to make the world a better place
