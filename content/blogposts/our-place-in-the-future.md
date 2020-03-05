@@ -1,10 +1,9 @@
 ---
+date: 2015-01-20T05:00:00.000Z
 title: Our Place in the Future
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div>
