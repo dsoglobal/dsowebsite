@@ -241,7 +241,7 @@ models:
         label: Title
         description: The title of the page.
         required: true
-	  - type: list
+      - type: list
         name: sections
         label: Sections
         description: Project page sections.
