@@ -1,10 +1,9 @@
 ---
+date: 2014-04-01T04:00:00.000Z
 title: The Importance of Incremental Progress
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div>
