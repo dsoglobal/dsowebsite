@@ -3,7 +3,7 @@ title: We have a blog!
 author: admin
 type: post
 date: 2014-02-22T00:00:00+00:00
-url: /we-have-a-blog/
+url: /blogposts/we-have-a-blog/
 categories:
   - Uncategorized
 
