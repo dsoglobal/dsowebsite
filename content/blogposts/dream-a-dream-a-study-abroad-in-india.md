@@ -1,10 +1,9 @@
 ---
+date: 2015-11-02T05:00:00.000Z
 title: 'Dream a Dream: A Study Abroad in India'
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <span class="imgPusher" style="float:right;height:11px"></span><span style="display: table;z-index:10;width:627px;position:relative;float:right;max-width:100%;;clear:right;margin-top:20px;*margin-top:40px"><a><img src="http://www.dsoglobal.org//uploads/2/4/1/8/24188388/3228336.jpg?609" style="margin-top: 5px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; border-width:1px;padding:3px; max-width:100%" alt="Picture" class="galleryImageBorder wsite-image" /></a><span style="display: table-caption; caption-side: bottom; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;" class="wsite-caption"></span></span> 
