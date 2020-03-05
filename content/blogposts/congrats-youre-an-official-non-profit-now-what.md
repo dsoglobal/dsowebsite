@@ -1,10 +1,9 @@
 ---
-title: Congrats, you’re An “Official Non Profit”. Now What?
+date: 2015-04-15T04:00:00.000Z
+title: 'Congrats, you’re An “Official Non Profit”. Now What?'
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div class="paragraph" style="text-align:left;">
