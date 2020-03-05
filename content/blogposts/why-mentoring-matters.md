@@ -1,10 +1,9 @@
 ---
+date: 2014-12-11T05:00:00.000Z
 title: Why Mentoring Matters
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div class="paragraph" style="text-align:left;">
