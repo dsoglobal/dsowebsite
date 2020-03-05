@@ -1,10 +1,9 @@
 ---
-title: Stepping into your BIGness, Africa leading the way
+date: 2014-09-21T04:00:00.000Z
+title: 'Stepping into your BIGness, Africa leading the way'
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div class="paragraph" style="text-align:left;">
