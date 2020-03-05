@@ -3,7 +3,7 @@ title: 'Social Impact Investing: An Exercise in Efficiency'
 author: admin
 type: post
 date: 2015-05-31T00:00:00+00:00
-url: /social-impact-investing-an-exercise-in-efficiency/
+url: /blogposts/social-impact-investing-an-exercise-in-efficiency/
 categories:
   - Uncategorized
 

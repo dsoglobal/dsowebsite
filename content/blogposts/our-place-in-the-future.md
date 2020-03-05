@@ -3,7 +3,7 @@ title: Our Place in the Future
 author: admin
 type: post
 date: 2015-01-20T00:00:00+00:00
-url: /our-place-in-the-future/
+url: /blogposts/our-place-in-the-future/
 categories:
   - Uncategorized
 

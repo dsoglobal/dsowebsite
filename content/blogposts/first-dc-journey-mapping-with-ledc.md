@@ -3,7 +3,7 @@ title: First DC Journey Mapping with LEDC
 author: admin
 type: post
 date: 2017-06-30T00:00:00+00:00
-url: /first-dc-journey-mapping-with-ledc/
+url: /blogposts/first-dc-journey-mapping-with-ledc/
 categories:
   - Uncategorized
 

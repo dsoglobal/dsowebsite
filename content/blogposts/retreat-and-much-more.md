@@ -3,7 +3,7 @@ title: Retreat and much more …
 author: admin
 type: post
 date: 2014-05-13T00:00:00+00:00
-url: /retreat-and-much-more/
+url: /blogposts/retreat-and-much-more/
 categories:
   - Uncategorized
 

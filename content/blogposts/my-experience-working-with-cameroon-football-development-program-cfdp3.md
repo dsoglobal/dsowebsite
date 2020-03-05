@@ -3,7 +3,7 @@ title: My Experience working with Cameroon Football Development Program (CFDP)
 author: admin
 type: post
 date: 2014-04-15T00:00:00+00:00
-url: /my-experience-working-with-cameroon-football-development-program-cfdp3/
+url: /blogposts/my-experience-working-with-cameroon-football-development-program-cfdp3/
 categories:
   - Uncategorized
 

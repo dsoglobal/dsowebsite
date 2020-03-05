@@ -3,7 +3,7 @@ title: Agency and Positive Change
 author: admin
 type: post
 date: 2014-08-25T00:00:00+00:00
-url: /agency-and-positive-change/
+url: /blogposts/agency-and-positive-change/
 categories:
   - Uncategorized
 

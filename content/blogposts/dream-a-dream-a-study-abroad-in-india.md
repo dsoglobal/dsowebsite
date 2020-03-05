@@ -3,7 +3,7 @@ title: 'Dream a Dream: A Study Abroad in India'
 author: admin
 type: post
 date: 2015-11-02T00:00:00+00:00
-url: /dream-a-dream-a-study-abroad-in-india/
+url: /blogposts/dream-a-dream-a-study-abroad-in-india/
 categories:
   - Uncategorized
 

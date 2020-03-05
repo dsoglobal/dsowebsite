@@ -3,7 +3,7 @@ title: Pittsburgh Social Impact Case Competition
 author: admin
 type: post
 date: 2017-06-29T00:00:00+00:00
-url: /pittsburgh-social-impact-case-competition/
+url: /blogposts/pittsburgh-social-impact-case-competition/
 categories:
   - Uncategorized
 

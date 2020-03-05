@@ -3,7 +3,7 @@ title: Lets not pretend to celebrate Mandela Day
 author: admin
 type: post
 date: 2014-07-18T00:00:00+00:00
-url: /lets-not-pretend-to-celebrate-mandela-day/
+url: /blogposts/lets-not-pretend-to-celebrate-mandela-day/
 categories:
   - Uncategorized
 

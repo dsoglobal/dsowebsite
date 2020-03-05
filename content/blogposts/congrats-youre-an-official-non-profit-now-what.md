@@ -3,7 +3,7 @@ title: Congrats, you’re An “Official Non Profit”. Now What?
 author: admin
 type: post
 date: 2015-04-15T00:00:00+00:00
-url: /congrats-youre-an-official-non-profit-now-what/
+url: /blogposts/congrats-youre-an-official-non-profit-now-what/
 categories:
   - Uncategorized
 

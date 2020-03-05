@@ -3,7 +3,7 @@ title: Coast to Coast
 author: admin
 type: post
 date: 2015-05-19T00:00:00+00:00
-url: /coast-to-coast/
+url: /blogposts/coast-to-coast/
 categories:
   - Uncategorized
 

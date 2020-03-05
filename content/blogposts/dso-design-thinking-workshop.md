@@ -3,7 +3,7 @@ title: DSO Design Thinking Workshop
 author: admin
 type: post
 date: 2017-06-30T00:00:00+00:00
-url: /dso-design-thinking-workshop/
+url: /blogposts/dso-design-thinking-workshop/
 categories:
   - Uncategorized
 

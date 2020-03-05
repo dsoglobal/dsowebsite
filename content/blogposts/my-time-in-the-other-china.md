@@ -3,7 +3,7 @@ title: My Time in the Other China
 author: admin
 type: post
 date: 2015-01-29T00:00:00+00:00
-url: /my-time-in-the-other-china/
+url: /blogposts/my-time-in-the-other-china/
 categories:
   - Uncategorized
 

@@ -3,7 +3,7 @@ title: Improving online course engagement with Gooru
 author: admin
 type: post
 date: 2016-06-20T00:00:00+00:00
-url: /improving-online-course-engagement-with-gooru/
+url: /blogposts/improving-online-course-engagement-with-gooru/
 categories:
   - Uncategorized
 

@@ -3,7 +3,7 @@ title: My Future and Africa’s Thanks to Future Forward
 author: admin
 type: post
 date: 2015-05-31T00:00:00+00:00
-url: /my-future-and-africas-thanks-to-future-forward/
+url: /blogposts/my-future-and-africas-thanks-to-future-forward/
 categories:
   - Uncategorized
 

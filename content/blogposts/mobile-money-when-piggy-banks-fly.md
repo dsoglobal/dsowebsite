@@ -3,7 +3,7 @@ title: 'Mobile Money: When Piggy Banks Fly'
 author: admin
 type: post
 date: 2014-07-24T00:00:00+00:00
-url: /mobile-money-when-piggy-banks-fly/
+url: /blogposts/mobile-money-when-piggy-banks-fly/
 categories:
   - Uncategorized
 

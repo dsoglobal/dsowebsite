@@ -3,7 +3,7 @@ title: Improving Water Access in Nepal
 author: admin
 type: post
 date: 2014-11-18T00:00:00+00:00
-url: /improving-water-access-in-nepal/
+url: /blogposts/improving-water-access-in-nepal/
 categories:
   - Uncategorized
 

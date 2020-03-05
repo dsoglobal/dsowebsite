@@ -3,7 +3,7 @@ title: Six hours in the life of a refugee …
 author: admin
 type: post
 date: 2014-04-01T00:00:00+00:00
-url: /six-hours-in-the-life-of-a-refugee/
+url: /blogposts/six-hours-in-the-life-of-a-refugee/
 categories:
   - Uncategorized
 

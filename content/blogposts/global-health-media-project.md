@@ -3,7 +3,7 @@ title: Global Health Media Project
 author: admin
 type: post
 date: 2015-09-18T00:00:00+00:00
-url: /global-health-media-project/
+url: /blogposts/global-health-media-project/
 categories:
   - Uncategorized
 
