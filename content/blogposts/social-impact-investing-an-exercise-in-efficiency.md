@@ -1,10 +1,9 @@
 ---
+date: 2015-05-31T04:00:00.000Z
 title: 'Social Impact Investing: An Exercise in Efficiency'
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div class="paragraph" style="text-align:justify;">
