@@ -18,7 +18,7 @@
       </header><!-- .post-header -->
       {{ if .Params.content_img_path }}
       <div class="post-thumbnail">
-        <img src="{{ .Params.content_img_path | relURL }}" alt="{{ .Params.title }}" />
+        <img src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
       </div><!-- .post-thumbnail -->
       {{ end }}
       <div class="post-content inner-small">
