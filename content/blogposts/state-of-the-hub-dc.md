@@ -1,10 +1,9 @@
 ---
+date: 2016-03-29T04:00:00.000Z
 title: State of the Hub - DC
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <span class="imgPusher" style="float:left;height:0px"></span><span style="display: table;width:auto;position:relative;float:left;max-width:100%;;clear:left;margin-top:0px;*margin-top:0px"><a><img src="http://www.dsoglobal.org//uploads/2/4/1/8/24188388/8892957.jpg?250" style="margin-top: 10px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; border-width:0; max-width:100%" alt="Picture" class="galleryImageBorder wsite-image" /></a><span style="display: table-caption; caption-side: bottom; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;" class="wsite-caption"></span></span> 
