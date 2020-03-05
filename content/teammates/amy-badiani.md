@@ -12,3 +12,19 @@ actions:
     url: 'https://www.linkedin.com/in/amybadiani'
 layout: post
 ---
+**Why I joined DSO:** To understand and co-create human-centered, sustainable solutions to international development and make lifelong friends
+
+**Projects:** 
+
+* Cameroon Football Development Program
+* Ashoka Future Forward
+* Memunatu
+* Watkins Elementary School
+
+**Here's what I'm up to at DSO:** 
+
+**Ask me about/I'm passionate about:** 
+
+**Aspiration(s):** 
+
+## **[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**
