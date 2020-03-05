@@ -1,10 +1,9 @@
 ---
+date: 2015-01-29T05:00:00.000Z
 title: My Time in the Other China
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div>
