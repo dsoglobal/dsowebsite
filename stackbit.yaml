@@ -220,8 +220,6 @@ models:
     label: Blog
     template: blog
     file: blog/_index.md
-    hideContent: false
-    singleInstance: false
     fields:
       - type: string
         name: title
@@ -237,8 +235,6 @@ models:
     label: Projects
     template: blog
     file: projects/_index.md
-    hideContent: true
-    singleInstance: false
     fields:
       - type: string
         name: title
