@@ -3,7 +3,7 @@ title: The evolution of the DSO logo
 author: admin
 type: post
 date: 2014-02-24T00:00:00+00:00
-url: /the-evolution-of-the-dso-logo/
+url: /blogposts/the-evolution-of-the-dso-logo/
 categories:
   - Uncategorized
 

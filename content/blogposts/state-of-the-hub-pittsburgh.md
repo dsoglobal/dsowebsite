@@ -3,7 +3,7 @@ title: 'State of the Hub: Pittsburgh﻿'
 author: admin
 type: post
 date: 2015-12-02T00:00:00+00:00
-url: /state-of-the-hub-pittsburgh/
+url: /blogposts/state-of-the-hub-pittsburgh/
 categories:
   - Uncategorized
 

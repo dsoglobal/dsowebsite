@@ -3,7 +3,7 @@ title: Stepping into your BIGness, Africa leading the way
 author: admin
 type: post
 date: 2014-09-21T00:00:00+00:00
-url: /stepping-into-your-bigness-africa-leading-the-way/
+url: /blogposts/stepping-into-your-bigness-africa-leading-the-way/
 categories:
   - Uncategorized
 

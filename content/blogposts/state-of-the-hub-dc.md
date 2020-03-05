@@ -3,7 +3,7 @@ title: 'State of the Hub: DC'
 author: admin
 type: post
 date: 2016-03-29T00:00:00+00:00
-url: /state-of-the-hub-dc/
+url: /blogposts/state-of-the-hub-dc/
 categories:
   - Uncategorized
 

@@ -3,7 +3,7 @@ title: The Importance of Being Busy
 author: admin
 type: post
 date: 2014-10-25T00:00:00+00:00
-url: /the-importance-of-being-busy/
+url: /blogposts/the-importance-of-being-busy/
 categories:
   - Uncategorized
 

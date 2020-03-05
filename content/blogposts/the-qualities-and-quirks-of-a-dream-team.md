@@ -3,7 +3,7 @@ title: The Qualities and Quirks of a Dream Team
 author: admin
 type: post
 date: 2015-05-31T00:00:00+00:00
-url: /the-qualities-and-quirks-of-a-dream-team/
+url: /blogposts/the-qualities-and-quirks-of-a-dream-team/
 categories:
   - Uncategorized
 

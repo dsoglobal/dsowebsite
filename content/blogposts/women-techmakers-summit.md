@@ -3,7 +3,7 @@ title: Women Techmakers Summit
 author: admin
 type: post
 date: 2014-03-13T00:00:00+00:00
-url: /women-techmakers-summit/
+url: /blogposts/women-techmakers-summit/
 categories:
   - Uncategorized
 

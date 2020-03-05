@@ -3,7 +3,7 @@ title: The Importance of Incremental Progress
 author: admin
 type: post
 date: 2014-04-01T00:00:00+00:00
-url: /the-importance-of-incremental-progress/
+url: /blogposts/the-importance-of-incremental-progress/
 categories:
   - Uncategorized
 
