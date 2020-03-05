@@ -13,6 +13,9 @@ sections:
         author: Amy Badiani
         avatar: /images/0-3-.jpg
         content: CXO and Engagement Lead
+        actions:
+          - label: Learn More
+            url: teammates/amy-badiani/
   - type: testimonialsblock
     component: testimonials_block.html
     title: Stanford Team
@@ -30,4 +33,3 @@ menu:
     identifier: bayarea
 layout: home
 ---
-
