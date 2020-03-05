@@ -1,0 +1,52 @@
+{% extends "body.html" %}
+
+{% block content %}
+
+<div class="outer">
+  <div class="inner">
+
+    <div class="post-feed">
+      {% set display_posts = getPages("/blogposts") | sort(true, true, "date") %}
+      {% for post in display_posts %}
+      <article class="post">
+        <header class="post-header inner-small">
+          <h2 class="post-title line-top"><a href="{{ post.url | relative_url }}" rel="bookmark">{{ post.params.title }}</a></h2>
+          <div class="post-meta">
+            <time class="published"
+              datetime="{{post.date | date_format("%Y-%m-%d %H:%M") }}">{{ post.date | date_format("%B %d, %Y") }}</time>
+          </div>
+          {% if post.params.subtitle %}
+          <div class="post-subtitle">
+            {{ post.params.subtitle | safe }}
+          </div><!-- .post-subtitle -->
+          {% endif %}
+        </header><!-- .post-header -->
+        {% if post.params.thumb_img_path %}
+        <a class="post-thumbnail" href="{{ post.url | relative_url }}">
+          <img class="thumbnail" src="{{ post.params.thumb_img_path | relative_url }}" alt="{{ post.params.title }}" />
+        </a>
+        {% endif %}
+        {% if post.params.excerpt %}
+        <div class="post-excerpt inner-small">
+          <p>{{ post.params.excerpt }}</p>
+        </div>
+        {% endif %}
+      </article><!-- .post -->
+      {% endfor %}
+    </div><!-- .post-feed -->
+
+    <!-- Pagination TBD -->
+    <!--
+    <nav class="pagination">
+      <div class="nav-links">
+        <a class="newer-posts button" href="#"><span class="icon-angle-left" aria-hidden="true"></span><span class="screen-reader-text">Prev</span></a>
+        <span class="page-number">Showing page X of Y</span>
+        <a class="older-posts button" href="#"><span class="screen-reader-text">Next</span><span class="icon-angle-right" aria-hidden="true"></span></a>
+      </div>
+    </nav>
+    -->
+
+  </div><!-- .inner -->
+</div><!-- .outer-->
+
+{% endblock %}
