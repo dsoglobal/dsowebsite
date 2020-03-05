@@ -1,12 +1,11 @@
 ---
 title: The Importance of Being Busy
-author: admin
-type: post
-date: 2014-10-25T00:00:00+00:00
-url: /blogposts/the-importance-of-being-busy/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:left;">
   A while back, about two years ago, someone wrote an article called <a href="http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/" target="_blank" rel="noopener noreferrer">The &#8216;Busy&#8217; Trap</a> and it went viral. Everyone was sharing it, and the general theme was: Slow down. Relax. Enjoy Life.</p> 

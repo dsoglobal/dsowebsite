@@ -1,12 +1,11 @@
 ---
 title: First DC Journey Mapping with LEDC
-author: admin
-type: post
-date: 2017-06-30T00:00:00+00:00
-url: /blogposts/first-dc-journey-mapping-with-ledc/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph">
   <span><span style="color:rgb(0, 0, 0)">On April 12th, the DC team gathered together with the Latino Economic Development Center (LEDC) at their WeWork office in DC to complete our first design thinking centered session! In this session we focused on actively mapping out each step of their loan approval process. This was an exciting and engaging process that started off with Amy (one of our beloved CXOs) facilitating a discussion on inclusivity and partnership with everyone. This jump started the meeting as ideas began to flow around what LEDC and DSO envisioned as the goals for the project, as well as how the relationship would unfold (right side of the board). </span></span>​

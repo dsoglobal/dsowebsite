@@ -1,12 +1,11 @@
 ---
 title: Congrats, you’re An “Official Non Profit”. Now What?
-author: admin
-type: post
-date: 2015-04-15T00:00:00+00:00
-url: /blogposts/congrats-youre-an-official-non-profit-now-what/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:left;">
   <span style=""><span style=""><span id="selectionBoundary_1429147979687_7742918129079044" class="rangySelectionBoundary" style="line-height: 0; display: none;">﻿</span>If you recently started a nonprofit or work/volunteer for a small organization you might be overwhelmed with everything there is to do to setup your organization for success in executing their mission. Here at</span><a href="http://dsoglobal.org/" title=""><span style=""> </span></a><span style=""><u><a href="http://www.dsoglobal.org" target="_blank" title="" rel="noopener noreferrer">Development Solutions Organization</a></u></span><span style=""> we went from a student organization in 2008 to an official 501(c)(3) and have some tips on getting started.</span></p> 

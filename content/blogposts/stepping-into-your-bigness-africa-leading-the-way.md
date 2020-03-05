@@ -1,12 +1,11 @@
 ---
 title: Stepping into your BIGness, Africa leading the way
-author: admin
-type: post
-date: 2014-09-21T00:00:00+00:00
-url: /blogposts/stepping-into-your-bigness-africa-leading-the-way/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:left;">
   <span>The way we learn and grow is changing profoundly and I am at the core of that change. </p> 

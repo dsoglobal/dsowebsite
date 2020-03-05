@@ -1,12 +1,11 @@
 ---
 title: My Future and Africa’s Thanks to Future Forward
-author: admin
-type: post
-date: 2015-05-31T00:00:00+00:00
-url: /blogposts/my-future-and-africas-thanks-to-future-forward/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:left;">
   When I joined DSO in the fall, I had little knowledge of Africa, the social entrepreneurship sphere, how they could combine, or that I could play any role in that combination. Over the course of the year I learned more about all of these things than I think would have been possible in any class I could’ve taken or other program I could’ve been a part of. I had the opportunity not only to work with an incredible group of consultants and professionals in DC, but also with basically the coolest international social innovation firm in the world (Ashoka), and on projects that had an impact on communities in countries as far away as Kenya.<br /><span style=""></span><br />I learned how to work with a team through all sorts of challenges, small and large, got a window into the world of international development consulting and DC’s corporate culture, worked on my own business skills, but more importantly I got to work on a project that had an impact on the world and will continue to in the future. My DSO team worked for Ashoka’s Future Forward initiative, supporting Ashoka Fellows all over Sub-Saharan Africa as they combat the area’s rampant underemployment. Not only did I learn about the incredible work these youth innovators are doing, and how their work will revolutionize youth employment, but I got to assist them in their efforts by working to bring more attention to them.</p> 

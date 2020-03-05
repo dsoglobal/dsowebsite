@@ -1,12 +1,11 @@
 ---
 title: Global Health Media Project
-author: admin
-type: post
-date: 2015-09-18T00:00:00+00:00
-url: /blogposts/global-health-media-project/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div>
   <div id="615052487142789898" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">

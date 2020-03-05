@@ -1,12 +1,11 @@
 ---
 title: Retreat and much more …
-author: admin
-type: post
-date: 2014-05-13T00:00:00+00:00
-url: /blogposts/retreat-and-much-more/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:left;">
   I had the lucky pleasure of living in a cozy, beautiful vacation home in beautiful <br />Santa Cruz, thanks to the DSO SF team retreat. And now sitting in <br />my dorm room waiting for a new week, I am happy, relaxed and recharged. Happy <br />for reconnecting with this amazing group of people, relaxed because that’s why <br />beaches exist (!) and recharged after intimate and inspiring conversations. 

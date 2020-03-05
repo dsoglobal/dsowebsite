@@ -1,12 +1,11 @@
 ---
 title: 'State of the Hub: Pittsburgh﻿'
-author: admin
-type: post
-date: 2015-12-02T00:00:00+00:00
-url: /blogposts/state-of-the-hub-pittsburgh/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <span class="imgPusher" style="float:left;height:0px"></span><span style="display: table;width:627px;position:relative;float:left;max-width:100%;;clear:left;margin-top:0px;*margin-top:0px"><a><img src="http://www.dsoglobal.org//uploads/2/4/1/8/24188388/7024546.jpg?609" style="margin-top: 5px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; border-width:1px;padding:3px; max-width:100%" alt="Picture" class="galleryImageBorder wsite-image" /></a><span style="display: table-caption; caption-side: bottom; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;" class="wsite-caption"></span></span> 
 

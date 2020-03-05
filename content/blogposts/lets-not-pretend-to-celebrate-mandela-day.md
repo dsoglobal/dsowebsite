@@ -1,12 +1,11 @@
 ---
 title: Lets not pretend to celebrate Mandela Day
-author: admin
-type: post
-date: 2014-07-18T00:00:00+00:00
-url: /blogposts/lets-not-pretend-to-celebrate-mandela-day/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <span class="imgPusher" style="float:left;height:250px"></span><span style="z-index:10;position:relative;float:left;max-width:100%;;clear:left;margin-top:20px;*margin-top:40px"><a><img src="http://www.dsoglobal.org//uploads/2/4/1/8/24188388/5387613.jfif?291" style="margin-top: 5px; margin-bottom: 10px; margin-left: 0px; margin-right: 10px; border-width:1px;padding:3px;" alt="Picture" class="galleryImageBorder wsite-image" /></a><span style="display: block; font-size: 90%; margin-top: -10px; margin-bottom: 10px; text-align: center;" class="wsite-caption"></span></span> 
 

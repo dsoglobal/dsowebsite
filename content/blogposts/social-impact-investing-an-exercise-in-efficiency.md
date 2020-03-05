@@ -1,12 +1,11 @@
 ---
 title: 'Social Impact Investing: An Exercise in Efficiency'
-author: admin
-type: post
-date: 2015-05-31T00:00:00+00:00
-url: /blogposts/social-impact-investing-an-exercise-in-efficiency/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:justify;">
   Are social impact and profit maximization mutually exclusive? Does “nonprofit” mean “not profitable?”   <br /><span style=""></span><br /><span style=""></span> For a panel of thought leaders in social entrepreneurship speaking at Stanford’s Graduate School of Business on May 13th, the answer was a resounding “no.” <br /><span style=""></span>

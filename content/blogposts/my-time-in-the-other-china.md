@@ -1,12 +1,11 @@
 ---
 title: My Time in the Other China
-author: admin
-type: post
-date: 2015-01-29T00:00:00+00:00
-url: /blogposts/my-time-in-the-other-china/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div>
   <div class="wsite-image wsite-image-border-thin " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:left">

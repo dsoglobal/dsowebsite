@@ -1,12 +1,11 @@
 ---
 title: Pittsburgh Social Impact Case Competition
-author: admin
-type: post
-date: 2017-06-29T00:00:00+00:00
-url: /blogposts/pittsburgh-social-impact-case-competition/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph">
   <strong>Sprouting Hope From Beans</strong><br /><span>2017 Social Impact Case Competition </span>​

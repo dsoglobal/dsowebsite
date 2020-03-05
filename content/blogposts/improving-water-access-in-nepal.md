@@ -1,12 +1,11 @@
 ---
 title: Improving Water Access in Nepal
-author: admin
-type: post
-date: 2014-11-18T00:00:00+00:00
-url: /blogposts/improving-water-access-in-nepal/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:justify;">
   Over the past year and a half, I have had the privilege of working with an amazing community located in the foothills of Nepal, called Sabhung. As part of the Hartford Professional Chapter (HPC) of Engineers without Borders (EWB) USA, we partnered with a local NGO, Namlo, to help improve water access to the Ward 8 community of about 800 residents. <br /><span style=""></span><br /><span style=""></span> The community is situated 1000 feet in elevation above their water source. This required community members, often women and children, to traverse the steep hillsides multiple times daily to gather the water they need. This takes away valuable time from their families, school, and household needs.<span style=""><br /></span>

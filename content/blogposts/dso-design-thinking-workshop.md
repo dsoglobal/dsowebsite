@@ -1,12 +1,11 @@
 ---
 title: DSO Design Thinking Workshop
-author: admin
-type: post
-date: 2017-06-30T00:00:00+00:00
-url: /blogposts/dso-design-thinking-workshop/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph">
   <span><span style="color:rgb(0, 0, 0)">Design thinking is a concept that has seen increased interest in DSO recently. Our professional volunteers have been introduced to frameworks and tools around implementing design thinking into project work. Companies such as SAP, Pariveda, and Ashoka have all contributed to an increasing awareness of design thinking. With many DSO members gaining new insights and knowledge about design thinking, we have launched an initiative to introduce design thinking concepts and tools to DSO project teams. </p> 

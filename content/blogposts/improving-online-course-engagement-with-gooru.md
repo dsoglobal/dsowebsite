@@ -1,12 +1,11 @@
 ---
 title: Improving online course engagement with Gooru
-author: admin
-type: post
-date: 2016-06-20T00:00:00+00:00
-url: /blogposts/improving-online-course-engagement-with-gooru/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:left;">
   <span><span>Online education has been recognized as one of the most important disruptive innovations of the 21</span><span>st</span><span> century. Although the effectiveness of online education has not been completely confirmed, relevant research suggests that information technology does have some distinctive advantages over the traditional classroom, especially in the way of </span><a href="https://en.wikipedia.org/wiki/Blended_learning"><span>blended learning</span></a><span>.</span></span>

@@ -1,13 +1,13 @@
 ---
 title: Women Techmakers Summit
-author: admin
-type: post
-date: 2014-03-13T00:00:00+00:00
-url: /blogposts/women-techmakers-summit/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
+
 <div class="paragraph" style="text-align:left;">
   A belated Happy International Women&#8217;s Day! Last weekend, I attended the <a href="http://g.co/WomenTechmakers" title="">Women Techmakers Summit</a> hosted by <a href="http://www.google.com/" title="">Google</a> at their Mountain View campus. I had the opportunity to network with many talented women working in tech, as well as hear great talks by some of the tech industry&#8217;s most inspiring women leaders!</p> 
   
