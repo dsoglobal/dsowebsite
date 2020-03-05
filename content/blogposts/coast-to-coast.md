@@ -1,12 +1,11 @@
 ---
 title: Coast to Coast
-author: admin
-type: post
-date: 2015-05-19T00:00:00+00:00
-url: /blogposts/coast-to-coast/
-categories:
-  - Uncategorized
-
+thumb_img_path: ''
+content_img_path: ''
+date: 2014-08-25T00:00:00+00:00
+excerpt: >-
+  
+layout: post
 ---
 <div class="paragraph" style="text-align:justify;">
   <span mso-fareast-font-family: roman style="">I&#8217;ve lived in the DC Metro area my entire life but just a week ago I left the east coast and moved out west all the way to Southern California. As I reflect on my cross country move and one of the biggest changes of my life, a few things came across my mind:</span></p> 

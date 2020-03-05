@@ -4,7 +4,7 @@ thumb_img_path: ''
 content_img_path: ''
 date: 2014-08-25T00:00:00+00:00
 excerpt: >-
-  DSO Blog
+  
 layout: post
 ---
 <div class="paragraph" style="text-align:left;">
