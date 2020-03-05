@@ -220,14 +220,18 @@ models:
     label: Blog
     template: blog
     file: blog/_index.md
-    hideContent: true
-    singleInstance: true
+    hideContent: false
+    singleInstance: false
     fields:
       - type: string
         name: title
         label: Title
         description: The title of the page.
         required: true
+      - type: page_menus
+        name: menu
+        label: Blog Menus
+        description: Which menus should this page show up in
   blog:
     type: page
     label: Projects
