@@ -217,11 +217,24 @@ models:
         description: Which menus should this page show up in
   blog:
     type: page
-    label: Projects
+    label: Blog
     template: blog
     file: blog/_index.md
     hideContent: true
     singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page.
+        required: true
+  blog:
+    type: page
+    label: Projects
+    template: blog
+    file: projects/_index.md
+    hideContent: true
+    singleInstance: false
     fields:
       - type: string
         name: title
@@ -236,7 +249,7 @@ models:
           type: reference
           labelField: title
           models:
-		    - heroblock
+	    - heroblock
             - postsblock
       - type: page_menus
         name: menu
