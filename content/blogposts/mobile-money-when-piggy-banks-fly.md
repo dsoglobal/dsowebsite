@@ -1,10 +1,9 @@
 ---
+date: 2014-07-24T04:00:00.000Z
 title: 'Mobile Money: When Piggy Banks Fly'
 thumb_img_path: ''
 content_img_path: ''
-date: 2014-08-25T00:00:00+00:00
-excerpt: >-
-  
+excerpt: ''
 layout: post
 ---
 <div class="paragraph" style="text-align:left;">
