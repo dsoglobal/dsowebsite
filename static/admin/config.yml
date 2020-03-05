@@ -753,7 +753,7 @@ collections:
             label: Layout
             required: true
             default: projects
- - name: blogmain
+  - name: blogmain
     label: Blog
     files:
       - name: blogm
