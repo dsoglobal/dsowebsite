@@ -6,7 +6,7 @@ subtitle: >-
   Competition!
 work: Program Manager
 company: Silicon Valley Social Venture Fund (SV2)
-thumb_img_path: ''
+thumb_img_path: /images/0-3-.jpg
 actions:
   - label: LinkedIn
     url: 'https://www.linkedin.com/in/amybadiani'
