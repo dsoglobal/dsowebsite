@@ -4,7 +4,7 @@ title: Anthony Buchanan
 subtitle: Technology Makes Me Happy
 work: Senior Lead Technologist
 company: Booz Allen Hamilton
-content_img_path: /images/anthonyb.jpg
+thumb_img_path: /images/anthonyb.jpg
 actions:
   - label: LinkedIn
     url: 'https://www.linkedin.com/in/anthonyjbuchanan'
