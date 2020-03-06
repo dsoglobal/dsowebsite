@@ -8,7 +8,7 @@ sections:
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
-        author: Arlane Gordon-Bray
+        author: 'Arlane Gordon-Bray '
         avatar: /images/arlane.jpg
         content: Engagement Lead
 ---
