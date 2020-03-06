@@ -1061,6 +1061,16 @@ collections:
         label: Sections
         required: false
         hint: Teams page sections.
+      - widget: hidden
+        name: layout
+        label: Layout
+        required: true
+        default: home
+      - widget: markdown
+        name: body
+        label: Content
+        required: false
+        hint: Page content
         types:
           - name: heroblock
             widget: object
@@ -1186,19 +1196,9 @@ collections:
                     hint: >-
                       The parent of an entry should be the identifier of another
                       entry.
-                  - widget: hidden
-                    name: layout
-                    label: Layout
-                    required: true
-                    default: home
-                  - widget: markdown
-                    name: body
-                    label: Content
-                    required: false
-                    hint: Page content
-                filter:
-                  field: layout
-                  value: home  
+    filter:
+      field: layout
+      value: home  
   - name: peoplepost
     label: Individual Team Members
     folder: content/teammates
