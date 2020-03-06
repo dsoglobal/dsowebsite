@@ -1056,16 +1056,11 @@ collections:
         label: Team Image
         required: false
         hint: The image shown in the team page
-      - widget: list
-        name: sections
-        label: Sections
-        required: false
-        hint: Teams page sections.
       - widget: hidden
         name: layout
         label: Layout
         required: true
-        default: home
+        default: post
       - widget: markdown
         name: body
         label: Content
