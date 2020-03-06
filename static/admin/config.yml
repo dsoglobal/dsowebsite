@@ -1060,7 +1060,7 @@ collections:
         name: layout
         label: Layout
         required: true
-        default: post
+        default: home
       - widget: markdown
         name: body
         label: Content
