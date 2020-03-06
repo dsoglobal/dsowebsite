@@ -11,4 +11,11 @@ sections:
         author: Arlane Gordon-Bray
         avatar: /images/arlane.jpg
         content: Engagement Lead
+  - type: menu
+    main:
+      layout: home
+      name: Pittsburgh
+      parent: teams
+      identifier: Pittsburgh
+      weight: 3
 ---
