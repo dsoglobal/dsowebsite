@@ -1196,9 +1196,9 @@ collections:
                     label: Content
                     required: false
                     hint: Page content
-    filter:
-      field: layout
-      value: home  
+                filter:
+                  field: layout
+                  value: home  
   - name: peoplepost
     label: Individual Team Members
     folder: content/teammates
