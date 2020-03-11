@@ -24,6 +24,6 @@ I've lived in the DC Metro area my entire life but just a week ago I left the ea
 
 ![](/images/4_4356538.jpg)
 
-5. DSO is awesome with its global footprint and large hubs on both the east and west coast. I feel lucky I can move from one coast to another and seamlessly contribute to and participate in DSO.
+5. DSO is awesome with its global footprint and large hubs on both the east and west coast.  I feel lucky I can move from one coast to another and seamlessly contribute to and participate in DSO.
 
 **Contributed by Hannah Hsu**
