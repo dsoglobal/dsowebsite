@@ -61,7 +61,10 @@ For these key aspects of community health and sustainability, EWB: HPC hopes to 
 
 For more information, see [http://www.ewb-hpc.org](http://www.ewb-hpc.org/) and follow us on Twitter (@ewb_hpc).<
 
-Also check out this awesome trailer of a movie of our project: <http://vimeo.com/96529628>
+Also check out this awesome trailer of a movie of our project: 
+
+<iframe src="https://player.vimeo.com/video/96529628" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/96529628">The Foothills of Ward Eight - The Trailer</a> from <a href="https://vimeo.com/videotaping">Brian</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Full movie premiere details will be coming soon! 
 
