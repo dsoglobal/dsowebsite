@@ -16,7 +16,7 @@ It's actually a semester with DSO that began to open my eyes to the possibilitie
 
 Collaboration is the name of the internet game. Just a few years ago, to suggest that a team, separated by miles, look at a document together, drafting and seeing those edits real time? Ludicrous! Pipe dream! Future mumbo-jumbo.
 
-I can't help but be reminded of the excitement I experienced as a child watching the *Back to the Future* series. *A hoverboard*?!< I remember exclaiming to my mother, *We'll know we're in the future when we have hoverboards!* Alas, while I lack a hover device, I would much prefer a future in which work I do in my Georgetown dorm can instantly contribute to a project in India. Luckily for everyone, that future is now!<
+I can't help but be reminded of the excitement I experienced as a child watching the *Back to the Future* series. *A hoverboard*?! I remember exclaiming to my mother, *We'll know we're in the future when we have hoverboards!* Alas, while I lack a hover device, I would much prefer a future in which work I do in my Georgetown dorm can instantly contribute to a project in India. Luckily for everyone, that future is now!<
 
 The question remains: how to give every person access to the possibilities of our time?
 
