@@ -6,13 +6,11 @@ content_img_path: ''
 excerpt: ''
 layout: post
 ---
-```html
 <div>
   <div id="615052487142789898" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/XCrOde-JYs0" frameborder="0" allowfullscreen=""></iframe>
   </div>
 </div>
-```
 
 No matter where you are in the world, medicine is a demanding and difficult practice. Whether delivering newborns or treating disease, health workers are responsible for their patients’ lives on a daily basis. To maximize quality of care and minimize error, health workers in developed countries receive top-notch training from well-funded institutions. But without access to these institutions, how do health workers in low-resource environments get the training they need? Placed in high-pressure situations, how are these workers trained to perform effectively and to avoid potentially fatal mistakes?
 
