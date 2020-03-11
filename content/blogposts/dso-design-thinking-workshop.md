@@ -15,7 +15,7 @@ layout: post
 </ol>
 </div>
 <div>
-<div><a href="https://www.build.me/splashapp/" target="_blank" rel="noopener noreferrer"> <img src="/images/screen-shot-2017-06-18-at-08-04-29_orig.png" alt="Picture" /></a>
+<div><a href="https://www.build.me/splashapp/" target="_blank" rel="noopener noreferrer"> <img src="/images/screen-shot-2017-06-18-at-08-04-29_orig.png" alt="Picture" /></a><br /><br />
 </div>
 </div>
 <div> 3. Design thinking tools to facilitate conversations discussing the people aspect of our project work.
