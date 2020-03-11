@@ -1,7 +1,7 @@
 ---
 date: 2017-06-30T04:00:00.000Z
 title: First DC Journey Mapping with LEDC
-thumb_img_path: ''
+thumb_img_path: /images/screen-shot-2017-06-30-at-22-18-04_orig.png
 content_img_path: ''
 excerpt: ''
 layout: post
@@ -12,7 +12,7 @@ layout: post
 
 <div>
   <div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-    <a> <img src="http://www.dsoglobal.org//uploads/2/4/1/8/24188388/screen-shot-2017-06-30-at-22-13-34_orig.png" alt="Picture" style="width:auto;max-width:100%" /></a> </p> 
+    <a> <img src="/images/screen-shot-2017-06-30-at-22-13-34_orig.png" alt="Picture" style="width:auto;max-width:100%" /></a> </p> 
     
     <div style="display:block;font-size:90%">
     </div></p>
@@ -35,20 +35,16 @@ layout: post
   </ul>
   
   <p>
-    <span><span style="color:rgb(0, 0, 0)">Originally, each of the layers were to be color-coded. However, due to the our inexperience we mixed up a few colors! No problem, as we always plan to iterate on our processes to improve this for future sessions with clients!</span></span><span><span style="color:rgb(0, 0, 0)"></p> 
+    <span>Originally, each of the layers were to be color-coded. However, due to the our inexperience we mixed up a few colors! No problem, as we always plan to iterate on our processes to improve this for future sessions with clients!</span></p> 
     
     <p>
-      Once we finally mapped out the entire process &#8211; we walked through each step of the process with LEDC, asking detailed questions and confirming assumptions to ensure we had an accurate understanding from a human perspective of each step in the process and the pain points associated.</span></span><br /><span></span> </div> 
-      
-      <div>
-        <div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
-          <a> <img src="http://www.dsoglobal.org//uploads/2/4/1/8/24188388/screen-shot-2017-06-30-at-22-18-04_orig.png" alt="Picture" style="width:auto;max-width:100%" /></a> </p> 
-          
-          <div style="display:block;font-size:90%">
-          </div></p>
-        </div>
+      Once we finally mapped out the entire process &#8211; we walked through each step of the process with LEDC, asking detailed questions and confirming assumptions to ensure we had an accurate understanding from a human perspective of each step in the process and the pain points associated.
+
+<div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+<a><img src="/images/screen-shot-2017-06-30-at-22-18-04_orig.png" alt="Picture" style="width:auto;max-width:100%" /></a> 
+
+</p>           
       </div>
-      
       <div class="paragraph">
-        <span><span style="color:rgb(0, 0, 0)">This was a deeply engaging sessions as back-and-forth discussions flowed between LEDC and DSO. Ultimately, we reached a mutual understanding of the process &#8211; leading to a clear understanding of the problem from a user perspective. This allowed us to move on to our next steps of solutioning &#8211; where we plan on experimenting with new design tools around ideation and prototyping. Stay tuned!</span></span><br /><span></span>
+      This was a deeply engaging sessions as back-and-forth discussions flowed between LEDC and DSO. Ultimately, we reached a mutual understanding of the process &#8211; leading to a clear understanding of the problem from a user perspective. This allowed us to move on to our next steps of solutioning &#8211; where we plan on experimenting with new design tools around ideation and prototyping. Stay tuned!
       </div>
