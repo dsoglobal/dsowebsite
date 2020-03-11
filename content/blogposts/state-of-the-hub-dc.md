@@ -6,12 +6,12 @@ content_img_path: ''
 excerpt: ''
 layout: post
 ---
-![](/images/8892957.jpg "Washington DC - Key Bridge")
+![](/images/8892957.jpg "Washington DC")
 
 The DC hub has experienced great growth since launching in Georgetown two years ago. We focus on achieving tangible, measurable results for global clients we believe in through creativity, passion, and teamwork. To do this, we are deliberately using our position as a member of the global DC community to enhance our projects and grow our hub.
 
 
-We have eight active engagement leads, including a new Managing Director, Srujana. Our newest engagement lead, Oge joined within the last month and a former DC EL, Hannah, has successfully started up a new Los Angeles hub. We have three engagement leads taking on hub wide initiatives &ndash; Amy with recruiting and the DSO game and Sonum and Juan with on boarding. Several exciting projects were led by our other engagement leads Jess, Caroline, and Anthony.
+We have eight active engagement leads, including a new Managing Director, Srujana. Our newest engagement lead, Oge joined within the last month and a former DC EL, Hannah, has successfully started up a new Los Angeles hub. We have three engagement leads taking on hub wide initiatives; Amy with recruiting and the DSO game and Sonum and Juan with on boarding. Several exciting projects were led by our other engagement leads Jess, Caroline, and Anthony.
 
 
 We had great growth on the student front too. Over the course of the last four semesters we've worked with over 15 students ranging from freshmen to seniors, with a wide range of backgrounds and interests. A number of students have returned for several semesters. The students have worked on two projects and are excited to work on a few more this semester. 
