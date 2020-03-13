@@ -77,11 +77,15 @@ Kudos to our judges for giving us time on their Saturday! Everyone brought a fre
 \
 **4:30 - 5:00 Prize awarded & closing remarks**\
 \
-Although a lot of wonderful ideas were presented, we still had to pick a winner. But due to the impressive efforts put forth by the students, BNH decided that we’d still award cash prizes ($500 in total) for the top 3 teams! Teams pitched ideas that hit upon packaging design rebrand for El Porvenir coffee (the co-op BNH was working with), social media campaigns, online marketing strategies (Etsy, snapchat geofilters), university outreach programs, and sustainability goals. More info on the presentations and decks can be seen here: [Team Recommendations](https://docs.google.com/document/d/17SRUskMEs7UjURha6ihdPSuiDyPfiXE66xfA9lHqyTM/edit)\
+Although a lot of wonderful ideas were presented, we still had to pick a winner. But due to the impressive efforts put forth by the students, BNH decided that we’d still award cash prizes ($500 in total) for the top 3 teams! Teams pitched ideas that hit upon packaging design rebrand for El Porvenir coffee (the co-op BNH was working with), social media campaigns, online marketing strategies (Etsy, snapchat geofilters), university outreach programs, and sustainability goals. 
+
+More info on the presentations and decks can be seen here: [Team Recommendations](https://docs.google.com/document/d/17SRUskMEs7UjURha6ihdPSuiDyPfiXE66xfA9lHqyTM/edit)\
 \
 Overall, the judges walked away quite pleased with the ideas that were brought forth, and we are hoping to see BNH implement one or two of these ideas in the near future!\
 \
-The students themselves learned quite a bit about non-profit consultancy, as well as about BNH and organic, fair trade coffee. Close to 80% of the students had come into this case competition having never been involved with social impact or international development causes, but a greater percentage (83%) than that walked away from this engagement with a desire to make a social impact! More info on the initial impact of the case competition on the students can be seen here: [Initial Impact](https://docs.google.com/a/dsoglobal.org/forms/d/1uz7kv8TKoMDpBPNyA52RUCXh5Uld8yEBZ_5-griPwQA/edit?no_redirect#responses)\
+The students themselves learned quite a bit about non-profit consultancy, as well as about BNH and organic, fair trade coffee. Close to 80% of the students had come into this case competition having never been involved with social impact or international development causes, but a greater percentage (83%) than that walked away from this engagement with a desire to make a social impact! 
+
+More info on the initial impact of the case competition on the students can be seen here: [Initial Impact](https://docs.google.com/a/dsoglobal.org/forms/d/1uz7kv8TKoMDpBPNyA52RUCXh5Uld8yEBZ_5-griPwQA/edit?no_redirect#responses)\
 \
 **LESSONS LEARNED**\
 ​\
