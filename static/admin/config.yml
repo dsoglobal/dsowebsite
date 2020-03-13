@@ -1247,11 +1247,6 @@ collections:
         label: Blog Post Thumbnail
         required: false
         hint: The image shown thumbnail
-      - widget: image
-        name: content_img_path
-        label: Blog Post Main Picture
-        required: false
-        hint: The main image shown
       - widget: string
         name: excerpt
         label: Excerpt
