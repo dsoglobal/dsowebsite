@@ -26,11 +26,11 @@ Before talking about the event, gotta give kudos where kudos are due to our amaz
 
 **9:00 - 10:15  Breakfast**
 
-> **9:10 - 9:15** Greetings & case competition introduction (Ajay Ghadiyaram, DSO)
->
-> **9:15 - 9:45** BNH’s impact & operational model sharing (Therese Tardio, BNH)
->
-> **9:45 - 10:15** Story sharing (Amy Badiani & Andrea Salomon, DSO)
+**\> 9:10 - 9:15** Greetings & case competition introduction (Ajay Ghadiyaram, DSO)
+
+**\> 9:15 - 9:45** BNH’s impact & operational model sharing (Therese Tardio, BNH)
+
+**\> 9:45 - 10:15** Story sharing (Amy Badiani & Andrea Salomon, DSO)
 
 **10:15 - 12:00  Case Work Session**
 
