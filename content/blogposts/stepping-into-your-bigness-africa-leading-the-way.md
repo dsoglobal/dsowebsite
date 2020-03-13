@@ -1,7 +1,7 @@
 ---
 date: 2014-09-21T04:00:00.000Z
 title: 'Stepping into your BIGness, Africa leading the way'
-thumb_img_path: ''
+thumb_img_path: /images/summarybigness.png
 content_img_path: ''
 excerpt: ''
 layout: post
