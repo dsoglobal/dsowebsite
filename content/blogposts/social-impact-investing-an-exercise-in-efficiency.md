@@ -1,7 +1,7 @@
 ---
 date: 2015-05-31T04:00:00.000Z
 title: 'Social Impact Investing: An Exercise in Efficiency'
-thumb_img_path: ''
+thumb_img_path: /images/5087844.jpg
 content_img_path: ''
 excerpt: ''
 layout: post
@@ -10,13 +10,10 @@ Are social impact and profit maximization mutually exclusive? Does “nonprofit�
 
 For a panel of thought leaders in social entrepreneurship speaking at Stanford’s Graduate School of Business on May 13th, the answer was a resounding “no.” 
 
-![](/images/5087844.jpg)
-
-
 Listening to the panel, I was struck by the argument that leveraging the private sector is vital to grow out an organization focused on social change. Nancy Pfund, Founder and Managing Partner of VC firm DBL Investors, holds that “if you want to scale social change, you have to embolden the private sector.
 
 In fact, those interested in making social change may be best served by using strategies highly characteristic of the private sector. Pfund highlighted Tesla Motors as an interesting case study of an organization focused on social impact that purposefully sells at a high margin. By targeting people with high disposable incomes now, Tesla may have the resources to create change on a larger level later on. 
-  
+
 The core purpose of applying private sector concepts to nonprofit practice is to get concrete results. Kriss Deiglmeier, CEO of Tides, commented that investors want scale and to see opportunity growth.
 
 To fuel this growth in opportunities and scale, Kriss explained, social impact organizations might be best served by focusing on regions offering the greatest opportunities to expand and reach more people in need. Similarly, Kristin Hull, President of Nia Global Solutions, explained that she chose social impact investing because she thought working as a VC and funding multiple nonprofits would offer greater opportunities to make a difference than working in just one nonprofit would.
