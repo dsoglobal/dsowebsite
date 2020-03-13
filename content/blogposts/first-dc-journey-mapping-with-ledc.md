@@ -1,7 +1,7 @@
 ---
 date: 2017-06-30T04:00:00.000Z
 title: First DC Journey Mapping with LEDC
-thumb_img_path: ''
+thumb_img_path: /images/screen-shot-2017-06-30-at-22-18-04_orig.png
 content_img_path: ''
 excerpt: ''
 layout: post
