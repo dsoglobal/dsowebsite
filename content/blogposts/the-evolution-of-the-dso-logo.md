@@ -14,21 +14,16 @@ Our original logo had served us well as we grew from inception into an organizat
 
  **The design goals** 
 
-
 As part of our evolution, we aimed to move toward a design that conveyed the following characteristics of our organization: 
-  
-Professional
 
-Trustworthy 
-
-Proficient 
-
-Friendly
-
-International
+* Professional
+* Trustworthy 
+* Proficient 
+* Friendly
+* International
 
 **The options** 
-    
+
 With this aspiration, we brainstormed numerous concepts. We played with typography, size, color, and placement. Here were some of the front-runners:
 
 ![](/images/1138555.png)
@@ -52,7 +47,6 @@ After much deliberation, finessing, and gathering of feedback, we held a team vo
 ![](/images/4054484.png)
 
 ![](/images/5491083.png)
-
 
 Thank you!
 
