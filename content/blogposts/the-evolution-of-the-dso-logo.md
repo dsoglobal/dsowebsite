@@ -1,16 +1,16 @@
 ---
 date: 2014-02-24T05:00:00.000Z
 title: The evolution of the DSO logo
-thumb_img_path: ''
+thumb_img_path: /images/6843188.png
 content_img_path: ''
 excerpt: ''
 layout: post
 ---
+Here it is – the beginnings of the DSO brand
+
 As part of DSO’s ongoing effort to evolve our online presence and presentation, the internal team decided it was time to update our logo. 
 
-Our original logo had served us well as we grew from inception into an organization that affected true change and positive impact. It conveyed a sense of the natural elements and international reach; as a non profit consultancy in international development, these characteristics served us well. Here it is – the beginnings of the DSO brand: 
-
-![](/images/6843188.png)
+Our original logo had served us well as we grew from inception into an organization that affected true change and positive impact. It conveyed a sense of the natural elements and international reach; as a non profit consultancy in international development, these characteristics served us well. 
 
  **The design goals** 
 
