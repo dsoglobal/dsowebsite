@@ -1,13 +1,11 @@
 ---
 date: 2015-01-20T05:00:00.000Z
 title: Our Place in the Future
-thumb_img_path: ''
+thumb_img_path: /images/9784246_orig.jpg
 content_img_path: ''
 excerpt: ''
 layout: post
 ---
-![](/images/9784246_orig.jpg)
-
 I've been thinking a lot lately about where we are in time. We live in a world where communication is not a journey – here even though I have moved thousands of miles from my home in California, I can speak to my mother, and I can see her face on a computer screen. That's incredible. We live in the future.
 
 Growing up in silicon valley, technology has been so ubiquitous that I never really noticed it. Of course there's an app for that. Graphics quality, processing speed, communications applications all gained momentum throughout my childhood, buzzing in the background at school and home. I don't remember getting my first laptop of my own, or my first cell phone. I don't remember switching to cordless phones, to mp3s, to digital streaming. And yet, without my noticing, the world catapulted forward.<
