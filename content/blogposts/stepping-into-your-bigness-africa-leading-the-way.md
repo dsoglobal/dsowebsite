@@ -82,7 +82,7 @@ Stepping into my BIGness is a vital part of my personal mission statement.
 
 Want some more context on changemaking? Here you go. 
 
-We live in a rapidly changing world. In the past fifteen years alone, we have gone from bulky, long antenna attached mobile phones with basic call functionality to lightweight smart phones that ensure infants are tested for HIV [\[1]](http://tcrn.ch/1wE6ovV), in the past ten years, we have added nearly 100 billion tonnes of carbon to the atmosphere (this is about a quarter of all CO2 added to the atmosphere by humanity since 1750) [\[2]](http://tcrn.ch/1wE6ovV), and by 2040, Africa will be home to one in five of the planet’s young people [\[3]](http://bit.ly/1gsW1k3).
+We live in a rapidly changing world. In the past fifteen years alone, we have gone from bulky, long antenna attached mobile phones with basic call functionality to lightweight smart phones that ensure infants are tested for HIV [1](http://tcrn.ch/1wE6ovV), in the past ten years, we have added nearly 100 billion tonnes of carbon to the atmosphere (this is about a quarter of all CO2 added to the atmosphere by humanity since 1750) [2](http://tcrn.ch/1wE6ovV), and by 2040, Africa will be home to one in five of the planet’s young people [3](http://bit.ly/1gsW1k3).
 
 In our world, following the rules and norms is not enough. Everyone must be a changemaker. In learning and analyzing the emerging patterns from leading social entrepreneurs, Ashoka has identified core foundational skills needed to be a changemaker: empathy, teamwork, leadership and changemaking. *Nothing* is more powerful than cultivating these skills from a very young age.
 
