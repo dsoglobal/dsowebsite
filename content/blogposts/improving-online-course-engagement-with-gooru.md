@@ -1,7 +1,7 @@
 ---
 date: 2016-06-20T04:00:00.000Z
 title: Improving online course engagement with Gooru
-thumb_img_path: ''
+thumb_img_path: /images/352623_orig.jpg
 content_img_path: ''
 excerpt: ''
 layout: post
