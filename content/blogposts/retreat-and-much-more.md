@@ -22,6 +22,6 @@ These desires were reinforced by our Google Hangout with Saurabh and Amy the ne
 
 I am thankful for the opportunity to get to know the SF team better in a gorgeous sun-kissed setting, have delicious food for every meal and most of all for the time to reignite my passion for international development. Too often, passions get dimmed in the humdrum of psets, midterms and the quotidian routine. I am glad to have been a part of this retreat for it reminded me as to why I’m here and my vision for myself and the world. 
 
-*“*Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.*”* – Margaret Mead
+*“Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.”* – Margaret Mead
 
 **Contributed by Sonal Goyal**
