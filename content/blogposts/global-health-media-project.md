@@ -1,7 +1,7 @@
 ---
 date: 2015-09-18T04:00:00.000Z
 title: Global Health Media Project
-thumb_img_path: ''
+thumb_img_path: /images/logo2.jpg
 content_img_path: ''
 excerpt: ''
 layout: post
