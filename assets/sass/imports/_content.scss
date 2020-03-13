@@ -65,22 +65,22 @@ img {
 }
 
 .site-content {
-	.outer {
-		.inner {
-			.post-feed {
-				.post {
-					.post-thumbnail {
-						.post img{
-							max-width: 600px;
-							max-height: 600px;
-							border-radius: 50%
-						}
-					}
-				}
-			}
-		}
-	}
-
+  .outer {
+    .inner {
+      .post-feed {
+        .post {
+          .post-thumbnail {
+            .post img {
+		max-width: 600px;
+		max-height: 600px;
+		border-radius: 50%
+  }
+    }
+      }
+        }
+          }
+            }
+              }
 .post-full,
 .post-feed,
 .portfolio-feed,
