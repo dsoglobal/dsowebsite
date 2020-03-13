@@ -12,7 +12,8 @@ I want to share the insights I took away from the summit, so here’s a dump of 
 
 —
 
-**Keynote: Humans, Devices and How They Live Together**\
+**Keynote: Humans, Devices and How They Live Together**
+
 Yoky Matsuoka, VP of Technology @ Nest Labs
 
 Tennis –> robots –> neuroscience\
@@ -39,7 +40,9 @@ Great audience story/question: 8-year-old sister who wants to be an engineer, bu
 
 —
 
-**Keynote: My Journey, My Learnings**Pavni Diwanji, VP of Engineering @ Google
+**Keynote: My Journey, My Learnings**
+
+Pavni Diwanji, VP of Engineering @ Google
 
 “I will declare victory when I have changed the world”\
 Stanford class assignment to rewrite PCoIP
@@ -58,7 +61,9 @@ Mentorship is valuable
 
 —
 
-**Staying Uncomfortable: How I Got to Design Glass**Isabelle Olsson, Lead Designer for Glass @ Google
+**Staying Uncomfortable: How I Got to Design Glass**
+
+Isabelle Olsson, Lead Designer for Glass @ Google
 
 Take inspiration from things that are unfamiliar\
 It’s good to be different and uncomfortable\
@@ -70,7 +75,9 @@ Someone’s asking you to make something impossible – what do you do?
 
 —
 
-**Technology During Natural Disasters**Raquel Romano, Software Engineer @ Google
+**Technology During Natural Disasters**
+
+Raquel Romano, Software Engineer @ Google
 
 [Google Crisis Response Team](http://www.google.org/crisisresponse/)\
 Vulnerable people/countries are hit much harder by natural disasters than people/countries with wealth\
@@ -91,7 +98,10 @@ Data integration strategy: launch and iterate (prototypes!)
 
 —
 
-**CSI: Lab for Innovation**Tatiana Chapira, Instructional Designer @ Google\
+**CSI: Lab for Innovation**
+
+Tatiana Chapira, Instructional Designer @ Google
+
 Mike Lin, Legal Assistant @ Google
 
 Design thinking: observe –> define –> brainstorm –> prototype –> test\
@@ -103,7 +113,9 @@ Build on others’ ideas: “yes and…”
 
 —
 
-**Being a Role Model: Introducing Young Women to STEM**Reena Singhal Lee, Senior Technical Program Manager @ Google
+**Being a Role Model: Introducing Young Women to STEM**
+
+Reena Singhal Lee, Senior Technical Program Manager @ Google
 
 Young girls see STEM fields as boring, nerdy, or difficult, but they want to make the world a better place\
 Communicate what STEM has to offer; connect to girls’ interests\
@@ -129,7 +141,9 @@ Try these tools:
 
 —
 
-**Moving Up: The Path to Engineering Leadership**Kimber Lockhart, Senior Director of Engineering @ Box
+**Moving Up: The Path to Engineering Leadership**
+
+Kimber Lockhart, Senior Director of Engineering @ Box
 
 1. Aim clearly
 
@@ -155,7 +169,6 @@ Try these tools:
 * Try to implement it
 * Feed forward (let people know you want to improve)
 
-\
 Your job will change, you need to too\
 Being an engineering leader gives you more impact than as an individual\
 Don’t let your gender be an obstacle; you can do at least as well as everyone else\
@@ -171,7 +184,9 @@ Evaluate yourself and what you’re doing every 6-12 months
 
 —
 
-**Getting Code Out the Door**Panel of Googlers
+**Getting Code Out the Door**
+
+Panel of Googlers
 
 How do you handle tradeoffs and constraints (e.g. deadlines)?
 
