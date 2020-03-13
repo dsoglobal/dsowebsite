@@ -1,14 +1,12 @@
 ---
 date: 2014-05-13T04:00:00.000Z
 title: Retreat and much more …
-thumb_img_path: ''
+thumb_img_path: /images/648887_orig.jpg
 content_img_path: ''
 excerpt: ''
 layout: post
 ---
 I had the lucky pleasure of living in a cozy, beautiful vacation home in beautiful Santa Cruz, thanks to the DSO SF team retreat. And now sitting in my dorm room waiting for a new week, I am happy, relaxed and recharged. Happy for reconnecting with this amazing group of people, relaxed because that’s why beaches exist (!) and recharged after intimate and inspiring conversations. 
-
-![](/images/648887_orig.jpg)
 
 Arriving at Santa Cruz in the afternoon, we began the retreat with icebreakers and home made quesadillas, thanks to our very own Crystal, one of the SF ELs. Appetites satiated, we broke out into teams to talk about our experiences during the year, both in client teams and DSO as a whole. A little later, the whole team reconvened to have a joint brainstorm session on how to make DSO even better in the coming year(s). We reflected on the many layers of impact that DSO facilitates on our clients, students, ELs, the internal team and the international development ecosystem at large and how we can amplify that impact in the future. I am super stoked about the ideas that come out of that session and look forward to translating those ideas into action in the coming year.  
 
