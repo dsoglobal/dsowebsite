@@ -1,13 +1,11 @@
 ---
 date: 2015-11-02T05:00:00.000Z
 title: 'Dream a Dream: A Study Abroad in India'
-thumb_img_path: ''
+thumb_img_path: /images/3228336.jpg
 content_img_path: ''
 excerpt: ''
 layout: post
 ---
-![](/images/3228336.jpg)
-
 ​​If you're planning on studying abroad, you may be able to test out a career path while still pursuing your education by taking advantage of an intern abroad program. Now a days, more and more employers are recognizing the benefits of studying abroad, and are actively seeking out candidates with study abroad experience. This past summer, I was able to spend 10 weeks interning for a non profit in Bangalore, India., through the GU Impacts program. The GU Impacts program provides Georgetown University students the opportunity to intern abroad in Peru, Nicaragua, Phillipines, or India, and engage with local communities through program partners including non-profit organizations, businesses, and government initiatives.
 
 I utilized the opportunity to further ignite my passion for social entrepreneurship through engaging in projects that helped rural communities in Bangalore India. I was eager to fully immerse myself in a culture that I was faintly familiar with and the notion of returning to India & being able to visit my cousins in Kerala was very appealing to me. After reflecting on my internship experience, I can say with full confidence that it has really changed my life. I have grown significantly in both my personal and professional life.
@@ -23,7 +21,5 @@ Finally, the people you develop relationships with could help you secure a lead 
 Interning abroad in India has certainly opened up diverse possibilities, and it’s no wonder that India is growing as one of the most sought-after destinations to travel .  India is established as a center for big business and interesting economics, all the while still preserving a beautiful ancient culture.  Overall, interning abroad in India has helped shape me into becoming a business leader with a global mindset, which is imperative as an upcoming social entrepreneur. It has also opened up eyes up to the poverty that exists outside of the United States’ bubble. My time abroad has made me all the more determined to one day establish a non-profit that will improve the education of underprivileged kids who cannot fend for themselves. If given the opportunity, I would do it again in a heartbeat!
 
 ![](/images/4321410_orig.jpg)
-
-
 
  **Contributed by Febin Bellamy**
