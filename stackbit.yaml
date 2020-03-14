@@ -195,7 +195,7 @@ models:
         name: title
         label: Title
         description: The title of the page.
-        required: true
+        required: true	
       - type: list
         name: sections
         label: Sections
@@ -208,8 +208,8 @@ models:
             - contentblock
             - heroblock
             - portfolioblock
-            - postsblock
             - servicesblock
+	    - postsblock
             - testimonialsblock
       - type: page_menus
         name: menu
