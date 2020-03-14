@@ -350,7 +350,12 @@ collections:
                     name: component
                     label: Component
                     required: true
-                    default: posts_block.html               
+                    default: posts_block.html
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.
                   - widget: number
                     name: num_posts_displayed
                     label: Number of projects to display
@@ -387,6 +392,10 @@ collections:
                     label: Title
                     required: false
                     hint: The title of the section.
+                  - widget: string
+                    name: subtitle
+                    label: Subtitle
+                    required: false
                   - widget: string
                     name: section_id
                     label: Element ID
