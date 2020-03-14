@@ -37,15 +37,15 @@ sections:
       areas:
     title: Functional Areas
     type: servicesblock
+  - type: postsblock
+    component: posts_block.html
+    num_posts_displayed: 3
+    title: Featured Initiatives
   - component: contact_block.html
     section_id: contact
     subtitle: Drop Us a Note to Learn More
     title: Contact Us
     type: contactblock
-  - type: postsblock
-    component: posts_block.html
-    num_posts_displayed: 3
-    title: Featured Initiatives
 menu:
   main:
     name: Home
