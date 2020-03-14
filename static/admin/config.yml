@@ -342,10 +342,15 @@ collections:
                       Name of the Stackbit object model, used by fields of type
                       reference
                     default: heroblock             
-              - name: projectsblock
+              - name: projectsblockhome
                 widget: object
                 label: Latest Projects
                 fields:
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: posts_block.html
                   - widget: string
                     name: title
                     label: Title
@@ -355,11 +360,6 @@ collections:
                     name: section_id
                     label: Element ID
                     required: false
-                  - widget: hidden
-                    name: component
-                    label: Component
-                    required: true
-                    default: posts_block_full.html
                   - widget: string
                     name: subtitle
                     label: Subtitle
