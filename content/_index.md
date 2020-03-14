@@ -42,10 +42,12 @@ sections:
     subtitle: Drop Us a Note to Learn More
     title: Contact Us
     type: contactblock
+  - type: postsblock
+    component: posts_block.html
+    num_posts_displayed: 3
 menu:
   main:
     name: Home
     weight: 1
 layout: home
 ---
-
