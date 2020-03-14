@@ -342,7 +342,7 @@ collections:
                       Name of the Stackbit object model, used by fields of type
                       reference
                     default: heroblock             
-                  - name: postsblock
+              - name: postsblock
                 widget: object
                 label: Latest Projects
                 fields:
