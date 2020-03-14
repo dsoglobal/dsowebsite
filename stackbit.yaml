@@ -209,7 +209,7 @@ models:
             - heroblock
             - portfolioblock
             - servicesblock
-	    - postsblock
+            - postsblock
             - testimonialsblock
       - type: page_menus
         name: menu
