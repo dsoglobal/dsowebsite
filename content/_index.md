@@ -40,7 +40,7 @@ sections:
   - actions:
       - label: View All Projects
         url: projects/
-    component: posts_block.html
+ -  component: posts_block.html
     num_posts_displayed: 3
     section_id: latest-posts
     subtitle: ''
