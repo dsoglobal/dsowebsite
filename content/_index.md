@@ -45,6 +45,7 @@ sections:
   - type: postsblock
     component: posts_block.html
     num_posts_displayed: 3
+    title: Featured Initiatives
 menu:
   main:
     name: Home
