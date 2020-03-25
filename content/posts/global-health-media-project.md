@@ -1,7 +1,7 @@
 ---
 title: 'Global Health Media Project '
 subtitle: Developing a Sustainable Business Model to Maximize Global Impact
-date: 2020-03-25T01:58:12.849Z
+date: 2015-03-01T05:00:00.000Z
 thumb_img_path: /images/global-health-media-project.jpg
 excerpt: >-
   A collaborative partnership between Development Solutions Organization (DSO)
