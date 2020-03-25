@@ -441,7 +441,7 @@ collections:
                     name: section_id
                     label: Element ID
                     required: false
-                   - widget: string
+                  - widget: string
                     name: title
                     label: Title
                     required: false
