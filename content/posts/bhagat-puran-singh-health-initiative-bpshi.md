@@ -1,6 +1,6 @@
 ---
 title: Bhagat Puran Singh Health Initiative (BPSHI)
-date: 2020-03-25T01:44:59.154Z
+date: 2015-10-01T04:00:00.000Z
 thumb_img_path: /images/bpshi.jpg
 excerpt: >-
   Development Solution Organization and BPSHI scoped out a project that yielded
