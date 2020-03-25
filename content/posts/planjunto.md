@@ -1,7 +1,7 @@
 ---
 title: PlanJunto
 subtitle: Community Accelerator
-date: 2020-03-25T03:21:42.795Z
+date: 2016-10-01T04:00:00.000Z
 thumb_img_path: /images/planjunto.jpg
 layout: post
 ---
