@@ -1,15 +1,15 @@
 <script>
-let main = new CountUp('myTargetElement', 10000);
+let main = new CountUp('{{ .section.section_id }}', {{  first .section.num_count }});
 if (!main.error) {
   main.start();
 } else {
   console.error(main.error);
 }
 </script>
-<section id="{{ .section.section_id }}" class="block text-block outer">
+<section id="count{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
   <div class="inner-small">
     <div class="block-header">
-      <h3 class="block-title" id="myTargetElement">0</h3>
+      <h3 class="block-title" id="{{ .section.section_id }}">0</h3>
     </div>
   </div><!-- .inner -->
 </section><!-- .block -->
