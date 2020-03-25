@@ -1,7 +1,7 @@
 ---
 title: Disrupt
 subtitle: Social Game Development for Peace
-date: 2020-03-25T03:31:42.054Z
+date: 2016-01-01T05:00:00.000Z
 thumb_img_path: /images/peace-tech-lab.png
 excerpt: >-
   A collaborative partnership between Development Solutions Organization and the
