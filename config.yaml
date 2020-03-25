@@ -1,6 +1,7 @@
 title: Development Solutions Organization
 baseURL: /
 disqusShortname: dsoglobal
+googleAnalytics: UA-45279912-1
 params:
   accent_color: blue
   color_scheme: light
