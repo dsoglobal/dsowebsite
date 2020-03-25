@@ -3,6 +3,11 @@ title: PlanJunto
 subtitle: Community Accelerator
 date: 2016-10-01T04:00:00.000Z
 thumb_img_path: /images/planjunto.jpg
+excerpt: >-
+  DSO partnered with PlanJunto on a project to help develop an inaugural
+  PlanJunto Community Accelerator and outlined business and revenue models,
+  including intellectual property and go to market strategy through a review of
+  best practices.
 layout: post
 ---
 
