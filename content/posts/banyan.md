@@ -1,7 +1,7 @@
 ---
 title: Banyan
 subtitle: Holistic mental health solutions
-date: 2020-01-02T04:38:37.380Z
+date: 2017-10-01T04:00:00.000Z
 thumb_img_path: /images/banyan.png
 content_img_path: ''
 excerpt: >-
