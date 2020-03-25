@@ -1,13 +1,13 @@
 ---
 title: Scholarship Plus
-subtitle: >-
+subtitle: 'Sustainable and Growing Fundraising. '
+date: 2020-03-25T01:34:56.393Z
+thumb_img_path: /images/scholarship-plus.jpeg
+excerpt: >-
   A partnership between Development Solution Organization and the Scholarship
   Plus team, this project focused on improving branding through market research
   and website design. The end objective was to increase the scholarship
   program’s exposure and access to funding opportunities.
-date: 2020-03-25T01:34:56.393Z
-thumb_img_path: /images/scholarship-plus.jpeg
-excerpt: ''
 layout: post
 ---
 
