@@ -2,7 +2,7 @@
 title: >-
   Ashoka Future Forward: Innovations for Youth Employment in Africa in
   partnership with The Mastercard Foundation
-date: 2020-03-25T01:49:57.624Z
+date: 2014-10-01T04:00:00.000Z
 thumb_img_path: /images/tech-needs-girls.jpg
 excerpt: >-
   A collaborative partnership between Development Solutions Organization (DSO)
