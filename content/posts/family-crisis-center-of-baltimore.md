@@ -1,7 +1,7 @@
 ---
 title: Family Crisis Center of Baltimore
 subtitle: Data Management
-date: 2020-03-25T01:26:13.927Z
+date: 2017-04-01T04:00:00.000Z
 thumb_img_path: /images/baltimore-family-crisis-center.jpg
 excerpt: >-
   A collaborative partnership between Development Solution Organization and the
