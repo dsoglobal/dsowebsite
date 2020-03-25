@@ -1,7 +1,7 @@
 ---
 title: 'A Touch of Understanding '
 subtitle: 'Organizational Expansion Strategies '
-date: 2020-03-25T01:16:29.188Z
+date: 2017-11-01T04:00:00.000Z
 thumb_img_path: /images/atou.jpg
 layout: post
 ---
