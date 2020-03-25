@@ -39,7 +39,7 @@ sections:
     type: servicesblock
   - type: postsblock
     component: posts_block.html
-    num_posts_displayed: 3
+    num_posts_displayed: 4
     title: Featured Initiatives
   - component: contact_block.html
     section_id: contact
