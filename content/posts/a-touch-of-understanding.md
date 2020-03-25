@@ -3,6 +3,10 @@ title: 'A Touch of Understanding '
 subtitle: 'Organizational Expansion Strategies '
 date: 2017-11-01T04:00:00.000Z
 thumb_img_path: /images/atou.jpg
+excerpt: >-
+  A Touch of Understanding (ATOU) provides disability awareness programs
+  designed to educate a new generation to understand the challenges associated
+  with disabilities and to accept and respect all individuals
 layout: post
 ---
 
