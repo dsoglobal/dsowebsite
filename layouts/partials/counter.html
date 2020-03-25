@@ -1,5 +1,11 @@
 <script>
-let main = new CountUp('{{ .section.section_id }}', {{ .section.num_count }});
+var options = {
+    useEasing: true,
+    useGrouping: true,
+    separator: ',',
+    decimal: '.',
+}; 
+var main = new CountUp('{{ .section.section_id }}', {{ .section.num_count }}, options);
 if (!main.error) {
   main.start();
 } else {
