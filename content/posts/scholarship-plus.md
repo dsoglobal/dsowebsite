@@ -1,7 +1,7 @@
 ---
 title: Scholarship Plus
 subtitle: 'Sustainable and Growing Fundraising. '
-date: 2020-03-25T01:34:56.393Z
+date: 2016-10-01T04:00:00.000Z
 thumb_img_path: /images/scholarship-plus.jpeg
 excerpt: >-
   A partnership between Development Solution Organization and the Scholarship
