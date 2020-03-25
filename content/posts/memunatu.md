@@ -1,7 +1,7 @@
 ---
 title: Memunatu
 subtitle: Aligning girls literacy and leadership with strong champions and partners
-date: 2017-04-01T04:00:00.000Z
+date: 2017-02-01T05:00:00.000Z
 thumb_img_path: /images/journalism-issue-ipad-picture.png
 content_img_path: ''
 excerpt: >-
