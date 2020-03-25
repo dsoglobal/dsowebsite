@@ -1,7 +1,7 @@
 ---
 title: Cameroon Football Development Program (CFDP)
 subtitle: Sport for Development
-date: 2020-03-25T03:41:45.386Z
+date: 2016-12-01T05:00:00.000Z
 thumb_img_path: /images/cameroonfdp.jpg
 excerpt: >-
   A collaborative partnership between Development Solutions Organization (DSO)
