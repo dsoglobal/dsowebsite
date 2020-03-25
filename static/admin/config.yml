@@ -433,6 +433,37 @@ collections:
                       Name of the Stackbit object model, used by fields of type
                       reference
                     default: servicesblock
+              - name: counterblock
+                widget: object
+                label: Counter Block
+                fields:
+                  - widget: string
+                    name: section_id
+                    label: Element ID
+                    required: false
+                   - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section
+                  - widget: number
+                    name: num_count
+                    label: Number to count up to
+                    required: true
+                    valueType: int 
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: counter.html
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: counterblock
               - name: testimonialsblock
                 widget: object
                 label: Testimonials Section
