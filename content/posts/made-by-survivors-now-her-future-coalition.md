@@ -1,6 +1,6 @@
 ---
 title: Made by Survivors (now Her Future Coalition)
-date: 2012-01-12T05:00:00.000Z
+date: 2020-03-25T04:00:00.000Z
 thumb_img_path: /images/her-future-coalition.jpg
 layout: post
 ---
