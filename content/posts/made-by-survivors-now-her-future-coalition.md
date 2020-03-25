@@ -1,12 +1,13 @@
 ---
 title: Made by Survivors (now Her Future Coalition)
-subtitle: >-
+subtitle: ''
+date: 2012-01-01T05:00:00.000Z
+thumb_img_path: /images/her-future-coalition.jpg
+excerpt: >-
   A partnership between DSO and Made by Survivors (now Her Future Coalition) to
   increase revenue and sales of their jewelry by reviewing distribution
   opportunities and implementing the technical supply-chain operations to
   support additional shelters and rescue additional survivors.
-date: 2012-01-01T05:00:00.000Z
-thumb_img_path: /images/her-future-coalition.jpg
 layout: post
 ---
 | **Human Empowerment** | **Entrepreneurship** | **Economic Development** |
