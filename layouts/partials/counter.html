@@ -1,5 +1,5 @@
 <script>
-let main = new CountUp('{{ .section.section_id }}', {{  first .section.num_count }});
+let main = new CountUp('{{ .section.section_id }}', {{ .section.num_count }});
 if (!main.error) {
   main.start();
 } else {
