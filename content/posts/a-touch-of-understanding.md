@@ -4,9 +4,9 @@ subtitle: 'Organizational Expansion Strategies '
 date: 2017-11-01T04:00:00.000Z
 thumb_img_path: /images/atou.jpg
 excerpt: >-
-  A Touch of Understanding (ATOU) provides disability awareness programs
-  designed to educate a new generation to understand the challenges associated
-  with disabilities and to accept and respect all individuals
+  DSO partnered with A Touch of Understanding to evaluate expansion strategies,
+  sustainable financial models, set goals and research how similar programs have
+  scaled up in support of their disability awareness programs.
 layout: post
 ---
 
