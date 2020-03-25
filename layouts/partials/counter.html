@@ -1,0 +1,15 @@
+<script>
+let main = new CountUp('myTargetElement', 10000);
+if (!main.error) {
+  main.start();
+} else {
+  console.error(main.error);
+}
+</script>
+<section id="counter">
+  <div class="inner-small">
+    <div class="block-header">
+      <h3 class="block-title" id="myTargetElement">0</h3>
+    </div>
+  </div><!-- .inner -->
+</section><!-- .block -->
