@@ -440,7 +440,7 @@ collections:
                   - widget: string
                     name: section_id
                     label: Element ID
-                    required: false
+                    required: true
                   - widget: string
                     name: title
                     label: Title
