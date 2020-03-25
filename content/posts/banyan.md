@@ -27,6 +27,5 @@ Banyan is a mental health organization that has been an integral part of the car
 >
 > – Karthik Kumar, Engagement Lead, Development Solutions Organization
 
-**Project Time Frame:** Month - Month 20XX
-
-**Team:** Names Here
+\
+**Team:** Sanjana Padmanabhan, Shubh Tekriwal, Karthik Kumar, Anurati Sodani, Ivori Liu, Christina Jin, ZiZi Liao, Sihan Dong
