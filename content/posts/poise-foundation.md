@@ -1,7 +1,7 @@
 ---
 title: POISE Foundation
 subtitle: Expanding Fundraising & Marketing Capabilities
-date: 2020-03-25T03:26:12.072Z
+date: 2018-01-01T05:00:00.000Z
 thumb_img_path: /images/poise-foundation.jpg
 excerpt: >-
   A partnership between Development Solution Organization and the POISE
