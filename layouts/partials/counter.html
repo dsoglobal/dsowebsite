@@ -18,11 +18,11 @@
   var waypoint = new Waypoint({
   element: document.getElementById('counter'),
   handler: function(direction) {    
-    if (direction === 'down') {
-      counter1.start();
+    if (direction === 'up') {
+      counter1.reset();
     }
     else {
-     counter1.reset();
+     counter1.start();
     }
   },
   offset: '50%'
