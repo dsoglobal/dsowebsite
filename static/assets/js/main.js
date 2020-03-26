@@ -9,27 +9,6 @@ var videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
-//Counter
-  var options = {
-    useEasing: true,
-    useGrouping: true,
-    separator: ',',
-    decimal: '.'
-  };
-  var counter1 = new CountUp("counter1", 0, 10000, 0, 6); 
-  var waypoint = new Waypoint({
-  element: document.getElementById('counter'),
-  handler: function(direction) {    
-    if (direction === 'down') {
-      counter1.start();
-    }
-    else {
-     counter1.reset();
-    }
-  },
-  offset: '50%'
-}) 
-
 // Mobile menu
 var menuToggle = document.querySelectorAll('.menu-toggle');
 if (menuToggle) {
