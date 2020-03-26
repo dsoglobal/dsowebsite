@@ -1,15 +1,17 @@
-<section id="counter_{{ .section.section_id }}" class="block text-block outer">
+<section id="{{ .section.section_id }}" class="block text-block outer">
   <div class="inner-small">
-    <div class="block-header">
+      <div class="block-header">
       {{ if .section.counterlist }}
-       <div class="counter-list">
+        <div class="counter-list">
           {{ range $counter_idx, $counter := .section.counterlist }}
-             <div id="counter">
-               <span class="counter-counter" aria-hidden="true">{{ add $counter_idx 1 }}.</span>
-               <div class="counter-value" id="{{ $counter.title }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</div>
-             </div><!-- .counter -->
-      </div><!-- .counter-list --> 
-    </div><!-- .blockheader -->
+          <div class="counter">
+            <span class="counter-counter" aria-hidden="true">{{ add $counter_idx 1 }}.</span>
+			<span class="counter-value" id="{{ $counter.title }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</span>
+          </div><!-- .counter -->
+          {{ end }}
+        </div><!-- .counter-list -->
+      </div><!-- .block-header -->
+      {{ end }}
   </div><!-- .inner -->
 <script type="text/javascript">  
   jQuery(document).ready(function($) {
