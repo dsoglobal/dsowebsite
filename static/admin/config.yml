@@ -453,18 +453,6 @@ collections:
                     required: false
                     valueType: int
                     default: 2000
-                  - widget: boolean
-                    name: money
-                    label: Use money symbol ($) before value
-                    required: false
-                    valueType: boolean
-                    default: false
-                  - widget: boolean
-                    name: percent
-                    label: Use percent symbol (%) after value
-                    required: false
-                    valueType: boolean
-                    default: false
                   - widget: list
                     name: counterlist
                     label: Counters
@@ -486,6 +474,18 @@ collections:
                         label: Number to count up to
                         required: true
                         valueType: string
+                      - widget: boolean
+                        name: money
+                        label: Use money symbol ($) before value
+                        required: false
+                        valueType: boolean
+                        default: false
+                      - widget: boolean
+                        name: percent
+                        label: Use percent symbol (%) after value
+                        required: false
+                        valueType: boolean
+                        default: false
                   - widget: hidden
                     name: component
                     label: Component
