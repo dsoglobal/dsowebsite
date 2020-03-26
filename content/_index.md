@@ -56,7 +56,9 @@ sections:
     section_id: counter
     counterlist:
       - num_start: 0
-        title: 4 or 5 rating on quality and impact of our work
+        title: >-
+          4 or 5 rating from partners who completed survey on work quality and
+          impact
         num_count: 100%
 menu:
   main:
