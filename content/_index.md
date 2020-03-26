@@ -60,6 +60,9 @@ sections:
           4 or 5 rating from partners who completed survey on work quality and
           impact
         num_count: 100%
+      - num_start: 0
+        title: '# of volunteer hrs to date'
+        num_count: '40,000'
 menu:
   main:
     name: Home
