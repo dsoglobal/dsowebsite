@@ -441,34 +441,39 @@ collections:
                     name: section_id
                     label: Element ID
                     required: true
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: false
-                    hint: The title of the section
-                  - widget: number
-                    name: num_start
-                    label: Number to start from
-                    required: false
-                    valueType: int
-                    default: 0
-                  - widget: string
-                    name: num_count
-                    label: Number to count up to
+                  - widget: list
+                    name: counterlist
+                    label: Counters
                     required: true
-                    valueType: string
-                  - widget: number
-                    name: num_delay
-                    label: The delay in milliseconds per number count up
-                    required: false
-                    valueType: int
-                    default: 10
-                  - widget: number
-                    name: num_time
-                    label: The total duration in milliseconds of the count up animation
-                    required: false
-                    valueType: int
-                    default: 2000
+                    fields:
+                      - widget: string
+                        name: title
+                        label: Title
+                        required: false
+                        hint: The title of the section
+                      - widget: number
+                        name: num_start
+                        label: Number to start from
+                        required: false
+                        valueType: int
+                        default: 0
+                      - widget: string
+                        name: num_count
+                        label: Number to count up to
+                        required: true
+                        valueType: string
+                      - widget: number
+                        name: num_delay
+                        label: The delay in milliseconds per number count up
+                        required: false
+                        valueType: int
+                        default: 10
+                      - widget: number
+                        name: num_time
+                        label: The total duration in milliseconds of the count up animation
+                        required: false
+                        valueType: int
+                        default: 2000
                   - widget: hidden
                     name: component
                     label: Component
