@@ -3,21 +3,20 @@
 
 <section id="{{ .section.section_id }}" class="block text-block outer">
   <div class="inner-small">
-    <div class="block-header">
-      {{ $main := counter{{ index (seq 10 | shuffle) 0 }} }}
-      <div class="block-title counter-value" id="{{ $main }}" data-count="{{ .section.num_count }}" data-desc="{{ .section.title }}">0</div>
+    <div class="block-header">     
+      <div class="block-title counter-value" id="counter1" data-count="{{ .section.num_count }}" data-desc="{{ .section.title }}">0</div>
     </div>
   </div><!-- .inner -->
 </section><!-- .block -->
 <script>
-  var counter = new CountUp("{{ $main }}", 0, {{ .section.num_count }}, 0, 2.0); 
+  var counter1 = new CountUp("counter1", 0, {{ .section.num_count }}, 0, 2.0); 
   var waypoint1 = new Waypoint({
   element: document.getElementById('counter}'),
   handler: function(direction) {
     if (direction == "up") {
-      {{ $main }}.reset();
+      counter1.reset();
     } else {
-      {{ $main }}.start();
+      counter1.start();
     }
   },
   offset: '50%'
