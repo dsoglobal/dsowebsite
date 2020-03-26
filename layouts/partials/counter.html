@@ -1,22 +1,53 @@
-<section id="count{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
+<section id="{{ .section.section_id }}" class="block text-block outer">
   <div class="inner-small">
     <div class="block-header">
-      <p style="position:absolute; top:5px; left:0;">{{  .section.title }}:</p>
-      <h3 class="block-title" id="{{ .section.section_id }}">0</h3>
+      <div class="block-title counter-value" data-count="{{ .section.num_count }}" data-desc="{{ .section.title }}">0</div>
     </div>
   </div><!-- .inner -->
 </section><!-- .block -->
-<script>
-var options = {
-    useEasing: true,
-    useGrouping: true,
-    separator: ',',
-    decimal: '.',
-};
-  var main = new CountUp('{{ .section.section_id }}', {{ .section.num_count }}, options);
-  if (!main.error) {
-    main.start();
-  } else {
-    console.error(main.error);
+
+<style>
+ .counter-value, { 
+   font-size: 60px;
+   line-height:2em;
+   text-align:center;
+   padding:17px 0;
+ }
+  .counter-value:after {
+   content: attr(data-desc);
+    display:block;
+    text-transform:uppercase;
+    font-size: 14px;
+    line-height:1.2em;
   }
+</style>
+
+<script>
+var a = 0;
+$(window).scroll(function() {
+
+  var oTop = $('#counter').offset().top - window.innerHeight;
+  if (a == 0 && $(window).scrollTop() > oTop) {
+    $('.counter-value').each(function() {
+      var $this = $(this),
+          countTo = $this.attr('data-count');
+    $({
+      countNum: $this.text()
+    }).animate({
+      countNum: countTo
+    },
+       {
+          duration: 2000,
+          easing: 'swing',
+          step: function() {
+            $this.text(Math.floor(this.countNum).toLocaleString("en-US"));
+          },
+          complete: function() {
+            $this.text(this.countNum.toLocaleString("en-US"));
+          }
+        });
+    });	
+    a = 1;
+  }
+});
 </script>
