@@ -455,8 +455,8 @@ collections:
                   - widget: string
                     name: num_count
                     label: Number to count up to
-                    required: false
-                    valueType: string 
+                    required: true
+                    valueType: string
                   - widget: number
                     name: num_delay
                     label: The delay in milliseconds per number count up
