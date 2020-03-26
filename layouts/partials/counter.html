@@ -13,7 +13,7 @@ var options = {
     separator: ',',
     decimal: '.',
 };
-import { CountUp } from '{{ "assets/js/CountUp.js" | relURL }}';
+
 window.onload = function() {
   var main = new CountUp('{{ .section.section_id }}', {{ .section.num_count }}, options);
   if (!main.error) {
