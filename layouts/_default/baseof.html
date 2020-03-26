@@ -9,15 +9,15 @@
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ExecuteAsTemplate "assets/css/main.css" . | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10)).Permalink }}">
     </head>
     <body>
-        <!-- Scripts -->
-        <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
-        <script src="{{ "assets/js/main.js" | relURL }}"></script>
         <div id="page" class="site palette-{{ .Site.Params.color_scheme }} accent-{{ .Site.Params.accent_color }}">
           {{ partial "header.html" . }}
           <main id="content" class="site-content">
             {{ block "content" . }}{{ end }}
           </main><!-- .site-content -->
           {{ partial "footer.html" . }}
-        </div><!-- .site -->       
-    </body> 
+        </div><!-- .site -->
+     <!-- Scripts -->
+     <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
+     <script src="{{ "assets/js/main.js" | relURL }}"></script>
+    </body>
 </html>
