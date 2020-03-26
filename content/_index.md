@@ -54,6 +54,10 @@ sections:
     num_time: 2000
     component: counter.html
     section_id: counter
+    counterlist:
+      - num_start: 0
+        title: 4 or 5 rating on quality and impact of our work
+        num_count: 100%
 menu:
   main:
     name: Home
