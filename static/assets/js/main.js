@@ -28,8 +28,7 @@ reframe(videoEmbeds.join(','));
     }
   },
   offset: '50%'
-})  
-</script>
+}) 
 
 // Mobile menu
 var menuToggle = document.querySelectorAll('.menu-toggle');
