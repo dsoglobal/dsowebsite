@@ -1,23 +1,23 @@
 <script src="{{ "assets/js/counter.js" | relURL }}"></script>
 <script src="{{ "assets/js/waypoints.js" | relURL }}"></script>
 
-<section id="counter{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
+<section id="{{ .section.section_id }}" class="block text-block outer">
   <div class="inner-small">
     <div class="block-header">
-      <div class="block-title counter-value" id="{{ .section.section_id }}" data-count="{{ .section.num_count }}" data-desc="{{ .section.title }}">0</div>
+      {{ $main := counter{{ index (seq 10 | shuffle) 0 }} }}
+      <div class="block-title counter-value" id="{{ $main }}" data-count="{{ .section.num_count }}" data-desc="{{ .section.title }}">0</div>
     </div>
   </div><!-- .inner -->
 </section><!-- .block -->
 <script>
-  var counter = {{ .section.section_id }};
-  counter = new CountUp('{{ .section.section_id }}', 0, {{ .section.num_count }}, 0, 2.0); 
+  var counter = new CountUp("{{ $main }}", 0, {{ .section.num_count }}, 0, 2.0); 
   var waypoint1 = new Waypoint({
-  element: document.getElementById('{{ .section.section_id }}'),
+  element: document.getElementById('counter}'),
   handler: function(direction) {
     if (direction == "up") {
-      {{ .section.section_id }}.reset();
+      {{ $main }}.reset();
     } else {
-      {{ .section.section_id }}.start();
+      {{ $main }}.start();
     }
   },
   offset: '50%'
