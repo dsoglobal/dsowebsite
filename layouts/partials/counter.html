@@ -7,9 +7,9 @@
              <div id="counter">
                <span class="counter-counter" aria-hidden="true">{{ add $counter_idx 1 }}.</span>
                <div class="counter-value" id="{{ $counter.title }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</div>
-             </div>
-      </div>  
-    </div>
+             </div><!-- .counter -->
+      </div><!-- .counter-list --> 
+    </div><!-- .blockheader -->
   </div><!-- .inner -->
 <script type="text/javascript">  
   jQuery(document).ready(function($) {
@@ -20,4 +20,4 @@
   });
 });
 </script>
-</section><!-- .block -->  
+</section><!-- .block -->
