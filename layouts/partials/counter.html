@@ -5,8 +5,7 @@
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
-		<span class="money" data-desc="{{ $counter.money }}">$</span><div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}"><span class="percent" data-desc="{{ $counter.percent }}">%</span>
-	</div>
+		<span class="money" data-desc="{{ $counter.money }}">$</span><span class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}"></span><span class="percent" data-desc="{{ $counter.percent }}">%</span>
 	     {{ end }}
 	  {{ end }}
 	</div> 
