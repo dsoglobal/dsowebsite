@@ -17,7 +17,7 @@
   };
   var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 2.0, options); 
   var waypoint1 = new Waypoint({
-  element: document.getElementById('counter}'),
+  element: document.getElementById('counter'),
   handler: function(direction) {
     if (direction == "up") {
       counter1.reset();
