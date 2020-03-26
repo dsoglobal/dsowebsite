@@ -11,7 +11,8 @@
     <body>
         <div id="page" class="site palette-{{ .Site.Params.color_scheme }} accent-{{ .Site.Params.accent_color }}">
           {{ partial "header.html" . }}
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>  
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>   
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.0/jquery.waypoints.min.js"></script>
           <script src="{{ "assets/js/plugins.js" | relURL }}"></script>
           <main id="content" class="site-content">
             {{ block "content" . }}{{ end }}
