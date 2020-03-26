@@ -5,38 +5,3 @@
     </div>
   </div><!-- .inner -->
 </section><!-- .block -->
-<script>
-  var options = {
-    useEasing: true,
-    useGrouping: true,
-    separator: ',',
-    decimal: '.'
-  };
-  var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 6); 
-  var waypoint = new Waypoint({
-  element: document.getElementById('counter1'),
-  handler: function(direction) {    
-    if (direction === 'down') {
-      counter1.start();
-    }
-    else {
-     counter1.reset();
-    }
-  },
-  offset: '50%'
-})  
-</script>
-
-<style>
- .counter-value, { 
-   line-height:2em;
-   text-align:center;
-   padding:17px 0;
- }
-  .counter-value:before {
-   content: attr(data-desc);
-    display:block;
-    text-transform:uppercase;
-    line-height:1.2em;
-  }
-</style>
