@@ -26,7 +26,6 @@
 $(document).ready(function () {  
   var a = 0;
   $(window).scroll(function() {
-
     var oTop = $('#counter').offset().top - window.innerHeight;
     if (a == 0 && $(window).scrollTop() > oTop) {
       $('.counter-value').each(function() {
@@ -51,5 +50,5 @@ $(document).ready(function () {
       a = 1;
     }
   });
-}
+});
 </script>
