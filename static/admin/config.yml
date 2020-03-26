@@ -449,24 +449,24 @@ collections:
                   - widget: number
                     name: num_start
                     label: Number to start from
-                    required: true
+                    required: false
                     valueType: int
                     default: 0
                   - widget: string
                     name: num_count
                     label: Number to count up to
-                    required: true
+                    required: false
                     valueType: string 
                   - widget: number
                     name: num_delay
                     label: The delay in milliseconds per number count up
-                    required: true
+                    required: false
                     valueType: int
                     default: 10
                   - widget: number
                     name: num_time
                     label: The total duration in milliseconds of the count up animation
-                    required: true
+                    required: false
                     valueType: int
                     default: 2000
                   - widget: hidden
