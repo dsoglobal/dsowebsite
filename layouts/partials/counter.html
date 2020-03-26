@@ -16,12 +16,7 @@
     decimal: '.'
   };
   var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 2.0, options); 
-  var waypoint1 = new Waypoint({
-  element: document.getElementById('{{ .section.section_id }}'),
-  handler: function() {
-      counter1.start();
-    }
-});
+  counter1.start();
 </script>
 
 <style>
