@@ -1,3 +1,12 @@
+<section id="counter{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
+  <div class="inner-small">
+    <div class="block-header">
+      <div id="counter"> 
+        <div class="counter-value" id="{{ .section.section_id }}" data-desc="{{ .section.title }}">0</div>
+      </div>
+    </div>
+  </div><!-- .inner -->
+</section><!-- .block -->
 <script>
   var options = {
     useEasing: true,
@@ -19,12 +28,3 @@
   offset: '50%'
 }) 
 </script>
-<section id="counter{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
-  <div class="inner-small">
-    <div class="block-header">
-      <div id="counter"> 
-        <div class="counter-value" id="{{ .section.section_id }}" data-desc="{{ .section.title }}">0</div>
-      </div>
-    </div>
-  </div><!-- .inner -->
-</section><!-- .block -->
