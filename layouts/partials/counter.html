@@ -5,7 +5,13 @@
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
-	           <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</div>
+	           <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">
+	             {{ if in $counter.num_count "$" }}
+			   <span>$</span>{{ end }}{{ substr (replace $counter.num_count "$" "" }}
+		     {{else}}
+			{{ $counter.num_count }}
+	             {{ end }}
+		   </div>
 	     {{ end }}
 	  {{ end }}
 	</div> 
