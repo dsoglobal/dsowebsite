@@ -16,7 +16,7 @@ reframe(videoEmbeds.join(','));
     separator: ',',
     decimal: '.'
   };
-  var counter1 = new CountUp({{ .section.section_id }}, 0, {{ .section.num_count }}, 0, 6); 
+  var counter1 = new CountUp("counter1", 0, 10000, 0, 6); 
   var waypoint = new Waypoint({
   element: document.getElementById('counter'),
   handler: function(direction) {    
