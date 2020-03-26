@@ -54,7 +54,7 @@ sections:
     num_delay: 10
     num_time: 2000
     component: counter.html
-    section_id: counter1
+    section_id: counter2
     title: '# of volunteer hours'
     num_count: '10,000'
 menu:
