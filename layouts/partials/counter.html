@@ -4,12 +4,18 @@
 <section id="counter{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
   <div class="inner-small">
     <div class="block-header">     
-      <div class="counter-value" id="{{ .section.section_id }}" data-count="{{ .section.num_count }}" data-desc="{{ .section.title }}">0</div>
+      <div class="counter-value" id="{{ .section.section_id }}" data-desc="{{ .section.title }}">0</div>
     </div>
   </div><!-- .inner -->
 </section><!-- .block -->
 <script>
-  var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 2.0); 
+  var options = {
+    useEasing: true,
+    useGrouping: true,
+    separator: ',',
+    decimal: '.'
+  };
+  var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 2.0, options); 
   var waypoint1 = new Waypoint({
   element: document.getElementById('counter}'),
   handler: function(direction) {
