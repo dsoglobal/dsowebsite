@@ -2,15 +2,15 @@
   <div class="inner-small">
     <div class="block-header">
       <div id="counter"> 
-        <div class="counter-value" id="{{ .section.section_id }}" data-counterup-beginat="0" data-desc="{{ .section.title }}">{{ .section.num_count }}</div>
+        <div class="counter-value" id="{{ .section.section_id }}" data-counterup-beginat="{{ .section.num_start }}" data-desc="{{ .section.title }}">{{ .section.num_count }}</div>
       </div>
     </div>
   </div><!-- .inner -->
 <script type="text/javascript">  
   jQuery(document).ready(function($) {
   $(".counter-value").counterUp({
-    delay: 10, /* The delay in milliseconds per number count up */
-    time: 1000, /*The total duration of the count up animation */
+    delay: {{ .section.num_delay }}, /* The delay in milliseconds per number count up */
+    time: {{ .section.num_time }}, /*The total duration of the count up animation */
     offset: 100, 
   });
 });
