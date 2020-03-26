@@ -2,30 +2,18 @@
   <div class="inner-small">
     <div class="block-header">
       <div id="counter"> 
-        <div class="counter-value" id="{{ .section.section_id }}" data-desc="{{ .section.title }}">0</div>
+        <div class="counter-value" id="{{ .section.section_id }}" data-counterup-beginat="0">{{ .section.title }}</div>
       </div>
     </div>
   </div><!-- .inner -->
-  <script type="text/javascript">
-  var options = {
-    useEasing: true,
-    useGrouping: true,
-    separator: ',',
-    decimal: '.'
-  };
-  var counter1 = new CountUp('{{ .section.section_id }}', 0, {{ .section.num_count }}, 0, 3); 
-  var waypoint = new Waypoint({
-  element: document.getElementById('counter'),
-  handler: function(direction) {    
-    if (direction === 'up') {
-      counter1.reset();
-    }
-    else {
-     counter1.start();
-    }
-  },
-  offset: '50%'
-}) 
+<script type="text/javascript">
+  jQuery(document).ready(function($) {
+  $(".counter-value").counterUp({
+    delay: 10, /* The delay in milliseconds per number count up */
+    time: 1000, /*The total duration of the count up animation */
+    offset: 100, 
+  });
+});
 </script>
 </section><!-- .block -->
 
