@@ -63,6 +63,12 @@ sections:
       - num_start: 0
         title: '# of volunteer hrs to date'
         num_count: '40,000'
+      - num_start: 0
+        title: '# of projects completed'
+        num_count: '50'
+      - num_start: 0
+        title: $$ value of pro-bono consulting
+        num_count: '$500,000'
 menu:
   main:
     name: Home
