@@ -9,6 +9,28 @@ var videoEmbeds = [
 ];
 reframe(videoEmbeds.join(','));
 
+//Counter
+  var options = {
+    useEasing: true,
+    useGrouping: true,
+    separator: ',',
+    decimal: '.'
+  };
+  var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 6); 
+  var waypoint = new Waypoint({
+  element: document.getElementById('counter1'),
+  handler: function(direction) {    
+    if (direction === 'down') {
+      counter1.start();
+    }
+    else {
+     counter1.reset();
+    }
+  },
+  offset: '50%'
+})  
+</script>
+
 // Mobile menu
 var menuToggle = document.querySelectorAll('.menu-toggle');
 if (menuToggle) {
