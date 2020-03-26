@@ -9,7 +9,7 @@
   </div><!-- .inner -->
 </section><!-- .block -->
 <script>
-  var counter1 = new CountUp('{{ .section.section_id }}', 0, {{ .section.num_count }}, 0, 2.0, {
+  var {{ .section.section_id }} = new CountUp('{{ .section.section_id }}', 0, {{ .section.num_count }}, 0, 2.0, {
   useEasing: true,
   useGrouping: true,
   separator: ',',
