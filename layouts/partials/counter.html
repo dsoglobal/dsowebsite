@@ -1,3 +1,24 @@
+<script>
+  var options = {
+    useEasing: true,
+    useGrouping: true,
+    separator: ',',
+    decimal: '.'
+  };
+  var counter1 = new CountUp('{{ .section.section_id }}', 0, {{ .section.num_count }},, 0, 6); 
+  var waypoint = new Waypoint({
+  element: document.getElementById('counter'),
+  handler: function(direction) {    
+    if (direction === 'down') {
+      counter1.start();
+    }
+    else {
+     counter1.reset();
+    }
+  },
+  offset: '50%'
+}) 
+</script>
 <section id="counter{{ index (seq 100 | shuffle) 0 }}" class="block text-block outer">
   <div class="inner-small">
     <div class="block-header">
