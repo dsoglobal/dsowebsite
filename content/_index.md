@@ -56,7 +56,7 @@ sections:
     component: counter.html
     section_id: counter1
     title: '# of volunteer hours'
-    num_count: '10000'
+    num_count: '10,000'
 menu:
   main:
     name: Home
