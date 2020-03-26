@@ -49,6 +49,20 @@ sections:
     subtitle: Drop Us a Note to Learn More
     title: Contact Us
     type: contactblock
+  - type: counterblock
+    component: counter.html
+    section_id: Counters
+    counterlist:
+      - num_start: 0
+        num_delay: 10
+        num_time: 2000
+        title: Test
+        num_count: '100'
+      - num_start: 0
+        num_delay: 10
+        num_time: 2000
+        title: Test2
+        num_count: '200'
 menu:
   main:
     name: Home
