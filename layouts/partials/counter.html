@@ -7,8 +7,8 @@
 	        {{ $c :=add $counter_idx 1 }}
 	           <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">
 	             {{ if in $counter.num_count "$" }}
-			   <span>$</span>{{ substr (replace $counter.num_count "$" "" }}
-		     {{else}}
+			   <span>$</span>{{ substr (replace $counter.num_count "$" " " }}
+		     {{ else }}
 			{{ $counter.num_count }}
 	             {{ end }}
 		     {{ if in $counter.num_count "%" }}
