@@ -59,7 +59,8 @@ sections:
         title: >-
           4 or 5 rating from partners who completed survey on work quality and
           impact
-        num_count: 100%
+        num_count: '100'
+        percent: true
       - num_start: 0
         title: '# of volunteer hrs to date'
         num_count: '40,000'
@@ -68,7 +69,8 @@ sections:
         num_count: '50'
       - num_start: 0
         title: $$ value of pro-bono consulting
-        num_count: '$500,000'
+        num_count: '500,000'
+        money: true
 menu:
   main:
     name: Home
