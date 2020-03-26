@@ -49,11 +49,6 @@ sections:
     subtitle: Drop Us a Note to Learn More
     title: Contact Us
     type: contactblock
-  - type: counterblock
-    component: counter.html
-    section_id: counter1
-    num_count: 10000
-    title: '# of volunteer hrs to date'
 menu:
   main:
     name: Home
