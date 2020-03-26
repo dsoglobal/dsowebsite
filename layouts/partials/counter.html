@@ -4,10 +4,8 @@
       {{ if .section.counterlist }}
         <div class="counter-list">
           {{ range $counter_idx, $counter := .section.counterlist }}
-          <div class="counter">
-            <span class="counter-counter" aria-hidden="true">{{ add $counter_idx 1 }}.</span>
-			<span class="counter-value" id="{{ $counter.title }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</span>
-          </div><!-- .counter -->
+	     {{ $c :=add $index 1 }}
+	    <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</div>
           {{ end }}
         </div><!-- .counter-list -->
       </div><!-- .block-header -->
