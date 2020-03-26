@@ -13,13 +13,10 @@ var options = {
     separator: ',',
     decimal: '.',
 };
-
-window.onload = function() {
   var main = new CountUp('{{ .section.section_id }}', {{ .section.num_count }}, options);
   if (!main.error) {
     main.start();
   } else {
     console.error(main.error);
   }
-}
 </script>
