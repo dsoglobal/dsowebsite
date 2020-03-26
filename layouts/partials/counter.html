@@ -15,8 +15,16 @@
     separator: ',',
     decimal: '.'
   };
-  var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 2.0, options); 
-  counter1.start();
+  var counter1 = new CountUp("{{ .section.section_id }}", 0, {{ .section.num_count }}, 0, 12); 
+  var waypoint = new Waypoint({
+  element: document.getElementById('counter1'),
+  handler: function(direction) {    
+    if (direction === 'down') {
+      counter1.start();
+    }
+  },
+  offset: '50%'
+})  
 </script>
 
 <style>
