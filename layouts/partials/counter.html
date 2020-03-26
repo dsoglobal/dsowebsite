@@ -5,11 +5,8 @@
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
-	           <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">
-	             <span>$</span>
-		     {{ $counter.num_count }}
-		     {{ if $counter.percent }}<span>%</span>{{end}}			   
-		   </div>
+		<span id="money" display="none">$</span><div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}"><span id="percent" display="none">%</span>
+	</div>
 	     {{ end }}
 	  {{ end }}
 	</div> 
@@ -17,6 +14,8 @@
   </div><!-- .inner -->
 <script type="text/javascript">  
   jQuery(document).ready(function($) {
+  {{ if $counter.money }}$('#money').show();{{end}}	
+  {{ if $counter.percent }}$('#percent').show();{{end}}	
   $(".counter-value").counterUp({
     delay: {{ .section.num_delay }}, /* The delay in milliseconds per number count up */
     time: {{ .section.num_time }}, /*The total duration of the count up animation */
