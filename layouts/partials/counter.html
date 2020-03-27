@@ -4,7 +4,7 @@
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
-	      	<div id="counter">
+	      	<div id="counter" class="counter">
 		   <div class="counter-title">{{ $counter.title }}</div>
 		   <span class="money" style="display:{{ (cond (ne ($counter.money) nil) "inline" "none") }}">$</span>	
 		   <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}">{{ $counter.num_count }}</div>
