@@ -11,6 +11,10 @@ sections:
     layout_style: tiles
     num_projects_displayed: 5
     section_id: teamsmain
+  - type: testimonialsblock
+    component: testimonials_block.html
+    title: Our Teammates Work
+    subtitle: Here's some of our teammate's associations and accomplishments
 menu:
   main:
     identifier: teams
@@ -19,4 +23,3 @@ menu:
     weight: 3
 layout: portfolio
 ---
-
