@@ -37,8 +37,6 @@
 .layout-tiles {
   width: 70%;
   height: 70%;
-  margin-left: 10rem;
-  margin-right: 10rem;
 }
 
 /* Contacts */
@@ -335,6 +333,11 @@
   .block {
     padding-bottom: 3em;
     padding-top: 3em;
+  }
+
+  .layout-tiles {
+    margin-left: 10rem;
+    margin-right: 10rem;
   }
 
   .block-inside {
