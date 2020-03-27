@@ -2,13 +2,13 @@
 
 <div class="outer">
   <div class="inner">
-
     <header class="page-header inner-small">
       <h1 class="page-title line-top">{{ .Params.title }}</h1>
       {{ if .Params.subtitle }}
       <p class="page-subtitle">{{ .Params.subtitle }}</p>
       {{ end }}
     </header><!--.page-header -->
+
     <div class="portfolio-feed layout-{{ .Params.layout_style }}">
       {{ $display_projects := ((.Site.GetPage "section" "/people").Pages).ByDate.Reverse }}
       {{ range $post := $display_projects }}
@@ -24,14 +24,10 @@
           </header>
         </a><!-- .post-link -->
       </article><!-- .project -->
+
       {{ end }}
-    </div><!-- .portfolio-feed -->
-   
-    {{ range $section := .Params.sections }}
-      {{ $include_dict := dict "section" $section "Site" $.Site }}
-      {{ partial $section.component $include_dict }}
-    {{ end }}
-    
+    </div><!-- .portfolio-feed -->  
+  
     <!-- Pagination TBD -->
     <!--
     <nav class="pagination">
@@ -44,7 +40,7 @@
       </div>
     </nav>
     -->
-  </div><!-- .inner -->
+  </div><!-- .inner -->   
 </div><!-- .outer-->
 
 {{ end }}
