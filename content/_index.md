@@ -57,6 +57,7 @@ sections:
         title: value of pro-bono consulting
         num_count: '500,000'
         money: true
+    title: Our Impact
   - type: postsblock
     component: posts_block.html
     num_posts_displayed: 2
