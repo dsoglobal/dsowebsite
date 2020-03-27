@@ -16,7 +16,6 @@ params:
     has_nav: true
     logo_img: /images/logo-2-.png
     title: DSO
-disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+taxonomies:
+  category: categories
+  tag: tags
