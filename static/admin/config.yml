@@ -741,11 +741,15 @@ collections:
             label: Subtitle
             required: false
             hint: The text shown just below the page title.
-          - widget: hidden
+          - widget: select
             name: layout_style
             label: Layout Style
             required: true
             default: tiles
+            hint: The layout style of the section.
+            options:
+              - mosaic
+              - tiles
           - widget: list
             name: sections
             label: Sections
