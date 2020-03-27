@@ -195,7 +195,10 @@
 }
 
 /*Counter*/
-.counter-value, { 
+.counter { 
+  text-align: center;
+}
+.counter-value { 
    line-height:2em;
    text-align:center;
    padding:17px 0;
