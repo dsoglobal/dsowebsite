@@ -1,7 +1,14 @@
 <section id="{{ .section.section_id }}" class="block services-block outer">
   <div class="inner">
      <div class="block-inside">
-     <div class="block-header"></div>
+     <div class="block-header">
+	<h2 class="block-title line-top">{{ .section.title }}</h2>
+        {{ if .section.subtitle }}
+        <p class="block-subtitle">
+          {{ .section.subtitle | safeHTML }}
+        </p>
+        {{ end }}
+     </div>
       <div class="block-content"> 
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
