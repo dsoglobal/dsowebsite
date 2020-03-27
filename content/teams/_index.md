@@ -23,6 +23,13 @@ sections:
           - label: Artificial Intelligence in K-12 Education
             url: >-
               https://www.mckinsey.com/industries/social-sector/our-insights/how-artificial-intelligence-will-impact-k-12-teachers
+      - type: testimonialsblock
+        author: Silicon Valley Social Venture Fund (SV2)
+        avatar: /images/0.png
+        content: ''
+        actions:
+          - url: 'https://sv2.org/person/amy-badiani/'
+            label: Amy's Profile
 menu:
   main:
     identifier: teams
