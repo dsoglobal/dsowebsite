@@ -921,7 +921,7 @@ collections:
             name: layout
             label: Layout
             required: true
-            default: home
+            default: portfolio
   - name: blogmain
     label: Blog
     files:
