@@ -1,8 +1,12 @@
 ---
 title: Our Teams
 date: ''
-subtitle: Our teams are the heart of DSO.
+subtitle: ''
 sections:
+  - type: heroblock
+    component: hero_block.html
+    title: Our Teams
+    content: Our teams are the heart of DSO.
   - type: portfolioblock
     component: portfolio_block.html
     layout_style: tiles
