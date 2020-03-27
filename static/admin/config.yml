@@ -746,7 +746,95 @@ collections:
             label: Sections
             required: false
             hint: Teams page sections.
-            types:     
+            types:
+              - name: heroblock
+                widget: object
+                label: Header Section
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.        
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: hero_block.html
+                  - widget: markdown
+                    name: content
+                    label: Content
+                    required: false
+                    hint: The text content of the section.
+                  - widget: hidden
+                    name: type
+                    label: Reference Type Name
+                    required: true
+                    hint: >-
+                      Name of the Stackbit object model, used by fields of type
+                      reference
+                    default: heroblock   
+              - name: testimonialsblock
+                widget: object
+                label: Add Companies
+                fields:
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.          
+                  - widget: hidden
+                    name: component
+                    label: Component
+                    required: true
+                    default: testimonials_block.html
+                  - widget: string
+                    name: subtitle
+                    label: Subtitle
+                    required: false
+                    hint: The subtitle of the section.
+                  - widget: list
+                    name: testimonialslist
+                    label: Organizations
+                    required: false
+                    fields:
+                      - widget: string
+                        name: author
+                        label: Name
+                        required: true
+                        hint: The name of the organizations.
+                      - widget: image
+                        name: avatar
+                        label: Logo
+                        required: false
+                        hint: The logo of the organization.
+                      - widget: string
+                        name: content
+                        label: Subtitle
+                        required: false
+                        hint: Additional short text about organization
+                      - widget: list
+                        name: actions
+                        label: Link to Work
+                        required: false
+                        fields:
+                          - widget: string
+                            name: label
+                            label: Label
+                            required: true
+                            hint: The text displayed inside the link.
+                          - widget: string
+                            name: url
+                            label: Link URL
+                            required: false
+                      - widget: hidden
+                        name: type
+                        label: Reference Type Name
+                        required: true
+                        hint: >-
+                          Name of the Stackbit object model, used by fields of type
+                          reference
+                        default: testimonialsblock              
               - name: portfolioblock
                 widget: object
                 label: Hub Teams
