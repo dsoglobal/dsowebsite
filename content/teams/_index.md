@@ -8,8 +8,8 @@ sections:
     layout_style: tiles
     num_projects_displayed: 5
     section_id: teamsmain
-    title: ''
-    subtitle: We have teams in several locations around the US
+    title: Our Teams
+    subtitle: We have teams in several locations around the US.
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates Work
