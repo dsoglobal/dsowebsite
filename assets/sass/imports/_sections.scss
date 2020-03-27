@@ -16,12 +16,6 @@
     padding-bottom: 0;
     padding-top: 0;
   }
-  
-.layout-tiles {
-      width: 50%;
-      height: 50%;
-  }
-
 }
 
 .block-header {
@@ -39,6 +33,11 @@
   line-height: 1.5;
   margin: 0.83333rem 0 0;
 }
+
+.layout-tiles {
+      width: 50%;
+      height: 50%;
+  }
 
 /* Contacts */
 .contact-block {
