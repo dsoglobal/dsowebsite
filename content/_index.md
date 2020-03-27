@@ -66,7 +66,7 @@ sections:
         title: '# of projects completed'
         num_count: '50'
       - num_start: 0
-        title: $$ value of pro-bono consulting
+        title: value of pro-bono consulting
         num_count: '500,000'
         money: true
 menu:
