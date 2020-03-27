@@ -1,11 +1,11 @@
 ---
 title: Bay Area
-thumb_img_path: ''
+thumb_img_path: /images/goldengate.jpeg
 layout: home
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
-    title: 'Berkeley Team'
+    title: Berkeley Team
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
