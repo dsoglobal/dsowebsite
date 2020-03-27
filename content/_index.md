@@ -9,6 +9,26 @@ sections:
     section_id: hero
     title: Development Solution Organization
     type: heroblock
+  - type: counterblock
+    num_delay: 10
+    num_time: 2000
+    component: counter.html
+    section_id: counter
+    counterlist:
+      - num_start: 0
+        title: '4 or 5 partner rating on work quality and impact '
+        num_count: '100'
+        percent: true
+      - num_start: 0
+        title: '# of volunteer hrs to date'
+        num_count: '40,000'
+      - num_start: 0
+        title: '# of projects completed'
+        num_count: '50'
+      - num_start: 0
+        title: value of pro-bono consulting
+        num_count: '500,000'
+        money: true
   - component: services_block.html
     section_id: services
     serviceslist:
@@ -44,26 +64,6 @@ sections:
     actions:
       - label: View More Projects
         url: /projects
-  - type: counterblock
-    num_delay: 10
-    num_time: 2000
-    component: counter.html
-    section_id: counter
-    counterlist:
-      - num_start: 0
-        title: '4 or 5 partner rating on work quality and impact '
-        num_count: '100'
-        percent: true
-      - num_start: 0
-        title: '# of volunteer hrs to date'
-        num_count: '40,000'
-      - num_start: 0
-        title: '# of projects completed'
-        num_count: '50'
-      - num_start: 0
-        title: value of pro-bono consulting
-        num_count: '500,000'
-        money: true
   - component: contact_block.html
     section_id: contact
     subtitle: Drop Us a Note to Learn More
