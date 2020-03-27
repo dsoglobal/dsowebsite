@@ -8,7 +8,7 @@
 		   <div class="counter-title">{{ $counter.title }}</div>
 		   <span class="money" display="{{ (cond (ne ($counter.money) nil) "inline" "hidden") }}">$</span>	
 		   <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}">{{ $counter.num_count }}</div>
-		   <span class="percent" display="{{ (cond (ne ($counter.percent) nil) "inline" "hidden") }}"">%</span>	
+		   <span class="percent" display="{{ (cond (ne ($counter.percent) nil) "inline" "hidden") }}">%</span>	
 		</div> 
 	     {{ end }}
 	  {{ end }}
