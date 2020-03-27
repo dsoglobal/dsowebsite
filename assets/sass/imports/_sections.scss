@@ -199,6 +199,7 @@
    line-height:2em;
    text-align:center;
    padding:17px 0;
+   display: inline;
  }
   .counter-value:before {
    content: attr(data-desc);
@@ -209,10 +210,10 @@
   }
  .money {
    content: attr(data-desc);
-    display:inline-block;
+    display:inline;
 }
  .percent {
-    display:inline-block;
+    display:inline;
 }
 
 /* Testimonials */
