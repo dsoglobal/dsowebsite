@@ -1,6 +1,6 @@
 ---
 title: Bay Area
-thumb_img_path: ''
+thumb_img_path: /images/1411351052.png
 layout: home
 sections:
   - type: testimonialsblock
