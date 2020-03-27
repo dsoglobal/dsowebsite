@@ -200,7 +200,7 @@
    text-align:center;
    padding:17px 0;
  }
-  .money:before {
+  .counter-value:before {
    content: attr(data-desc);
     display:block;
     text-transform:uppercase;
