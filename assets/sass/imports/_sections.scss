@@ -201,7 +201,7 @@
    padding:17px 0;
    display: inline;
  }
-  .counter-value:before {
+  .counter-title {
    content: attr(data-desc);
     display:block;
     text-transform:uppercase;
