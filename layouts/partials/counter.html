@@ -5,8 +5,9 @@
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
 	      	<div id="counter">
+		   <div class="counter-title">{{ $counter.title }}</div>
 		   <span class="money" data-desc="{{ $counter.money }}">$</span>	
-		   <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc="{{ $counter.title }}">{{ $counter.num_count }}</div>
+		   <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}" data-desc=">{{ $counter.num_count }}</div>
 		   <span class="percent" data-desc="{{ $counter.percent }}">%</span>	
 		</div> 
 	     {{ end }}
