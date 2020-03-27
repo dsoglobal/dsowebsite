@@ -1,22 +1,15 @@
 ---
 title: Our Teams
 date: ''
-subtitle: ''
+subtitle: Our teams are the heart of DSO.
 sections:
-  - type: heroblock
-    component: hero_block.html
-    content: ''
-    title: Our Teams
   - type: portfolioblock
     component: portfolio_block.html
     layout_style: tiles
     num_projects_displayed: 5
     section_id: teamsmain
     title: ''
-    subtitle: >-
-      Our teams are the heart of DSO.  We have teams in several locations around
-      the US, including Washington DC, San Francisco/Bay Area, Pittsburgh and
-      Los Angeles.
+    subtitle: We have teams in several locations around the US
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates Work
