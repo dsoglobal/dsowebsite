@@ -17,12 +17,15 @@
     padding-top: 0;
   }
   
-  .portfolio-feed {
-	  article {
-	   width: 50%;
-	   height: 50%;
-	  }
+.portfolio-feed {
+  article {
+    .post-thumbnail {
+      width: 50%;
+      height: 50%;
+    }
   }
+}	
+
 }
 
 .block-header {
