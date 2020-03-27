@@ -4,6 +4,7 @@ date: ''
 subtitle: >-
   Our teams are the heart of DSO. We have teams in several locations around the
   US.
+layout_style: tiles
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
