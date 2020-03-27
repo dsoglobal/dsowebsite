@@ -906,7 +906,7 @@ collections:
                     required: false
                     hint: >-
                       The parent of an entry should be the identifier of another
-                      entry.
+                      entry.                    
           - widget: hidden
             name: layout
             label: Layout
