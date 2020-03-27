@@ -843,7 +843,17 @@ collections:
                     name: component
                     label: Component
                     required: true
-                    default: portfolio_block.html             
+                    default: portfolio_block.html
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.
+                  - widget: string
+                    name: subtitle
+                    label: Subtitle
+                    required: false
+                    hint: The subtitle of the section                  
                   - widget: select
                     name: layout_style
                     label: Layout Style
