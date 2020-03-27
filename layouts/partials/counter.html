@@ -1,6 +1,8 @@
-<section id="{{ .section.section_id }}" class="block text-block outer">
-  <div class="inner-small">
-      <div class="block-header"> 
+<section id="{{ .section.section_id }}" class="block services-block outer">
+  <div class="inner">
+     <div class="block-inside">
+     <div class="block-header"></div>
+      <div class="block-content"> 
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
@@ -12,7 +14,8 @@
 		</div> 
 	     {{ end }}
 	  {{ end }}
-      </div><!-- .block-header -->
+      </div>
+     </div>
   </div><!-- .inner -->
 <script type="text/javascript">  
   jQuery(document).ready(function($) {
