@@ -3,6 +3,13 @@ title: Our Teams
 date: ''
 subtitle: ''
 sections:
+  - type: heroblock
+    component: hero_block.html
+    content: >-
+      Our teams are the heart of DSO.  We have teams in several locations around
+      the US, including Washington DC, San Francisco/Bay Area, Pittsburgh and
+      Los Angeles.
+    title: Our Teams
   - type: portfolioblock
     component: portfolio_block.html
     layout_style: tiles
@@ -27,13 +34,6 @@ sections:
         actions:
           - url: 'https://sv2.org/person/amy-badiani/'
             label: Amy's Profile
-  - type: heroblock
-    component: hero_block.html
-    content: >-
-      Our teams are the heart of DSO.  We have teams in several locations around
-      the US, including Washington DC, San Francisco/Bay Area, Pittsburgh and
-      Los Angeles.
-    title: Our Teams
 menu:
   main:
     identifier: teams
