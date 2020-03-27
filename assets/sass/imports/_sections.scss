@@ -207,6 +207,13 @@
     font-weight: bold;
     line-height:1.2em;
   }
+ .money {
+   content: attr(data-desc);
+    display:inline-block;
+}
+ .percent {
+    display:inline-block;
+}
 
 /* Testimonials */
 .testimonial {
