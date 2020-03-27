@@ -16,6 +16,13 @@
     padding-bottom: 0;
     padding-top: 0;
   }
+  
+  .portfolio-feed {
+	  article {
+	   width: 50%;
+	   height: 50%;
+	  }
+  }
 }
 
 .block-header {
@@ -98,17 +105,6 @@
       }
     }
   }  
-
-  .project {
-     img {
-      height: 50%;
-      left: 0;
-      object-fit: cover;
-      position: absolute;
-      top: 0;
-      width: 50%;
-    }
-  }
 
   .view-all  {
     box-sizing: border-box;
