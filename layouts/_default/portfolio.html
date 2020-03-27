@@ -26,8 +26,12 @@
       </article><!-- .project -->
 
       {{ end }}
-    </div><!-- .portfolio-feed -->  
-  
+    </div><!-- .portfolio-feed -->
+    
+  {{ range $section := .Params.sections }}
+     {{ $include_dict := dict "section" $section "Site" $.Site }}
+     {{ partial $section.component $include_dict }}
+  {{ end }}
     <!-- Pagination TBD -->
     <!--
     <nav class="pagination">
