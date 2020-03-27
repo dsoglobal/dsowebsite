@@ -441,6 +441,16 @@ collections:
                     name: section_id
                     label: Element ID
                     required: true
+                    default: counter
+                  - widget: string
+                    name: title
+                    label: Title
+                    required: false
+                    hint: The title of the section.
+                  - widget: string
+                    name: subtitle
+                    label: Subtitle
+                    required: false
                   - widget: number
                     name: num_delay
                     label: The delay in milliseconds per number count up
