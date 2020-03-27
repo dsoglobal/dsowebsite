@@ -44,11 +44,6 @@ sections:
     actions:
       - label: View More Projects
         url: /projects
-  - component: contact_block.html
-    section_id: contact
-    subtitle: Drop Us a Note to Learn More
-    title: Contact Us
-    type: contactblock
   - type: counterblock
     num_delay: 10
     num_time: 2000
@@ -69,6 +64,11 @@ sections:
         title: value of pro-bono consulting
         num_count: '500,000'
         money: true
+  - component: contact_block.html
+    section_id: contact
+    subtitle: Drop Us a Note to Learn More
+    title: Contact Us
+    type: contactblock
 menu:
   main:
     name: Home
