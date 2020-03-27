@@ -911,7 +911,7 @@ collections:
             name: layout
             label: Layout
             required: true
-            default: projects
+            default: home
   - name: blogmain
     label: Blog
     files:
