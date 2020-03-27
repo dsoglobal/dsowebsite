@@ -12,7 +12,7 @@ sections:
     subtitle: We have teams in several locations around the US.
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Our Teammate's Work
+    title: Our Teammates' Work
     subtitle: Here's some of our teammate's associations and accomplishments
     testimonialslist:
       - type: testimonialsblock
