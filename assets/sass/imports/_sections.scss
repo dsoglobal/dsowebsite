@@ -35,9 +35,12 @@
 }
 
 .layout-tiles {
-      width: 50%;
-      height: 50%;
-  }
+  width: 50%;
+  height: 50%;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
 
 /* Contacts */
 .contact-block {
