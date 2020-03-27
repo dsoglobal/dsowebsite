@@ -15,6 +15,10 @@ sections:
     component: testimonials_block.html
     title: Our Teammates Work
     subtitle: Here's some of our teammate's associations and accomplishments
+    testimonialslist:
+      - type: testimonialsblock
+        author: McKinsey & Company
+        avatar: /images/0-1-.png
 menu:
   main:
     identifier: teams
