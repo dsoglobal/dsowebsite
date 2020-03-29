@@ -1172,7 +1172,7 @@ collections:
         label: categories
         required: false
         multiple: true
-        hint: Add a categories tag for the functionality - e.g. user-experience, market research 
+        hint: Add one or multiple categories for the functionality - e.g. user-experience, market research 
         options: 
           - Business Development
           - Communications
@@ -1195,7 +1195,7 @@ collections:
       - widget: list
         name: tags
         label: Tags
-        hint: Add a project tag for the issue area - e.g. human empowerment or economic development
+        hint: Add project tags for the issue areas, separated by comma and space - e.g. human empowerment, economic development
         required: false
       - widget: object
         name: menu
@@ -1326,6 +1326,15 @@ collections:
                 label: Subtitle
                 required: false
                 hint: The subtitle of the section.
+              - widget: relation
+                name: teammebers
+                label: Link Team Members
+		            collection: peoplepost
+                searchFields:
+                  - title
+                valueField:
+                  - title		   
+                hint: The team members on the team. Add team members under Individual Team Members first.                
               - widget: list
                 name: testimonialslist
                 label: Team Members
@@ -1459,7 +1468,12 @@ collections:
         name: excerpt
         label: Excerpt
         required: false
-        hint: The excerpt of the post displayed in the blog feed.      
+        hint: The excerpt of the post displayed in the blog feed.
+      - widget: list
+        name: tags
+        label: Tags
+        hint: Add tags for the blog areas, separated by comma and space - e.g. human empowerment, economic development
+        required: false        
       - widget: hidden
         name: layout
         label: Layout
