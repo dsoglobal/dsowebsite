@@ -63,7 +63,9 @@
       </div>
     </nav>
     -->
-{{ partial "disqus.html" . }}
+{{ with .Params.blogposts }}    
+   {{ partial "disqus.html" . }}
+{{ end }}
   </div><!-- .inner -->
 </div><!-- .outer-->
 
