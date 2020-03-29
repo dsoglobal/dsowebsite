@@ -62,7 +62,7 @@
       </div>
     </nav>
     -->
-{{ with (.GetPage "section" "/blogposts") }}
+{{ with .CurrentPage "section" "/blogposts" }}
    {{ partial "disqus.html" . }}
 {{ end }}
   </div><!-- .inner -->
