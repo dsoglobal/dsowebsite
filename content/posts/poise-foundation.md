@@ -9,6 +9,11 @@ excerpt: >-
   amount given by individual donors using actionable targeted fundraising and
   marketing strategies. The end objective was to increase POISE’s donor reach
   using low-cost and low-effort resources.
+tags: []
+categories:
+  - User Experience
+  - Strategy
+  - Fundraising
 layout: post
 ---
 
