@@ -3,6 +3,7 @@ date: 2014-04-01T04:00:00.000Z
 title: Six hours in the life of a refugee …
 thumb_img_path: ''
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
