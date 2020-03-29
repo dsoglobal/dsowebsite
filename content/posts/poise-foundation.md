@@ -14,9 +14,9 @@ categories:
   - Strategy
   - Fundraising
 tags:
-  - tag: Economic and Community Development
-  - tag: Financial Empowerment
-  - tag: Sustainability
+  - Economic and Community Development
+  - Financial Empowerment
+  - Sustainability
 layout: post
 ---
 
