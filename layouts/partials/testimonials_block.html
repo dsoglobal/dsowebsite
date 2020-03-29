@@ -19,11 +19,7 @@
                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                {{ end }}
 	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
-	       {{ if  $testimonial.dsotitle}}
-		    {{ range .Params.dsotitle }}
-                       {{ .Params.dsotitle }}
-	            {{ end }}
-	       {{ end }} 
+	         <cite class="testimonial-title">{{ $testimonial.dsotitle }}</cite>
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }} 
