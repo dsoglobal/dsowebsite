@@ -1329,11 +1329,11 @@ collections:
               - widget: relation
                 name: teammembers
                 label: Link Team Members
-		collection: peoplepost
-		valueField: title
-		searchFields:
-		  - title
-		hint: The team members on the team. Add team members under Individual Team Members first.
+                collection: peoplepost
+                valueField: title
+                searchFields:
+                  - title
+                hint: The team members on the team. Add team members under Individual Team Members first.
               - widget: list
                 name: testimonialslist
                 label: Team Members
