@@ -3,6 +3,7 @@ date: 2014-08-25T04:00:00.000Z
 title: Agency and Positive Change
 thumb_img_path: ''
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
