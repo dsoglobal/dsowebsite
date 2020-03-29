@@ -1524,7 +1524,7 @@ collections:
         name: layout
         label: Layout
         required: true
-        default: blog
+        default: post
       - widget: markdown
         name: body
         label: Content
