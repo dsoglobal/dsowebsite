@@ -1169,7 +1169,7 @@ collections:
         hint: The excerpt of the post displayed in the blog feed.
       - widget: relation
         name: tagadd
-        label: tagadd
+        label: Add Tags
         hint: Add Existing Tags 
         collection: post
         searchFields: 
@@ -1189,31 +1189,31 @@ collections:
             label: tag
             required: false
             hint: Add a new project tag for the issue area - e.g. human empowerment, economic development
-          - widget: select
-            name: categories
-            label: categories
-            required: false
-            multiple: true
-            hint: Add a categories tag for the functionality - e.g. user-experience, market research 
-            options: 
-              - Business Development
-              - Communications
-              - Data Analytics
-              - Economic Development
-              - Entrepreneurship Support
-              - Financial Strategy
-              - Fundraising
-              - Knowledge Management
-              - Marketing
-              - Partnership Support
-              - Policy Support
-              - Process Improvement
-              - Research
-              - Strategy
-              - Technology Support
-              - User Experience
-              - Web Design
-              - Other
+      - widget: select
+        name: categories
+        label: categories
+        required: false
+        multiple: true
+        hint: Add a categories tag for the functionality - e.g. user-experience, market research 
+        options: 
+          - Business Development
+          - Communications
+          - Data Analytics
+          - Economic Development
+          - Entrepreneurship Support
+          - Financial Strategy
+          - Fundraising
+          - Knowledge Management
+          - Marketing
+          - Partnership Support
+          - Policy Support
+          - Process Improvement
+          - Research
+          - Strategy
+          - Technology Support
+          - User Experience
+          - Web Design
+          - Other
       - widget: object
         name: menu
         label: Post Menus
