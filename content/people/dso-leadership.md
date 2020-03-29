@@ -7,6 +7,8 @@ sections:
     component: testimonials_block.html
     title: CXOs
     subtitle: CXO set DSO Strategy
-    teammembers: Amy Badiani
+    teammembers:
+      - Amy Badiani
+      - Anthony Buchanan
     testimonialslist: []
 ---
