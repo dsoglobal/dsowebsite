@@ -1342,7 +1342,7 @@ collections:
                 required: false
                 fields:
                   - widget: relation
-                    name: teammembersname
+                    name: author
                     label: Name
                     collection: peoplepost
                     valueField: title
