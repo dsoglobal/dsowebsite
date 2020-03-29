@@ -1279,11 +1279,6 @@ collections:
         label: Layout
         required: true
         default: home
-      - widget: markdown
-        name: body
-        label: Content
-        required: false
-        hint: Page content
       - widget: list
         name: sections
         label: Sections
@@ -1392,6 +1387,11 @@ collections:
                         name: url
                         label: Button URL
                         required: false
+                  - widget: markdown
+                    name: body
+                    label: Content
+                    required: false
+                    hint: Page content
                   - widget: hidden
                     name: type
                     label: Reference Type Name
