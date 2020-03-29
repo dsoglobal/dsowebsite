@@ -1195,13 +1195,8 @@ collections:
       - widget: list
         name: tags
         label: Tags
+        hint: Add a project tag for the issue area - e.g. human empowerment, economic development
         required: false
-        field:
-          - widget: string
-            name: tag
-            label: tag
-            required: false
-            hint: Add a project tag for the issue area - e.g. human empowerment, economic development
       - widget: object
         name: menu
         label: Post Menus
@@ -1425,17 +1420,7 @@ collections:
           - widget: string
             name: url
             label: Button URL
-            required: false
-      - widget: list
-        name: tags
-        label: Tags
-        required: false
-        field:
-          - widget: string
-            name: tag
-            label: tag
-            required: false
-            hint: Add tags for linking            
+            required: false     
       - widget: hidden
         name: layout
         label: Layout
@@ -1474,17 +1459,7 @@ collections:
         name: excerpt
         label: Excerpt
         required: false
-        hint: The excerpt of the post displayed in the blog feed.
-      - widget: list
-        name: tags
-        label: Tags
-        required: false
-        field:
-          - widget: string
-            name: tag
-            label: tag
-            required: false
-            hint: Add tags for linking        
+        hint: The excerpt of the post displayed in the blog feed.      
       - widget: hidden
         name: layout
         label: Layout
