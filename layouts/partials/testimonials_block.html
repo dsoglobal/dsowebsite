@@ -22,13 +22,13 @@
 	       {{ if  $testimonial.dsotitle}}
 		    {{ range .Params.dsotitle }}
                        {{ . }}
-		    {{ end }}
+	            {{ end }}
 	       {{ end }} 
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }} 
 	       {{ if  $testimonial.actions}}
-		    {{ range .Params.grids }}
+		    {{ range $action := .section.actions }}
                       <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 		    {{ end }}
 	       {{ end }}      
