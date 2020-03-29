@@ -3,6 +3,7 @@ date: 2016-03-29T04:00:00.000Z
 title: State of the Hub - DC
 thumb_img_path: /images/8892957.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
