@@ -31,7 +31,7 @@
             {{ end }}
         {{ end }}
     </ul>
-    {{ with .Site.Taxonomies.tag }}
+    {{ with .Site.Taxonomies.tags }}
       <h1 class="list_title"><a href="{{ .Site.BaseURL }}tag/">Tags</a></h1>
       <section class="taxonomy">
           {{ range $key, $value := . }}
