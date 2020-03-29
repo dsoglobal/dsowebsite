@@ -1264,6 +1264,11 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
+      - widget: date
+        name: date
+        label: Date
+        required: false
+        hint: Use to order team pages
       - widget: string
         name: title
         label: PageTitle
