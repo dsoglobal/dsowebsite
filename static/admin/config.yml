@@ -1179,11 +1179,11 @@ collections:
             hint: Add Existing Tags 
             collection: post
             searchFields: 
-              - tags.tag
+              - tagsandcategories.tags.tag
             valueField:
-              - tags.tag
+              - tagsandcategories.tags.tag
             displayFields:
-              - tags.tag
+              - tagsandcategories.tags.tag
             multiple: true
           - widget: list
             name: tags
