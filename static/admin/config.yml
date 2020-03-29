@@ -1382,11 +1382,14 @@ collections:
                         name: label
                         label: Label
                         required: true
+                        default: Learn More
                         hint: The text displayed inside the button.
                       - widget: string
                         name: url
                         label: Button URL
                         required: false
+                        default: /teammates/
+                        hint: Use format teammates/firstname-lastname e.g. jane-doe based on individual team pages
                   - widget: markdown
                     name: body
                     label: Content
