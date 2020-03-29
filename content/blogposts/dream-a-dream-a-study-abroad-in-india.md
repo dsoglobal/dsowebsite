@@ -3,6 +3,7 @@ date: 2015-11-02T05:00:00.000Z
 title: 'Dream a Dream: A Study Abroad in India'
 thumb_img_path: /images/3228336.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
