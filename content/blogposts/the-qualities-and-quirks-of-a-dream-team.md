@@ -3,6 +3,7 @@ date: 2015-05-31T04:00:00.000Z
 title: The Qualities and Quirks of a Dream Team
 thumb_img_path: ''
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
