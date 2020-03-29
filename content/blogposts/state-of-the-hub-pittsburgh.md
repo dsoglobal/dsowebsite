@@ -3,6 +3,7 @@ date: 2015-12-02T05:00:00.000Z
 title: "State of the Hub: Pittsburgh\uFEFF"
 thumb_img_path: /images/7024546.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
