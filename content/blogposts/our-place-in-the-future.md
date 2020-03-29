@@ -3,6 +3,7 @@ date: 2015-01-20T05:00:00.000Z
 title: Our Place in the Future
 thumb_img_path: /images/9784246_orig.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
