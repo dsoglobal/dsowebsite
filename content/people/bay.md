@@ -12,7 +12,7 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         teammembersname: Amy Badiani
-        dsotitle: '["Engagement Lead","CXO"]'
+        dsotitle: Engagement Lead and CXO
         avatar: /images/0-3-.jpg
         actions:
           - label: Learn More
