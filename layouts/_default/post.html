@@ -63,7 +63,7 @@
       </div>
     </nav>
     -->
-{{ with .Params.blogposts }}    
+{{ with .CurrentSection.blogposts }}    
    {{ partial "disqus.html" . }}
 {{ end }}
   </div><!-- .inner -->
