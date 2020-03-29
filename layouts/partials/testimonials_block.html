@@ -20,15 +20,15 @@
                {{ end }}
 	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
 	       {{ if  $testimonial.dsotitle}}
-		    {{ range $titles := $testimonial.dsotitle }}
-                       {{ $testimonial.dsotitle }}
+		    {{ range .Params.dsotitle }}
+                       {{ . }}
 		    {{ end }}
 	       {{ end }} 
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }} 
 	       {{ if  $testimonial.actions}}
-		    {{ range $action := $testimonial.actions }}
+		    {{ range .Params.grids }}
                       <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 		    {{ end }}
 	       {{ end }}      
