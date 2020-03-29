@@ -14,9 +14,9 @@ categories:
   - Strategy
   - Fundraising
 tags:
-  - user experience
-  - strategy
-  - fundraising
+  - Economic and Community Development
+  - Financial Empowerment
+  - Sustainability
 layout: post
 ---
 
