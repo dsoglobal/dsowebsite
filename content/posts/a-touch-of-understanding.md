@@ -7,6 +7,11 @@ excerpt: >-
   DSO partnered with A Touch of Understanding to evaluate expansion strategies,
   sustainable financial models, set goals and research how similar programs have
   scaled up in support of their disability awareness programs.
+categories:
+  - Strategy
+  - Knowledge Management
+tags:
+  - Disability awareness
 layout: post
 ---
 
