@@ -3,6 +3,7 @@ date: 2015-04-15T04:00:00.000Z
 title: 'Congrats, you’re An “Official Non Profit”. Now What?'
 thumb_img_path: ''
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
