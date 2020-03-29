@@ -3,6 +3,7 @@ date: 2014-02-24T05:00:00.000Z
 title: The evolution of the DSO logo
 thumb_img_path: /images/6843188.png
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
