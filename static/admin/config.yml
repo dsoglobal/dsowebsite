@@ -1496,11 +1496,11 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
-      - widget: hidden
+      - widget: boolean
         name: showcomments
-        label: Comments
+        label: Show Comments
         required: true
-        default: show
+        default: true
       - widget: date
         name: date
         label: Date
