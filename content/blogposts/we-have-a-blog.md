@@ -3,6 +3,7 @@ date: 2014-02-22T05:00:00.000Z
 title: We have a blog!
 thumb_img_path: ''
 content_img_path: ''
+showcomments: false
 excerpt: ''
 layout: post
 ---
