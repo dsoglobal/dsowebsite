@@ -3,6 +3,7 @@ date: 2014-04-01T04:00:00.000Z
 title: The Importance of Incremental Progress
 thumb_img_path: /images/2347778_orig.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
