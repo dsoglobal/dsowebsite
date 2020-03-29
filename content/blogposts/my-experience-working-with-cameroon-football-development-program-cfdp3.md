@@ -3,6 +3,7 @@ date: 2014-04-15T04:00:00.000Z
 title: My Experience working with Cameroon Football Development Program (CFDP)
 thumb_img_path: /images/2703835_orig.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
