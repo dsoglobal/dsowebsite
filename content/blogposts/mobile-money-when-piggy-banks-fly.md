@@ -3,6 +3,7 @@ date: 2014-07-24T04:00:00.000Z
 title: 'Mobile Money: When Piggy Banks Fly'
 thumb_img_path: ''
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
