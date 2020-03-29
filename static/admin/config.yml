@@ -1167,34 +1167,28 @@ collections:
         label: Excerpt
         required: false
         hint: The excerpt of the post displayed in the blog feed.
-      - widget: object
-        name: tagsandcategories
-        label: Tags and Categories
+      - widget: relation
+        name: tagadd
+        label: tagadd
+        hint: Add Existing Tags 
+        collection: post
+        searchFields: 
+          - tags.tag
+        valueField:
+          - tags.tag
+        displayFields:
+          - tags.tag
+        multiple: true
+      - widget: list
+        name: tags
+        label: tags
         required: false
-        hint: Add Project Tags and Categories 
         fields:
-          - widget: relation
-            name: tagadd
-            label: tagadd
-            hint: Add Existing Tags 
-            collection: post
-            searchFields: 
-              - tagsandcategories.tags.tag
-            valueField:
-              - tagsandcategories.tags.tag
-            displayFields:
-              - tagsandcategories.tags.tag
-            multiple: true
-          - widget: list
-            name: tags
-            label: tags
+          - widget: string
+            name: tag
+            label: tag
             required: false
-            fields:
-              - widget: string
-                name: tag
-                label: tag
-                required: false
-                hint: Add a new project tag for the issue area - e.g. human empowerment, economic development
+            hint: Add a new project tag for the issue area - e.g. human empowerment, economic development
           - widget: select
             name: categories
             label: categories
