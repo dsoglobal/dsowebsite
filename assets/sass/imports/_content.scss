@@ -13,6 +13,16 @@ img {
   margin-bottom: 3.33333em;
 }
 
+.dsotitle {
+ font-weight:bold;
+}
+
+.dsotitle::after {
+ content: "\A";
+ display: block;
+ white-space: pre;
+}
+
 .post-header {
   margin-bottom: 2.5em;
 
