@@ -8,7 +8,14 @@ sections:
     component: testimonials_block.html
     title: Berkeley Team
     subtitle: Engagement Leads and Advisers
-    testimonialslist: []
+    testimonialslist:
+      - type: testimonialsblock
+        teammembersname: Amy Badiani
+        dsotitle: '["Engagement Lead","CXO"]'
+        avatar: /images/0-3-.jpg
+        actions:
+          - label: Learn More
+            url: teammates/amy-badiani
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
