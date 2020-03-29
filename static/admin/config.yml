@@ -1331,6 +1331,7 @@ collections:
                 label: Link Team Members
                 collection: peoplepost
                 valueField: title
+                multiple: true
                 searchFields:
                   - title
                 hint: The team members on the team. Add team members under Individual Team Members first.
@@ -1390,6 +1391,15 @@ collections:
         name: date
         label: Date
         required: true
+      - widget: relation
+        name: teams
+        label: Link Teams
+        collection: people
+        valueField: title
+        multiple: true
+        searchFields:
+          - title
+        hint: The team you are on. Add teams under Individual Teams first.        
       - widget: string
         name: title
         label: Name
