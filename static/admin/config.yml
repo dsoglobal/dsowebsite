@@ -1334,7 +1334,7 @@ collections:
 		searchFields:
 		  - title
 		hint: The team members on the team. Add team members under Individual Team Members first.
-              - widget: list
+	      - widget: list
                 name: testimonialslist
                 label: Team Members
                 required: false
