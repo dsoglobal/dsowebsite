@@ -3,6 +3,7 @@ date: 2015-05-19T04:00:00.000Z
 title: Coast to Coast
 thumb_img_path: /images/1_4180829.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
