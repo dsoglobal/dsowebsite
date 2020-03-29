@@ -16,6 +16,5 @@ sections:
     subtitle: Student Consultants
     testimonialslist: []
     title: DC Team
-    teammembers:
-      - Anthony Buchanan
+    teammembers: []
 ---
