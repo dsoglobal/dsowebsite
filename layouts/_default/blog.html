@@ -43,7 +43,9 @@
       </div>
     </nav>
     -->
-
+{{ with .Site.GetPage "section" "/blogposts" }}    
+   {{ partial "disqus.html" . }}
+{{ end }}
   </div><!-- .inner -->
 </div><!-- .outer-->
 
