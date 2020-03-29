@@ -1,7 +1,12 @@
 ---
 date: 2020-03-04T06:55:48.808Z
+teams:
+  - Washington DC
 title: Anthony Buchanan
 subtitle: Technology Makes Me Happy
+dsotitle:
+  - Engagement Lead
+  - CXO
 work: Senior Lead Technologist
 company: Booz Allen Hamilton
 thumb_img_path: /images/anthonyb.jpg
