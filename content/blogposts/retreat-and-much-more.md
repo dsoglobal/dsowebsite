@@ -3,6 +3,7 @@ date: 2014-05-13T04:00:00.000Z
 title: Retreat and much more …
 thumb_img_path: /images/648887_orig.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
