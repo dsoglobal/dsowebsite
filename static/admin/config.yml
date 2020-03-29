@@ -1351,20 +1351,11 @@ collections:
                     searchFields:
                       - title
                     hint: The name of the team member. Add team member under Individual Team Members first.
-                  - widget: relation
+                  - widget: string
                     name: dsotitle
                     label: DSO Title
-                    collection: peoplepost
-                    valueField: dsotitle
-                    multiple: false
-                    required: true
-                    searchFields:
-                      - title
-                      - dsotitle
-                    displayFields:
-                      - title
-                      - dsotitle
-                    hint: The DSO title of the team member. Search by name or title.
+                    required: false
+                    hint: The DSO title of the team member.
                   - widget: relation
                     name: avatar
                     label: Picture
