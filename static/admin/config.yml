@@ -1194,9 +1194,9 @@ collections:
           - Other
       - widget: list
         name: tags
-        label: tags
+        label: Tags
         required: false
-        fields:
+        field:
           - widget: string
             name: tag
             label: tag
@@ -1428,9 +1428,9 @@ collections:
             required: false
       - widget: list
         name: tags
-        label: tags
+        label: Tags
         required: false
-        fields:
+        field:
           - widget: string
             name: tag
             label: tag
@@ -1477,9 +1477,9 @@ collections:
         hint: The excerpt of the post displayed in the blog feed.
       - widget: list
         name: tags
-        label: tags
+        label: Tags
         required: false
-        fields:
+        field:
           - widget: string
             name: tag
             label: tag
