@@ -3,6 +3,7 @@ date: 2015-01-29T05:00:00.000Z
 title: My Time in the Other China
 thumb_img_path: /images/8422547_orig.jpg
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
