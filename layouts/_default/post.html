@@ -2,7 +2,6 @@
 
 <div class="outer">
   <div class="inner">
-
     <article class="post post-full">
       <header class="post-header inner-small">
         <h1 class="post-title line-top">{{ .Params.title }}</h1>
@@ -63,7 +62,9 @@
       </div>
     </nav>
     -->
-
+{{ with (.Site.GetPage "section" "/blogposts").Pages }}
+   {{ partial "disqus.html" . }}
+{{ end }}
   </div><!-- .inner -->
 </div><!-- .outer-->
 
