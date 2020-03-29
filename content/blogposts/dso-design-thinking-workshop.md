@@ -3,6 +3,7 @@ date: 2017-06-30T04:00:00.000Z
 title: DSO Design Thinking Workshop
 thumb_img_path: /images/screen-shot-2017-06-18-at-08-04-29_orig.png
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
