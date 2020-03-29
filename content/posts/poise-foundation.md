@@ -13,10 +13,6 @@ categories:
   - User Experience
   - Strategy
   - Fundraising
-tags:
-  - Economic and Community Development
-  - Financial Empowerment
-  - Sustainability
 layout: post
 ---
 
