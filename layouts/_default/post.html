@@ -15,6 +15,11 @@
           {{ .Params.subtitle | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
+        {{ if .Params.dsotitle }}
+        <div class="post-content inner-small">
+          {{ .Params.dsotitle | safeHTML }}
+        </div><!-- .post-subtitle -->
+        {{ end }}
       </header><!-- .post-header -->
       {{ if .Params.thumb_img_path }}
       <div class="post-thumbnail">
