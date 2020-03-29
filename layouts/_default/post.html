@@ -11,7 +11,7 @@
             datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
         </div><!-- .post-meta -->
          {{ if .Params.dsotitle }}
-         <div class="post-subtitle">
+         <div class="post-subtitle dsotitle">
           {{ delimit .Params.dsotitle " and " | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
