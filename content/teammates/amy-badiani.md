@@ -7,6 +7,9 @@ title: Amy Badiani
 subtitle: >-
   Changemaker, Youth, Boundless Creativity, Gryffindor, Collaboration, Healthy
   Competition!
+dsotitle:
+  - Engagement Lead
+  - CXO
 work: Program Manager
 company: Silicon Valley Social Venture Fund (SV2)
 thumb_img_path: /images/0-3-.jpg
