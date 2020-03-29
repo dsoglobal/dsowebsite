@@ -1195,7 +1195,7 @@ collections:
       - widget: list
         name: tags
         label: Tags
-        hint: Add a project tag for the issue area - e.g. human empowerment, economic development
+        hint: Add a project tag for the issue area - e.g. human empowerment or economic development
         required: false
       - widget: object
         name: menu
