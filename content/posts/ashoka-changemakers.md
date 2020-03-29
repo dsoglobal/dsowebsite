@@ -7,6 +7,9 @@ excerpt: >-
   landing page, evaluating content and conducting user studies and surveys to
   produce design deliverables that incorporate Ashoka's values and human feel
   into a usable structure.
+categories:
+  - User Experience
+  - Web Design
 layout: post
 ---
 
