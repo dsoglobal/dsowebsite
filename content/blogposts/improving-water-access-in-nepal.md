@@ -3,6 +3,7 @@ date: 2014-11-18T05:00:00.000Z
 title: Improving Water Access in Nepal
 thumb_img_path: /images/415055_orig.png
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
