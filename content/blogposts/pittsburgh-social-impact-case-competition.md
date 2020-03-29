@@ -3,6 +3,7 @@ date: 2017-06-29T04:00:00.000Z
 title: Pittsburgh Social Impact Case Competition
 thumb_img_path: /images/screen-shot-2017-06-29-at-11-54-25-pm.png
 content_img_path: ''
+showcomments: true
 excerpt: ''
 layout: post
 ---
