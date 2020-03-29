@@ -13,6 +13,10 @@ categories:
   - User Experience
   - Strategy
   - Fundraising
+tags:
+  - user experience
+  - strategy
+  - fundraising
 layout: post
 ---
 
