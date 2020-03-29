@@ -1,9 +1,6 @@
-{{ define "content" }}
-
-<div class="outer">
-  <div class="inner">
-     {{ partial "taxonomy.html" . }}
-  </div><!-- .inner-->
-</div><!-- .outer -->
-
-{{ end }}
+---
+title: Tags and Categories and Tags
+sections:
+  - component: taxonomy.html
+layout: page
+---
