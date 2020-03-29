@@ -1167,41 +1167,59 @@ collections:
         label: Excerpt
         required: false
         hint: The excerpt of the post displayed in the blog feed.
-      - widget: list
-        name: tags
-        label: tags
+      - widget: object
+        name: tagsandcategories
+        label: Tags and Categories
         required: false
+        hint: Add Project Tags and Categories 
         fields:
-          - widget: string
-            name: tag
-            label: tag
+          - widget: relation
+            name: tagadd
+            label: tagadd
+            hint: Add Existing Tags 
+            collection: post
+            searchFields: 
+              - tags.tag
+            valueField:
+              - tags.tag
+            displayFields:
+              - tags.tag
+            multiple: true
+          - widget: list
+            name: tags
+            label: tags
             required: false
-            hint: Add a project tag for the issue area - e.g. human empowerment, economic development
-      - widget: select
-        name: categories
-        label: categories
-        required: false
-        multiple: true
-        hint: Add a categories tag for the functionality - e.g. user-experience, market research 
-        options: 
-          - Business Development
-          - Communications
-          - Data Analytics
-          - Economic Development
-          - Entrepreneurship Support
-          - Financial Strategy
-          - Fundraising
-          - Knowledge Management
-          - Marketing
-          - Partnership Support
-          - Policy Support
-          - Process Improvement
-          - Research
-          - Strategy
-          - Technology Support
-          - User Experience
-          - Web Design
-          - Other
+            fields:
+              - widget: string
+                name: tag
+                label: tag
+                required: false
+                hint: Add a new project tag for the issue area - e.g. human empowerment, economic development
+          - widget: select
+            name: categories
+            label: categories
+            required: false
+            multiple: true
+            hint: Add a categories tag for the functionality - e.g. user-experience, market research 
+            options: 
+              - Business Development
+              - Communications
+              - Data Analytics
+              - Economic Development
+              - Entrepreneurship Support
+              - Financial Strategy
+              - Fundraising
+              - Knowledge Management
+              - Marketing
+              - Partnership Support
+              - Policy Support
+              - Process Improvement
+              - Research
+              - Strategy
+              - Technology Support
+              - User Experience
+              - Web Design
+              - Other
       - widget: object
         name: menu
         label: Post Menus
