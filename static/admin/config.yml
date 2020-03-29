@@ -1244,6 +1244,16 @@ collections:
         label: Content
         required: false
         hint: Page content
+      - widget: relation
+        name: teammembers
+        label: Link Team Members
+        collection: peoplepost
+        valueField: title
+        multiple: true
+        required: false
+        searchFields:
+          - title
+        hint: The team members on the project team. Add team members under Individual Team Members first.
     filter:
       field: layout
       value: post
@@ -1326,36 +1336,48 @@ collections:
                 label: Subtitle
                 required: false
                 hint: The subtitle of the section.
-              - widget: relation
-                name: teammembers
-                label: Link Team Members
-                collection: peoplepost
-                valueField: title
-                multiple: true
-                required: false
-                searchFields:
-                  - title
-                hint: The team members on the team. Add team members under Individual Team Members first.
               - widget: list
                 name: testimonialslist
                 label: Team Members
                 required: false
                 fields:
-                  - widget: string
-                    name: author
+                  - widget: relation
+                    name: teammembersname
                     label: Name
+                    collection: peoplepost
+                    valueField: title
+                    multiple: false
                     required: true
-                    hint: The name of the team member.
-                  - widget: image
+                    searchFields:
+                      - title
+                    hint: The name of the team member. Add team member under Individual Team Members first.
+                  - widget: relation
+                    name: dsotitle
+                    label: DSO Title
+                    collection: peoplepost
+                    valueField: dsotitle
+                    multiple: false
+                    required: true
+                    searchFields:
+                      - title
+                      - dsotitle
+                    displayFields:
+                      - title
+                      - dsotitle
+                    hint: The DSO title of the team member. Search by name or title.
+                  - widget: relation
                     name: avatar
                     label: Picture
+                    collection: peoplepost
+                    valueField: thumb_img_path
+                    multiple: false
                     required: false
-                    hint: The picture of the team member.
-                  - widget: string
-                    name: content
-                    label: Title
-                    required: false
-                    hint: The title of the team member.
+                    searchFields:
+                      - title
+                    displayFields:
+                      - title
+                      - thumb_img_path
+                    hint: Uses the picture for the team member. Search by name                  
                   - widget: list
                     name: actions
                     label: Link to Learn More
