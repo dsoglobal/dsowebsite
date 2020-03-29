@@ -1437,7 +1437,7 @@ collections:
       - widget: select
         name: dsotitle
         label: DSO Title
-        required: false
+        required: true
         hint: Your DSO Titles
         options:
           - Engagement Lead
@@ -1445,6 +1445,7 @@ collections:
           - CXO
           - Project Lead
           - Recruiting Lead
+          - Other
         multiple: true
       - widget: string
         name: work
