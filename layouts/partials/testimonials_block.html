@@ -30,8 +30,7 @@
 	       {{ if  $testimonial.actions}}
 		    {{ range $action := $testimonial.actions }}
                       <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-		    {{ end }}
-	       {{ end }} 
+		    {{ end }} 
 	       {{ end }}      
             </p><!-- .testimonial -->          
         </p>        
