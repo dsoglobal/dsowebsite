@@ -62,8 +62,9 @@
       </div>
     </nav>
     -->
-{{ with .Page.CurrentPage "section" "blogposts" }}
-   {{ partial "disqus.html" . }}
+  {{ if .Params.showcomments }}
+     {{ partial "disqus.html" . }}
+  {{ end }}
 {{ end }}
   </div><!-- .inner -->
 </div><!-- .outer-->
