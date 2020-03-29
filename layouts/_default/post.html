@@ -17,7 +17,7 @@
         {{ end }}
         {{ if .Params.dsotitle }}
         <div class="post-content inner-small">
-          {{ .Params.dsotitle | safeHTML }}
+          {{ delimit .Params.dsotitle " and " | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
       </header><!-- .post-header -->
