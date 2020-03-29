@@ -15,7 +15,7 @@ categories:
   - Fundraising
 tags:
   - tag: Economic and Community Development
-  - tag: "Development\tFinancial Empowerment"
+  - tag: Financial Empowerment
   - tag: Sustainability
 layout: post
 ---
