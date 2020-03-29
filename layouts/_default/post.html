@@ -10,14 +10,14 @@
           <time class="published"
             datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
         </div><!-- .post-meta -->
+         {{ if .Params.dsotitle }}
+         <div class="post-subtitle">
+          {{ delimit .Params.dsotitle " and " | safeHTML }}
+        </div><!-- .post-subtitle -->
+        {{ end }}
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
           {{ .Params.subtitle | safeHTML }}
-        </div><!-- .post-subtitle -->
-        {{ end }}
-        {{ if .Params.dsotitle }}
-        <div class="post-content inner-small">
-          {{ delimit .Params.dsotitle " and " | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
       </header><!-- .post-header -->
