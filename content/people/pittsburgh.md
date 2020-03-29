@@ -7,9 +7,7 @@ sections:
     component: testimonials_block.html
     title: Pittsburgh
     subtitle: Engagement Leads and Advisers
-    testimonialslist:
-      - type: testimonialsblock
-        author: Arlane Gordon-Bray
-        avatar: /images/arlane.jpg
-        content: Engagement Lead
+    testimonialslist: []
+    teammembers:
+      - Arlane Gordon-Bray
 ---
