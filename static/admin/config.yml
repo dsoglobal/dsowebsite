@@ -1167,16 +1167,6 @@ collections:
         label: Excerpt
         required: false
         hint: The excerpt of the post displayed in the blog feed.
-      - widget: list
-        name: tags
-        label: tags
-        required: false
-        fields:
-          - widget: string
-            name: tag
-            label: tag
-            required: false
-            hint: Add a project tag for the issue area - e.g. human empowerment, economic development
       - widget: select
         name: categories
         label: categories
@@ -1202,6 +1192,16 @@ collections:
           - User Experience
           - Web Design
           - Other
+      - widget: list
+        name: tags
+        label: tags
+        required: false
+        fields:
+          - widget: string
+            name: tag
+            label: tag
+            required: false
+            hint: Add a project tag for the issue area - e.g. human empowerment, economic development
       - widget: object
         name: menu
         label: Post Menus
@@ -1394,7 +1394,7 @@ collections:
         hint: Your Name
       - widget: string
         name: subtitle
-        label: Tags
+        label: Key Words
         required: false
         hint: A few words that describe you (e.g. creative, friendly, etc).
       - widget: string
@@ -1425,7 +1425,17 @@ collections:
           - widget: string
             name: url
             label: Button URL
-            required: false        
+            required: false
+      - widget: list
+        name: tags
+        label: tags
+        required: false
+        fields:
+          - widget: string
+            name: tag
+            label: tag
+            required: false
+            hint: Add tags for linking            
       - widget: hidden
         name: layout
         label: Layout
@@ -1465,6 +1475,16 @@ collections:
         label: Excerpt
         required: false
         hint: The excerpt of the post displayed in the blog feed.
+      - widget: list
+        name: tags
+        label: tags
+        required: false
+        fields:
+          - widget: string
+            name: tag
+            label: tag
+            required: false
+            hint: Add tags for linking        
       - widget: hidden
         name: layout
         label: Layout
