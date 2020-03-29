@@ -1333,7 +1333,7 @@ collections:
 		valueField: title
 		searchFields:
 		  - title
-		hint: The team members on the team. Add team members under Individual Team Members first.                
+		hint: The team members on the team. Add team members under Individual Team Members first.
               - widget: list
                 name: testimonialslist
                 label: Team Members
