@@ -1167,6 +1167,41 @@ collections:
         label: Excerpt
         required: false
         hint: The excerpt of the post displayed in the blog feed.
+      - widget: list
+        name: tags
+        label: tags
+        required: false
+        fields:
+          - widget: string
+            name: tag
+            label: tag
+            required: false
+            hint: Add a project tag for the issue area - e.g. human empowerment, economic development
+          - widget: select
+            name: categories
+            label: categories
+            required: false
+            multiple: true
+            hint: Add a categories tag for the functionality - e.g. user-experience, market research 
+            options: 
+              - Business Development
+              - Communications
+              - Data Analytics
+              - Economic Development
+              - Entrepreneurship Support
+              - Financial Strategy
+              - Fundraising
+              - Knowledge Management
+              - Marketing
+              - Partnership Support
+              - Policy Support
+              - Process Improvement
+              - Research
+              - Strategy
+              - Technology Support
+              - User Experience
+              - Web Design
+              - Other
       - widget: object
         name: menu
         label: Post Menus
