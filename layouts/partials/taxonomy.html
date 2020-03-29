@@ -31,18 +31,5 @@
             {{ end }}
         {{ end }}
     </ul>
-    {{ with .Site.Taxonomies.tags }}
-     {{ $baseurl := $.Site.BaseURL }}
-      <h1 class="list_title"><a href="{{ $baseurl }}tag/">Tags</a></h1>
-      <section class="taxonomy">
-          {{ range $key, $value := . }}
-          <span class="tag">
-              <a href="{{ $baseurl }}tag/{{ $key | urlize }}/" class="font_size_{{ .Count }}">
-                  {{ $key }}
-              </a>
-          </span>
-          {{ end }}
-      </section>
-    {{ end }}
   </div>
 </div>
