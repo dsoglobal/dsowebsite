@@ -31,15 +31,17 @@
             {{ end }}
         {{ end }}
     </ul>
-{{ with .Site.Taxonomies.tag }}
-    <h1 class="list_title"><a href="{{ $baseUrl }}tag/">Tags</a></h1>
-    <section class="taxonomy">
-        {{ range $key, $value := . }}
-        <span class="tag">
-            <a href="{{ $baseUrl }}tag/{{ $key | urlize }}/" class="font_size_{{ .Count }}">
-                {{ $key }}
-            </a>
-        </span>
-        {{ end }}
-    </section>
-{{ end }}
+    {{ with .Site.Taxonomies.tag }}
+      <h1 class="list_title"><a href="{{ $baseUrl }}tag/">Tags</a></h1>
+      <section class="taxonomy">
+          {{ range $key, $value := . }}
+          <span class="tag">
+              <a href="{{ $baseUrl }}tag/{{ $key | urlize }}/" class="font_size_{{ .Count }}">
+                  {{ $key }}
+              </a>
+          </span>
+          {{ end }}
+      </section>
+    {{ end }}
+  </div>
+</div>
