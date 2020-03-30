@@ -1,5 +1,5 @@
 ---
-excerpt: ''
+excerpt: aa
 content_img_path: ''
 showcomments: true
 date: 2017-06-30T04:00:00.000Z
