@@ -29,7 +29,13 @@
   }
 }
 
-.categories::after, .tags::after, .tags-terms::after, .categories-terms::after, .tags-terms::before, .categories-terms::before,  {
+.categories::after, .tags::after, .tags-terms::before, .categories-terms::before,  {
+  display: block;
+  white-space: pre;
+  content: "\a\a";
+}
+
+.tags-terms::after, .categories-terms::after {
   display: block;
   white-space: pre;
   content: "\a\a";
