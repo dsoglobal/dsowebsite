@@ -22,7 +22,7 @@
 	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
 	       {{ end }}
 	       {{ if  $testimonial.dsotitle}}
-	         <cite class="testimonial-title">{{ delimit $testimonial.author " and " }}</cite>
+	         <cite class="testimonial-title">{{ delimit $testimonial.dsotitle " and " }}</cite>
 	       {{ end }}
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
