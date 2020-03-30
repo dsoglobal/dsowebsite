@@ -23,11 +23,8 @@
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
-	       <a href="/teammates/{{ $testimonial.author | urlize }}">Learn More</a>
-	       {{ if  $testimonial.actions}}
-		    {{ range $action := $testimonial.actions }}
-                      <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-		    {{ end }} 
+	       {{ if  $testimonial.author}}
+	       		<a href="/teammates/{{ $testimonial.author | urlize }}" class="button">Learn More</a> 
 	       {{ end }}      
             </p><!-- .testimonial -->          
         </p>        
