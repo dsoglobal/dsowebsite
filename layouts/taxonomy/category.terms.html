@@ -1,10 +1,16 @@
-<ul class="categories-listing">
-	    {{ $data := .Data }}
-	    {{ $thisURL := .URL}}
-	    {{ range $key,$value := .Data.Terms.Alphabetical }}
-	    <li class="site-categories">
-		<a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
-		<h3>{{ replace $value.Name "-" " " }} ({{ $value.Count }})</h3></a>
-		</li>
-	    {{ end }}
- </ul>
+{{ define "content" }}
+<div class="outer">
+  <div class="inner">
+	<ul class="categories-listing">
+		    {{ $data := .Data }}
+		    {{ $thisURL := .URL}}
+		    {{ range $key,$value := .Data.Terms.Alphabetical }}
+		    <li class="site-categories">
+			<a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
+			<h3>{{ replace $value.Name "-" " " }} ({{ $value.Count }})</h3></a>
+			</li>
+		    {{ end }}
+	 </ul>
+ </div>
+</div>
+{{ end }}
