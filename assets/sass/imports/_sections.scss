@@ -22,7 +22,7 @@
 .categories::after, .tags::after, .tags-terms::after, .categories-terms::after, .tags-terms::before, .categories-terms::before {
   display: block;
   white-space: pre;
-  content: "\a";
+  content: "\a\a";
 }
 
 .block {
