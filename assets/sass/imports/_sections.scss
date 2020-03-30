@@ -15,7 +15,8 @@
 }
 
 .categories {
-  font: #49535a;
+  border: 2px solid dimgrey;
+  border-style: outset;
 }
 
 .innercategorytag {
@@ -33,10 +34,6 @@
   display: block;
   white-space: pre;
   content: "\a";
-}
-
-.tags-terms::before {
-  border: 3px;
 }
 
 .categories::after  {
