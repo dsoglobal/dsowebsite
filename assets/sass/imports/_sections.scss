@@ -32,7 +32,7 @@
 .categories::after, .tags::after, .tags-terms::before, .categories-terms::before,  {
   display: block;
   white-space: pre;
-  content: "\a\a";
+  content: "\a";
 }
 
 .tags-terms::after, .categories-terms::after {
