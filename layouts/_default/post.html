@@ -9,18 +9,18 @@
           <time class="published"
             datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
         </div><!-- .post-meta -->
-         {{ with .Params.dsotitle }}
+         {{ if .Params.dsotitle }}
          <div class="post-subtitle dsotitle">
           {{ delimit .Params.dsotitle " and " | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
-        {{ with .Params.subtitle }}
+        {{ if .Params.subtitle }}
         <div class="post-subtitle">
           {{ .Params.subtitle | safeHTML }}
         </div><!-- .post-subtitle -->
         {{ end }}
       </header><!-- .post-header -->
-      {{ with .Params.thumb_img_path }}
+      {{ if .Params.thumb_img_path }}
       <div class="post-thumbnail">
         <img src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
       </div><!-- .post-thumbnail -->
