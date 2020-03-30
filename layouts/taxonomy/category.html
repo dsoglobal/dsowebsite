@@ -2,11 +2,9 @@
    <div class="categories-posts">
         <div class="innercategorytag taglist">
              {{ range .Data.Pages }}
-              <!--  {{ range where .Data.Pages.ByTitle "Params.title" "intersect" .Title }} -->
                     <div class="post-feed">
                       {{ $display_posts := ((.Data.Pages.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                      {{ $linked_posts := $display_posts }}
-                         {{ range $post := $linked_posts }}
+                         {{ $post := $display_posts }}
                             <article class="post">
                               {{ if $post.Params.thumb_img_path }}
                                  <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
@@ -22,9 +20,8 @@
                                     <p>{{ $post.Params.excerpt }}</p>
                                  </div>
                               {{ end }}
-                         <!-- {{ end }} -->
                             </article><!-- .post -->
-                         {{ end }}
+                         <!-- {{ end }} -->
                     </div><!-- .post-feed --> 
              {{ end }}  
        </div><!-- .innercategories taglist -->  
