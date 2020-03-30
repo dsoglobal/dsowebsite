@@ -6,8 +6,8 @@
                {{ partial "tagcats.html" . }}
             </div>
         <div class="innercategorytag taglist">
-                    <div class="post-feed">
-                      <p class="block-cta"><a href="/projects" class="button">View All Projects</a></p>
+         <p class="block-cta"><a href="/projects" class="button">View All Projects</a></p>
+                    <div class="post-feed">                      
                       {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
                       {{ range $post := (.Data.Pages).ByDate.Reverse }}
                          <article class="post">
