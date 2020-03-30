@@ -23,8 +23,10 @@
 }
 
 .taglist {
-  margin-left: 2em;
-  margin-right: 2em;
+  a {
+    margin-left: 2em;
+    margin-right: 2em;
+  }
 }
 
 .categories::after, .tags::after, .tags-terms::after, .categories-terms::after, .tags-terms::before, .categories-terms::before,  {
@@ -33,7 +35,7 @@
   content: "\a\a";
 }
 
-taglist::before,  {
+.taglist::before,  {
   content: "✭ ";
 }
 
