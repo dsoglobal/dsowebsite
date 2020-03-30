@@ -12,6 +12,11 @@
   font: #49535a;
 }
 
+.innercategorytag {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
 .categories::after {
   display: block;
 	white-space: pre;
