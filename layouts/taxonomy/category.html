@@ -1,28 +1,11 @@
 {{ define "content" }}
-<div class="outer">
-   <div class="inner">
-      <div class="categories-terms">
-         {{ $categories := $.Site.Taxonomies.categories.ByCount }}
-          {{ $v1 := where $categories "Count" ">=" 1 }}
-          {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
-        {{ range $v2 }}
-        {{ if .Term }}
-          {{ $categoryURL := printf "categories/%s" .Term | relURL }}
-          <a href="{{ $categoryURL }}" class="btn btn-default" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >{{ .Term }} <span class="badge">({{ .Count }})</span></a>
-          {{ end }}
-        {{ end }}
-    </div>
    <div class="categories-posts">
         <div class="innercategorytag taglist">
           {{ range .Data.Pages }}
-               <div class="block-content">
-                    <div class="innercategorytag">
-                        {{ partial "tagcats.html" . }}
-                    </div>
                  <div class="post-feed">
                    {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                   {{ $recent_posts := $display_posts }}
-                   {{ range $post := $recent_posts }}
+                   {{ $linked_posts := $display_posts.RelatedTo (keyVals "tags" "fundraising" ) }}
+                   {{ range $post := $linked_posts }}
                    <article class="post">
                      {{ if $post.Params.thumb_img_path }}
                      <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
