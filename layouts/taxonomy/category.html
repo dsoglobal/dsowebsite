@@ -1,7 +1,8 @@
 {{ define "content" }}
    <div class="categories-posts">
         <div class="innercategorytag taglist">
-             {{ range where .Data.Pages.ByTitle "Params.categories" "intersect" "fundraising" }}
+             {{ range .Data.Pages }}
+               {{ range .Data.Pages.ByTitle "Params.title" "intersect" .Title }}
                     <div class="post-feed">
                       {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
                       {{ $linked_posts := $display_posts }}
@@ -28,6 +29,7 @@
                 </div><!-- .block-inside -->
               </div><!-- .inner -->
              {{ end }}
+      {{ end }}
         </div>
       </div>  
  </div>
