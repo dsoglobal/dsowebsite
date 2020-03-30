@@ -1,11 +1,10 @@
-<p class="related">
 {{ $related := .Site.Related . | first 5 }}
 {{ with $related }}
-<h3>See Also</h3>
-<ul>
-	{{ range . }}
-	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-	{{ end }}
-</ul>
+	<h3>See Also</h3>
+	<ul>
+		{{ range . }}
+		<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+		{{ end }}
+	</ul>
 {{ end }}
-</p>
+
