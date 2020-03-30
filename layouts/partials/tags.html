@@ -1,14 +1,14 @@
 {{ range .Params.categories }}
-   {{ with .Params.categories }}
-        <div class="categories">
-          <div class="innercategorytag"><a href="/categories/{{ . | urlize }}">{{ . }}</a> </div>
-        </div>
+   {{ if isset .Params.categories }}
+           <div class="categories">
+             <div class="innercategorytag"><a href="/categories/{{ . | urlize }}">{{ . }}</a> </div>
+           </div>
    {{ end }}
 {{ end }}
 {{ range .Params.tags }}
-   {{ with .Params.tags }}
-    <div class="tags">
-      <div class="innercategorytag"><a href="/tags/{{ . | urlize }}">{{ . }}</a> </div>
-     </div>
-  {{ end }}
+   {{ if isset .Params.tags }}
+       <div class="tags">
+         <div class="innercategorytag"><a href="/tags/{{ . | urlize }}">{{ . }}</a> </div>
+        </div>
+     {{ end }}
 {{ end }}
