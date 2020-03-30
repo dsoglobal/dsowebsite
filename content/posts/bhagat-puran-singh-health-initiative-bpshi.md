@@ -7,6 +7,10 @@ excerpt: >-
   content generation to streamline BPSHI’s onboarding framework, an online
   financial management tool, and research on relevant grant opportunities to
   facilitate their venture into diversifying their revenue streams.
+categories:
+  - Communications
+  - Fundraising
+  - Financial Strategy
 layout: post
 ---
 
