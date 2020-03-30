@@ -1,10 +1,10 @@
 {{ define "content" }}
    <div class="categories-posts">
         <div class="innercategorytag taglist">
-          {{ range .Data.Pages }}
+          {{ range where .Data.Pages.ByTitle "Params.categories" "intersect" .Term }}
                  <div class="post-feed">
                    {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                   {{ $linked_posts := $display_posts.RelatedTo (keyVals "categories" "fundraising" ) }}
+                   {{ $linked_posts := $display_posts }}
                    {{ range $post := $linked_posts }}
                    <article class="post">
                      {{ if $post.Params.thumb_img_path }}
