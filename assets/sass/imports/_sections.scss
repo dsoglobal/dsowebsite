@@ -29,7 +29,17 @@
   }
 }
 
-.categories::after, .tags::after, .tags-terms::before,   {
+.tags::after, .tags-terms::before,   {
+  display: block;
+  white-space: pre;
+  content: "\a";
+}
+
+.tags-terms::before {
+  border: 3px;
+}
+
+.categories::after  {
   display: block;
   white-space: pre;
   content: "\a";
