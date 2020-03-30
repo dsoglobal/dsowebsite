@@ -3,7 +3,7 @@
         <div class="innercategorytag taglist">
                     <div class="post-feed">
                       {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                      {{ range $post .Data.Pages.ByDate.Reverse }}
+                      {{ range $post := (.Data.Pages).ByDate.Reverse }}
                          <article class="post">
                            {{ if $post.Params.thumb_img_path }}
                               <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
