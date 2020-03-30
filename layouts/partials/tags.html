@@ -1,14 +1,10 @@
 <div class="categories">
-  <ul id="tags">
     {{ range .Params.categories }}
       <li><a href="categories/{{ . | urlize }}">{{ . }}</a> </li>
     {{ end }}
-  </ul>
 </div>
 <div class="tags">
-  <ul id="tags">
     {{ range .Params.tags }}
       <li><a href="tags/{{ . | urlize }}">{{ . }}</a> </li>
     {{ end }}
-  </ul>
  </div>
