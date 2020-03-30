@@ -2,7 +2,7 @@
   <div class="inner">
       <div class="block-content">
            <div class="innercategorytag">
-               {{ partial "tags.html" . }}
+               {{ partial "tagcats.html" . }}
            </div>
         <div class="post-feed">
           {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
