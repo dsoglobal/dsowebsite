@@ -5,7 +5,7 @@
                {{ .Data.Pages.ByTitle "Params.title" "intersect" .Title }}
                     <div class="post-feed">
                       {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                         {{ $linked_posts := $display_posts }}
+                      {{ $linked_posts := $display_posts }}
                          {{ range $post := $linked_posts }}
                             <article class="post">
                               {{ if $post.Params.thumb_img_path }}
@@ -23,9 +23,8 @@
                                  </div>
                               {{ end }}
                             </article><!-- .post -->
-                          {{ end }}
+                         {{ end }}
                     </div><!-- .post-feed --> 
-               {{ end }}
              {{ end }}  
        </div><!-- .innercategories taglist -->  
   </div><!-- .categories-post -->  
