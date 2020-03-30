@@ -2,7 +2,7 @@
    <div class="categories-posts">
         <div class="innercategorytag taglist">
                     <div class="post-feed">
-                      {{ $posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
+                      {{ $post := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
                       {{ range .Data.Pages }}
                          <article class="post">
                            {{ if $post.Params.thumb_img_path }}
