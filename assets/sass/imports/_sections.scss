@@ -18,7 +18,7 @@
   margin-left: 2em;
 }
 
-.categories::after, .tags::after {
+.categories::after, .tags::after, .tags-terms::after, .categories-terms::after {
   display: block;
 	white-space: pre;
   content: "\a\a";
