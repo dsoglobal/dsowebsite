@@ -19,3 +19,14 @@ params:
 taxonomies:
   tag: tags
   category: categories
+related:
+  threshold: 0
+  includeNewer: true
+  toLower: false
+  indices:
+    - name: categories
+      weight: 100
+    - name: tags
+      weight: 75
+    - name: date
+      weight: 10
