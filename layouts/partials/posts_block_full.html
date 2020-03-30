@@ -1,6 +1,12 @@
 <section id="{{ .section.section_id }}" class="posts-block block outer">
   <div class="inner">
       <div class="block-content">
+          {{ if or (.Params.categories) (.Params.tags) }}
+           <div class="innercategorytag">
+               {{ partial "tags.html" . }}
+           </div>
+          {{ end }}
+        </div>
         <div class="post-feed">
           {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
           {{ $recent_posts := $display_posts | first .section.num_posts_displayed }}
