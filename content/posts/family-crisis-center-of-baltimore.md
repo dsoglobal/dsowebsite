@@ -13,18 +13,17 @@ excerpt: >-
   organized tool that ties together services and clients. In addition to staff,
   the system must support 40 volunteers which currently use physical call sheets
   that are mailed or scanned in.
+categories:
+  - Strategy
+  - Process Improvement
+  - Technology Support
+tags:
+  - Data Management
+  - Domestic Violence
+  - Support
 layout: post
 ---
-
-
-| **Strategy**        | **Process Improvement** | **Technology Assessment** |
-| ------------------- | ----------------------- | ------------------------- |
-| **Data Management** | **Domestic Violence**   | **Support**               |
-
-
-
-The Family Crisis Center of Baltimore County, Inc. provides essential and life-saving services to family members experiencing conflict and family violence. The staff includes volunteers, as well as licensed professionals and seasoned specialists working in consultation with each family member to decrease conflict and violence and to improve the overall functioning of each family member. They focus on an equal relationship between staff and clients seeking services, supporting clients in using their internal resources and capacity to find and determine solutions to their problems, in consultation with a service provider of the Center.
-The Family Crisis Center provides the only on-site, anonymous emergency safe shelter services to adult and child victims of domestic violence for up to 90 days, transitional shelter services to qualified victims of domestic violence up to 6 months, victim advocate services, individual and family counseling services, and abuser intervention services to perpetrators of family violence.
+The Family Crisis Center of Baltimore County, Inc. provides essential and life-saving services to family members experiencing conflict and family violence. The staff includes volunteers, as well as licensed professionals and seasoned specialists working in consultation with each family member to decrease conflict and violence and to improve the overall functioning of each family member. They focus on an equal relationship between staff and clients seeking services, supporting clients in using their internal resources and capacity to find and determine solutions to their problems, in consultation with a service provider of the Center. The Family Crisis Center provides the only on-site, anonymous emergency safe shelter services to adult and child victims of domestic violence for up to 90 days, transitional shelter services to qualified victims of domestic violence up to 6 months, victim advocate services, individual and family counseling services, and abuser intervention services to perpetrators of family violence.
 
 **What We Did:**
 
@@ -37,7 +36,6 @@ Highlighted system implementation considerations and provided foundational User 
 **Testimonial:**
 
 > “DSO provided our organization with technological expertise and a unique lens from which to evaluate our current processes. The DSO team helped us practically think about what each role needs from a data management system and envision a system that could assist people to do their jobs more effectively.”
->
 >
 > – Elena Hampton-Stover, LGSW – Baltimore County Sexual Assault/Domestic Violence Hotline Coordinator
 
