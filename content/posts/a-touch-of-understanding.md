@@ -14,16 +14,6 @@ tags:
   - Disability awareness
 layout: post
 ---
-
-
-| **Nonprofit Organizational Knowledge** | **Disability Awareness** | **Strategy** |
-| -------------------------------------- | ------------------------ | ------------ |
-|                                        |                          |              |
-
-
-
-A Touch of Understanding (ATOU) provides disability awareness programs designed to educate a new generation to understand the challenges associated with disabilities and to accept and respect all individuals
-
 **What We Did:**
 
 * Researched how other similar programs and organizations have scaled up
