@@ -6,6 +6,8 @@
   font-weight:bold;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
 }
 
 .categories {
@@ -14,7 +16,6 @@
 
 .innercategorytag {
   margin-left: 2em;
-  margin-right: 2em;
 }
 
 .categories::after {
