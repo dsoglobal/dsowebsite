@@ -2,7 +2,7 @@
    <div class="categories-posts">
         <div class="innercategorytag taglist">
              {{ range .Data.Pages }}
-               {{ .Data.Pages.ByTitle "Params.title" "intersect" .Title }}
+               {{ range where .Data.Pages.ByTitle "Params.title" "intersect" .Title }}
                     <div class="post-feed">
                       {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
                       {{ $linked_posts := $display_posts }}
@@ -22,6 +22,7 @@
                                     <p>{{ $post.Params.excerpt }}</p>
                                  </div>
                               {{ end }}
+               {{ end }}
                             </article><!-- .post -->
                          {{ end }}
                     </div><!-- .post-feed --> 
