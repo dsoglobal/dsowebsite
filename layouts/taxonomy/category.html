@@ -1,0 +1,20 @@
+<div class="outer">
+<div class="inner">
+   {{ $tags := $.Site.Taxonomies.categories.ByCount }}
+    {{ $v1 := where $categories "Count" ">=" 1 }}
+    {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
+  {{ range $v2 }}
+  {{ if .Term }}
+    {{ $categoryURL := printf "categories/%s" .Term | relURL }}
+    <a href="{{ $categoryURL }}" class="btn btn-default" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >{{ .Term }} <span class="badge">({{ .Count }})</span></a>
+    {{ end }}
+  {{ end }}
+  <ul>
+    {{ range .Data.Pages }}
+      <li>
+        <a href="{{.RelPermalink}}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+ </div>
+</div>
