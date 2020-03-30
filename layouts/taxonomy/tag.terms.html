@@ -1,0 +1,10 @@
+<ul class="tags-listing">
+	    {{ $data := .Data }}
+	    {{ $thisURL := .URL}}
+	    {{ range $key,$value := .Data.Terms.Alphabetical }}
+	    <li class="site-tag">
+		<a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
+		<h3>{{ replace $value.Name "-" " " }} ({{ $value.Count }})</h3></a>
+		</li>
+	    {{ end }}
+ </ul>
