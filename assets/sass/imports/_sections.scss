@@ -36,7 +36,9 @@
 }
 
 .taglist::before,  {
-  content: "✭ ";
+  a {
+     content: "\2605 ";
+  }
 }
 
 .block {
