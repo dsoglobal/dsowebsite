@@ -2,6 +2,15 @@
  * Sections
  * ----------------------------------------------------------------------------
  */
+.categories, .tags {
+  font-weight:bold;
+  display:inline-block;
+}
+
+.categories {
+  font: #49535a;
+}
+
 .block {
   padding-bottom: 3.33333em;
   padding-top: 3.33333em;
