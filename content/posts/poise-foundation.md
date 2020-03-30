@@ -19,16 +19,6 @@ tags:
   - Sustainability
 layout: post
 ---
-
-
-| **User Experience**                    | **Strategy**              | **Fundraising**    |
-| -------------------------------------- | ------------------------- | ------------------ |
-| **Economic and Community Development** | **Financial Empowerment** | **Sustainability** |
-
-
-
-The POISE Foundation is a public charitable foundation based in Pittsburgh, PA, whose purpose is to develop and enhance the participation of Black philanthropists in the economic and social development of the Black community. For 36 years, the Foundation has been supporting programs that add value to the quality of life of the Black population in Pittsburgh and its surrounding regions; and has expanded its services to impact Black families and their communities across the US. POISE employs collective giving to enable donors to realize their philanthropic goals, pooling resources to provide funding to worthy organizations and causes.
-
 **What We Did:**
 
 * Conducted research related to donors, social media/channels, website analytics tools, Millennial giving & involvement, and competitors
