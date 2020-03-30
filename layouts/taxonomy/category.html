@@ -1,5 +1,10 @@
 {{ define "content" }}
-   <div class="categories-posts">
+<div class="posts-block block outer">
+ <div class="inner">
+      <div class="block-content">
+           <div class="innercategorytag">
+               {{ partial "tagcats.html" . }}
+            </div>
         <div class="innercategorytag taglist">
                     <div class="post-feed">
                       {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
@@ -23,5 +28,11 @@
                      {{ end }}
                     </div><!-- .post-feed --> 
        </div><!-- .innercategories taglist -->  
-  </div><!-- .categories-post -->  
+  </div><!-- .categories-post --> 
+      <p class="block-cta">
+          <a href="/projects" class="button">View All Projects</a>
+        </p><!-- .block-cta -->
+</div>
+</div>
+ </div>
 {{ end }}
