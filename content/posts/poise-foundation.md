@@ -10,9 +10,9 @@ excerpt: >-
   marketing strategies. The end objective was to increase POISE’s donor reach
   using low-cost and low-effort resources.
 categories:
-  - User Experience
   - Strategy
   - Fundraising
+  - User Experience
 tags:
   - Economic and Community Development
   - Financial Empowerment
