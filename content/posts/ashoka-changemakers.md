@@ -12,13 +12,6 @@ categories:
   - Web Design
 layout: post
 ---
-
-
-| **User Experience** | **Web Design** |     |
-| ------------------- | -------------- | --- |
-
-
-
 Ashoka Changemakers is the world’s leading network of social innovators that, through collaborative competitions or "challenges," connects high-potential changemakers, their ideas, and resources. With the mission “Everyone a Changemaker,” Ashoka Changemakers' website is the portal through which social innovators around the world access people and resources to make their projects a reality. Changemakers is redesigning this portal and reached out to DSO to ensure that pages were easy to use, up to web standards, responsive, and consistent to make a fluid experience for the site's diverse users.
 
 **What We Did:**
