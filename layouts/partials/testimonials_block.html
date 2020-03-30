@@ -18,8 +18,12 @@
                {{ if $testimonial.avatar }}
                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                {{ end }}
-	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
+	       {{ if  $testimonial.content}}
+	         <cite class="testimonial-author">{{ delimit $testimonial.author " and " }}</cite>
+	       {{ end }}
+	       {{ if  $testimonial.dsotitle}}
 	         <cite class="testimonial-title">{{ $testimonial.dsotitle }}</cite>
+	       {{ end }}
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
