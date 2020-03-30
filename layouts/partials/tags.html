@@ -1,10 +1,10 @@
 <div class="categories">
     {{ range .Params.categories }}
-      <div><a href="categories/{{ . | urlize }}">{{ . }}</a> </div>
+      <div class="innercategorytag"><a href="categories/{{ . | urlize }}">{{ . }}</a> </div>
     {{ end }}
 </div>
 <div class="tags">
     {{ range .Params.tags }}
-      <div><a href="tags/{{ . | urlize }}">{{ . }}</a> </div>
+      <div class="innercategorytag"><a href="tags/{{ . | urlize }}">{{ . }}</a> </div>
     {{ end }}
  </div>
