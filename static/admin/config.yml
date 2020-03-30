@@ -1351,11 +1351,17 @@ collections:
                     searchFields:
                       - title
                     hint: The name of the team member. Add team member under Individual Team Members first.
-                  - widget: string
+                  - widget: relation
                     name: dsotitle
                     label: DSO Title
+                    collection: peoplepost
+                    valueField: dsotitle
+                    multiple: false
                     required: false
-                    hint: The DSO title of the team member.
+                    searchFields:
+                      - title
+                      - dsotitle
+                    hint: The DSO titles of the team member. Add team member under Individual Team Members first.
                   - widget: relation
                     name: avatar
                     label: Picture
@@ -1368,24 +1374,7 @@ collections:
                     displayFields:
                       - title
                       - thumb_img_path
-                    hint: Uses the picture for the team member. Search by name                  
-                  - widget: list
-                    name: actions
-                    label: Link to Learn More
-                    required: false
-                    fields:
-                      - widget: string
-                        name: label
-                        label: Label
-                        required: true
-                        default: Learn More
-                        hint: The text displayed inside the button.
-                      - widget: string
-                        name: url
-                        label: Button URL
-                        required: false
-                        default: /teammates/
-                        hint: Use format teammates/firstname-lastname e.g. jane-doe based on individual team pages
+                    hint: Uses the picture for the team member. Search by name
                   - widget: markdown
                     name: body
                     label: Content
