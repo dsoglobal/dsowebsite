@@ -13,13 +13,11 @@
         {{ end }}
     </div>
    <div class="categories-posts">
-        <ul>
+        <div class="innercategorytag">
           {{ range .Data.Pages }}
-            <li>
               <a href="{{.RelPermalink}}">{{ .Title }}</a>
-            </li>
           {{ end }}
-        </ul>
+        </div>
       </div>  
  </div>
 </div>
