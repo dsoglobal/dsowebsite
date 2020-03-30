@@ -1,28 +1,14 @@
 <div class="categories">
-  {{ $taxonomy := "categories" }}
-  {{ with .Param $taxonomy }}
-    <ul>
-      {{ range $index, $category := . }}
-        {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $category) -}}
-          <li>
-            <a href="{{ .Permalink }}">{{ $category | urlize }}</a>
-          </li>
-        {{- end -}}
-      {{- end -}}
-    </ul>
-  {{ end }}
+  <ul id="tags">
+    {{ range .Params.categories }}
+      <li><a href="categories/{{ . | urlize }}">{{ . }}</a> </li>
+    {{ end }}
+  </ul>
 </div>
 <div class="tags">
-  {{ $taxonomy := "tags" }}
-  {{ with .Param $taxonomy }}
-    <ul>
-      {{ range $index, $tag := . }}
-        {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
-          <li>
-            <a href="{{ .Permalink }}">{{ $tag | urlize }}</a>
-          </li>
-        {{- end -}}
-      {{- end -}}
-    </ul>
-  {{ end }}
+  <ul id="tags">
+    {{ range .Params.tags }}
+      <li><a href="tags/{{ . | urlize }}">{{ . }}</a> </li>
+    {{ end }}
+  </ul>
  </div>
