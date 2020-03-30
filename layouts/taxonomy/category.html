@@ -4,7 +4,7 @@
              {{ range .Data.Pages }}
                     <div class="post-feed">
                       {{ $display_posts := ((.Data.Pages.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                         {{ $post := $display_posts }}
+                      {{ $post := $display_posts }}
                             <article class="post">
                               {{ if $post.Params.thumb_img_path }}
                                  <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
@@ -21,7 +21,7 @@
                                  </div>
                               {{ end }}
                             </article><!-- .post -->
-                         <!-- {{ end }} -->
+
                     </div><!-- .post-feed --> 
              {{ end }}  
        </div><!-- .innercategories taglist -->  
