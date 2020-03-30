@@ -16,6 +16,3 @@ params:
     has_nav: true
     logo_img: /images/logo-2-.png
     title: DSO
-taxonomies:
-  category: categories
-  tag: tags
