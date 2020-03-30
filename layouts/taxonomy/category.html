@@ -15,7 +15,7 @@
    <div class="categories-posts">
         <div class="innercategorytag taglist">
           {{ range .Data.Pages }}
-              <a href="{{.RelPermalink}}">{{ .Title }}</a>
+             {{ partial "posts_block_full.html" . }}
           {{ end }}
         </div>
       </div>  
