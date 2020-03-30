@@ -14,9 +14,7 @@ sections:
         teammembersname: Amy Badiani
         dsotitle: Engagement Lead and CXO
         avatar: /images/0-3-.jpg
-        actions:
-          - label: Learn More
-            url: teammates/amy-badiani
+        actions: []
         author: Amy Badiani
     teammembers:
       - Amy Badiani
