@@ -1,23 +1,38 @@
 {{ define "content" }}
-<div class="outer">
-   <div class="inner">
-      <div class="tags-terms">
-         {{ $tags := $.Site.Taxonomies.tags.ByCount }}
-          {{ $v1 := where $tags "Count" ">=" 1 }}
-          {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
-        {{ range $v2 }}
-        {{ if .Term }}
-          {{ $tagURL := printf "tags/%s" .Term | relURL }}
-          <a href="{{ $tagURL }}" class="btn btn-default" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;" >{{ .Term }} <span class="badge">({{ .Count }})</span></a>
-          {{ end }}
-        {{ end }}       
-      </div>
-     <div class="tags-posts">
+<div class="posts-block block outer">
+ <div class="inner">
+      <div class="block-content">
+           <div class="innercategorytag">
+               {{ partial "tagcats.html" . }}
+            </div>
         <div class="innercategorytag taglist">
-          {{ range .Data.Pages }}
-              <a href="{{.RelPermalink}}">{{ .Title }}</a>
-          {{ end }}
-      </div>
-   </div>
+                    <div class="post-feed">
+                      {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
+                      {{ range $post := (.Data.Pages).ByDate.Reverse }}
+                         <article class="post">
+                           {{ if $post.Params.thumb_img_path }}
+                              <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
+                           {{ end }}
+                           <header class="post-header">
+                             <h3 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
+                             <div class="post-meta">
+                               <time class="published" datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
+                             </div>
+                           </header>
+                           {{ if $post.Params.excerpt }}
+                           <div class="post-excerpt">
+                             <p>{{ $post.Params.excerpt }}</p>
+                           </div>
+                           {{ end }}
+                         </article><!-- .post -->
+                     {{ end }}
+                    </div><!-- .post-feed --> 
+       </div><!-- .innercategories taglist -->  
+  </div><!-- .categories-post --> 
+      <p class="block-cta">
+          <a href="/projects" class="button">View All Projects</a>
+        </p><!-- .block-cta -->
 </div>
+</div>
+ </div>
 {{ end }}
