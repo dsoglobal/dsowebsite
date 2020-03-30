@@ -12,6 +12,12 @@
   font: #49535a;
 }
 
+.categories::after {
+  display: block;
+	white-space: pre;
+  content: "\a";
+}
+
 .block {
   padding-bottom: 3.33333em;
   padding-top: 3.33333em;
