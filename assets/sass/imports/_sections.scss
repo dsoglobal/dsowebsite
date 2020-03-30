@@ -5,6 +5,7 @@
 .categories, .tags {
   font-weight:bold;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .categories {
