@@ -9,7 +9,9 @@
   justify-content: center;
   width: 100%;
   text-decoration:none;
-  border-bottom: none;
+   a {
+     border-bottom: none;
+  }
 }
 
 .categories {
