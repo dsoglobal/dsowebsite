@@ -21,7 +21,7 @@
 .categories::after, .tags::after {
   display: block;
 	white-space: pre;
-  content: "\a";
+  content: "\a\a";
 }
 
 .block {
