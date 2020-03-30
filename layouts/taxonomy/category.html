@@ -21,7 +21,7 @@
                     </div>
                  <div class="post-feed">
                    {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                   {{ $recent_posts := $display_posts | first .section.num_posts_displayed }}
+                   {{ $recent_posts := $display_posts }}
                    {{ range $post := $recent_posts }}
                    <article class="post">
                      {{ if $post.Params.thumb_img_path }}
