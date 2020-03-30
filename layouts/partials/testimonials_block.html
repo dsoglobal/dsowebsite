@@ -22,7 +22,8 @@
 	         <cite class="testimonial-title">{{ $testimonial.dsotitle }}</cite>
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
-	       {{ end }} 
+	       {{ end }}
+	       <a href="/teammates/{{ $testimonial.author | urlize }}">Learn More</a>
 	       {{ if  $testimonial.actions}}
 		    {{ range $action := $testimonial.actions }}
                       <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
