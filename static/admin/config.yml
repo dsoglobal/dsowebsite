@@ -1360,7 +1360,6 @@ collections:
                     required: false
                     searchFields:
                       - title
-                      - dsotitle
                     displayFields:
                       - title
                       - dsotitle
