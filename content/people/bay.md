@@ -8,7 +8,7 @@ sections:
   - type: testimonialsblock
     component: testimonials_block.html
     title: Berkeley Team
-    subtitle: Engagement Leads and Advisers
+    subtitle: Engagement Leads and Advisors
     testimonialslist:
       - type: testimonialsblock
         teammembersname: Amy Badiani
