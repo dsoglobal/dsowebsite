@@ -14,7 +14,6 @@ sections:
         teammembersname: Amy Badiani
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/0-3-.jpg
-        actions: []
         author: Amy Badiani
     teammembers:
       - Amy Badiani
@@ -22,7 +21,6 @@ sections:
     component: testimonials_block.html
     title: Stanford Team
     subtitle: Engagement Leads and Advisers
-    testimonialslist: []
     teammembers:
       - Arlane Gordon-Bray
 ---
