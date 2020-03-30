@@ -1,4 +1,4 @@
-{{ $related := .Site.Related . | first 5 }}
+{{ $related := $.Site.Related . | first 5 }}
 {{ with $related }}
 	<h3>See Also</h3>
 	<ul>
