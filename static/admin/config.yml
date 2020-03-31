@@ -1431,6 +1431,8 @@ collections:
           - CXO
           - Project Lead
           - Recruiting Lead
+          - Alumni (Student)
+          - Alumni (Engagement Lead or Advisor)
           - Other
         multiple: true
       - widget: string
