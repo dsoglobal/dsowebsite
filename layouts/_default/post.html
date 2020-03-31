@@ -32,7 +32,7 @@
         {{ .Content }}
         {{ if .Params.teammembers }}
            {{ range .Params.teammembers }}
-              <a href="/teammembers/{{ . | urlize }}">{{ . | humanize }}</a>, 
+              Team: <a href="/teammembers/{{ . | urlize }}" class="categories-terms">{{ . | humanize }}</a>, 
            {{ end }}
         {{ end }}
         {{ partial "related.html" . }}
