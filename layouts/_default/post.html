@@ -31,11 +31,7 @@
         {{ end }}
         {{ .Content }}
         {{ if .Params.teammembers }}
-          	 {{ with .Params.teammembers }}
-	             {{ $name := apply .Params.teammembers "replace" "." "[" "" }}
-	             {{ $name := replace $name "]" "" }}
-                     <a href="/teammembers/{{ $name | urlize }}" class="categories-terms">{{ $name }}</a>
-	         {{ end }}
+           {{ delimit .Params.teammembers ", " }}
         {{ end }}
         {{ partial "related.html" . }}
       </div><!-- .post-content -->
