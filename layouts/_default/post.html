@@ -31,7 +31,9 @@
         {{ end }}
         {{ .Content }}
         {{ if .Params.teammembers }}
-          {{ delim .Params.teammembers }}
+          	 {{ with .Params.teammembers }}
+                <a href="/teammembers/{{ . | urlize }}">{{ . }}</a>
+	           {{ end }}
         {{ end }}
         {{ partial "related.html" . }}
       </div><!-- .post-content -->
