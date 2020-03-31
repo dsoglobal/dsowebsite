@@ -10,6 +10,8 @@ excerpt: >-
   media strategy and implementation that engages target audience with the work
   of leading social entrepreneurs transforming youth employment in Africa.
 layout: post
+teammembers:
+  - Amy Badiani
 ---
 
 
