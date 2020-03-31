@@ -31,7 +31,7 @@
         {{ end }}
         {{ .Content }}
        {{ if .Params.teammembers }}  
-        <p class="team">Team: 
+        <p class="team">Learn More About: 
           {{ range $key, $value := .Params.teammembers }}
             {{if ne $value "null"}}
               <span class="teaminner"><a href="/teammates/{{ $value | urlize  }}">{{ $value }}</a></span>
