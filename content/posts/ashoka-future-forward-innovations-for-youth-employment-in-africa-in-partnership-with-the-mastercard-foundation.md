@@ -12,8 +12,6 @@ excerpt: >-
 layout: post
 teammembers:
   - Amy Badiani
-  - Anthony Buchanan
-  - Saurabh Sanghvi
 ---
 
 
