@@ -34,7 +34,7 @@
         <p class="team">Team: 
           {{ range $key, $value := .Params.teammembers }}
             {{if ne $value "null"}}
-              <span class="teaminner"><a href="/teammembers/{{ $value | urlize  }}">{{ $value }}</a></span>
+              <span class="teaminner"><a href="/teammates/{{ $value | urlize  }}">{{ $value }}</a></span>
             {{end}}
           {{ end }}     
         </p>
