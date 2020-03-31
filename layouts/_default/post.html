@@ -30,7 +30,10 @@
           {{ partial "tags.html" . }}
         {{ end }}
         {{ .Content }}
-          {{ partial "related.html" . }}
+        {{ if .Params.teammembers }}
+          {{ delim .Params.teammembers }}
+        {{ end }}
+        {{ partial "related.html" . }}
       </div><!-- .post-content -->
     </article><!-- .post -->
 
