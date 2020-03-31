@@ -30,10 +30,14 @@
           {{ partial "tags.html" . }}
         {{ end }}
         {{ .Content }}
-        {{ if .Params.teammembers }}
-           {{ range .Params.teammembers }}
-              Team: <a href="/teammembers/{{ . | urlize }}" class="categories-terms">{{ . | humanize }}</a>, 
-           {{ end }}
+       {{ if .Params.teammembers }}  
+        <p class="team">Team: 
+          {{ range $key, $value := .Params.teammembers }}
+            {{if ne $value "null"}}
+              <span class="teaminner"><a href="/teammembers/{{ $value | urlize  }}">{{ $value }}</a></span>
+            {{end}}
+          {{ end }}     
+        </p>
         {{ end }}
         {{ partial "related.html" . }}
       </div><!-- .post-content -->
