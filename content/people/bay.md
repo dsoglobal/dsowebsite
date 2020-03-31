@@ -23,4 +23,9 @@ sections:
     subtitle: Engagement Leads and Advisers
     teammembers:
       - Arlane Gordon-Bray
+    testimonialslist:
+      - type: testimonialsblock
+        author: Saurabh Sanghvi
+        dsotitle: '["Engagement Lead","CXO"]'
+        avatar: /images/saurabh_orig.jpg
 ---
