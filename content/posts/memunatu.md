@@ -9,12 +9,16 @@ excerpt: >-
   leadership, and empowerment for teenage that has educational and fun content.
   girls (10-17 years old) in West Africa through a community-driven publication
   / magazine.
+categories:
+  - Research
+  - Partnership Support
+  - Fundraising
+tags:
+  - Youth
+  - Education
+  - Africa
 layout: post
 ---
-| **Youth**    | **Education**    | **Africa**           |
-| ------------ | ---------------- | -------------------- |
-| **Research** | **Partnerships** | **Fund Development** |
-
 Memunatu promotes literacy, leadership, and empowerment for teenage girls (10-17 years old) in West Africa through a community-driven publication / magazine that has educational and fun content. Starting in Sierra Leone, Memunatu has the power to engage and inspire girls across the continent.
 
 **What We Did:**
