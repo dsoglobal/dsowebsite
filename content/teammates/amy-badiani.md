@@ -27,10 +27,4 @@ layout: post
 * Memunatu
 * Watkins Elementary School
 
-**Here's what I'm up to at DSO:** 
-
-**Ask me about/I'm passionate about:** 
-
-**Aspiration(s):** 
-
 ## **[Get in Touch](mailto:amy.badiani@dsoglobal.org)**
