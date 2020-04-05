@@ -9,12 +9,16 @@ excerpt: >-
   integral part of the care of for people with mental illness in Chennai since
   1993. The teams consisted of 6 volunteers from DSO and several stakeholders
   from Banyan.
+categories:
+  - Research
+  - Fundraising
+  - Partnership Support
+tags:
+  - Women
+  - Mental Health
+  - India
 layout: post
 ---
-| **Women**    | **Mental Health** | **India**            |
-| ------------ | ----------------- | -------------------- |
-| **Research** | **Partnerships**  | **Fund Development** |
-
 Banyan is a mental health organization that has been an integral part of the care for people with mental illness in Chennai, India since 1993.
 
 **What We Did:**
