@@ -11,8 +11,14 @@
   text-decoration:none;
    a {
      border-bottom: none;
-     font-size: 1.5rem;
   }
+}
+
+.categories-terms, .tags-terms {
+  text-transform: uppercase; 
+  font-size: 1.5rem; 
+  padding-right: 5px; 
+  padding-left: 5px;
 }
 
 .team {
