@@ -27,4 +27,5 @@ sections:
   - type: testimonialsblock
     component: testimonials_block.html
     title: Board
+    subtitle: Board of Directors
 ---
