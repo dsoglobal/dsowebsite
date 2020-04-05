@@ -15,6 +15,7 @@ categories:
   - Economic Development
 tags:
   - Youth
+  - Social Innovation
 layout: post
 teammembers:
   - Amy Badiani
