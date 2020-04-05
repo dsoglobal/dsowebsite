@@ -41,8 +41,10 @@
         {{ end }}
     {{ if .Params.actions }}
       <p class="block-cta">
-        {{ range $label, $url := .Params.actions }}
-          <a href="{{ $url | relURL }}" class="button">{{ $label }}</a>
+        {{ range $key, $value := .Params.actions }}
+          {{if ne $value "null"}}
+            <a href="{{ $value.url | relURL }}" class="button">{{ $value.label }}</a>
+          {{end}}
         {{ end }}
       </p><!-- .block-cta -->
      {{ end }}
