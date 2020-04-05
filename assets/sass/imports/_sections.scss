@@ -18,7 +18,11 @@
   text-transform: capitalize; 
   padding-right: 10px; 
   padding-left: 10px;
-  font-size: .85rem; 
+  font-size: .85rem;
+  a {
+       margin-right: 5px; 
+       margin-left: 5px;
+   }
 }
 
 .team {
