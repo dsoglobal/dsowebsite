@@ -8,20 +8,19 @@ excerpt: >-
   and Global Health Media Project (GHMP), this project focused on researching,
   evaluating and recommending a sustainable business model for GHMP in order to
   help it grow operations and maximize its reach.
+categories:
+  - Business Development
+  - Data Analytics
+  - Financial Strategy
+tags:
+  - Health
+  - Education
+  - Human Empowerment
 layout: post
 ---
-
-
-| **Business and Organization Effectiveness** | **Data Analytics** | **Financial Strategy** |
-| ------------------------------------------- | ------------------ | ---------------------- |
-| **Health**                                  | **Education**      | **Human Empowerment**  |
-
-
-
 **What We Did:**
 
-Analyzed the markets GHMP serves, and outlined its value proposition &amp; differentiation  Investigated other comparable business models in the space
-Conducted data analysis on GHMP downloads and usage demographics, and created data visualization
+Analyzed the markets GHMP serves, and outlined its value proposition &amp; differentiation  Investigated other comparable business models in the space Conducted data analysis on GHMP downloads and usage demographics, and created data visualization
 Mapped the value chain to determine where GHMP could extract value for its work
 Conducted primary &amp; secondary research with potential customers and partnership orgs to document
 willingness to pay
