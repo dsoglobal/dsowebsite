@@ -39,12 +39,12 @@
           {{ end }}     
         </p>
         {{ end }}
-    {{ range $section := .Params.sections }}
+    {{ if .Params.actions }}
       <p class="block-cta">
-        {{ range $action := $section.actions }}
-          <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+        {{ range $label, $url := .Params.actions }}
+          <a href="{{ $url | relURL }}" class="button">{{ $label }}</a>
         {{ end }}
-    </p><!-- .block-cta -->
+      </p><!-- .block-cta -->
      {{ end }}
         {{ partial "related.html" . }}
       </div><!-- .post-content -->
