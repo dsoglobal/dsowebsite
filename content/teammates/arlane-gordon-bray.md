@@ -16,4 +16,4 @@ layout: post
 *
 *
 
-## **[Get in Touch]()**
+**[Get in Touch]()**
