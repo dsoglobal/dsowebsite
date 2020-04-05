@@ -17,4 +17,4 @@ layout: post
 
 *
 
-## **[Get in Touch](mailto:ssanghvi@dsoglobal.org)**
+**[Get in Touch](mailto:ssanghvi@dsoglobal.org)**
