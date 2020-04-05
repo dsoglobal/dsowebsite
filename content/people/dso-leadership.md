@@ -24,4 +24,7 @@ sections:
         author: Saurabh Sanghvi
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/saurabh_orig.jpg
+  - type: testimonialsblock
+    component: testimonials_block.html
+    title: Board
 ---
