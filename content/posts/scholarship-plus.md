@@ -8,21 +8,15 @@ excerpt: >-
   Plus team, this project focused on improving branding through market research
   and website design. The end objective was to increase the scholarship
   program’s exposure and access to funding opportunities.
+categories:
+  - Strategy
+  - Marketing
+  - Web Design
+tags:
+  - Education
 layout: post
 ---
-
-
-| **Strategy**  | **Marketing** | **Web Design** |
-| ------------- | ------------- | -------------- |
-| **Education** |               |                |
-
-
-
-Scholarship Plus is a scholarship program whose mission is to find, encourage and support the college careers of outstanding economically deprived New York City high school graduates, entering their lives before they begin college and staying with them until they graduate and beyond.
-
-
-Scholarship Plus currently operates under a “pod” fundraising system; a
-pod consists of seven donors who contribute one thousand dollars a year to
+Scholarship Plus currently operates under a “pod” fundraising system; a pod consists of seven donors who contribute one thousand dollars a year to
 a scholarship recipient for four years.
 
 **What We Did:**
