@@ -8,12 +8,16 @@ excerpt: >-
   increase revenue and sales of their jewelry by reviewing distribution
   opportunities and implementing the technical supply-chain operations to
   support additional shelters and rescue additional survivors.
+categories:
+  - Marketing
+  - Web Design
+  - Fundraising
+tags:
+  - Human Empowerment
+  - Entrepreneurship
+  - Economic Development
 layout: post
 ---
-| **Human Empowerment** | **Entrepreneurship** | **Economic Development** |
-| --------------------- | -------------------- | ------------------------ |
-| **Marketing**         | **SEO**              | **Fund Development**     |
-
 Made by Survivors (MbS) is an organization that re-empowers women and children who have been captured and forced into sexual slavery, or born into brothel communities by helping them to attend school and teaching skills they can use to become independent individuals (primarily jewelry crafting). They have been in existence for 6 years with 250k in sales and 250k in grants empowering 10 shelters.
 
 **What We Did:**
@@ -27,3 +31,7 @@ Currently, 90% of MbS sales come through their home grown e-commerce website. We
 > Made By Survivors has developed a model for fighting slavery and helping survivors of slavery to reintegrate that really works. Now we want to be able these opportunities to thousands – rather than hundreds – of survivors, and in order to do that we needed a strategy to sell more survivor-made products and increase profits. The DSO team first conducted a high level analysis of all our current systems, as well as comparing a variety of new approaches. Then they helped us to choose the directions which will get the best results fast. They are now working with us as we put these new plans into action, bringing their expertise in technology, marketing, and distribution.” 
 >
 > \-Sarah Symons
+
+
+
+**Team:** Lauren Swartz, Trisha Quan, Edwin Shao, Helena, Joy, Leslie, Gianni, Anthony, Joanne, Viria
