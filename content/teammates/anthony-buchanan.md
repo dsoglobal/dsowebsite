@@ -26,4 +26,4 @@ layout: post
 * [Disrupt: Social Games for Peace](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVTkc3NTB1ZU5raEE&sa=D&ust=1583293938901000&usg=AFQjCNGT7bu80isx1age-jQ50_C4y4Znhg)
 * [Hummingbill: Mobile Billing](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
 
-## **[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**
+**[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**
