@@ -16,6 +16,8 @@ thumb_img_path: /images/0-3-.jpg
 actions:
   - label: LinkedIn
     url: 'https://www.linkedin.com/in/amybadiani'
+  - label: SV2
+    url: 'https://www.sv2.org/'
 layout: post
 ---
 **Why I joined DSO:** To understand and co-create human-centered, sustainable solutions to international development and make lifelong friends
