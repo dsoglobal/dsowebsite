@@ -49,7 +49,7 @@ sections:
         percent: true
       - num_start: 0
         title: '# of volunteer hrs to date'
-        num_count: '40,000'
+        num_count: '7,000'
       - num_start: 0
         title: '# of projects completed'
         num_count: '50'
