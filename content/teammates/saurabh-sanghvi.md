@@ -11,3 +11,10 @@ company: McKinsey & Co
 thumb_img_path: /images/saurabh_orig.jpg
 layout: post
 ---
+**Why I joined DSO:** 
+
+**Projects:**
+
+*
+
+## **[Get in Touch](mailto:ssanghvi@dsoglobal.org)**
