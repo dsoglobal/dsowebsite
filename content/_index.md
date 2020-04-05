@@ -52,7 +52,7 @@ sections:
         num_count: '7,000'
       - num_start: 0
         title: '# of projects completed'
-        num_count: '50'
+        num_count: '20'
       - num_start: 0
         title: value of pro-bono consulting
         num_count: '500,000'
