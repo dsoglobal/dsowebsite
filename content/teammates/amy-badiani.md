@@ -22,9 +22,9 @@ layout: post
 
 **Projects:** 
 
-* Cameroon Football Development Program: Sharing a compelling story with supporters and donors around the world
-* [Ashoka Future Forward](https://dsowebsite-179d5.netlify.com/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/): Amplifying young people as champions of positive change
-* [Memunatu](https://dsowebsite-179d5.netlify.com/posts/memunatu/): Aligning girls literacy and leadership with strong partners
-* Watkins Elementary School: Improving family engagement in the student experience
+* Cameroon Football Development Program
+* Ashoka Future Forward
+* Memunatu
+* Watkins Elementary School
 
-## **[Get in Touch](mailto:amy.badiani@dsoglobal.org)**
+**[Get in Touch](mailto:amy.badiani@dsoglobal.org)**
