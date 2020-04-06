@@ -64,7 +64,7 @@
 }
 /*Collapsible Div*/
 .wrap-collabsible {
-  margin-bottom: 1.2rem 0;
+  margin-bottom: 1.0rem 0;
 	
 input[type='checkbox'] {
 	 display: none;
@@ -72,17 +72,10 @@ input[type='checkbox'] {
 }
 .lbl-toggle {
   display: block;
-  font-weight: bold;
-  font-family: monospace;
-  font-size: 1.2rem;
-  text-transform: uppercase;
+  font-size: 1.0rem;
+  text-transform: capitalize;
   text-align: center;
-  padding: 1rem;
-  color: gray;
-}
-
-.lbl-toggle:hover {
-  color: #gray;
+  padding: .75rem;
 }
 
 .lbl-toggle::before {
