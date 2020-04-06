@@ -5,7 +5,7 @@
     {{ range $v2 }}
     {{ if .Term }}
       {{ $categoryURL := printf "categories/%s" .Term | relURL }}
-      <a href="{{ $categoryURL }}" class="btn btn-default" role="button" >{{ .Term }} <span class="badge">({{ .Count }})</span></a>
+      <a href="{{ $categoryURL }}" class="btn btn-default" role="button" >{{ humanize .Term }} <span class="badge">({{ .Count }})</span></a>
       {{ end }}
     {{ end }}       
 </div>
@@ -16,7 +16,7 @@
     {{ range $v2 }}
     {{ if .Term }}
       {{ $tagURL := printf "tags/%s" .Term | relURL }}
-      <a href="{{ $tagURL }}" class="btn btn-default" role="button" >{{ .Term }} <span class="badge">({{ .Count }})</span></a>
+      <a href="{{ $tagURL }}" class="btn btn-default" role="button" >{{ humanize .Term }} <span class="badge">({{ .Count }})</span></a>
       {{ end }}
     {{ end }}       
 </div>
