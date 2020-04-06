@@ -1,4 +1,4 @@
-<div class="categories-terms">
+<div class="categories-terms categories">
      {{ $categories := $.Site.Taxonomies.categories.ByCount }}
       {{ $v1 := where $categories "Count" ">=" 1 }}
       {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
