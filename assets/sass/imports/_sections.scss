@@ -51,13 +51,13 @@
   }
 }
 
-.categories::after, .categories-terms::after, .tags::after, .tags-terms::before  {
+.categories::after, .tags::after, .tags-terms::before  {
   display: block;
   white-space: pre;
   content: "\a";
 }
 
-.tags-terms::after,  {
+.tags-terms::after, .categories-terms::after {
   display: block;
   white-space: pre;
   content: "\a\a";
