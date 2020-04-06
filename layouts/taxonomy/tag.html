@@ -5,7 +5,6 @@
                {{ partial "tagcats.html" . }}
             </div>
         <div class="inner">
-               <div class="innercategorytag taglist">
                 <p class="block-cta"><a href="/projects" class="button">View All Projects</a></p>
                            <div class="post-feed">                      
                              {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
@@ -28,7 +27,6 @@
                                 </article><!-- .post -->
                             {{ end }}
                            </div><!-- .post-feed --> 
-              </div><!-- .innercategories taglist -->  
          </div><!-- .categories-post --> 
        </div>
 </div>
