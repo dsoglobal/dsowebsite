@@ -4,33 +4,32 @@
            <div class="innercategorytag">
                {{ partial "tagcats.html" . }}
             </div>
- <div class="inner">
-        <div class="innercategorytag taglist">
-         <p class="block-cta"><a href="/projects" class="button">View All Projects</a></p>
-                    <div class="post-feed">                      
-                      {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
-                      {{ range $post := (.Data.Pages).ByDate.Reverse }}
-                         <article class="post">
-                           {{ if $post.Params.thumb_img_path }}
-                              <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
-                           {{ end }}
-                           <header class="post-header">
-                             <h3 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
-                             <div class="post-meta">
-                               <time class="published" datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
-                             </div>
-                           </header>
-                           {{ if $post.Params.excerpt }}
-                           <div class="post-excerpt">
-                             <p>{{ $post.Params.excerpt }}</p>
-                           </div>
-                           {{ end }}
-                         </article><!-- .post -->
-                     {{ end }}
-                    </div><!-- .post-feed --> 
-       </div><!-- .innercategories taglist -->  
-  </div><!-- .categories-post --> 
+        <div class="inner">
+               <div class="innercategorytag taglist">
+                <p class="block-cta"><a href="/projects" class="button">View All Projects</a></p>
+                           <div class="post-feed">                      
+                             {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
+                             {{ range $post := (.Data.Pages).ByDate.Reverse }}
+                                <article class="post">
+                                  {{ if $post.Params.thumb_img_path }}
+                                     <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
+                                  {{ end }}
+                                  <header class="post-header">
+                                    <h3 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
+                                    <div class="post-meta">
+                                      <time class="published" datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
+                                    </div>
+                                  </header>
+                                  {{ if $post.Params.excerpt }}
+                                  <div class="post-excerpt">
+                                    <p>{{ $post.Params.excerpt }}</p>
+                                  </div>
+                                  {{ end }}
+                                </article><!-- .post -->
+                            {{ end }}
+                           </div><!-- .post-feed --> 
+              </div><!-- .innercategories taglist -->  
+         </div><!-- .categories-post --> 
+       </div>
 </div>
-</div>
- </div>
 {{ end }}
