@@ -14,4 +14,13 @@ layout: post
 ---
 **Why I joined DSO:** I am interested in working in international business, specifically looking towards a focus on sustainability, such as bringing renewable energy to developing countries.
 
+**Projects:**
+
+Kiva Crowdvet
+
+**\
+Aspiration(s):**
+
+To work for a company that creates electric cars that are more efficient and effective than fossil fuel vehicles and bringing them to developing countries that need them the most
+
 **[Get in Touch](kiara.w@dsoglobal.org)**
