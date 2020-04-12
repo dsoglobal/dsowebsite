@@ -22,12 +22,8 @@ layout: post
 **Projects:** 
 
 * Cameroon Football Development Program
-* Ashoka Future Forward
-* Memunatu
+* [Ashoka Future Forward](https://dsowebsite-179d5.netlify.com/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/)
+* [Memunatu](https://dsowebsite-179d5.netlify.com/posts/memunatu/)
 * Watkins Elementary School
-
-**Aspiration(s):**
-
-To gain experience in human-centered design (in progress), for DSO to become a global leader in retention and partnerships (getting there … ;)), volunteer at a wildlife conservancy, become a dance fitness instructor (done!)
 
 **[Get in Touch](mailto:amy.badiani@dsoglobal.org)**
