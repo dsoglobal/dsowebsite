@@ -26,4 +26,8 @@ layout: post
 * [Memunatu](https://dsowebsite-179d5.netlify.com/posts/memunatu/)
 * Watkins Elementary School
 
+**Aspiration(s):**
+
+To gain experience in human-centered design (in progress), help all of our Partners increase their own capacity and social impact (in progress), volunteer at a wildlife conservancy, become a dance fitness instructor (done!)
+
 **[Get in Touch](mailto:amy.badiani@dsoglobal.org)**
