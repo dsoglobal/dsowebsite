@@ -17,11 +17,11 @@ actions:
     url: https://www.linkedin.com/in/amybadiani
 layout: post
 ---
-**Why I joined DSO:** To understand and co-create human-centered, sustainable solutions to international development and make lifelong friends
+**Why I joined DSO:** To understand and co-create human-centered, sustainable solutions in international development and make lifelong friends
 
 **Projects:** 
 
-* Cameroon Football Development Program
+* [Cameroon Football Development Program](https://openfieldintl.org/)
 * [Ashoka Future Forward](https://dsowebsite-179d5.netlify.com/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/)
 * [Memunatu](https://dsowebsite-179d5.netlify.com/posts/memunatu/)
 * Watkins Elementary School
