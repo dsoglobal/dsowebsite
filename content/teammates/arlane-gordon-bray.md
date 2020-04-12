@@ -7,6 +7,9 @@ subtitle: ""
 dsotitle:
   - Engagement Lead
 thumb_img_path: /images/arlane.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/arlanegordonbray/
 layout: post
 ---
 **Why I joined DSO:** Work with inspiring people and use technology to make the world a better place
