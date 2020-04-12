@@ -3,7 +3,7 @@ date: 2020-03-29T04:03:32.398Z
 teams:
   - Pittsburgh
 title: Arlane Gordon-Bray
-subtitle: ''
+subtitle: ""
 dsotitle:
   - Engagement Lead
 thumb_img_path: /images/arlane.jpg
@@ -13,7 +13,8 @@ layout: post
 
 **Projects:** 
 
-*
-*
+**Aspiration(s):**
 
-**[Get in Touch]()**
+Devoting my life to something bigger than myself.
+
+**[Get in Touch](<>)**
