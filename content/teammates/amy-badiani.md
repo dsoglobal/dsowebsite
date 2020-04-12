@@ -4,9 +4,8 @@ teams:
   - Bay Area
   - DSO Leadership
 title: Amy Badiani
-subtitle: >-
-  Changemaker, Youth, Boundless Creativity, Gryffindor, Collaboration, Healthy
-  Competition!
+subtitle: Changemaker, Youth, Boundless Creativity, Gryffindor, Collaboration,
+  Healthy Competition!
 dsotitle:
   - Engagement Lead
   - CXO
@@ -15,7 +14,7 @@ company: Silicon Valley Social Venture Fund (SV2)
 thumb_img_path: /images/0-3-.jpg
 actions:
   - label: LinkedIn
-    url: 'https://www.linkedin.com/in/amybadiani'
+    url: https://www.linkedin.com/in/amybadiani
 layout: post
 ---
 **Why I joined DSO:** To understand and co-create human-centered, sustainable solutions to international development and make lifelong friends
@@ -26,5 +25,9 @@ layout: post
 * Ashoka Future Forward
 * Memunatu
 * Watkins Elementary School
+
+**Aspiration(s):**
+
+To gain experience in human-centered design (in progress), for DSO to become a global leader in retention and partnerships (getting there … ;)), volunteer at a wildlife conservancy, become a dance fitness instructor (done!)
 
 **[Get in Touch](mailto:amy.badiani@dsoglobal.org)**
