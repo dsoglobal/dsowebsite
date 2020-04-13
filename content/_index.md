@@ -2,10 +2,9 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: >-
-      We team professional engagement leads with students to provide consulting
-      services to social enterprises and local and international development
-      organizations.
+    content: We team professional engagement leads with students to provide
+      consulting services to social enterprises and local and international
+      development organizations.
     section_id: hero
     title: Development Solution Organization
     type: heroblock
@@ -32,9 +31,8 @@ sections:
           * Pitch Deck/Presentation
           * Marketing Plan
         title: Business Development
-    subtitle: >-
-      We do strategy and implementation work focused on these core functional
-      areas:
+    subtitle: "We do strategy and implementation work focused on these core
+      functional areas:"
     title: Functional Areas
     type: servicesblock
   - type: counterblock
@@ -44,18 +42,18 @@ sections:
     section_id: counter
     counterlist:
       - num_start: 0
-        title: '4 or 5 partner rating on work quality and impact '
-        num_count: '100'
+        title: "4 or 5 partner rating on work quality and impact "
+        num_count: "100"
         percent: true
       - num_start: 0
-        title: '# of volunteer hrs to date'
-        num_count: '7,000'
+        title: "# of volunteer hrs to date"
+        num_count: 10,000
       - num_start: 0
-        title: '# of projects completed'
-        num_count: '20'
+        title: "# of projects completed"
+        num_count: "50"
       - num_start: 0
         title: value of pro-bono consulting
-        num_count: '500,000'
+        num_count: 750,000
         money: true
     title: Our Impact
   - type: postsblock
