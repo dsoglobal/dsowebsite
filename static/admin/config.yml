@@ -1362,7 +1362,6 @@ collections:
                       - title
                     displayFields:
                       - title
-                      - dsotitle
                     hint: The DSO titles of the team member. Search by name. Add team member under Individual Team Members first.
                   - widget: relation
                     name: avatar
@@ -1425,6 +1424,7 @@ collections:
         required: true
         hint: Your DSO Titles
         options:
+          - Managing Director
           - Engagement Lead
           - Student Consultant
           - Advisor
