@@ -14,18 +14,22 @@ sections:
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/0-3-.jpg
         author: Amy Badiani
+    teammembers:
+      - Amy Badiani
+  - type: testimonialsblock
+    component: testimonials_block.html
+    title: Berkeley Team
+    subtitle: Student Consultants
+    testimonialslist:
       - type: testimonialsblock
         author: "Farah Nanji "
         dsotitle: ""
         avatar: /images/farah-nanji.png
       - type: testimonialsblock
-        author: Salma Al-Khairi
-        dsotitle: ""
-      - type: testimonialsblock
         author: Kiki Wong
         avatar: /images/kiki-wong.png
-    teammembers:
-      - Amy Badiani
+      - type: testimonialsblock
+        author: Salma Al-Khairi
   - type: testimonialsblock
     component: testimonials_block.html
     title: Stanford Team
@@ -37,19 +41,29 @@ sections:
         author: Saurabh Sanghvi
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/saurabh_orig.jpg
-      - type: testimonialsblock
-        author: Amanda Wang
-        avatar: /images/amanda-wang.png
+  - type: testimonialsblock
+    component: testimonials_block.html
+    title: Stanford Team
+    subtitle: Student Consultants
+    testimonialslist:
       - type: testimonialsblock
         author: Armelle Grondin
+        dsotitle: '["Student Consultant","Other"]'
         avatar: /images/armelle-grondin.png
       - type: testimonialsblock
         author: Caroline Keyes
+        dsotitle: '["Student Consultant"]'
         avatar: /images/caroline-keyes.png
       - type: testimonialsblock
+        author: Amanda Wang
+        dsotitle: '["Student Consultant","Project Lead"]'
+        avatar: /images/amanda-wang.png
+      - type: testimonialsblock
         author: Katherine Wu
+        dsotitle: '["Project Lead","Student Consultant"]'
         avatar: /images/katherine-wu.png
       - type: testimonialsblock
         author: Polly Moser
+        dsotitle: ""
         avatar: /images/polly-moser.png
 ---
