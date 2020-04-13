@@ -28,11 +28,9 @@
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
 	       {{ if $testimonial.actions }}
-		<p class="block-cta">
 		  {{ range $action := $testimonial.actions }}
 		    <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
           	  {{ end }}
-		</p><!-- .block-cta -->
 	      {{ else }}
 	      {{ if  $testimonial.author}}
 	        {{ with .Site.GetPage "/teammates/{{ $testimonial.author | urlize }}" }}
