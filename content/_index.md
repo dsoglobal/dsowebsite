@@ -55,6 +55,11 @@ sections:
         title: value of pro-bono consulting
         num_count: 750,000
         money: true
+      - num_start: 0
+        money: false
+        percent: false
+        title: "# of student and professional volunteers"
+        num_count: "300"
     title: Our Impact
   - type: postsblock
     component: posts_block.html
