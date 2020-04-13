@@ -6,6 +6,7 @@ title: Polly Moser
 subtitle: Striving to find balance and make the world a better place
 dsotitle:
   - Student Consultant
+work: ""
 thumb_img_path: /images/polly-moser.png
 actions:
   - label: LinkedIn
