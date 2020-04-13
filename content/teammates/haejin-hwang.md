@@ -8,6 +8,8 @@ subtitle: Transforming and scaling high potential, early stage social impact
 dsotitle:
   - Engagement Lead
   - Other
+work: Senior Consultant
+company: Booz Allen Hamilton
 thumb_img_path: /images/haejin-hwang.png
 actions:
   - label: LinkedIn
