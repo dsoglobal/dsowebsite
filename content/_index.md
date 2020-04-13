@@ -2,9 +2,9 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: We team professional engagement leads with students to provide
-      consulting services to social enterprises and local and international
-      development organizations.
+    content: We partner with social impact organizations to solve challenges. Our
+      volunteer-led consultancy teams talented and dedicated professionals and
+      university students.
     section_id: hero
     title: Development Solution Organization
     type: heroblock
