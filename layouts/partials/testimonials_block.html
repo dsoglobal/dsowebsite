@@ -33,7 +33,11 @@
           	  {{ end }}
 	       {{ else }}
 	       {{ if $testimonial.author}}
-		    <a href="/teammates/{{ $testimonial.author | urlize }}" class="button">Learn More</a> 
+		    {{ $pglink := "/teammates/{{ $testimonial.author | urlize}}" }}
+		    {{ with .Site.GetPage $pglink }}
+		       <a href="/teammates/{{ $testimonial.author | urlize }}" class="button">Learn More</a> 
+		    {{ end }}
+		    <p>{{ $pglink }}</p> 
 	        {{ end }}
 	       {{ end }}
             </p><!-- .testimonial -->          
