@@ -21,10 +21,17 @@ layout: post
 
 **Projects:** 
 
-* School Justice Project
-* [PlanJunto: Social Eco Incubator](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
-* [Disrupt: Social Games for Peace](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVTkc3NTB1ZU5raEE&sa=D&ust=1583293938901000&usg=AFQjCNGT7bu80isx1age-jQ50_C4y4Znhg)
-* [Hummingbill: Mobile Billing](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
+[Case Competition with Building New Hope](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
+
+[Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
+
+[Disrupt: Social Games for Peace](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVTkc3NTB1ZU5raEE&sa=D&ust=1583293938901000&usg=AFQjCNGT7bu80isx1age-jQ50_C4y4Znhg)
+
+[Hummingbill: Mobile Billing](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
+
+[PlanJunto: Social Eco Incubator](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
+
+School Justice Project
 
 **Aspiration(s):**
 
