@@ -27,9 +27,19 @@
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
-	       {{ if  $testimonial.author}}
+	       {{ if $testimonial.actions }}
+		<p class="block-cta">
+		  {{ range $action := $testimonial.actions }}
+		    <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+          	  {{ end }}
+		</p><!-- .block-cta -->
+	      {{ else }}
+	      {{ if  $testimonial.author}}
+	        {{ with .Site.GetPage "/teammates/{{ $testimonial.author | urlize }}" }}
 	       		<a href="/teammates/{{ $testimonial.author | urlize }}" class="button">Learn More</a> 
-	       {{ end }}      
+	        {{ end }}
+	      {{ end }}
+	     {{ end }}
             </p><!-- .testimonial -->          
         </p>        
         {{ end }}
