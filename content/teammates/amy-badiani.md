@@ -21,10 +21,23 @@ layout: post
 
 **Projects:** 
 
-* [Cameroon Football Development Program](https://openfieldintl.org/)
-* [Ashoka Future Forward](https://dsowebsite-179d5.netlify.com/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/)
-* [Memunatu](https://dsowebsite-179d5.netlify.com/posts/memunatu/)
-* Watkins Elementary School
+[Ashoka Future Forward](https://dsowebsite-179d5.netlify.com/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/)
+
+[Cameroon Football Development Program](https://openfieldintl.org/)
+
+[Case Competition with Building New Hope](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
+
+[Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
+
+[Empathy and Social Impact: Design Thinking Session](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=142838)
+
+[Kiva Crowdvet](https://www.crowdvet.org/)
+
+Freedom Connect
+
+[Memunatu](https://dsowebsite-179d5.netlify.com/posts/memunatu/)
+
+Watkins Elementary School
 
 **Aspiration(s):**
 
