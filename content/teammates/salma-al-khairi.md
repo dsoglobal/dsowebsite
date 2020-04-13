@@ -12,7 +12,7 @@ layout: post
 
 **Projects:** 
 
-* Kiva Crowdvet
+[Kiva Crowdvet](https://www.crowdvet.org/)
 
 **Aspiration(s):**
 
