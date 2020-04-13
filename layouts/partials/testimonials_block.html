@@ -9,10 +9,10 @@
         </p>
         {{ end }}
       </div><!-- .block-header -->
-      {{ if .section.testimonialslist }}
+  {{ if .section.testimonialslist }}
       <div class="block-content">
         <div class="testimonials-list">
-          {{ range $testimonial := .section.testimonialslist }}
+     {{ range $testimonial := .section.testimonialslist }}
         <p class="testimonial-footer">
             <p class="testimonial">
                {{ if $testimonial.avatar }}
@@ -33,16 +33,16 @@
           	  {{ end }}
 	       {{ end }}
 	      {{ if  $testimonial.author}}
-	        {{ with .Site.GetPage "/teammates/{{ $testimonial.author | urlize }}" }}
+
 	       		<a href="/teammates/{{ $testimonial.author | urlize }}" class="button">Learn More</a> 
-	        {{ end }}
+	
 	      {{ end }}
             </p><!-- .testimonial -->          
-        </p>        
+         </p>        
         {{ end }}
         </div><!-- .testimonials-list -->        
       </div><!-- .block-content -->
-      {{ end }}
+   {{ end }}
     </div><!-- .block-inside -->
   </div><!-- .inner -->
 </section><!-- .block -->
