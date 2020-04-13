@@ -29,9 +29,7 @@
 	       {{ if  $testimonial.author}}
 		 {{ $pglink :=  $testimonial.author | urlize }}
 		 {{ $pglinkfull :=  printf "/teammates/%s" $pglink }}
-		 {{ with .Site.GetPage $pglinkfull }}
 		   <a href="{{ $pglinkfull }}" class="button">Learn More</a>
-		 {{ end }}
 	       {{ end }}
 	       {{ if $testimonial.actions }}
 		  {{ range $action := $testimonial.actions }}
