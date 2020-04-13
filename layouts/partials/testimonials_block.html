@@ -31,7 +31,7 @@
 		  {{ range $action := $testimonial.actions }}
 		    <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
           	  {{ end }}
-	      {{ else }}
+	      {{ end }}
 	      {{ if  $testimonial.author}}
 	        {{ with .Site.GetPage "/teammates/{{ $testimonial.author | urlize }}" }}
 	       		<a href="/teammates/{{ $testimonial.author | urlize }}" class="button">Learn More</a> 
