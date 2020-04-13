@@ -1,9 +1,8 @@
 ---
 title: Our Teams
-date: ''
-subtitle: >-
-  Our teams are the heart of DSO. We have teams in several locations around the
-  US.
+date: ""
+subtitle: Our teams are the heart of DSO. We have teams in several locations
+  around the US.
 layout_style: tiles
 sections:
   - type: testimonialsblock
@@ -16,20 +15,25 @@ sections:
         avatar: /images/0-1-.png
         actions:
           - label: Artificial Intelligence in K-12 Education
-            url: >-
-              https://www.mckinsey.com/industries/social-sector/our-insights/how-artificial-intelligence-will-impact-k-12-teachers
+            url: https://www.mckinsey.com/industries/social-sector/our-insights/how-artificial-intelligence-will-impact-k-12-teachers
       - type: testimonialsblock
         author: Silicon Valley Social Venture Fund (SV2)
         avatar: /images/0.png
-        content: ''
+        content: ""
         actions:
-          - url: 'https://sv2.org/person/amy-badiani/'
+          - url: https://sv2.org/person/amy-badiani/
             label: Amy's Profile
+      - type: testimonialsblock
+        author: Booz Allen Hamilton
+        avatar: /images/bah.jpeg
+      - type: testimonialsblock
+        author: Vungle
+        avatar: /images/vungle.png
 menu:
   main:
     identifier: teams
     name: Teams
-    parent: ''
+    parent: ""
     weight: 3
 layout: portfolio
 ---
