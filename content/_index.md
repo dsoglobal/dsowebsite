@@ -57,7 +57,7 @@ sections:
         money: true
       - num_start: 0
         money: false
-        percent: true
+        percent: false
         title: "# of student and professional volunteers"
         num_count: "300"
     title: "Our Impact at a Glance "
