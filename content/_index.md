@@ -56,7 +56,7 @@ sections:
         num_count: 750,000
         money: true
       - num_start: 0
-        money: true
+        money: false
         percent: true
         title: "# of student and professional volunteers"
         num_count: "300"
