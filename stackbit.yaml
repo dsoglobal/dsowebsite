@@ -249,7 +249,7 @@ models:
           type: reference
           labelField: title
           models:
-	    - heroblock
+            - heroblock
             - postsblock
       - type: page_menus
         name: menu
