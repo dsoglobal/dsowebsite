@@ -5,6 +5,8 @@ teams:
 title: Mary Mallampalli
 dsotitle:
   - Engagement Lead
-  - Managing Director
+work: Senior Consultant
+company: Deloitte
+thumb_img_path: /images/marym.jpg
 layout: post
 ---
