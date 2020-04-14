@@ -1362,11 +1362,10 @@ collections:
                     label: DSO Title
                     collection: peoplepost
                     valueField: dsotitle
-                    multiple: false
+                    multiple: true
                     required: false
                     searchFields:
                       - title
-                      - dsotitle
                     displayFields:
                       - title
                       - dsotitle
