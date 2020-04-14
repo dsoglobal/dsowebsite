@@ -32,7 +32,7 @@
 		         <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 			  {{ end }}
 		   {{ end }}
-		 {{ range $testimonial := .section.testimonialslistorgs }}
+		 {{ range $testimonial := .section.testimonialslist }}
 	           {{ if  $testimonial.author }}
 		       {{ $pglink :=  $testimonial.author | urlize }}
 		       <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
