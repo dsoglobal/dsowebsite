@@ -30,6 +30,7 @@ sections:
         avatar: /images/kiki-wong.png
       - type: testimonialsblock
         author: Salma Al-Khairi
+        avatar: /images/salma-al-khairi.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: Stanford Team
