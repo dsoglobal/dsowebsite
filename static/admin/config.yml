@@ -826,8 +826,8 @@ collections:
                         name: linkstatus
                         label: Link Status
                         required: true
-                        default: true
-                        hint: Turn Learn More link off
+                        default: false
+                        hint: Control Learn More link
                       - widget: list
                         name: actions
                         label: Link to Work
