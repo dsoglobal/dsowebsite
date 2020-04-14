@@ -9,10 +9,13 @@
         </p>
         {{ end }}
       </div><!-- .block-header -->
-      {{ if .section.testimonialslist }}
+      {{ if or (.section.testimonialslist)(.section.testimonialslistorgs) }}
       <div class="block-content">
         <div class="testimonials-list">
-          {{ range $testimonial := .section.testimonialslist }}
+	  {{ if .section.testimonialslistorgs }}
+             {{ range $testimonial := .section.testimonialslistorgs }}
+	  {{ else }} 
+	  {{ range $testimonial := .section.testimonialslist }}
             <p class="testimonial">
                {{ if $testimonial.avatar }}
                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
@@ -31,11 +34,11 @@
 		      <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 		  {{ end }}
 	       {{ else }}
-	       {{ if  $testimonial.company }}
+	       {{ range where $testimonial eq .section.testimonialslistorgs  }}
 		 {{ $pglink :=  $testimonial.author | urlize }}
 		 {{ $pglinkfull :=  printf "/teammates/%s" $pglink }}
 		   <a href="{{ $pglinkfull }}" class="button">Learn More</a>
-	         {{ end }}
+	       {{ end }}
             </p><!-- .testimonial -->     
         {{ end }}
         </div><!-- .testimonials-list -->        
