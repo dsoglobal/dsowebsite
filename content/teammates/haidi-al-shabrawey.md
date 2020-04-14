@@ -5,5 +5,8 @@ teams:
 title: Haidi Al-Shabrawey
 dsotitle:
   - Engagement Lead
+work: GPS Strategy & Analytics Business Analyst
+company: Deloitte
+thumb_img_path: /images/0-1
 layout: post
 ---
