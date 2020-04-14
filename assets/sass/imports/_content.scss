@@ -160,7 +160,7 @@ img {
     img {
       height: 100%;
       left: 0;
-      object-fit: cover;
+      object-fit: contain;
       position: absolute;
       top: 0;
       -webkit-transform: scale(1,1);
