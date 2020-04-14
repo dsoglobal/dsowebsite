@@ -19,7 +19,8 @@ sections:
         avatar: /images/haejin-hwang.png
       - type: testimonialsblock
         author: Marcy Held
-        dsotitle: ""
+        dsotitle:
+          - '["Engagement Lead"]'
         avatar: /images/screen-shot-2020-04-12-at-5.49.48-pm.png
     teammembers:
       - Anthony Buchanan
