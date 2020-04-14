@@ -11,7 +11,7 @@
       </div><!-- .block-header -->
       <div class="block-content">
         <div class="post-feed">
-          {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
+          {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages) }}
           {{ $recent_posts := $display_posts | first .section.num_posts_displayed }}
           {{ range $post := $recent_posts }}
           <article class="post">
