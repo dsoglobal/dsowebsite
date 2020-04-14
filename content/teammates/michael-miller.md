@@ -5,5 +5,7 @@ teams:
 title: Michael Miller
 dsotitle:
   - Student Consultant
+company: Georgetown University
+thumb_img_path: /images/michaelmiller.jpg
 layout: post
 ---
