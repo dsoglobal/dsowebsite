@@ -22,13 +22,17 @@
                    <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
 		  {{ end }}
                {{ end }}
-	       {{ if  $testimonial.author}}
+	       {{ if  $testimonial.author }}
 	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
 	       {{ end }}
-	       {{ if  $testimonial.dsotitle}}
-	         <cite class="testimonial-title">{{ replace (trim (delimit $testimonial.dsotitle ", ") "[],\"") "\",\"" " and " }}</cite>
+	       {{ if  $testimonial.dsotitle }}
+		 {{ if isset $testimonial.dsotitle -1  }}
+		   {{ $dsotitleval :=  delimit $testimonial.dsotitle " and " }}
+		 {{ else }}
+		   {{ $dsotitleval :=  replace (trim $testimonial.dsotitle "[],\"") "\",\"" " and " }}
+	           <cite class="testimonial-title">{{ $dsotitleval }}</cite>
 	       {{ end }}
-	       {{ if  $testimonial.content}}
+	       {{ if  $testimonial.content }}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
 	       {{ if $testimonial.actions }}
