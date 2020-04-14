@@ -787,9 +787,9 @@ collections:
                 widget: object
                 label: Add Companies
                 fields:
-                  - widget: hidden
+                  - widget: string
                     name: company
-                    label: Company value
+                    label: Company
                     required: true
                     default: company
                   - widget: string
