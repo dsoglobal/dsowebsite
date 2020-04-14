@@ -31,14 +31,13 @@
 		      {{ range $action := $testimonial.actions }}
 		         <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 			  {{ end }}
-		   {{ end }}  
-	       {{ if  $testimonial.author}}
-		     {{ $pglink :=  $testimonial.author | urlize }}
-	       	 {{ with .Site.GetPage "/teammates" }}
-		        {{ with .Site.GetPage $pglink }}
-		           <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
-		        {{ end }}
-		     {{ end }}	
+		   {{ end }}
+		 {{ range $testimonial := .section.testimonialslistorgs }}
+	           {{ if  $testimonial.author }}
+		       {{ $pglink :=  $testimonial.author | urlize }}
+		       <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
+		   {{ end }}	
+		 {{ end }}
 	       {{ end }}      
             </p><!-- .testimonial -->          
         </p>        
