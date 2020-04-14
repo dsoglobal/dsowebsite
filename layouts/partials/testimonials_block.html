@@ -12,7 +12,7 @@
       {{ if .section.testimonialslist }}
       <div class="block-content">
         <div class="testimonials-list">
-          {{ range $testimonial := .section.testimonialslist }}
+       {{ range $testimonial := .section.testimonialslist }}
         <p class="testimonial-footer">
             <p class="testimonial">
                {{ if $testimonial.avatar }}
@@ -30,9 +30,8 @@
 		   {{ if $testimonial.actions }}
 		      {{ range $action := $testimonial.actions }}
 		         <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-			  {{ end }}
+		      {{ end }}
 		   {{ end }}
-		 {{ range $testimonial := .section.testimonialslist }}
 	           {{ if  $testimonial.author }}
 		       {{ $pglink :=  $testimonial.author | urlize }}
 		       <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
