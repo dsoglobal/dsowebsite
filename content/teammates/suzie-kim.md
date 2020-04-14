@@ -5,5 +5,7 @@ teams:
 title: Jacob Cohen
 dsotitle:
   - Student Consultant
+company: Georgetown University
+thumb_img_path: /images/jacobcohen.jpg
 layout: post
 ---
