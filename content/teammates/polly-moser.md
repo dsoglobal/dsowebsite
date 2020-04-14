@@ -3,7 +3,7 @@ date: 2020-04-13T00:15:44.274Z
 teams:
   - Bay Area
 title: Polly Moser
-subtitle: Striving to find balance and make the world a better place
+subtitle: "Striving to find balance and make the world a better place "
 dsotitle:
   - Student Consultant
 work: ""
