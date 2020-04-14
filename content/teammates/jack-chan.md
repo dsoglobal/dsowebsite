@@ -5,5 +5,8 @@ teams:
 title: Jack Chan
 dsotitle:
   - Engagement Lead
+work: Senior Consultant
+company: Booz Allen Hamilton
+thumb_img_path: /images/jackchan.jpg
 layout: post
 ---
