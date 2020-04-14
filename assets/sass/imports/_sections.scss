@@ -416,6 +416,9 @@ input[type='checkbox'] {
 
 .testimonial-avatar {
   border-radius: 50%;
+  object-fit: cover;
+  width:160px;
+  height:160px;
 }
 
 @media only screen and (min-width: 601px) {
