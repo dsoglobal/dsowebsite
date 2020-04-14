@@ -5,6 +5,7 @@ teams:
 title: Emily Rosenberg
 dsotitle:
   - Engagement Lead
+work: Senior Consultant
 company: Booz Allen Hamilton
 thumb_img_path: /images/emilyr.jpg
 layout: post
