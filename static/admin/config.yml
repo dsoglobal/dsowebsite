@@ -803,7 +803,7 @@ collections:
                     required: false
                     hint: The subtitle of the section.
                   - widget: list
-                    name: testimonialslistorgs
+                    name: testimonialslist
                     label: Organizations
                     required: false
                     fields:
