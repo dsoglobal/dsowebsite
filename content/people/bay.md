@@ -65,6 +65,7 @@ sections:
         avatar: /images/katherine-wu.png
       - type: testimonialsblock
         author: Polly Moser
-        dsotitle: ""
+        dsotitle:
+          - '["Student Consultant"]'
         avatar: /images/polly-moser.png
 ---
