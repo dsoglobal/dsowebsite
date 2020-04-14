@@ -5,5 +5,7 @@ teams:
 title: Javier Guerrero Vicente
 dsotitle:
   - Student Consultant
+company: Georgetown University
+thumb_img_path: /images/jvg.jpg
 layout: post
 ---
