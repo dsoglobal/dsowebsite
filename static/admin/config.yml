@@ -1154,6 +1154,12 @@ collections:
         label: Subtitle
         required: false
         hint: The text shown just below the post title.
+      - widget: number
+        name: weight
+        label: Weight
+        required: false
+        hint: Position for sorting, mostly for home page
+        valueType: int
       - widget: date
         name: date
         label: Date
