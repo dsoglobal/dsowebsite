@@ -23,14 +23,19 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: "Farah Nanji "
-        dsotitle: ""
+        dsotitle:
+          - '["Student Consultant","Other"]'
         avatar: /images/farah-nanji.png
       - type: testimonialsblock
         author: Kiki Wong
         avatar: /images/kiki-wong.png
+        dsotitle:
+          - '["Student Consultant"]'
       - type: testimonialsblock
         author: Salma Al-Khairi
         avatar: /images/salma-al-khairi.jpg
+        dsotitle:
+          - '["Student Consultant"]'
   - type: testimonialsblock
     component: testimonials_block.html
     title: Stanford Team
