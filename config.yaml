@@ -29,8 +29,8 @@ related:
     - name: tags
       weight: 75
     - name: teams
-      weight: 50
+      weight: 40
     - name: dsotitle
-      weight: 30
+      weight: 50
     - name: date
       weight: 10
