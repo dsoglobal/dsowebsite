@@ -1,4 +1,5 @@
 ---
+weight: 1
 date: 2020-04-05T22:24:28.938Z
 title: DSO Board and Leadership
 thumb_img_path: /images/take-stock-of-your-leadership-skills-.jpg
