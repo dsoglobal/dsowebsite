@@ -1270,6 +1270,12 @@ collections:
     extension: md
     slug: '{{slug}}'
     fields:
+      - widget: number
+        name: weight
+        label: Weight
+        required: false
+        hint: Position for sorting
+        valueType: int
       - widget: date
         name: date
         label: Date
