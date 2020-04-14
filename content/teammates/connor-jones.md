@@ -5,5 +5,7 @@ teams:
 title: Connor Jones
 dsotitle:
   - Student Consultant
+company: Georgetown University
+thumb_img_path: /images/connor.jpg
 layout: post
 ---
