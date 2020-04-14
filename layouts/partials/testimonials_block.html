@@ -12,8 +12,8 @@
       {{ if .section.testimonialslist }}
       <div class="block-content">
         <div class="testimonials-list">
-	  {{ if .section.testimonialslist }}
-             {{ range $testimonial := .section.testimonialslist }}
+          {{ range $testimonial := .section.testimonialslist }}
+        <p class="testimonial-footer">
             <p class="testimonial">
                {{ if $testimonial.avatar }}
                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
@@ -27,17 +27,21 @@
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
-	       {{ if $testimonial.actions }}
-		  {{ range $action := $testimonial.actions }}
-		      <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-		  {{ end }}
-	       {{ else }}
-	       {{ range where $testimonial eq .section.testimonialslistorgs  }}
-		 {{ $pglink :=  $testimonial.author | urlize }}
-		 {{ $pglinkfull :=  printf "/teammates/%s" $pglink }}
-		   <a href="{{ $pglinkfull }}" class="button">Learn More</a>
-	       {{ end }}
-            </p><!-- .testimonial -->     
+		   {{ if $testimonial.actions }}
+		      {{ range $action := $testimonial.actions }}
+		         <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+			  {{ end }}
+		   {{ end }}  
+	       {{ if  $testimonial.author}}
+		     {{ $pglink :=  $testimonial.author | urlize }}
+	       	 {{ with .Site.GetPage "/teammates" }}
+		        {{ with .Site.GetPage $pglink }}
+		           <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
+		        {{ end }}
+		     {{ end }}	
+	       {{ end }}      
+            </p><!-- .testimonial -->          
+        </p>        
         {{ end }}
         </div><!-- .testimonials-list -->        
       </div><!-- .block-content -->
