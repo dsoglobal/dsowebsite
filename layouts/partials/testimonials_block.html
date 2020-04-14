@@ -26,16 +26,16 @@
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
-	       {{ if  $testimonial.author}}
-		 {{ $pglink :=  $testimonial.author | urlize }}
-		 {{ $pglinkfull :=  printf "/teammates/%s" $pglink }}
-		   <a href="{{ $pglinkfull }}" class="button">Learn More</a>
-	       {{ end }}
 	       {{ if $testimonial.actions }}
 		  {{ range $action := $testimonial.actions }}
 		      <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 		  {{ end }}
-	       {{ end }}  
+	       {{ else }}
+	       {{ if  $testimonial.company }}
+		 {{ $pglink :=  $testimonial.author | urlize }}
+		 {{ $pglinkfull :=  printf "/teammates/%s" $pglink }}
+		   <a href="{{ $pglinkfull }}" class="button">Learn More</a>
+	       {{ end }}
             </p><!-- .testimonial -->     
         {{ end }}
         </div><!-- .testimonials-list -->        
