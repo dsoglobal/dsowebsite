@@ -1,6 +1,6 @@
 ---
 title: Ashoka Changemakers
-weight: 1
+weight: ""
 date: 2015-04-01T04:00:00.000Z
 thumb_img_path: /images/ashoka-changemakers.png
 excerpt: DSO partnered with Ashoka Changemakers to redesign the home page and a
