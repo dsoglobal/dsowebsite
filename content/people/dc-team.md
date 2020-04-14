@@ -1,4 +1,5 @@
 ---
+weight: 4
 date: ""
 title: Washington DC
 thumb_img_path: /images/1194983776544615185us_capitol_building_ink_01.svg.med.png
