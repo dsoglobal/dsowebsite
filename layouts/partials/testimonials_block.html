@@ -9,7 +9,7 @@
         </p>
         {{ end }}
       </div><!-- .block-header -->
-      {{ if or (.section.testimonialslist)(.section.testimonialslistorgs) }}
+      {{ if or (eq .section.testimonialslist)(eq .section.testimonialslistorgs) }}
       <div class="block-content">
         <div class="testimonials-list">
 	  {{ if .section.testimonialslistorgs }}
