@@ -788,11 +788,6 @@ collections:
                 label: Add Companies
                 fields:
                   - widget: string
-                    name: company
-                    label: Company
-                    required: true
-                    default: company
-                  - widget: string
                     name: title
                     label: Title
                     required: false
