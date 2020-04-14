@@ -5,5 +5,8 @@ teams:
 title: Justin Pizzimenti
 dsotitle:
   - Engagement Lead
+work: Senior Consultant
+company: Booz Allen Hamilton
+thumb_img_path: /images/justinp.jpg
 layout: post
 ---
