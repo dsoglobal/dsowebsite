@@ -822,6 +822,12 @@ collections:
                         label: Subtitle
                         required: false
                         hint: Additional short text about organization
+                      - widget: boolean
+                        name: linkstatus
+                        label: Link Status
+                        required: true
+                        default: true
+                        hint: Turn Learn More link off
                       - widget: list
                         name: actions
                         label: Link to Work
