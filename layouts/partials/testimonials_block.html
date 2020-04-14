@@ -16,7 +16,11 @@
         <p class="testimonial-footer">
             <p class="testimonial">
                {{ if $testimonial.avatar }}
-                  <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+		  {{ if $testimonial.linkstatus }}
+		    <img class="testimonial-avatar-small" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+		  {{ else }}		  
+                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+		  {{ end }}
                {{ end }}
 	       {{ if  $testimonial.author}}
 	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
