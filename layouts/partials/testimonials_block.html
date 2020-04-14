@@ -32,7 +32,7 @@
 		   {{ $dsotitleval :=  replace (trim $testimonial.dsotitle "[],\"") "\",\"" " and " }}
 	         {{ end }}
 		   <cite class="testimonial-title">{{ $dsotitleval }}</cite>
-		 {{ end }}
+		{{ end }}
 	       {{ if  $testimonial.content }}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
