@@ -5,5 +5,7 @@ teams:
 title: Aparna Sanjay
 dsotitle:
   - Advisor
+work: Independent Consultant
+thumb_img_path: /images/aparna.jpg
 layout: post
 ---
