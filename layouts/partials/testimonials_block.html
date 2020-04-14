@@ -27,15 +27,15 @@
 	       {{ if  $testimonial.content}}
 	       		{{ $testimonial.content | safeHTML }}
 	       {{ end }}
-	      {{ if $testimonial.actions }}
+	       {{ if $testimonial.actions }}
 		   {{ range $action := $testimonial.actions }}
 		         <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
 		   {{ end }}
-	     {{ end }}
-	     {{ if isset $testimonial.author "valuefield" }}
-		{{ $pglink :=  $testimonial.author | urlize }}
+	       {{ end }}
+	       {{ if not $testimonial.linkoff }}
+		  {{ $pglink :=  $testimonial.author | urlize }}
 		       <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
-	     {{ end }}      
+	       {{ end }}      
             </p><!-- .testimonial -->          
         </p>        
         {{ end }}
