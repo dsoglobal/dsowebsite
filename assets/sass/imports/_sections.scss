@@ -545,7 +545,7 @@ input[type='checkbox'] {
 
     .post:not(.project),
     .service,
-    .testimonial {
+    .testimonial, .testimonial_o {
       box-sizing: border-box;     
       padding-left: 0.83333rem;
       padding-right: 0.83333rem;
@@ -558,7 +558,7 @@ input[type='checkbox'] {
       flex: 0 0 50%;
     }
     
-    .testimonial {
+    .testimonial, .testimonial_o {
       -webkit-flex: 0 0 25%;
       -ms-flex: 0 0 25%;
       flex: 0 0 25%;
