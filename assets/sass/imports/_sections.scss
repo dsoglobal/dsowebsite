@@ -62,7 +62,8 @@
   white-space: pre;
   content: "\a\a";
 }
-/*Collapsible Div*/
+
+/* Collapsible Div */
 .wrap-collabsible {
   margin-bottom: 1.0rem 0;
 	
@@ -425,7 +426,7 @@ input[type='checkbox'] {
   border-radius: 50%;
 }
 
-/* Testimonials */
+/* Testimonials - Home Page */
 .testimonial_o {
   border: 0;
   font-size: 1rem;
@@ -474,6 +475,58 @@ input[type='checkbox'] {
   height: 60px;
   margin-right: 15px;
   width: 60px;
+}
+
+.slide {
+  float: right;
+  position: absolute;
+  z-index: 1;
+  background-color: #eee;
+  text-align: center;
+  transition: opacity 0.1s;
+  opacity: 1;
+}
+
+.faux-ui-facia {
+  top: 0;
+  right: 0;
+  float: right;
+  position: absolute;
+  margin-top: 0;
+  z-index: 9;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  cursor: pointer;
+}
+.faux-ui-facia:checked {
+  z-index: 8;
+}
+.faux-ui-facia:checked + .slide {
+  opacity: 0;
+}
+.faux-ui-facia:checked:nth-child(1):checked {
+  z-index: 9;
+}
+.faux-ui-facia:nth-child(1):checked {
+  float: left;
+  z-index: 9;
+}
+.faux-ui-facia:nth-child(1):checked + .slide {
+  opacity: 1;
+}
+.faux-ui-facia:nth-child(1):checked ~ .faux-ui-facia {
+  float: left;
+  z-index: 8;
+}
+.faux-ui-facia:nth-child(1):checked ~ .faux-ui-facia + .slide {
+  opacity: 0;
+}
+.faux-ui-facia:nth-child(1):checked ~ .faux-ui-facia:checked {
+  z-index: 9;
+}
+.faux-ui-facia:nth-child(1):checked ~ .faux-ui-facia:checked + .slide {
+  opacity: 1;
 }
 
 @media only screen and (min-width: 601px) {
