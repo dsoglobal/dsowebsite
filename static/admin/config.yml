@@ -526,7 +526,7 @@ collections:
                     name: component
                     label: Component
                     required: true
-                    default: testimonials_block.html
+                    default: testimonials_block_orig.html
                   - widget: string
                     name: subtitle
                     label: Subtitle
