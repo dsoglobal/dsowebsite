@@ -15,13 +15,14 @@
           {{ range $testimonial := .section.testimonialslist }}
             {{ if  $testimonial.content }}
               <blockquote class="testimonial_o slide">
-	       	<p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
-              <footer class="testimonial-footer_o">
-              {{ if $testimonial.avatar }}
-                <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-              {{ end }}
-              <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
-            </footer>
+	       	<p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}
+	          <footer class="testimonial-footer_o">
+                   {{ if $testimonial.avatar }}
+                     <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+                   {{ end }}
+                     <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
+                  </footer>
+		</p>             
           </blockquote><!-- .testimonial -->
           {{ end }}
           {{ end }}
