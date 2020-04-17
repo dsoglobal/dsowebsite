@@ -7,7 +7,7 @@ subtitle: “I see the world in terms of what I would like to see happen, not wh
   actually does.” - Paulo Coelho
 dsotitle:
   - Student Consultant
-  - Other
+  - Managing Director
 thumb_img_path: /images/farah-nanji.png
 actions:
   - label: LinkedIn
