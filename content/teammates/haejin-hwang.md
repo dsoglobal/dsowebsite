@@ -7,7 +7,7 @@ subtitle: Transforming and scaling high potential, early stage social impact
   organizations through the intersection of policy and business
 dsotitle:
   - Engagement Lead
-  - Other
+  - Managing Director
 work: Senior Consultant
 company: Booz Allen Hamilton
 thumb_img_path: /images/haejin-hwang.png
