@@ -8,24 +8,12 @@ sections:
   - type: testimonialsblock
     component: testimonials_block.html
     title: Berkeley Team
-    subtitle: Engagement Leads and Advisors
-    testimonialslist:
-      - type: testimonialsblock
-        teammembersname: Amy Badiani
-        dsotitle: '["Engagement Lead","CXO"]'
-        avatar: /images/0-3-.jpg
-        author: Amy Badiani
-    teammembers:
-      - Amy Badiani
-  - type: testimonialsblock
-    component: testimonials_block.html
-    title: Berkeley Team
     subtitle: Student Consultants
     testimonialslist:
       - type: testimonialsblock
         author: "Farah Nanji "
         dsotitle:
-          - '["Student Consultant","Other"]'
+          - '["Student Consultant","Managing Director"]'
         avatar: /images/farah-nanji.png
       - type: testimonialsblock
         author: Kiki Wong
@@ -39,15 +27,16 @@ sections:
           - '["Student Consultant"]'
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Stanford Team
-    subtitle: Engagement Leads and Advisers
-    teammembers:
-      - Arlane Gordon-Bray
+    title: Berkeley Team
+    subtitle: Engagement Leads and Advisors
     testimonialslist:
       - type: testimonialsblock
-        author: Saurabh Sanghvi
+        teammembersname: Amy Badiani
         dsotitle: '["Engagement Lead","CXO"]'
-        avatar: /images/saurabh_orig.jpg
+        avatar: /images/0-3-.jpg
+        author: Amy Badiani
+    teammembers:
+      - Amy Badiani
   - type: testimonialsblock
     component: testimonials_block.html
     title: Stanford Team
@@ -55,7 +44,8 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: Armelle Grondin
-        dsotitle: '["Student Consultant","Other"]'
+        dsotitle:
+          - '["Student Consultant","Managing Director"]'
         avatar: /images/armelle-grondin.png
       - type: testimonialsblock
         author: Caroline Keyes
@@ -74,4 +64,15 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/polly-moser.png
+  - type: testimonialsblock
+    component: testimonials_block.html
+    title: Stanford Team
+    subtitle: Engagement Leads and Advisers
+    teammembers:
+      - Arlane Gordon-Bray
+    testimonialslist:
+      - type: testimonialsblock
+        author: Saurabh Sanghvi
+        dsotitle: '["Engagement Lead","CXO"]'
+        avatar: /images/saurabh_orig.jpg
 ---
