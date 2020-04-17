@@ -6,7 +6,7 @@ title: Armelle Grondin
 subtitle: “L’homme est à inventer chaque jour.”
 dsotitle:
   - Student Consultant
-  - Other
+  - Managing Director
 thumb_img_path: /images/armelle-grondin.png
 layout: post
 ---
