@@ -7,6 +7,37 @@ layout: home
 sections:
   - type: testimonialsblock
     component: testimonials_block.html
+    subtitle: Student Consultants
+    testimonialslist:
+      - type: testimonialsblock
+        author: Connor Jones
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/connor.jpg
+      - type: testimonialsblock
+        author: Javier Guerrero Vicente
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/jvg.jpg
+      - type: testimonialsblock
+        author: Michael Miller
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/michaelmiller.jpg
+      - type: testimonialsblock
+        author: Susie Kim
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/susiekim.jpg
+      - type: testimonialsblock
+        author: Jacob Cohen
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/jacobcohen.jpg
+    title: DC Team
+    teammembers: []
+  - type: testimonialsblock
+    component: testimonials_block.html
     title: DC Team
     subtitle: Engagement Leads and Advisers
     testimonialslist:
@@ -60,35 +91,4 @@ sections:
         avatar: /images/sneha.jpg
     teammembers:
       - Anthony Buchanan
-  - type: testimonialsblock
-    component: testimonials_block.html
-    subtitle: Student Consultants
-    testimonialslist:
-      - type: testimonialsblock
-        author: Connor Jones
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/connor.jpg
-      - type: testimonialsblock
-        author: Javier Guerrero Vicente
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jvg.jpg
-      - type: testimonialsblock
-        author: Michael Miller
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/michaelmiller.jpg
-      - type: testimonialsblock
-        author: Susie Kim
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/susiekim.jpg
-      - type: testimonialsblock
-        author: Jacob Cohen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jacobcohen.jpg
-    title: DC Team
-    teammembers: []
 ---
