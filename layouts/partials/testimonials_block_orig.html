@@ -5,7 +5,7 @@
         <h2 class="block-title line-top">{{ .section.title }}</h2>
         {{ if .section.subtitle }}
         <p class="block-subtitle">
-          {{ .section.subtitle | safe }}
+          {{ .section.subtitle | safeHTML }}
         </p>
         {{ end }}
       </div><!-- .block-header -->
@@ -15,7 +15,7 @@
           {{ range $testimonial := .section.testimonialslist }}
             {{ if  $testimonial.content }}
               <blockquote class="testimonial_o">
-	       		   <p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
+	       	<p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
               <footer class="testimonial-footer_o">
               {{ if $testimonial.avatar }}
                 <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
