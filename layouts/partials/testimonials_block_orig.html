@@ -14,9 +14,7 @@
         <div class="testimonials-list_o">
           {{ range $testimonial := .section.testimonialslist }}
             {{ if  $testimonial.content }}
-
-            <div class="slide">
-              <blockquote class="testimonial_o">
+              <blockquote class="testimonial_o slide">
 	       	<p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
               <footer class="testimonial-footer_o">
               {{ if $testimonial.avatar }}
@@ -25,7 +23,6 @@
               <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
             </footer>
           </blockquote><!-- .testimonial -->
-	  </div>
           {{ end }}
           {{ end }}
         </div><!-- .testimonials-list -->
