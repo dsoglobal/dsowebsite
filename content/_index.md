@@ -39,8 +39,8 @@ sections:
     component: testimonials_block_orig.html
     section_id: testimonial
     testimonialslist:
-      - author: Lynsey, Program Manager, Ashoka Future Forward
-        avatar: ""
+      - author: Lynsey Farrell, Program Manager, Ashoka Future Forward
+        avatar: /images/lynseyfarrell.jpeg
         content: Working with DSO was a great experience because it allowed us to get
           fresh perspectives on the work we are doing and reminded us what we
           could and should focus on most.
