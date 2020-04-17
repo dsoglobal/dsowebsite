@@ -1,0 +1,31 @@
+<section id="{{ include_dict.section.section_id }}" class="block testimonials-block outer">
+  <div class="inner">
+    <div class="block-inside">
+      <div class="block-header">
+        <h2 class="block-title line-top">{{ include_dict.section.title }}</h2>
+        {% if include_dict.section.subtitle %}
+        <p class="block-subtitle">
+          {{ include_dict.section.subtitle | safe }}
+        </p>
+        {% endif %}
+      </div><!-- .block-header -->
+      {% if include_dict.section.testimonialslist %}
+      <div class="block-content">
+        <div class="testimonials-list">
+          {% for testimonial in include_dict.section.testimonialslist %}
+          <blockquote class="testimonial">
+            <p class="testimonial-text">{{ testimonial.content | safe }}</p>
+            <footer class="testimonial-footer">
+              {% if testimonial.avatar %}
+              <img class="testimonial-avatar" src="{{ testimonial.avatar | relative_url }}" alt="Author avatar">
+              {% endif %}
+              <cite class="testimonial-author">{{ testimonial.author }}</cite>
+            </footer>
+          </blockquote><!-- .testimonial -->
+          {% endfor %}
+        </div><!-- .testimonials-list -->
+      </div><!-- .block-content -->
+      {% endif %}
+    </div><!-- .block-inside -->
+  </div><!-- .inner -->
+</section><!-- .block -->
