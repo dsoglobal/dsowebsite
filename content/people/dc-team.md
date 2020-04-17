@@ -43,7 +43,8 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: Haejin Hwang
-        dsotitle: '["Engagement Lead","Other"]'
+        dsotitle:
+          - '["Engagement Lead","Managing Director"]'
         avatar: /images/haejin-hwang.png
       - type: testimonialsblock
         author: Mary Mallampalli
