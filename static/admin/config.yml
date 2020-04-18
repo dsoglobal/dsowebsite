@@ -542,11 +542,6 @@ collections:
                         label: Author
                         required: false
                         hint: The author of the testimonial.
-                      - widget: image
-                        name: avatar
-                        label: Avatar
-                        required: false
-                        hint: The avatar of the testimonial author.
                       - widget: string
                         name: content
                         label: Content
