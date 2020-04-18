@@ -17,15 +17,14 @@
 	      <input type="checkbox" name="slider" class="faux-ui-facia">
 	      <p class="testimonial-footer_o">	
                 <blockquote class="testimonial_o slide">
-	           <p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>	          
+	           <p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
+		</blockquote>
                    {{ if $testimonial.avatar }}
                      <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                    {{ end }}
-                     <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
-		 </blockquote><!-- .testimonial -->
-		</p>             
-
-          {{ end }}
+                 <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>		 
+		</p><!-- .testimonial -->
+            {{ end }}
           {{ end }}
         </div><!-- .testimonials-list -->
       </div><!-- .block-content -->
