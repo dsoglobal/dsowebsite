@@ -51,7 +51,7 @@
   }
 }
 
-.categories::after, .tags::after, .tags-terms::before  {
+.categories::after, .tags::after, .tags-terms::before, .testimonial-author_o::after  {
   display: block;
   white-space: pre;
   content: "\a";
@@ -472,7 +472,7 @@ input[type='checkbox'] {
   color: _palette(secondary);
   font-size: inherit;
   font-weight: bold;
-  margin: 0;
+  margin: 0; 
 }
 
 .testimonial-avatar_o {
