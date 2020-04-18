@@ -442,7 +442,7 @@ input[type='checkbox'] {
 
 .testimonial-text_o {
   margin-bottom: 1.2rem;
-  padding-top: 2.5rem;
+  padding-top: 2.0rem;
   position: relative;
 
   &:before {
@@ -460,8 +460,8 @@ input[type='checkbox'] {
 }
 
 .testimonial-footer_o {
-  -webkit-align-items: center;
-  -ms-flex-align: center;
+  -webkit-align-items: left;
+  -ms-flex-align: left;
   align-items: center;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -478,9 +478,13 @@ input[type='checkbox'] {
 .testimonial-avatar_o {
   border-radius: 50%;
   height: 60px;
-  margin-right: 15px;
   width: 60px;
   text-align: left;
+ 
+img {
+  float: left;
+  overflow: auto;
+  }
 }
 
 .slide {
