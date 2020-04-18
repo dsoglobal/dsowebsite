@@ -14,17 +14,17 @@
         <div class="testimonials-list_o">
           {{ range $testimonial := .section.testimonialslist }}
             {{ if  $testimonial.content }}
-	      <input type="checkbox" name="slider" class="faux-ui-facia"> 
-              <blockquote class="testimonial_o slide">
-	       	<p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}
-	          <footer class="testimonial-footer_o">
+	      <input type="checkbox" name="slider" class="faux-ui-facia">
+	      <p class="testimonial-footer_o">	
+                <blockquote class="testimonial_o slide">
+	           <p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>	          
                    {{ if $testimonial.avatar }}
                      <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
                    {{ end }}
                      <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
-                  </footer>
+		 </blockquote><!-- .testimonial -->
 		</p>             
-          </blockquote><!-- .testimonial -->
+
           {{ end }}
           {{ end }}
         </div><!-- .testimonials-list -->
