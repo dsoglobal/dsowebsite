@@ -542,6 +542,52 @@ img {
   opacity: 1;
 }
 
+.nav {
+  padding: 20px;
+  position: fixed;
+    top: 50%;
+  transform: translate3d(0, -50%, 0);
+  width: 100%;
+  z-index: 0;
+}
+
+.prev {
+  cursor: pointer;
+  float: left;
+  
+  &::after {
+    border: {
+      top: 2px solid #FFF;
+      left: 2px solid #FFF;
+      radius: 1px;
+    }
+    content: '';
+    display: block;
+    height: 20px;
+    transform: rotate(-45deg);
+    width: 20px;
+  }
+}
+
+.next {
+  cursor: pointer;
+  float: right;
+  
+  &::before {
+    border: {
+      top: 2px solid black;
+      right: 2px solid black;
+      radius: 1px;
+    }
+    content: '';
+    display: block;
+    height: 20px;
+    transform: rotate(45deg);
+    width: 20px;
+  }
+}
+
+
 @media only screen and (min-width: 601px) {
   .block {
     .post-feed,
