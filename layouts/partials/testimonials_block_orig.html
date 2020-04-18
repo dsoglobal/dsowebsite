@@ -11,7 +11,6 @@
       </div><!-- .block-header -->
       {{ if .section.testimonialslist }}
       <div class="block-content">
-        <div class="testimonials-list_o">
           {{ range $testimonial := .section.testimonialslist }}
             {{ if  $testimonial.content }}
 	      <input type="checkbox" name="slider" class="faux-ui-facia">
@@ -25,7 +24,7 @@
 		</div><!-- .testimonial -->
             {{ end }}
           {{ end }}
-        </div><!-- .testimonials-list -->
+        </blockquote>
       </div><!-- .block-content -->
       {{ end }}
     </div><!-- .block-inside -->
