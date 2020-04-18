@@ -1,32 +1,30 @@
 <section id="{{ .section.section_id }}" class="block testimonials-block outer">
   <div class="inner">
-    <div class="block-inside">
-      <div class="block-header">
-        <h2 class="block-title line-top">{{ .section.title }}</h2>
+     <div class="block-inside">
+     <div class="block-header">
+	   <h2 class="block-title line-top">{{ .section.title }}</h2>
         {{ if .section.subtitle }}
         <p class="block-subtitle">
           {{ .section.subtitle | safeHTML }}
         </p>
         {{ end }}
-      </div><!-- .block-header -->
-      {{ if .section.testimonialslist }}
-      <div class="block-content">
-          {{ range $testimonial := .section.testimonialslist }}
-            {{ if  $testimonial.content }}
-	      <input type="checkbox" name="slider" class="faux-ui-facia">
-	      <div class="slide">	
-                <blockquote class="testimonial_o">
-	           <p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
-                   {{ if $testimonial.avatar }}
-                     <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-                   {{ end }}
-                   <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
-		 </blockquote>
-		</div><!-- .testimonial -->
-            {{ end }}
-          {{ end }}
-      </div><!-- .block-content -->
-      {{ end }}
-    </div><!-- .block-inside -->
+     </div>
+	 {{ if .section.testimonialslist }}
+     <div class="block-content">
+	 {{ range $testimonial := .section.testimonialslist }}
+	    <input type="checkbox" name="slider" class="faux-ui-facia">
+		<div class="slide">
+		   <blockquote class="testimonial_o">
+			   <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>	
+			   {{ if $testimonial.avatar }}
+				   <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+			   {{ end }}
+				<cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
+		   </blockquote>
+	    </div>
+	 {{ end }}
+      </div>
+	 {{ end }}
+     </div>
   </div><!-- .inner -->
-</section><!-- .block -->
+ </section>
