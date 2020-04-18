@@ -15,8 +15,8 @@
           {{ range $testimonial := .section.testimonialslist }}
             {{ if  $testimonial.content }}
 	      <input type="checkbox" name="slider" class="faux-ui-facia">
-	      <div class="testimonial-footer_o">	
-                <blockquote class="testimonial_o slide">
+	      <div class="testimonial-footer_o slide">	
+                <blockquote class="testimonial_o">
 	           <p class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</p>
                    {{ if $testimonial.avatar }}
                      <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
