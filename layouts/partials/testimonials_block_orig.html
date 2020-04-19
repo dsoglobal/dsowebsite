@@ -2,35 +2,36 @@
   <div class="inner">
      <div class="block-inside">
        <div class="block-header">
-	 {{ if .section.title }}
-	    <h2 class="block-title line-top">{{ .section.title }}</h2>
-	 {{ end }}
-         {{ if .section.subtitle }}
+	    {{ if .section.title }}
+	       <h2 class="block-title line-top">{{ .section.title }}</h2>
+	    {{ end }}
+        {{ if .section.subtitle }}
             <p class="block-subtitle">{{ .section.subtitle | safeHTML }}</p>
-         {{ end }}
-       </div><!-- .block-header -->
-       {{ if .section.testimonialslist }}
+        {{ end }}
+       </div><!-- .block-header -->       
        <div class="block-content">
-	 <div class="testimonials-list">
-           <span class="nav next"></span>		 
-	   {{ range $testimonial := .section.testimonialslist }}
-            <div class="slides>
-	      <input type="checkbox" name="slider" class="faux-ui-facia">
-	      <div class="slide">
-		<blockquote class="testimonial_o">
-		   <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span
-		   <footer>
-		     {{ if $testimonial.avatar }}
-		        <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+	   {{ if .section.testimonialslist }}
+		 <div class="testimonials-list">
+			<span class="nav next"></span>		 
+		     {{ range $testimonial := .section.testimonialslist }}
+				<div class="slides">
+			       <input type="checkbox" name="slider" class="faux-ui-facia" />
+			       <div class="slide">
+					 <blockquote class="testimonial_o">
+						<span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
+					    <footer>
+						  {{ if $testimonial.avatar }}
+							 <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar" />
+						  {{ end }}
+							 <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
+					    </footer>
+					 </blockquote>
+			       </div><!-- .slide -->
+				</div><!-- .slides -->
 		     {{ end }}
-		        <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
-		   </footer>
-		</blockquote>
-	      </div><!-- .slide -->
-            </div><!-- .slides -->
-	 </div><!-- .testimonials-list -->
+		 </div><!-- .testimonials-list -->
+	   {{ end }}
        </div><!-- .block-content -->
-       {{ end }}
      </div><!-- .block-inside -->
   </div><!-- .inner -->
 </section>
