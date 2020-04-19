@@ -561,7 +561,8 @@ img {
     height: 20px;
     transform: rotate(-45deg);
     width: 20px;
-    float: left;  
+    float: left;
+    z-index: 10;
   }
 }
 
@@ -578,7 +579,8 @@ img {
     height: 20px;
     transform: rotate(45deg);
     width: 20px;
-    float: right;	  
+    float: right;
+    z-index: 10;
   }
 }
 
