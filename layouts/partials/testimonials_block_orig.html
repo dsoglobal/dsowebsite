@@ -11,10 +11,10 @@
        </div><!-- .block-header -->       
        <div class="block-content">
 	   {{ if .section.testimonialslist }}
-	      <div class="testimonials-list">
-		<span class="nav next"></span>		 
-		{{ range $testimonial := .section.testimonialslist }}
+	      <div class="testimonials-list">	 
+		{{ range $testimonial := .section.testimonialslist }}		
 		<input type="checkbox" name="slider" class="faux-ui-facia">
+		<span class="nav next"></span>
 		<div class="slide">		  
 		   <blockquote class="testimonial_o">
 		     <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
