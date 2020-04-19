@@ -35,6 +35,27 @@ sections:
       functional areas:"
     title: Functional Areas
     type: servicesblock
+  - type: testimonialsblock
+    component: testimonials_block_orig.html
+    section_id: testimonial
+    testimonialslist:
+      - author: Lynsey Farrell, Program Manager, Ashoka Future Forward
+        avatar: ""
+        content: Working with DSO was a great experience because it allowed us to get
+          fresh perspectives on the work we are doing and reminded us what we
+          could and should focus on most.
+      - content: DSO provides a rare and valuable opportunity for both non-for-profit
+          agencies and university students to work together to increase the
+          impact the agencies have on society. On behalf of the children we
+          serve through A Touch of Understanding, we are grateful for the
+          product we received outlining possible expansion models to help us
+          reach more students with our disability-awareness programs, fostering
+          the development social emotional intelligence, by building empathy and
+          igniting respect for all individuals.
+        author: Leslie DeDora, Executive Direction and Founder, A Touch of Understanding
+        avatar: ""
+    title: Our Impact at a Glance
+    subtitle: Our Partner testimonials further demonstrate impact
   - type: counterblock
     num_delay: 10
     num_time: 2000
@@ -62,27 +83,6 @@ sections:
         num_count: "300"
     title: ""
     subtitle: ""
-  - type: testimonialsblock
-    component: testimonials_block_orig.html
-    section_id: testimonial
-    testimonialslist:
-      - author: Lynsey Farrell, Program Manager, Ashoka Future Forward
-        avatar: ""
-        content: Working with DSO was a great experience because it allowed us to get
-          fresh perspectives on the work we are doing and reminded us what we
-          could and should focus on most.
-      - content: DSO provides a rare and valuable opportunity for both non-for-profit
-          agencies and university students to work together to increase the
-          impact the agencies have on society. On behalf of the children we
-          serve through A Touch of Understanding, we are grateful for the
-          product we received outlining possible expansion models to help us
-          reach more students with our disability-awareness programs, fostering
-          the development social emotional intelligence, by building empathy and
-          igniting respect for all individuals.
-        author: Leslie DeDora, Executive Direction and Founder, A Touch of Understanding
-        avatar: ""
-    title: Our Impact at a Glance
-    subtitle: Our Partner testimonials further demonstrate impact
   - type: postsblock
     component: posts_block.html
     num_posts_displayed: 2
