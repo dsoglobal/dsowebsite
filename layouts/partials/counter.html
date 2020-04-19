@@ -11,7 +11,8 @@
         </p>
         {{ end }}
      </div>
-      <div class="block-content"> 
+      <div class="block-content">
+	<div class="counterjoin">
           {{ if .section.counterlist }}
 	     {{ range $counter_idx, $counter := .section.counterlist }}
 	        {{ $c :=add $counter_idx 1 }}
@@ -20,9 +21,10 @@
 		   <span class="money" style="display:{{ (cond (eq $counter.money true) "inline" "none") }}">$</span>	
 		   <div class="counter-value" id="counter{{ $c }}" data-counterup-beginat="{{ $counter.num_start }}">{{ $counter.num_count }}</div>
 		   <span class="percent" style="display:{{ (cond (eq $counter.percent true) "inline" "none") }}">%</span>	
-		</div> 
+		</div>
 	     {{ end }}
 	  {{ end }}
+	</div>
       </div>
      </div>
   </div><!-- .inner -->
