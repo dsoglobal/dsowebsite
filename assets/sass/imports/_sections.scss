@@ -51,7 +51,8 @@
   }
 }
 
-.categories::after, .tags::after, .tags-terms::before, .testimonial-author_o::after, .testimonial-author_o::before  {
+.categories::after, .tags::after, .tags-terms::before, .testimonial-author_o::after, 
+.testimonial-author_o::before, .testimonial-avatar_o::before  {
   display: block;
   white-space: pre;
   content: "\a";
