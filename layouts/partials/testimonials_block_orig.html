@@ -14,8 +14,8 @@
 	      <span class="nav next"></span> 
 	      <div class="testimonials-list">	 
 		{{ range $testimonial := .section.testimonialslist }}
+		<input type="checkbox" name="slider" class="faux-ui-facia">      
 		<div class="slide">
-		  <input type="checkbox" name="slider" class="faux-ui-facia">
 		   <blockquote class="testimonial_o">
 		     <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
 		     <footer>
