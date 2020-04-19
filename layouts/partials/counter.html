@@ -1,4 +1,17 @@
-<p class="counter">
+<section id="{{ .section.section_id }}" class="block services-block outer">
+  <div class="inner">
+     <div class="block-inside">
+     <div class="block-header">
+	{{ if .section.title }}
+	 <h2 class="block-title line-top">{{ .section.title }}</h2>
+	{{ end }}
+        {{ if .section.subtitle }}
+        <p class="block-subtitle">
+          {{ .section.subtitle | safeHTML }}
+        </p>
+        {{ end }}
+     </div>
+<div class="block-content">
   {{ if .section.counterlist }}
      {{ range $counter_idx, $counter := .section.counterlist }}
 	{{ $c :=add $counter_idx 1 }}
@@ -10,7 +23,7 @@
 	</div>
      {{ end }}
   {{ end }}
-</p>
+</div>
 <script type="text/javascript">  
   jQuery(document).ready(function($) {
   $(".counter-value").counterUp({
