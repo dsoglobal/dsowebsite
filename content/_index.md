@@ -53,7 +53,7 @@ sections:
           the development social emotional intelligence, by building empathy and
           igniting respect for all individuals.
         author: Leslie DeDora, Executive Direction and Founder, A Touch of Understanding
-        avatar: ""
+        avatar: /images/lesliededora.png
     title: Our Impact at a Glance
     subtitle: Our Partner testimonials further demonstrate impact
   - type: counterblock
