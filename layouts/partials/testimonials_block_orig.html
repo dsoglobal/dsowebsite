@@ -19,10 +19,12 @@
 		   <blockquote class="testimonial_o">
 		     <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
 		     <footer class="testimonial-footer_o">
-		       {{ if $testimonial.avatar }}
-		         <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar" />
-		       {{ end }}
-		         <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
+		       <cite class="testimonial-author_o">
+		         {{ if $testimonial.avatar }}
+		            <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar" />
+		         {{ end }}
+		         {{ $testimonial.author }}
+		       </cite>
 		     </footer>
 		   </blockquote>
 		</div><!-- .slide -->
