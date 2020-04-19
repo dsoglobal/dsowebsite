@@ -550,8 +550,6 @@ img {
 
 .prev {
   cursor: pointer;
-  float: left;
-  
   &::before {
     border: {
       top: 2px solid blue;
@@ -563,13 +561,12 @@ img {
     height: 20px;
     transform: rotate(-45deg);
     width: 20px;
+    float: left;  
   }
 }
 
 .next {
-  cursor: pointer;
-  float: right;
-  
+  cursor: pointer; 
   &::after {
     border: {
       top: 2px solid blue;
@@ -581,6 +578,7 @@ img {
     height: 20px;
     transform: rotate(45deg);
     width: 20px;
+    float: right;	  
   }
 }
 
