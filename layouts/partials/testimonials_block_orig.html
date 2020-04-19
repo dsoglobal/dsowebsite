@@ -2,7 +2,9 @@
   <div class="inner">
      <div class="block-inside">
      <div class="block-header">
-	   <h2 class="block-title line-top">{{ .section.title }}</h2>
+	{{ if .section.title }}
+	 <h2 class="block-title line-top">{{ .section.title }}</h2>
+	{{ end }}
         {{ if .section.subtitle }}
         <p class="block-subtitle">
           {{ .section.subtitle | safeHTML }}
