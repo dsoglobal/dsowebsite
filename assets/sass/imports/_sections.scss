@@ -554,8 +554,8 @@ img {
   
   &::before {
     border: {
-      top: 2px solid #FFF;
-      left: 2px solid #FFF;
+      top: 2px solid blue;
+      left: 2px solid blue;
       radius: 1px;
     }
     content: '';
@@ -572,8 +572,8 @@ img {
   
   &::after {
     border: {
-      top: 2px solid black;
-      right: 2px solid black;
+      top: 2px solid blue;
+      right: 2px solid blue;
       radius: 1px;
     }
     content: '';
