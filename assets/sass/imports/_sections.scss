@@ -609,10 +609,16 @@ img {
     }
     
     .post:not(.project),
-    .service, .testimonial_o {
+    .service {
       -webkit-flex: 0 0 50%;
       -ms-flex: 0 0 50%;
       flex: 0 0 50%;
+    }
+    
+   .testimonial_o, .slide {
+      -webkit-flex: 0 0 75%;
+      -ms-flex: 0 0 75%;
+      flex: 0 0 75%;
     }
     
     .testimonial {
@@ -623,7 +629,7 @@ img {
   }
 
   .posts-block {
-    .post {
+    .post, .slide {
       margin-bottom: 1.66667em;
     }
   }
