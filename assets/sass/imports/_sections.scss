@@ -551,7 +551,7 @@ img {
   cursor: pointer;
   float: left;
   
-  &::after {
+  &::before {
     border: {
       top: 2px solid #FFF;
       left: 2px solid #FFF;
@@ -569,7 +569,7 @@ img {
   cursor: pointer;
   float: right;
   
-  &::before {
+  &::after {
     border: {
       top: 2px solid black;
       right: 2px solid black;
