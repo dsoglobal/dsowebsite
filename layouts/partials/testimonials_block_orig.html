@@ -15,12 +15,12 @@
 		<span class="nav next"></span>		 
 		{{ range $testimonial := .section.testimonialslist }}
 		<input type="checkbox" name="slider" class="faux-ui-facia" />
-		<div class="slide">
+		<div class="slide">		  
 		   <blockquote class="testimonial_o">
 		     <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
 		     <footer>
 		       {{ if $testimonial.avatar }}
-		         <img class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar" />
+		         <img align="left" class="testimonial-avatar_o" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar" />
 		       {{ end }}
 		         <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
 		     </footer>
