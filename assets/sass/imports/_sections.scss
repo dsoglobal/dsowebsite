@@ -441,7 +441,8 @@ input[type='checkbox'] {
   line-height: 1.66667;
   margin: 0 1.66667em;
   padding: 0;
-  text-align: left;	
+  text-align: left;
+  display: inline;
 }
 
 .testimonial-text_o {
@@ -449,6 +450,7 @@ input[type='checkbox'] {
   padding-top: 2.0rem;
   position: relative;
   font-size: 0.85rem;
+  display: inline;
 
   &:before {
     color: _palette(accent);
@@ -587,7 +589,6 @@ img {
     float: right;
   }
 }
-
 
 @media only screen and (min-width: 601px) {
   .block {
