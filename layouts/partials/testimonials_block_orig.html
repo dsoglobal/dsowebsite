@@ -16,6 +16,7 @@
 	      <div class="testimonials-list_o">	 
 		{{ range $testimonial := .section.testimonialslist }}		 
 		<div class="slide">
+		   <input type="checkbox" name="slider" class="faux-ui-facia">   
 		   <blockquote class="testimonial_o">
 		     <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
 		     <footer class="testimonial-footer_o">
