@@ -466,14 +466,6 @@ input[type='checkbox'] {
   }
 }
 
-.testimonial-footer_o {
-  -webkit-align-items: left;
-  -ms-flex-align: left;
-  align-items: left;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-}
 
 .testimonial-author_o {
   color: _palette(secondary);
@@ -594,7 +586,7 @@ img {
   .block {
     .post-feed,
     .services-list,
-    .testimonials-list, .testimonials-list_o {
+    .testimonials-list {
       display: -ms-flexbox;
       display: -webkit-flex;
       display: flex;
@@ -606,24 +598,19 @@ img {
 
     .post:not(.project),
     .service,
-    .testimonial, .testimonial_o {
+    .testimonial {
       box-sizing: border-box;     
       padding-left: 0.83333rem;
       padding-right: 0.83333rem;
     }
     
     .post:not(.project),
-    .service, .slide {
+    .service {
       -webkit-flex: 0 0 50%;
       -ms-flex: 0 0 50%;
       flex: 0 0 50%;
     }
-    
-    .testimonial {
-      -webkit-flex: 0 0 25%;
-      -ms-flex: 0 0 25%;
-      flex: 0 0 25%;
-    }
+
   }
 
   .posts-block {
