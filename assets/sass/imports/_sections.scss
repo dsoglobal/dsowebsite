@@ -594,7 +594,7 @@ img {
   .block {
     .post-feed,
     .services-list,
-    .testimonials-list, .testimonials-list_o, .counterjoin, .slide {
+    .testimonials-list, .testimonials-list_o {
       display: -ms-flexbox;
       display: -webkit-flex;
       display: flex;
@@ -606,23 +606,17 @@ img {
 
     .post:not(.project),
     .service,
-    .testimonial, .testimonial_o, .slide {
+    .testimonial, .testimonial_o {
       box-sizing: border-box;     
       padding-left: 0.83333rem;
       padding-right: 0.83333rem;
     }
     
     .post:not(.project),
-    .service {
+    .service, .slide {
       -webkit-flex: 0 0 50%;
       -ms-flex: 0 0 50%;
       flex: 0 0 50%;
-    }
-    
-   .testimonial_o, .slide {
-      -webkit-flex: 0 0 75%;
-      -ms-flex: 0 0 75%;
-      flex: 0 0 75%;
     }
     
     .testimonial {
