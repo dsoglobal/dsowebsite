@@ -58,7 +58,7 @@ sections:
     subtitle: Our Partner testimonials further demonstrate impact
   - type: counterblock
     num_delay: 10
-    num_time: 2001
+    num_time: 2000
     component: counter.html
     section_id: counter
     counterlist:
