@@ -552,12 +552,6 @@ img {
   top: 1px;
 }
 
-@supports (scroll-snap-type) {
-  .testimonials-list_o > a {
-    display: none;
-  }
-}
-
 .slide {
   float: left;
   z-index: 1;
