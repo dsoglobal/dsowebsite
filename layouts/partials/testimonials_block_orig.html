@@ -14,8 +14,6 @@
 	      <div class="testimonials-list_o">
 		  {{ range $counter_idx, $testimonial := .section.testimonialslist }}
 		      {{ $c := add $counter_idx 1 }}
-		    <span class="nav prev" onclick="plusSlides(-1)"></span>
-	            <span class="nav next" onclick="plusSlides(1)"></span>
 		    <div class="slide">
 		      <blockquote class="testimonial_o">
 		        <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
@@ -24,7 +22,8 @@
 		        </footer>
 		      </blockquote>
 		    </div>
-		    <span class="dot" onclick="currentSlide({{ $c }})"></span>
+		    <span class="prev" onclick="plusSlides(-1)"></span>
+	            <span class="next" onclick="plusSlides(1)"></span>
 		  {{ end }}
 	      </div><!-- .testimonials-list -->
 	   {{ end }}
@@ -34,17 +33,14 @@
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
-
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
-
 // Thumbnail image controls
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }
-
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
