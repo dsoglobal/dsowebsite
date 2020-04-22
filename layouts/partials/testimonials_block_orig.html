@@ -12,8 +12,7 @@
        <div class="block-content">
 	   {{ if .section.testimonialslist }}
 	      <div class="testimonials-list_o">
-		  {{ range $counter_idx, $testimonial := .section.testimonialslist }}
-		      {{ $c := add $counter_idx 1 }}
+		  {{ range $testimonial := .section.testimonialslist }}
 		    <div class="slide">
 		      <blockquote class="testimonial_o">
 		        <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
