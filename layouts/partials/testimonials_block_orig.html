@@ -15,13 +15,15 @@
 	      <span class="nav next"></span>
 	      <div class="testimonials-list_o">	 
 		{{ range $testimonial := .section.testimonialslist }}		
-		<div class="slide">		    
-		   <blockquote class="testimonial_o">
-		     <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
-		     <footer class="testimonial-footer_o">
-		       <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
-		     </footer>
-		   </blockquote>
+		<div class="slide">
+		   <div class="slideinner">
+		      <blockquote class="testimonial_o">
+		        <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
+		        <footer class="testimonial-footer_o">
+		          <cite class="testimonial-author_o">{{ $testimonial.author }}</cite>
+		        </footer>
+		      </blockquote>
+		    </div>
 		</div><!-- .slide -->
 		{{ end }}
 	      </div><!-- .testimonials-list -->
