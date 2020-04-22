@@ -33,7 +33,7 @@
   </div><!-- .inner -->
 <script>
 var slideIndex = 1;
-showSlides(slideIndex);
+showSlides();
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
@@ -42,7 +42,7 @@ function plusSlides(n) {
 function currentSlide(n) {
   showSlides(slideIndex = n);
 }
-function showSlides(n) {
+function showSlides() {
   var i;
   var slides = document.getElementsByClassName("slide");
   var dots = document.getElementsByClassName("dot");
