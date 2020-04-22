@@ -485,7 +485,7 @@ img {
 }
 
 .testimonials-list_o {
-  width: 500px;
+  width: 100%;
   text-align: center;
   overflow: hidden;
   box-sizing: border-box;
@@ -502,8 +502,6 @@ img {
   border-radius: 5px;  
   scroll-behavior: smooth;  
   -webkit-overflow-scrolling: touch;
-  scroll-snap-points-x: repeat(300px);
-  scroll-snap-type: mandatory;
 }
 .slide::-webkit-scrollbar {
   width: 10px;
@@ -518,8 +516,6 @@ img {
 }
 .slide > div {
   flex-shrink: 0;
-  width: 500px;
-  height: 500px;
   border-radius: 10px;
   background: #eee;
   transform-origin: center center;
