@@ -13,9 +13,9 @@
 	   {{ if .section.testimonialslist }}
 	      <span class="nav prev"></span>
 	      <span class="nav next"></span>
-	      <div class="testimonials-list_o">	 
-		{{ range $testimonial := .section.testimonialslist }}		
+	      <div class="testimonials-list_o">	 	
 		<div class="slide">
+		  {{ range $testimonial := .section.testimonialslist }}	
 		   <div class="slideinner">
 		      <blockquote class="testimonial_o">
 		        <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
@@ -24,8 +24,8 @@
 		        </footer>
 		      </blockquote>
 		    </div>
+		  {{ end }}
 		</div><!-- .slide -->
-		{{ end }}
 	      </div><!-- .testimonials-list -->
 	   {{ end }}
        </div><!-- .block-content -->
