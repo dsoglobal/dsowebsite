@@ -11,11 +11,12 @@
        </div><!-- .block-header -->       
        <div class="block-content">
 	   {{ if .section.testimonialslist }}
-	      <span class="nav prev"></span>
-	      <span class="nav next"></span>
-	      <div class="testimonials-list_o">	 	
-		  {{ range $testimonial := .section.testimonialslist }}	
-		   <div class="slide">
+	      <div class="testimonials-list_o">
+		  {{ range $counter_idx, $testimonial := .section.testimonialslist }}
+		      {{ $c := add $counter_idx 1 }}
+		    <span class="nav prev" onclick="plusSlides(-1)"></span>
+	            <span class="nav next" onclick="plusSlides(1)"></span>
+		    <div class="slide">
 		      <blockquote class="testimonial_o">
 		        <span class="testimonial-text_o">{{ $testimonial.content | safeHTML }}</span>
 		        <footer class="testimonial-footer_o">
@@ -23,7 +24,7 @@
 		        </footer>
 		      </blockquote>
 		    </div>
-		    <span class="dot"></span>  
+		    <span class="dot" onclick="currentSlide({{ $c }})"></span>
 		  {{ end }}
 	      </div><!-- .testimonials-list -->
 	   {{ end }}
@@ -31,13 +32,23 @@
      </div><!-- .block-inside -->
   </div><!-- .inner -->
 <script>
-var slideIndex = 0;
-showSlides();
-
-function showSlides() {
+var slideIndex = 1;
+showSlides(slideIndex);
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("slide");
   var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {
+	  slideIndex = 1
+  }
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
@@ -48,7 +59,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 5000); 
+  setTimeout(showSlides, {{ .section.num_time }}); 
 }
 </script>
 </section>
