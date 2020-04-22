@@ -518,6 +518,12 @@ collections:
                     label: Title
                     required: false
                     hint: The title of the section.
+                  - widget: number
+                    name: num_time
+                    label: The total duration in milliseconds of the testimonial rotation
+                    required: true
+                    valueType: int
+                    default: 5000
                   - widget: string
                     name: section_id
                     label: Element ID
