@@ -31,15 +31,18 @@
   </div><!-- .inner -->
 <script>
 var slideIndex = 0;
-showSlides(slideIndex);	
+showSlides();	
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
+function showSlides() {
+  showSlides(-1);	
+}
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("slide");	
-  if (n == 0) {
+  if (n == -1) {
     slideIndex++;
     if (slideIndex > n.length) { slideIndex = 1 }
       setTimeout(showSlides, {{ .section.num_time }} );
