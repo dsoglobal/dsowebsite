@@ -31,7 +31,7 @@
   </div><!-- .inner -->
 <script>
 var slideIndex = 0;
-showSlides();
+showSlides(slideIndex);
 	
 // Next/previous controls
 function plusSlides(n) {
@@ -41,12 +41,14 @@ function plusSlides(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("slide");	
-  if (n === undefined) {
-    if (n > slides.length) { slideIndex = 1;  }
-    if (n < 1) { slideIndex = slides.length;  }
+  if (n == 0) {
     slideIndex++;
-    if (slideIndex > n.length) { slideIndex = 1}
+    if (slideIndex > n.length) { slideIndex = 1 }
       setTimeout(carousel, {{ .section.num_time }} );
+  }
+  else {
+    if (n > slides.length) { slideIndex = 1;  }
+    if (n < 1) { slideIndex = 1;  }
   }
     for (i = 0; i < slides.length; i++) {
      slides[i].style.display = "none";
