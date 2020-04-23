@@ -483,15 +483,15 @@ img {
   }
 }
 
-.testimonials-list_o {
+.testimonials-list_o, .slide {
   box-sizing: border-box;
-}
-
-.slide {
-  display: none;
   max-width: 1000px;
   position: relative;
   margin: auto;
+}
+
+.slide {
+  display: none;	
 }
 
 .active {
