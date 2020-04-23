@@ -535,7 +535,14 @@ img {
   }
 }
 
-.prev:hover::before, .next:hover::after {
+.prev:hover::before {
+    border: {
+      top: 3px solid blue;
+      left: 3px solid blue;
+      radius: 1px;
+    }
+}
+.next:hover::after {
     border: {
       top: 3px solid blue;
       right: 3px solid blue;
