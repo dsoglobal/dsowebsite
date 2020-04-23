@@ -56,7 +56,7 @@ sections:
         avatar: ""
     title: Our Impact at a Glance
     subtitle: Our Partner testimonials further demonstrate impact
-    num_time: 5000
+    num_time: 10000
   - type: counterblock
     num_delay: 10
     num_time: 2000
