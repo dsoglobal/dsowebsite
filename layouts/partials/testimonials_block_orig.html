@@ -30,8 +30,8 @@
      </div><!-- .block-inside -->
   </div><!-- .inner -->
 <script>
-var slideIndex = 1;
-showSlides(slideIndex);
+var slideIndex = 0;
+showSlides();
 	
 // Next/previous controls
 function plusSlides(n) {
@@ -40,16 +40,18 @@ function plusSlides(n) {
 
 function showSlides(n) {
   var i;
-  var slides = document.getElementsByClassName("slide");
-  if (n > slides.length) { slideIndex = 1;  }
-  if (n < 1) { slideIndex = slides.length;  }
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  var slides = document.getElementsByClassName("slide");	
+  if (n === undefined) {
+    if (n > slides.length) { slideIndex = 1;  }
+    if (n < 1) { slideIndex = slides.length;  }
+    slideIndex++;
+    if (slideIndex > n.length) { slideIndex = 1}
+      setTimeout(carousel, {{ .section.num_time }} );
   }
-  slideIndex++;
-  if (slideIndex > slides.length) { slideIndex = 1} 
-  slides[slideIndex-1].style.display = "block"; 
-  setTimeout(showSlides, {{ .section.num_time }});
+    for (i = 0; i < slides.length; i++) {
+     slides[i].style.display = "none";
+    }
+    slides[slideIndex-1].style.display = "block";
 }
 </script>
 </section>
