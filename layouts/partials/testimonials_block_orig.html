@@ -12,6 +12,8 @@
        <div class="block-content">
 	   {{ if .section.testimonialslist }}
 	      <div class="testimonials-list_o">
+		 <span class="prev" onclick="plusSlides(-1)"></span>
+	         <span class="next" onclick="plusSlides(1)"></span>
 		  {{ range $testimonial := .section.testimonialslist }}
 		    <div class="slide">
 		      <blockquote class="testimonial_o">
@@ -22,8 +24,6 @@
 		      </blockquote>
 		    </div>
 		  {{ end }}
-		  <span class="prev" onclick="plusSlides(-1)"></span>
-	         <span class="next" onclick="plusSlides(1)"></span>
 	      </div><!-- .testimonials-list -->
 	   {{ end }}
        </div><!-- .block-content -->
