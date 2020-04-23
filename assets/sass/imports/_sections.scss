@@ -503,17 +503,15 @@ img {
   z-index: 10;	
   &::before {
     border: {
-      top: 2px solid blue;
-      left: 2px solid blue;
+      top: 2px solid black;
+      left: 2px solid black;
       radius: 1px;
-      position: absolute;
-      top: 50%;
     }
     content: '';
     display: block;
     height: 20px;
     transform: rotate(-45deg);
-    width: auto;
+    width: 20px;
     float: left;    
   }
 }
@@ -537,8 +535,6 @@ img {
     transform: rotate(45deg);
     width: 20px;
     float: right;
-    position: absolute;
-    top: 50%;
   }
 }
 
