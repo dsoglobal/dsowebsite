@@ -507,7 +507,6 @@ img {
       top: 3px solid black;
       left: 3px solid black;
       radius: 1px;
-      hover { border-color: blue;  }
     }
     content: '';
     display: block;
@@ -526,7 +525,6 @@ img {
       top: 3px solid black;
       right: 3px solid black;
       radius: 1px;
-      hover { border-color: blue;  }
     }
     content: '';
     display: block;
@@ -535,6 +533,14 @@ img {
     width: 20px;
     float: right;
   }
+}
+
+.prev:hover::before, .next:hover::before {
+  border: {
+      top: 3px solid blue;
+      right: 3px solid blue;
+      radius: 1px;
+    }
 }
 
 @media only screen and (min-width: 601px) {
