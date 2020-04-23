@@ -506,14 +506,20 @@ img {
       top: 2px solid blue;
       left: 2px solid blue;
       radius: 1px;
+      position: absolute;
+      top: 50%;
     }
     content: '';
     display: block;
     height: 20px;
     transform: rotate(-45deg);
-    width: 20px;
+    width: auto;
     float: left;    
   }
+}
+
+.prev:hover, .next:hover {
+  border-color: blue;
 }
 
 .next {
@@ -521,8 +527,8 @@ img {
   z-index: 10;
   &::after {
     border: {
-      top: 2px solid blue;
-      right: 2px solid blue;
+      top: 2px solid black;
+      right: 2px solid black;
       radius: 1px;
     }
     content: '';
@@ -531,8 +537,11 @@ img {
     transform: rotate(45deg);
     width: 20px;
     float: right;
+    position: absolute;
+    top: 50%;
   }
 }
+
 @media only screen and (min-width: 601px) {
   .block {
     .post-feed,
