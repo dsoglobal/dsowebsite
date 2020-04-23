@@ -41,7 +41,7 @@ function plusSlides(n) {
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("slide");	
-  if (n == 0) {
+  if (n === 0) {
     slideIndex++;
     if (slideIndex > n.length) { slideIndex = 1 }
       setTimeout(showSlides, {{ .section.num_time }} );
