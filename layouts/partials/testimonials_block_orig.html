@@ -30,7 +30,7 @@
      </div><!-- .block-inside -->
   </div><!-- .inner -->
 <script>
-var slideIndex = 0;
+var slideIndex = 1;
 showSlides(slideIndex);
 	
 // Next/previous controls
@@ -46,8 +46,8 @@ function showSlides(n) {
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
-  //if (slideIndex > slides.length) { slideIndex = 1} 
-  slideIndex++;  
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1} 
   slides[slideIndex-1].style.display = "block"; 
   setTimeout(showSlides, {{ .section.num_time }});
 }
