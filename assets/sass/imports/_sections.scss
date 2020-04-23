@@ -499,13 +499,13 @@ img {
   background-color: #717171;
 }
 
-.prev {
+.prev, .prev:hover {
   cursor: pointer;
   z-index: 10;	
   &::before {
     border: {
-      top: 3px solid black;
-      left: 3px solid black;
+      top: 3px solid;
+      left: 3px solid;
       radius: 1px;
     }
     content: '';
@@ -517,13 +517,13 @@ img {
   }
 }
 
-.next {
+.next, .next:hover {
   cursor: pointer; 
   z-index: 10;
   &::after {
     border: {
-      top: 3px solid black;
-      right: 3px solid black;
+      top: 3px solid;
+      right: 3px solid;
       radius: 1px;
     }
     content: '';
@@ -536,14 +536,8 @@ img {
 }
 
 .prev:hover::before, .next:hover::before {
-  border: {
-      top: 3px solid blue;
-      right: 3px solid blue;
-      radius: 1px;
-    }
-    content: '';
-    transform: rotate(45deg);
-    width: 20px;
+  border-top-color: blue;
+  border-right-color: blue;	
 }
 
 @media only screen and (min-width: 601px) {
