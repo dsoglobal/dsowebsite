@@ -489,7 +489,7 @@ img {
 
 .slide {
   display: none;
-  max-width: 500px;
+  max-width: 1000px;
   position: relative;
   margin: auto;
 }
@@ -518,11 +518,6 @@ img {
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
 }
 
 @media only screen and (min-width: 601px) {
