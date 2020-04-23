@@ -504,8 +504,8 @@ img {
   z-index: 10;	
   &::before {
     border: {
-      top: 3px solid;
-      left: 3px solid;
+      top: 3px solid black;
+      left: 3px solid black;
       radius: 1px;
     }
     content: '';
