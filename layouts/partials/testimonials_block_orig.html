@@ -45,11 +45,10 @@ function showSlides(n) {
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";  
   }
-  /* slideIndex++;
+  slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}   
-  */
   slides[slideIndex-1].style.display = "block"; 
-  /* setTimeout(showSlides, {{ .section.num_time }}); */
+  setTimeout(showSlides, {{ .section.num_time }});
 }
 </script>
 </section>
