@@ -44,7 +44,7 @@ function showSlides(n) {
   if (n == 0) {
     slideIndex++;
     if (slideIndex > n.length) { slideIndex = 1 }
-      setTimeout(carousel, {{ .section.num_time }} );
+      setTimeout(showSlides, {{ .section.num_time }} );
   }
   else {
     if (n > slides.length) { slideIndex = 1;  }
