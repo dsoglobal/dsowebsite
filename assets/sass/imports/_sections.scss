@@ -483,7 +483,7 @@ img {
   }
 }
 
-.testimonials-list_o, .slide {
+.testimonials-list_o {
   box-sizing: border-box;
   max-width: 1000px;
   position: relative;
@@ -491,7 +491,8 @@ img {
 }
 
 .slide {
-  display: none;	
+  display: none;
+  box-sizing: border-box;
 }
 
 .active {
@@ -503,9 +504,10 @@ img {
   z-index: 10;	
   &::before {
     border: {
-      top: 2px solid black;
-      left: 2px solid black;
+      top: 3px solid black;
+      left: 3px solid black;
       radius: 1px;
+      hover { border-color: blue;  }
     }
     content: '';
     display: block;
@@ -516,18 +518,15 @@ img {
   }
 }
 
-.prev:hover, .next:hover {
-  border-color: blue;
-}
-
 .next {
   cursor: pointer; 
   z-index: 10;
   &::after {
     border: {
-      top: 2px solid black;
-      right: 2px solid black;
+      top: 3px solid black;
+      right: 3px solid black;
       radius: 1px;
+      hover { border-color: blue;  }
     }
     content: '';
     display: block;
