@@ -48,7 +48,7 @@ function showmySlides() {
   slideIndex++;
   if (slideIndex > slides.length) { slideIndex = 1 }
   slides[slideIndex-1].style.display = "block";
-  setTimeout(carousel, {{ .section.num_time }});	
+  setTimeout(showmySlides, {{ .section.num_time }});	
 }
 	
 function showSlides(n) {
