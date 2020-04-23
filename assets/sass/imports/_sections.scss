@@ -522,8 +522,8 @@ img {
   z-index: 10;
   &::after {
     border: {
-      top: 3px solid;
-      right: 3px solid;
+      top: 3px solid black;
+      right: 3px solid black;
       radius: 1px;
     }
     content: '';
@@ -535,9 +535,12 @@ img {
   }
 }
 
-.prev:hover::before, .next:hover::before {
-  border-top-color: blue;
-  border-right-color: blue;	
+.prev:hover::before, .next:hover::after {
+    border: {
+      top: 3px solid blue;
+      right: 3px solid blue;
+      radius: 1px;
+    }
 }
 
 @media only screen and (min-width: 601px) {
