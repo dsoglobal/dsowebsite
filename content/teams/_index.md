@@ -14,7 +14,7 @@ sections:
         author: McKinsey & Company
         avatar: /images/0-1-.png
         actions:
-          - label: Artificial Intelligence in K-12 Education
+          - label: A.I. in K-12 Education
             url: https://www.mckinsey.com/industries/social-sector/our-insights/how-artificial-intelligence-will-impact-k-12-teachers
         linkstatus: true
       - type: testimonialsblock
