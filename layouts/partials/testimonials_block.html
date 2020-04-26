@@ -27,10 +27,10 @@
 	       {{ end }}
 	       {{ if  $testimonial.dsotitle }}
 		 {{ if isset $testimonial.dsotitle -1  }}
-		   {{ $dsotitleval :=  replace (trim (delimit $testimonial.dsotitle " and ") "[],\"") "\",\"" " and </br>" }}
+		   {{ $dsotitleval :=  replace (trim (delimit $testimonial.dsotitle " and ") "[],\"") "\",\"" " and \n" }}
 		    <cite class="testimonial-title">{{ $dsotitleval }}</cite>
 		 {{ else }}
-		   {{ $dsotitleval :=  replace (trim $testimonial.dsotitle "[],\"") "\",\"" " and </br>" }}
+		   {{ $dsotitleval :=  replace (trim $testimonial.dsotitle "[],\"") "\",\"" " and \n" }}
 		    <cite class="testimonial-title">{{ $dsotitleval }}</cite>
 	         {{ end }}		   
 		{{ end }}
