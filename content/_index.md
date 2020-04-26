@@ -52,8 +52,30 @@ sections:
           reach more students with our disability-awareness programs, fostering
           the development social emotional intelligence, by building empathy and
           igniting respect for all individuals.
-        author: Leslie DeDora, Executive Direction and Founder, A Touch of Understanding
+        author: Leslie DeDora, Founder, A Touch of Understanding
         avatar: ""
+      - author: Sarah Symons, Founder, Her Future Coalition
+        content: We have had the opportunity to work intensively with Development
+          Solutions Organization on a comprehensive marketing plan utilizing
+          cutting edge ecommerce, social marketing, and SEO techniques, as well
+          as optimizing our offline distribution, social media, and fundraising
+          strategies. We never imagined it would be possible for us as a
+          nonprofit to have access to the same high level of business consulting
+          that big corporations benefit from. Our engagement with DSO has truly
+          transformed our business and we expect to be able to hire many more
+          survivors as a result.
+      - author: " Justin Forzano, Founder, Cameroon Football Development Program (CFPD)"
+        content: Working with DSO was a great pleasure and ultimately beneficial to the
+          growth of our organization. Early on in the consulting engagement, DSO
+          took time to get a deep understanding of operations and impact and
+          provided an assessment of our value proposition and recommendations
+          for improvement. From there, we worked together on an internal
+          communications plan and talking points for volunteers to clearly
+          communicate with the general public while representing the
+          organization. As a result of the DSO’s recommendations, we increased
+          traffic to our website and improved our ability to generate awareness
+          and interest in our local community. All of this serves to enhance
+          support of our development activities on the ground.
     title: Our Impact at a Glance
     subtitle: Our Partner testimonials further demonstrate impact
     num_time: 10000
