@@ -9,6 +9,12 @@ img {
   width: 50%;
 }
 
+inner-small {
+  img {
+  width: 100%;
+}
+}
+
 .post {
   margin-bottom: 3.33333em;
 }
@@ -60,9 +66,6 @@ img {
   display: block;
   margin-bottom: 2.5rem;
 
-  img {
-    
-  }
 }
 
 .post-full {
