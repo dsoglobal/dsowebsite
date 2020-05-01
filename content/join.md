@@ -3,7 +3,7 @@ title: Join
 menu:
   main:
     name: Join
-    weight: 7
+    weight: 6
     identifier: Join
 layout: page
 ---
