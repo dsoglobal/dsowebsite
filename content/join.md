@@ -48,7 +48,7 @@ DSO sources engagements from organizations working in the local and internationa
 
 ### What Can You Expect from DSO
 
-* Critical analysis, dedicated work and project management done by our teams of professionals and university students
+* Critical analysis, dedicated work and project management done by our teams of professionals and university students
 * Connect and forge bridges with private, academic, and civil sectors
 * High quality services for low cost (many engagements are done pro-bono)
 
