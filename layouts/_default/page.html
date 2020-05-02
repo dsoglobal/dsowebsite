@@ -19,10 +19,11 @@
       {{ end }}
       <div class="post-content inner-small">
         {{ .Content }}
-      </div><!-- .post-content -->
+       {{ if .Params.appform }}
+        {{ partial "application_form.html" . }}
+       {{ end }}
+      </div><!-- .post-content -->>
     </article><!-- .post -->
-
   </div><!-- .inner-->
 </div><!-- .outer -->
-
 {{ end }}
