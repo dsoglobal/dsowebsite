@@ -22,8 +22,8 @@ sections:
         avatar: /images/0.png
         content: ""
         actions:
-          - url: https://sv2.org/person/amy-badiani/
-            label: Amy's Profile
+          - url: https://www.sv2.org/wp-content/uploads/2018-19-SV2-Impact-Report.pdf
+            label: Social Impact
         linkstatus: true
       - type: testimonialsblock
         author: Booz Allen Hamilton
