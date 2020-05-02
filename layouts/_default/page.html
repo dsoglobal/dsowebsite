@@ -17,12 +17,13 @@
       </div><!-- .post-thumbnail -->
       {{ end }}
       <div class="post-content inner-small">
-        {{ .Content }}
        {{ if .Params.appform }}
-        <h2>Apply to Be A DSO Student Consultant, Engagement Lead or Advisor</h2>
-        </br></br>
+        </br>
+        <h2>Apply to Be A DSO Consultant:<br/>Student, Engagement Lead or Advisor</h2>
+        </br>
         {{ partial "application_form.html" . }}
        {{ end }}
+        {{ .Content }}
       </div><!-- .post-content -->
     </article><!-- .post -->
   </div><!-- .inner-->
