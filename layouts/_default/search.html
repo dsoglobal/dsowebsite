@@ -2,20 +2,20 @@
 
 <div class="outer">
   <div class="inner">
-  <form action="https://www.google.com/search" method="get" class="search">
+  <form action="https://www.google.com/search" method="get" class="search" id="mySearch">
+    <input type="hidden" name="q" id="q" value="site:dsowebsite-179d5.netlify.app">
     <label for="search-str">Search</label>
-    <input type="search" name="q" id="search-str"></p>
-    <button type="submit" class="submit" value="search">Search with Google</button>
+    <input type="text" name="q" id="searchstr"></p>
+    <button type="submit" class="submit">Search</button>
   </form>
-  </div><!-- .inner-->
+  <div id="result">
+  </div>
+  </div><!-- .inner-->https://dsowebsite-179d5.netlify.app/searchIndex.json
 </div><!-- .outer -->
 <script type="text/javascript">
-var form = document.querySelector("form");
-form.addEventListener("submit", function(e) {
-  e.preventDefault();
-  var search = form.querySelector("input[type=search]");
-  search.value = "site:dsowebsite-179d5.netlify.app" + search.value;
-  form.submit();
-});
+document.getElementById('mySearch').addEventListener('submit', async event => {
+  const result = await fetch('/.netlify/functions/{{searchIndex}}?search=${event.target.searchstr.value}').then(x => x.json())
+  document.getElementById('result').innerText = JSON.stringify(result, null, 2)
+})
 </script>
 {{ end }}
