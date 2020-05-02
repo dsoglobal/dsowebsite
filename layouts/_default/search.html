@@ -1,10 +1,10 @@
 {{ define "content" }}
-<a href="/search" id="search-link">search</a>
 
 <div class="outer">
   <div class="inner">
+  <a href="/search" id="search-link">Search</a>
   <form action="https://www.google.com/search" method="get" class="search">
-    <input type="hidden" name="q" id="q" value="site:http://dsowebsite-179d5.netlify.app">
+    <input type="hidden" name="q" id="q" value="site:dsowebsite-179d5.netlify.app">
     <label for="search-str">Search <small></label>
     <input type="text" name="q" id="search-str"></p>
     <button type="submit" class="submit">Search with Google</button>
@@ -12,7 +12,7 @@
   </div><!-- .inner-->
 </div><!-- .outer -->
 
-<script>
+<script type="text/javascript">
 // attach a click handler to the search link
  var btn = document.querySelector('#search-link');
  btn.addEventListener('click', function(event) {
@@ -35,5 +35,3 @@ for(var item in searchIndex ) {
 }
 }, false);
 </script>
-
-{{ end }}
