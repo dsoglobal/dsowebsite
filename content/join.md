@@ -2,6 +2,7 @@
 title: Join
 subtitle: We are always in search for passionate students, experienced
   professionals, and partners.
+appform: true
 menu:
   main:
     name: Join
