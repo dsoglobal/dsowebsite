@@ -1088,6 +1088,11 @@ collections:
         label: Image
         required: false
         hint: The image shown below the page title and subtitle.
+      - widget: boolean
+        name: appform
+        label: Include Application Form?
+        required: false
+        default: false
       - widget: object
         name: menu
         label: Page Menus
