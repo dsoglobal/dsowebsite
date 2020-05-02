@@ -6,4 +6,4 @@ command = "./stackbit-build.sh"
   HUGO_VERSION = "0.47"
 
 [[plugins]]
-package = "netlify-plugin-search-index"
+  package = "netlify-plugin-search-index"
