@@ -1,9 +1,6 @@
 /**
  * Main JS file for theme behaviours
  */
-// app.js
-import searchIndex from './searchIndex.json'
-
 // Responsive video embeds
 var videoEmbeds = [
   'iframe[src*="youtube.com"]',
