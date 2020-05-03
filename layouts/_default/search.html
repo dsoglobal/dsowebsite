@@ -14,9 +14,9 @@ var idx, searchInput, searchResults = null
 var documents = []
 function renderSearchResults(results){
     if (results.length > 0) {
-        // show max 20 results
-        if (results.length > 19){
-            results = results.slice(0,20)
+        // show max 100 results
+        if (results.length > 99){
+            results = results.slice(0,100)
         }
         // reset search results
         searchResults.innerHTML = ''
@@ -69,9 +69,9 @@ window.onload = function() {
                 this.field('text')
                 res.forEach(function(doc) {
                     this.add(doc)
-                    documents[doc.url] = {
+                    documents[doc.path] = {
                         'title': doc.title,
-                        'text': doc.content,
+                        'text': doc.text,
                     }
                 }, this)
             })
