@@ -68,12 +68,12 @@ window.onload = function() {
         res => {
             // index document
             idx = lunr(function() {
-                this.ref('path')
+                this.ref('url')
                 this.field('title')
                 this.field('text')
                 res.forEach(function(doc) {
                     this.add(doc)
-                    documents[doc.path] = {
+                    documents[doc.url] = {
                         'title': doc.title,
                         'text': doc.text,
                     }
