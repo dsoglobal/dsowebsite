@@ -61,7 +61,7 @@ window.onload = function() {
     searchResults = document.getElementById('search-results')
     var query = searchInput.value
     // request and index documents
-    fetch('/.netlify/functions/search?search=.', {
+    fetch('/searchIndex.json', {
         method: 'get'
     }).then(
         res => res.json()
@@ -69,12 +69,12 @@ window.onload = function() {
         res => {
             // index document
             idx = lunr(function() {
-                this.ref('path')
+                this.ref('title')
                 this.field('title')
                 this.field('text')
                 res.forEach(function(doc) {
                     this.add(doc)
-                    documents[doc.path] = {
+                    documents[doc.title] = {
                         'title': doc.title,
                         'text': doc.text,
                     }
