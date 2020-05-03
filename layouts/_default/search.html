@@ -28,8 +28,7 @@ function renderSearchResults(results){
             var titleshort = str.replace("- Development Solutions Organization","")
             article.innerHTML =  `
             <a href="${result.ref}"><h3 class="title">${titleshort}</h3></a>
-
-            <br>
+            <p>{{ ${documents[result.ref].text} | markdownify | strip_newlines | strip_html | jsonify }}</p><br>
             `
             searchResults.appendChild(article)
         })
