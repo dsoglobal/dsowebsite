@@ -12,12 +12,11 @@
   </div><!-- .inner-->
 </div><!-- .outer -->
 <script type="text/javascript">
+const searchtxt = document.getElementById('searchval').value
 document.getElementById('mySearch').addEventListener('submit', async event => {
-    event.preventDefault()
-	const searchtxt = document.getElementById('searchval').value
+    event.preventDefault()	
     const result = await fetch('/.netlify/functions/search?search=${searchtxt}').then(x => x.json())
-  .netlify/functions/search?search=
-  document.getElementById('result').innerText = JSON.stringify(result, null, 2)
+    document.getElementById('result').innerText = JSON.stringify(result, null, 2)
 })  
 </script>
 {{ end }}
