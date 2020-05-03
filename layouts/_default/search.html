@@ -56,7 +56,7 @@ window.onload = function() {
     searchInput = document.getElementById('search-input')
     searchResults = document.getElementById('search-results')
     // request and index documents
-    fetch('/.netlify/functions/searchIndex?search=${searchInput}', {
+    fetch('/.netlify/functions/search?search=${searchInput}', {
         method: 'get'
     }).then(
         res => res.json()
