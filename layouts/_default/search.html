@@ -12,7 +12,7 @@
 </div><!-- .outer -->
 <script type="text/javascript">
 document.getElementById('mySearch').addEventListener('submit', async event => {
-  const result = await fetch('/.netlify/functions/{{ searchIndex }}?search=${event.target.searchText.value}').then(x => x.json())
+  const result = await fetch('/.netlify/functions/search?search=${event.target.searchText.value}').then(x => x.json())
   document.getElementById('result').innerText = JSON.stringify(result, null, 2)
 })
 </script>
