@@ -14,9 +14,10 @@
 <script type="text/javascript">
 document.getElementById('mySearch').addEventListener('submit', async event => {
     event.preventDefault()
-  const result = await fetch('/.netlify/functions/search?search=${event.target.searchval.value}').then(x => x.json())
+	const searchtxt = document.getElementById('searchval').value
+    const result = await fetch('/.netlify/functions/search?search=${searchtxt}').then(x => x.json())
+  .netlify/functions/search?search=
   document.getElementById('result').innerText = JSON.stringify(result, null, 2)
-})
-  
+})  
 </script>
 {{ end }}
