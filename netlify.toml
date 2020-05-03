@@ -7,3 +7,6 @@ command = "./stackbit-build.sh"
 
 [[plugins]]
   package = "@netlify/plugin-sitemap"
+  
+[[plugins]]
+  package = "netlify-plugin-search-index"
