@@ -14,9 +14,9 @@ var idx, searchInput, searchResults = null
 var documents = []
 function renderSearchResults(results){
     if (results.length > 0) {
-        // show max 100 results
-        if (results.length > 99){
-            results = results.slice(0,100)
+        // show max 10000 results
+        if (results.length > 10000){
+            results = results.slice(0,10000)
         }
         // reset search results
         searchResults.innerHTML = ''
@@ -60,7 +60,7 @@ window.onload = function() {
     searchInput = document.getElementById('search-input')
     searchResults = document.getElementById('search-results')
     // request and index documents
-    fetch('/.netlify/functions/search?search=${searchInput}', {
+    fetch('/searchIndex.json', {
         method: 'get'
     }).then(
         res => res.json()
