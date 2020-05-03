@@ -12,14 +12,37 @@
 // define globale variables
 var idx, searchInput, searchResults = null
 var documents = []
+function formatContent(content, searchTerm) {
+    var termIdx = content.toLowerCase().indexOf(searchTerm.toLowerCase());
+    if (termIdx >= 0) {
+        var startIdx = Math.max(0, termIdx - 140);
+        var endIdx = Math.min(content.length, termIdx + searchTerm.length + 140);
+        var trimmedContent = (startIdx === 0) ? "" : "&hellip;";
+        trimmedContent += content.substring(startIdx, endIdx);
+        trimmedContent += (endIdx >= content.length) ? "" : "&hellip;"
+
+        var highlightedContent = trimmedContent.replace(new RegExp(searchTerm, "ig"), function matcher(match) {
+            return "<strong>" + match + "</strong>";
+        });
+        return highlightedContent;
+    }
+    else {
+        var emptyTrimmedString = content.substr(0, 280);
+        emptyTrimmedString += (content.length < 280) ? "" : "&hellip;";
+        return emptyTrimmedString;
+    }
+}
 function renderSearchResults(results){
     if (results.length > 0) {
         // show max 10000 results
         if (results.length > 10000){
             results = results.slice(0,10000)
         }
-        // reset search results
-        searchResults.innerHTML = ''
+         // reset search results
+         searchResults.innerHTML = ''
+         // get search query
+          searchInput = document.getElementById('search-input')
+          var query = searchInput.value
         // append results
         results.forEach(result => {        
             // create result item
@@ -28,7 +51,8 @@ function renderSearchResults(results){
             var titleshort = str.replace("- Development Solutions Organization","")
             article.innerHTML =  `
             <a href="${result.ref}"><h3 class="title">${titleshort}</h3></a>
-            <p>{{ ${documents[result.ref].text} | markdownify | strip_newlines | strip_html | jsonify }}</p><br>
+            <p>${formatContent(documents[result.ref].text, query)}</p>
+            <br>
             `
             searchResults.appendChild(article)
         })
