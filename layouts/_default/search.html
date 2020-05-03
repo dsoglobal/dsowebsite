@@ -60,7 +60,7 @@ window.onload = function() {
     searchInput = document.getElementById('search-input')
     searchResults = document.getElementById('search-results')
     // request and index documents
-    fetch('/searchIndex.json', {
+    fetch('/.netlify/functions/search?search=%20', {
         method: 'get'
     }).then(
         res => res.json()
@@ -68,12 +68,12 @@ window.onload = function() {
         res => {
             // index document
             idx = lunr(function() {
-                this.ref('url')
+                this.ref('path')
                 this.field('title')
                 this.field('text')
                 res.forEach(function(doc) {
                     this.add(doc)
-                    documents[doc.url] = {
+                    documents[doc.path] = {
                         'title': doc.title,
                         'text': doc.text,
                     }
