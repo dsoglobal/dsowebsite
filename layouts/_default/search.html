@@ -27,8 +27,8 @@ function formatContent(content, searchTerm) {
         return highlightedContent;
     }
     else {
-        var emptyTrimmedString = content.substr(0, 280);
-        emptyTrimmedString += (content.length < 280) ? "" : "&hellip;";
+        var emptyTrimmedString = content.substr(580, 280);
+        emptyTrimmedString += (content.length < 1000) ? "" : "&hellip;";
         return emptyTrimmedString;
     }
 }
