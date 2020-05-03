@@ -45,7 +45,7 @@ function registerSearchHandler() {
             // get input value
             var query = event.target.value
             // run fuzzy search
-            var results = idx.search(query + '*')
+            var results = idx.search('title:' + query + '^10 + ' ' + query + '~1')
             // render results
             renderSearchResults(results)
         }
