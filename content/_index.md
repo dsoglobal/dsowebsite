@@ -64,7 +64,7 @@ sections:
           that big corporations benefit from. Our engagement with DSO has truly
           transformed our business and we expect to be able to hire many more
           survivors as a result.
-      - author: " Justin Forzano, Founder, Cameroon Football Development Program (CFPD)"
+      - author: " Justin Forzano, Founder, Cameroon Football Development Program (CFDP)"
         content: Working with DSO was a great pleasure and ultimately beneficial to the
           growth of our organization. Early on in the consulting engagement, DSO
           took time to get a deep understanding of operations and impact and
