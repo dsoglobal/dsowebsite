@@ -24,7 +24,11 @@ function renderSearchResults(results){
         results.forEach(result => {        
             // create result item
             var article = document.createElement('article')
-            article.innerHTML = '<a href="${result.ref}"><h3 class="title">${documents[result.ref].title}</h3></a><p><a href="${result.ref}">${result.ref}</a></p><br>'
+            article.innerHTML =  `
+            <a href="${result.ref}"><h3 class="title">${documents[result.ref].title}</h3></a>
+            <p><a href="${result.ref}">${result.ref}</a></p>
+            <br>
+            `
             searchResults.appendChild(article)
         })
     // if results are empty
