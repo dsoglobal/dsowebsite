@@ -5,6 +5,7 @@
     <form class="search" id="mySearch">
        <label for="searchval">Search</label>
        <input type="text" id="searchval"></p>
+       <button type="submit" class="submit">Search</button>
     </form>
   <div id="result">
   </div>
@@ -13,7 +14,7 @@
 <script type="text/javascript">
 document.getElementById('mySearch').addEventListener('submit', async event => {
     event.preventDefault()
-  const result = await fetch('/.netlify/functions/search?search=${event.target.searchText.value}').then(x => x.json())
+  const result = await fetch('/.netlify/functions/search?search=${event.target.searchval.value}').then(x => x.json())
   document.getElementById('result').innerText = JSON.stringify(result, null, 2)
 })
   
