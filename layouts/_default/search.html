@@ -24,8 +24,9 @@ function renderSearchResults(results){
         results.forEach(result => {        
             // create result item
             var article = document.createElement('article')
+            var titleshort = str.replace(documents[result.ref].title,"- Development Solutions Organization")
             article.innerHTML =  `
-            <a href="${result.ref}"><h3 class="title">${documents[result.ref].title}</h3></a>
+            <a href="${result.ref}"><h3 class="title">${titleshort}</h3></a>
             <br>
             `
             searchResults.appendChild(article)
