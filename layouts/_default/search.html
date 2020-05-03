@@ -72,7 +72,7 @@ window.onload = function() {
             // index document
             idx = lunr(function() {
                 this.ref('path')
-                this.field('title')
+                this.field('title', { boost: 10 })
                 this.field('text')
                 this.metadataWhitelist = ['position']
                 res.forEach(function(doc) {
