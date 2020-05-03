@@ -56,24 +56,22 @@ window.onload = function() {
     searchInput = document.getElementById('search-input')
     searchResults = document.getElementById('search-results')
     // request and index documents
-    fetch('/post/index.json', {
+    fetch('/searchIndex.json', {
         method: 'get'
     }).then(
         res => res.json()
     ).then(
         res => {
-
             // index document
             idx = lunr(function() {
-                this.ref('url')
+                this.ref('path')
                 this.field('title')
-                this.field('content')
-
+                this.field('text')
                 res.forEach(function(doc) {
                     this.add(doc)
                     documents[doc.url] = {
                         'title': doc.title,
-                        'content': doc.content,
+                        'text': doc.content,
                     }
                 }, this)
             })
@@ -82,7 +80,7 @@ window.onload = function() {
         }
     ).catch(
         err => {
-            searchResults.innerHTML = `<p>${err}</p>`
+            searchResults.innerHTML = '<p>${err}</p>'
         }
     )
 }
