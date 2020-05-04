@@ -3,7 +3,7 @@
   {{ with $related }}
    <h3>See Also</h3>
 	   {{ range . }}
-	     <p><a href="{{ .RelPermalink }}"><img class="testimonial-avatar" src="{{ .thumb_img_path }}" class="testimonial-avatar"></a><p>
+	     <p><a href="{{ .RelPermalink }}"><img class="testimonial-avatar" src="{{ .Params.thumb_img_path }}" class="testimonial-avatar"></a><p>
 	   {{ end }}
   {{ end }}
 </p>
