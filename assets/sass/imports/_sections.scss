@@ -18,6 +18,9 @@
 .seealso {
   width: 100px;
   height: 100px;
+  border-radius:25%;
+  overflow:hidden;
+  position:relative;
 }
 
 .row {
@@ -38,14 +41,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  
-  figure {
-    width:100px;
-    height:100px;
-    border-radius:25%;
-    overflow:hidden;
-    position:relative;
-	}
 }
 
 .categories-terms, .tags-terms {
