@@ -1,5 +1,5 @@
 <p class="related-content">
- {{ $pages := where .Site.GetPage "/teammates" }}
+ {{ $pages := .Site.GetPage "/teammates" }}
  {{ $pages := $pages | intersect (where .Site.RegularPages.Related . | first 5) }}
   {{ with $pages }}
    <h3>See Also</h3>
