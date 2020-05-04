@@ -1,6 +1,6 @@
 <p class="related-content">
  {{ $pages := .Site.GetPage "/teammates" }}
- {{ $pages := $pages | intersect (where .Site.RegularPages.Related . | first 5) }}
+ {{ $pages := $pages | intersect (.Site.RegularPages.Related . | first 5) }}
   {{ with $pages }}
    <h3>See Also</h3>
     {{ range . }}
