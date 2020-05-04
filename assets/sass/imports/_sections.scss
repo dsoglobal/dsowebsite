@@ -14,10 +14,24 @@
   }
 }
 
+/*See Also*/
 .seealso {
   width: 100px;
   height: 100px;
   object-fit: scale-down;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col {
+  flex: 1 0 18%; 
+  margin: 5px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .categories-terms, .tags-terms {
