@@ -48,7 +48,11 @@
         {{ end }}
       </p><!-- .block-cta -->
      {{ end }}
+     {{ if .Params.dsotitle }}
+        {{ partial "related_people.html" . }}
+     {{ else }}
         {{ partial "related.html" . }}
+     {{ end }}
       </div><!-- .post-content -->
     </article><!-- .post -->
 
