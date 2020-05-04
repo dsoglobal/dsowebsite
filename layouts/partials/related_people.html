@@ -5,7 +5,7 @@
     {{ with $related }}
       <h3>See Also</h3>
 	{{ range . }}
-         <a href="{{ .RelPermalink }}"><img class="post-thumbnail" src="{{ .Params.thumb_img_path }}" class="testimonial-avatar"></a>
+         <a href="{{ .RelPermalink }}"><img class="seealso" src="{{ .Params.thumb_img_path }}" class="testimonial-avatar"></a>
 	{{ end }}
     {{ end }}
 </div>
