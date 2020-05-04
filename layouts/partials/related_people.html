@@ -5,7 +5,7 @@
 	<div class="row">
 	{{ range . }}
 	 <div class="col">
-           <a href="{{ .RelPermalink }}"><img class="seealso" src="{{ .Params.thumb_img_path }}" alt></a>
+           <a href="{{ .RelPermalink }}" class="seealsoname"><img class="seealso" src="{{ .Params.thumb_img_path }}" alt></a>
 	   <p><a href="{{ .RelPermalink }}">{{ .Title }}</a></p>
 	 </div>
 	{{ end }}
