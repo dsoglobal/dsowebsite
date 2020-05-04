@@ -1,8 +1,8 @@
 <div>
    {{ $related := .Site.RegularPages.Related . | first 5 }}
     {{ with $related }}
-      <h3>See Also</h3>
-	<div class="row">
+      <h3>See Also</h3></br>
+      <div class="row">
 	{{ range . }}
 	 <div class="col">
            <a href="{{ .RelPermalink }}" class="seealsoname">
