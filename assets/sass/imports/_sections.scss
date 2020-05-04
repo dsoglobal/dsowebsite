@@ -23,6 +23,9 @@
 .row {
   display: flex;
   flex-wrap: wrap;
+  a { 
+    text-decoration: none; 
+   }
 }
 
 .col {
