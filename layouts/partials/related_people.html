@@ -1,8 +1,9 @@
 <p class="related-content">
  {{ $pages := .Site.GetPage "/teammates" }}
+ {{ $related := .Site.RegularPages.Related . | first 5 }}
    <h3>See Also</h3>
   {{ with $pages }}
-    {{ range where .Site.RegularPages.Related ".Params.RelPermalink" "intersect" .Params.RelPermalink }}
+    {{ range where $related ".Params.RelPermalink" "intersect" .Params.RelPermalink }}
         <p><a href="{{ .RelPermalink }}"><img class="testimonial-avatar" src="{{ .thumb_img_path }}" class="testimonial-avatar"></a><p>
     {{ end }}
   {{ end }}
