@@ -48,12 +48,16 @@
         {{ end }}
       </p><!-- .block-cta -->
      {{ end }}
+    </div><!-- .post-content -->
      {{ if .Params.dsotitle }}
+      <div class="post-content">
         {{ partial "related_people.html" . }}
-     {{ else }}
-        {{ partial "related.html" . }}
-     {{ end }}
       </div><!-- .post-content -->
+     {{ else }}
+      <div class="post-content inner-small">
+        {{ partial "related.html" . }}
+      </div><!-- .post-content -->
+     {{ end }}      
     </article><!-- .post -->
 
     <!-- Next/previous post navigation TBD -->
