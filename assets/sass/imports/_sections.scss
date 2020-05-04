@@ -27,7 +27,7 @@
   align-items: center;
   justify-content: center;
   a { 
-    text-decoration: none; 
+    border-bottom: none; 
    }
 }
 
@@ -81,7 +81,7 @@
 }
 
 .categories::after, .tags::after, .tags-terms::before, .testimonial-author_o::after, 
-.testimonial-author_o::before, .testimonial-avatar_o::before, .testimonial-title::after  {
+.testimonial-author_o::before, .testimonial-avatar_o::before, .testimonial-title::after, .seealso::after  {
   display: block;
   white-space: pre;
   content: "\a";
