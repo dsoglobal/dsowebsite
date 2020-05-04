@@ -19,6 +19,7 @@
   width: 100px;
   height: 100px;
 }
+
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -44,6 +45,7 @@
     border-radius:25%;
     overflow:hidden;
     position:relative;
+	}
 }
 
 .categories-terms, .tags-terms {
@@ -64,7 +66,7 @@
   font-weight: bold;
 }
 
-.teaminner {
+.teaminner, .inner-small {
   a {
     text-decoration: none;
     border-bottom: none;
