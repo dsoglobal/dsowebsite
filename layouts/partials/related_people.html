@@ -1,29 +1,25 @@
-<div class="testimonials-list_o">
-  <span class="prev" onclick="plusSlides(-1)"></span>
-  <span class="next" onclick="plusSlides(1)"></span>
-  <div class="slide">
-	<div class="testimonial_o">
-         <p class="related-content">
-	   {{ $related := .Site.RegularPages.Related . | first 5 }}
-	   {{ with $related }}
+<span class="prev" onclick="plusSlides(-1)"></span>
+<span class="next" onclick="plusSlides(1)"></span>
+<div class="slide">
+     <p class="related-content">
+     {{ $related := .Site.RegularPages.Related . | first 5 }}
+	{{ with $related }}
 	     <h3>See Also</h3>
 	     {{ range . }}
 	       <p><a href="{{ .RelPermalink }}"><img class="post-thumbnail" src="{{ .Params.thumb_img_path }}" class="testimonial-avatar"></a><p>
 	     {{ end }}
 	   {{ end }}
          </p>
-	</div>
-  </div>
-</div><!-- .testimonials-list -->
+</div>
+
 <script>
 var slideIndex = 0;
-showSlides(0);	
+showSlides(1);	
 	
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
-}
-	
+}	
 function showSlides(n) { //manual slide functions
   var i;
   var slides = document.getElementsByClassName("slide");	
@@ -35,4 +31,3 @@ function showSlides(n) { //manual slide functions
     slides[slideIndex-1].style.display = "block";
 }
 </script>
-</section>
