@@ -1,7 +1,7 @@
 <div>
    {{ $related := .Site.RegularPages.Related . | first 8 | shuffle | first 4 }}
     {{ with $related }}
-	<div class="also"><h3>See Also</h3></div</br>
+	<div class="also"><h3>See Also</h3></div></br>
       <div class="row">
 	{{ range $related }}
 	 <div class="col">
