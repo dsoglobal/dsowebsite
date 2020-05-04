@@ -1,21 +1,18 @@
 <span class="prev" onclick="plusSlides(-1)"></span>
 <span class="next" onclick="plusSlides(1)"></span>
 <div class="slide">
-     <p class="related-content">
-     {{ $related := .Site.RegularPages.Related . | first 5 }}
-	{{ with $related }}
-	     <h3>See Also</h3>
-	     {{ range . }}
-	       <p><a href="{{ .RelPermalink }}"><img class="post-thumbnail" src="{{ .Params.thumb_img_path }}" class="testimonial-avatar"></a><p>
-	     {{ end }}
-	   {{ end }}
-         </p>
+   {{ $related := .Site.RegularPages.Related . | first 5 }}
+    {{ with $related }}
+      <h3>See Also</h3>
+	{{ range . }}
+         <a href="{{ .RelPermalink }}"><img class="post-thumbnail" src="{{ .Params.thumb_img_path }}" class="testimonial-avatar"></a>
+	{{ end }}
+    {{ end }}
 </div>
 
 <script>
-var slideIndex = 0;
-showSlides(1);	
-	
+var slideIndex = 1;
+showSlides(slideIndex);		
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
