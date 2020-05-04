@@ -6,6 +6,8 @@ Stackbit Exto Theme original README is located [here](./README.theme.md).
 
 The content of this site is managed by NetlifyCMS. Visit https://{yoursite-domain}/admin to manage site content.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d4de1fc1-cba3-4be8-be6a-6305981f2a6a/deploy-status)](https://app.netlify.com/sites/dsowebsite-179d5/deploys)
+
 # Running Your Site Locally
 
 1. [Install Hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
