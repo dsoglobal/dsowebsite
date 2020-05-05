@@ -13,20 +13,6 @@
      border-bottom: none;
   }
 }
-/*Search*/
-.searchbox {
-  input[type="search"] {
-    border:3px solid black; 
-    width: 25%;
-    padding: 12px 20px;padding: 12px 20px;
-    border-radius: 4px;
-    transition: width 0.4s ease-in-out;
-    input[type="search"]:focus {
-     background-color: lightblue;
-     width: 100%;
-    }
-  }
-}
 
 /*See Also*/
 .seealso {
