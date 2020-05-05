@@ -201,7 +201,6 @@ input[type="text"],
 input[type="password"],
 input[type="email"],
 input[type="tel"],
-input[type="search"],
 input[type="url"],
 select,
 textarea {
@@ -224,6 +223,28 @@ textarea {
     outline: 0;
   }
 }
+
+/*Search*/
+  input[type="search"] {
+    width: 25%;
+    border-radius: 4px;
+    transition: width 0.4s ease-in-out;
+    background: transparent;
+    border: 3px solid _palette(border);
+    box-shadow: none;
+    box-sizing: border-box;
+    color: inherit;
+    display: block;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.5;
+    max-width: 100%;
+    padding: 1em 1em;
+    &:focus {
+      outline: 1;
+      width: 100%;
+    }
+  }
 
 input[type="text"],
 input[type="password"],
