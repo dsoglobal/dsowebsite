@@ -6,7 +6,7 @@ sections:
       volunteer-led consultancy teams talented and dedicated professionals and
       university students.
     section_id: hero
-    title: Development Solution Organization
+    title: Development Solutions Organization
     type: heroblock
   - component: services_block.html
     section_id: services
