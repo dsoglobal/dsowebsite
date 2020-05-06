@@ -15,6 +15,11 @@ sections:
         dsotitle:
           - '["Engagement Lead"]'
         avatar: /images/arlane.jpg
+      - type: testimonialsblock
+        author: Maria Rymer
+        dsotitle:
+          - '["Engagement Lead"]'
+        avatar: /images/maria-rymer.jpeg
     teammembers:
       - Arlane Gordon-Bray
 ---
