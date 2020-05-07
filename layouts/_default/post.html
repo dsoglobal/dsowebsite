@@ -5,14 +5,15 @@
     <article class="post post-full">
       <header class="post-header inner-small">
         <h1 class="post-title line-top">{{ .Params.title }}</h1>
-        <div class="post-meta">
-          <time class="published"
-            datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
-        </div><!-- .post-meta -->
-         {{ if .Params.dsotitle }}
+        {{ with .Params.dsotitle }}
          <div class="post-subtitle dsotitle">
           {{ delimit .Params.dsotitle " and " | safeHTML }}
-        </div><!-- .post-subtitle -->
+         </div><!-- .post-subtitle -->
+        {{ else }}        
+         <div class="post-meta">
+           <time class="published"
+             datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
+         </div><!-- .post-meta -->
         {{ end }}
         {{ if .Params.subtitle }}
         <div class="post-subtitle">
