@@ -9,7 +9,7 @@
          <div class="post-subtitle dsotitle">
           {{ delimit .Params.dsotitle " and " | safeHTML }}
           {{ if .Params.teams }}
-            {{ delimit .Params.teams " and " | safeHTML }}
+            <br/>{{ delimit .Params.teams " and " | safeHTML }}
           {{ end }}
          </div><!-- .post-subtitle -->
         {{ else }}        
