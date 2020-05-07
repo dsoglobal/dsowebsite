@@ -1432,7 +1432,12 @@ collections:
         required: false
         searchFields:
           - title
-        hint: The team you are on. Add teams under Individual Teams first.        
+        hint: The team you are on. Add teams under Individual Teams first.       
+      - widget: string
+        name: Location
+        label: Location
+        required: false
+        hint: (Optional) Additional location information, for example Berkeley, Stanford or Amersterdam
       - widget: string
         name: title
         label: Name
