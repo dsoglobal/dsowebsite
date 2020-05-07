@@ -2,6 +2,7 @@
 date: 2020-04-13T00:10:53.734Z
 teams:
   - Bay Area
+Location: Stanford
 title: Armelle Grondin
 subtitle: “L’homme est à inventer chaque jour.”
 dsotitle:
