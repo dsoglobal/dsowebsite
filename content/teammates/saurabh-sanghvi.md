@@ -1,8 +1,8 @@
 ---
 date: 2020-03-29T04:08:00.694Z
 teams:
-  - Bay Area
   - DSO Board and Leadership
+  - Bay Area
 title: Saurabh Sanghvi
 subtitle: Junkie. Sports, Development, Mexican Food
 dsotitle:
