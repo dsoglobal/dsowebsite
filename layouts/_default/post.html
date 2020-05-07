@@ -11,6 +11,9 @@
           {{ if .Params.teams }}
             <br/>{{ delimit .Params.teams " and " | safeHTML }}
           {{ end }}
+          {{ if .Params.location }}
+            - {{ Params.location }}
+          {{ end }}
          </div><!-- .post-subtitle -->
         {{ else }}        
          <div class="post-meta">
