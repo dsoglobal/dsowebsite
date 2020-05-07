@@ -2,6 +2,7 @@
 date: 2020-03-04T06:55:48.808Z
 teams:
   - Washington DC
+  - DSO Board and Leadership
 title: Anthony Buchanan
 subtitle: Technology Makes Me Happy
 dsotitle:
