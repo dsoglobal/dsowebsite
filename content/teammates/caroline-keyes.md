@@ -2,6 +2,7 @@
 date: 2020-04-12T04:00:00.000Z
 teams:
   - Bay Area
+Location: Stanford
 title: Caroline Keyes
 subtitle: “Nothing will work unless you do” - Maya Angelou
 dsotitle:
