@@ -9,7 +9,7 @@
            <figure>
 	     <img class="seealso" src="{{ .Params.thumb_img_path }}" alt></a>
 	     <figcaption><a href="{{ .RelPermalink }}">{{ .Title }}</a></figcaption>
-	     <figcaption><a href="{{ .RelPermalink }}">{{ if .Params.teams }}{{ last 1 .Params.teams }}
+	     <figcaption><a href="{{ .RelPermalink }}">{{ if .Params.teams }}{{ delmit (last 1 .Params.teams) " and " }}
 		     {{ if .Params.location }} - {{ .Params.location }}{{ end }}{{ end }}</a></figcaption>
 	   </figure>
 	 </div>
