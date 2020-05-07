@@ -9,6 +9,8 @@
            <figure>
 	     <img class="seealso" src="{{ .Params.thumb_img_path }}" alt></a>
 	     <figcaption><a href="{{ .RelPermalink }}">{{ .Title }}</a></figcaption>
+	     <figcaption><a href="{{ .RelPermalink }}">{{ if .Params.teams }}{{ delimit .Params.teams " and " | safeHTML }}
+		     {{ if .Params.location }} - {{ .Params.location }}{{ end }}{{ end }}</a></figcaption>
 	   </figure>
 	 </div>
 	{{ end }}
