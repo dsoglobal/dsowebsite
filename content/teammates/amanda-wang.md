@@ -2,6 +2,7 @@
 date: 2020-04-13T00:52:39.135Z
 teams:
   - Bay Area
+Location: Stanford
 title: Amanda Wang
 subtitle: “Whether you think you can, or you think you can’t, you’re right.” - Henry Ford
 dsotitle:
