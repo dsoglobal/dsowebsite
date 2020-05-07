@@ -1,8 +1,8 @@
 ---
 date: 2020-03-05T10:12:24.663Z
 teams:
-  - Bay Area
   - DSO Board and Leadership
+  - Bay Area
 Location: Berkeley
 title: Amy Badiani
 subtitle: Changemaker, Youth, Boundless Creativity, Gryffindor, Collaboration,
