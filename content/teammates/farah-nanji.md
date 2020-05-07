@@ -2,6 +2,7 @@
 date: 2020-04-13T00:33:52.105Z
 teams:
   - Bay Area
+Location: Berkeley
 title: "Farah Nanji "
 subtitle: “I see the world in terms of what I would like to see happen, not what
   actually does.” - Paulo Coelho
