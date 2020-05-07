@@ -2,7 +2,7 @@
 date: 2020-03-05T10:12:24.663Z
 teams:
   - Bay Area
-  - DSO Leadership
+  - DSO Board and Leadership
 title: Amy Badiani
 subtitle: Changemaker, Youth, Boundless Creativity, Gryffindor, Collaboration,
   Healthy Competition!
