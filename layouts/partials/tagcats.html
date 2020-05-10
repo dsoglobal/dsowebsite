@@ -2,8 +2,8 @@
      <input id="collapsible" class="toggle" type="checkbox"> <!-- add checked to keep open -->
      <label for="collapsible" class="lbl-toggle">Find Projects By:</label>
      <div class="collapsible-content">
+          <span class="titles"><h3>Functional Area</h3></span>
           <div class="categories-terms">
-                <span class="titles"><h3>Functional Area</h3></span>
                {{ $categories := $.Site.Taxonomies.categories.ByCount }}
                 {{ $v1 := where $categories "Count" ">=" 1 }}
                 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
@@ -14,8 +14,8 @@
                 {{ end }}
               {{ end }}       
           </div>
-          <div class="tags-terms">
-               <span class="titles"><h3>Project Topic</h3></span>
+          <span class="titles"><h3>Project Topic</h3></span>
+          <div class="tags-terms">               
                {{ $tags := $.Site.Taxonomies.tags.ByCount }}
                 {{ $v1 := where $tags "Count" ">=" 1 }}
                 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
