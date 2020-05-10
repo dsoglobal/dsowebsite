@@ -3,19 +3,19 @@
      <label for="collapsible" class="lbl-toggle">Find Projects By:</label>
      <div class="collapsible-content">
           <div class="categories-terms">
-               <h3>Functional Area</h3>
+               <h3>Functional Area</h3><br/>
                {{ $categories := $.Site.Taxonomies.categories.ByCount }}
                 {{ $v1 := where $categories "Count" ">=" 1 }}
                 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
               {{ range $v2 }}
               {{ if .Term }}
                 {{ $categoryURL := printf "categories/%s" .Term | relURL }}
-                <a href="{{ $categoryURL }}" class="btn btn-default" role="button" >{{ humanize .Term }} <span class="badge">({{ .Count }})</span></a>
+                <a href="{{ $categoryURL }}" class="md-chip" role="button" >{{ humanize .Term }} <div class="md-chip-icon">({{ .Count }})</div></a>
                 {{ end }}
               {{ end }}       
           </div>
           <div class="tags-terms">
-               <h3>Project Topic</h3>
+               <h3>Project Topic</h3><br/>
                {{ $tags := $.Site.Taxonomies.tags.ByCount }}
                 {{ $v1 := where $tags "Count" ">=" 1 }}
                 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
