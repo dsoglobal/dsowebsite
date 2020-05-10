@@ -3,7 +3,7 @@
      <label for="collapsible" class="lbl-toggle">Find Projects By:</label>
      <div class="collapsible-content">
           <div class="categories-terms">
-               <h3>Functional Area</h3><br/><br/>
+                <span class="titles"><h3>Functional Area</h3></span>
                {{ $categories := $.Site.Taxonomies.categories.ByCount }}
                 {{ $v1 := where $categories "Count" ">=" 1 }}
                 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
@@ -15,7 +15,7 @@
               {{ end }}       
           </div>
           <div class="tags-terms">
-               <h3>Project Topic</h3><br/><br/>
+               <span class="titles"><h3>Project Topic</h3></span>
                {{ $tags := $.Site.Taxonomies.tags.ByCount }}
                 {{ $v1 := where $tags "Count" ">=" 1 }}
                 {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
