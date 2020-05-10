@@ -10,7 +10,7 @@
               {{ range $v2 }}
               {{ if .Term }}
                 {{ $categoryURL := printf "categories/%s" .Term | relURL }}
-                <a href="{{ $categoryURL }}" class="md-chip" role="button" >{{ humanize .Term }} <div class="md-chip-icon">({{ .Count }})</div></a>
+               <div class="md-chip"><a href="{{ $categoryURL }}" role="button" >{{ humanize .Term }}</a><div class="md-chip-icon">({{ .Count }})</div></div>
                 {{ end }}
               {{ end }}       
           </div>
