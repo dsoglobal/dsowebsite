@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 .categories, .tags, .tags-terms, .categories-terms, .categories-posts, .tags-posts {
-  font-weight:bold;
+  font-weight: bold;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -120,7 +120,7 @@
 }
 
 .categories::after, .tags::after, .tags-terms::before, .testimonial-author_o::after, 
-.testimonial-author_o::before, .testimonial-avatar_o::before, .testimonial-title::after  {
+.testimonial-author_o::before, .testimonial-avatar_o::before, .testimonial-title::after, .titles::after  {
   display: block;
   white-space: pre;
   content: "\a";
