@@ -10,7 +10,7 @@
               {{ range $v2 }}
               {{ if .Term }}
                 {{ $categoryURL := printf "categories/%s" .Term | relURL }}
-               <div class="md-chip"><a href="{{ $categoryURL }}" role="button" >{{ humanize .Term }}</a><div class="md-chip-icon">{{ .Count }}</div></div>
+               <div class="md-chip"><a href="{{ $categoryURL }}" role="button">{{ humanize .Term }}</a><div class="md-chip-icon">{{ .Count }}</div></div>
                 {{ end }}
               {{ end }}       
           </div>
@@ -22,7 +22,7 @@
               {{ range $v2 }}
               {{ if .Term }}
                 {{ $tagURL := printf "tags/%s" .Term | relURL }}
-               <div class="md-chip"><a href="{{ $tagURL }}" class="btn btn-default" role="button" >{{ humanize .Term }}</a><div class="badge">{{ .Count }}</div></div></div>
+               <div class="md-chip"><a href="{{ $tagURL }}" role="button">{{ humanize .Term }}</a><div class="md-chip-icon">{{ .Count }}</div></div>
                 {{ end }}
               {{ end }}       
           </div>
