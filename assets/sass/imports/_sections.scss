@@ -13,6 +13,29 @@
      border-bottom: none;
   }
 }
+/*Icon Chips*/
+.md-chip {
+  display: inline-block;
+  background: #e0e0e0;
+  padding: 0 12px;
+  border-radius: 32px;
+  font-size: 13px;
+  cursor: pointer;
+  height: 32px;
+  line-height: 32px;
+}
+
+.md-chip-icon {
+  display: block;
+  float: left;
+  background: lightblue;
+  width: 32px;
+  border-radius: 50%;
+  text-align: center;
+  margin: 0 8px 0 -12px;
+  height: 32px;
+  line-height: 32px;
+}
 
 /*See Also*/
 .seealso {
