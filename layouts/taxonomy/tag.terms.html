@@ -5,10 +5,7 @@
 		    {{ $data := .Data }}
 		    {{ $thisURL := .URL}}
 		    {{ range $key,$value := .Data.Terms.Alphabetical }}
-		    <div class="md-chip">
-			<a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
-			<div class="md-chip-icon">{{ replace $value.Name "-" " " }}{{ $value.Count }}</div></a>
-			</div>
+		      <div class="md-chip"><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}" role="button">{{ replace $value.Name "-" " " }}</a><div class="md-chip-icon">{{ $value.Count }}</div></div>
 		    {{ end }}
 	 </div>
   </div>
