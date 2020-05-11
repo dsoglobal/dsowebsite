@@ -27,7 +27,7 @@ sections:
           - '["Student Consultant"]'
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Berkeley Team
+    title: ""
     subtitle: Engagement Leads and Advisors
     testimonialslist:
       - type: testimonialsblock
