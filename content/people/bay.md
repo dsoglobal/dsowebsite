@@ -66,7 +66,7 @@ sections:
         avatar: /images/polly-moser.png
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Stanford Team
+    title: ""
     subtitle: Engagement Leads and Advisers
     teammembers:
       - Arlane Gordon-Bray
