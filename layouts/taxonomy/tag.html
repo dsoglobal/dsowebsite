@@ -1,7 +1,7 @@
 {{ define "content" }}
 <div class="posts-block block outer">
        <div class="block-content">
-	       <h3>Showing Projects: </h3><span class="md-chip"><a href="{{ . }}" role="botton">{{ humanize .Term }}</a></span>
+	       <h3>Showing Projects: </h3><span class="md-chip"><a href="{{ . }}" role="botton">{{ humanize .Title }}</a></span>
            <div class="innercategorytag">
                {{ partial "tagcats.html" . }}
             </div>
