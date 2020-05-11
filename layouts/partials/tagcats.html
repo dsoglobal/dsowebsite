@@ -1,6 +1,8 @@
 <article class="post">
-     <span class="titles"><h3>Find Projects by Functional Area</h3></span>
-     <div class="categories-terms">
+   <div class="wrap-collabsible">
+     <input id="collapsible" class="toggle" type="checkbox"> <!-- add checked to keep open -->
+     <label for="collapsible" class="lbl-toggle">Find Projects by Functional Area</label>
+     <div class="categories-terms collapsible-content">
           {{ $categories := $.Site.Taxonomies.categories.ByCount }}
            {{ $v1 := where $categories "Count" ">=" 1 }}
            {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
@@ -11,10 +13,13 @@
            {{ end }}
          {{ end }}
      </div>
+    </div>
 </article>
 <article class="post">
-     <span class="titles"><h3>Find Projects by Project Topic</h3></span>
-     <div class="tags-terms">               
+   <div class="wrap-collabsible">
+     <input id="collapsible" class="toggle" type="checkbox"> <!-- add checked to keep open -->
+     <label for="collapsible" class="lbl-toggle">Find Projects by Project Topic</label>
+     <div class="tags-terms collapsible-content">               
           {{ $tags := $.Site.Taxonomies.tags.ByCount }}
            {{ $v1 := where $tags "Count" ">=" 1 }}
            {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
@@ -25,4 +30,5 @@
            {{ end }}
          {{ end }}       
      </div>
+   </div>
 </article>
