@@ -1,6 +1,7 @@
 {{ define "content" }}
 <div class="posts-block block outer">
        <div class="block-content">
+	       <h3>Showing Projects: </h3>
 	    {{ range .Params.tags }}
 	      <div class="md-chip"><a href="/tags/{{ relLangURL }}" role="button">{{ . | urlize }}</a><div class="md-chip-icon">{{ .Count }}</div></div>
 	     {{ end }}
