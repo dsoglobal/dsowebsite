@@ -1,7 +1,9 @@
 {{ define "content" }}
 <div class="posts-block block outer">
        <div class="block-content">
+	    {{ range .Params.tags }}
 	      <div class="md-chip"><a href="/tags/{{ relLangURL }}" role="button">{{ . | urlize }}</a><div class="md-chip-icon">{{ .Count }}</div></div>
+	     {{ end }}
            <div class="innercategorytag">
                {{ partial "tagcats.html" . }}
             </div>
