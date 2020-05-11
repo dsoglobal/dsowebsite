@@ -6,8 +6,7 @@
 		    {{ $thisURL := .URL}}
 		    {{ range $key,$value := .Data.Terms.Alphabetical }}
 		    <div class="innercategorytag">
-			<a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
-			<h4>{{ replace $value.Name "-" " " }} ({{ $value.Count }})</h4></a>
+		       <div class="md-chip"><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}" role="button">{{ replace $value.Name "-" " " }}</a><div class="md-chip-icon">{{ $value.Count }}</div></div>
 			</div>
 		    {{ end }}
 	 </div>
