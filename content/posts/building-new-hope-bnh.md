@@ -1,7 +1,7 @@
 ---
 title: Building New Hope (BNH)
 subtitle: Better Branded Beans
-date: 2020-05-18T03:33:08.269Z
+date: 2017-01-03T04:33:08.269Z
 thumb_img_path: /images/screen-shot-2020-05-17-at-8.39.30-pm.png
 excerpt: A collaborative partnership between Development Solutions Organization
   and the Building New Hope (BNH) team, this project focused on raising
