@@ -22,7 +22,7 @@ layout: post
 
 **Projects:** 
 
-[Case Competition with Building New Hope](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
+[Case Competition with Building New Hope](https://dsowebsite-179d5.netlify.app/posts/building-new-hope-bnh/)
 
 [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
 
