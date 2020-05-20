@@ -12,8 +12,8 @@ categories:
   - Strategy
   - Fundraising
   - User Experience
-tags:
   - Economic Development
+tags:
   - Community Development
   - Financial Empowerment
   - Sustainability
