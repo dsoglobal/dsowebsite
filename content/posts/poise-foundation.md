@@ -3,8 +3,7 @@ title: POISE Foundation
 subtitle: Expanding Fundraising & Marketing Capabilities
 date: 2018-01-01T05:00:00.000Z
 thumb_img_path: /images/poise-foundation.jpg
-excerpt: >-
-  A partnership between Development Solution Organization and the POISE
+excerpt: A partnership between Development Solution Organization and the POISE
   Foundation team, this project focused on increasing the percentage of and
   amount given by individual donors using actionable targeted fundraising and
   marketing strategies. The end objective was to increase POISE’s donor reach
@@ -14,7 +13,8 @@ categories:
   - Fundraising
   - User Experience
 tags:
-  - Economic and Community Development
+  - Economic Development
+  - Community Development
   - Financial Empowerment
   - Sustainability
 layout: post
