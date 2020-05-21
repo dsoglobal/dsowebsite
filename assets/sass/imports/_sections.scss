@@ -2,17 +2,24 @@
  * Sections
  * ----------------------------------------------------------------------------
  */
-.categories, .tags, .tags-terms, .categories-terms, .categories-posts, .tags-posts {
+.categories, .tags, .tags-terms, .categories-terms, .categories-posts, .tags-posts, .tags-center {
   font-weight: bold;
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
   width: 100%;
   text-decoration:none;
    a {
      border-bottom: none;
   }
 }
+
+.categories, .tags-terms, .categories-terms, .categories-posts, .tags-posts {
+    justify-content: flex-start;	
+}
+.tags-center {
+    justify-content: center;	
+}
+
 /*Icon Chips*/
 .md-chip, .md-chip-nopoint {
   display: inline-block;
