@@ -28,6 +28,10 @@
   cursor: pointer;
 }
 
+.tags, .categories {
+  text-align: center;
+}
+
 .md-chip-icon {
   display: block;
   float: left;
@@ -107,10 +111,6 @@
   }
 }
 
-.categories {
-  box-shadow: 3px 3px 2px grey;
-}
-
 .innercategorytag {
   margin-left: 2em;
 }
@@ -122,7 +122,7 @@
   }
 }
 
-.categories::after, .tags::after, .tags-terms::before, .testimonial-author_o::after, 
+.categories::after, .tags-terms::before, .testimonial-author_o::after, 
 .testimonial-author_o::before, .testimonial-avatar_o::before, .testimonial-title::after {
   display: block;
   white-space: pre;
