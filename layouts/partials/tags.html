@@ -1,11 +1,10 @@
-<div class="categories-terms">
+<div class="tags-center">
   {{ range .Params.categories }}
     <span class="md-chip-nopoint"><a href="/categories/{{ . | urlize }}">{{ . }}</a></span>
   {{ end }}
 </div>
-<div class="categories-terms">
+<div class="tags-center">
 {{ range .Params.tags }}
    <span class="md-chip-nopoint"><a href="/tags/{{ . | urlize }}">{{ . }}</a></span>
 {{ end }}  
 </div>
-
