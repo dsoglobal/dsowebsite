@@ -94,6 +94,16 @@ img {
   .post {
     margin-bottom: 5em;
   }
+  
+  .post-full {
+  .post-thumbnail {
+    img {
+      width:600px;
+      height:600px;
+      object-fit: contain;
+    }
+  }
+}
 
   .post-full,
   .post-feed,
@@ -207,17 +217,7 @@ img {
       flex: 0 0 50%;
       padding-left: 0.83333rem;
       padding-right: 0.83333rem;
-    }
-    
-    .post-full {
-  .post-thumbnail {
-    img {
-      width:600px;
-      height:600px;
-      object-fit: contain;
-    }
-  }
-}
+    }  
 
     &.layout-mosaic {
       .project {
