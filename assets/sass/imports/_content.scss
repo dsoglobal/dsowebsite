@@ -208,6 +208,16 @@ img {
       padding-left: 0.83333rem;
       padding-right: 0.83333rem;
     }
+    
+    .post-full {
+  .post-thumbnail {
+    img {
+      width:600px;
+      height:600px;
+      object-fit: contain;
+    }
+  }
+}
 
     &.layout-mosaic {
       .project {
