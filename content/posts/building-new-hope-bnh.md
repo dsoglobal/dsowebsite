@@ -13,7 +13,6 @@ categories:
   - Strategy
 tags:
   - Economic Development
-  - ""
 layout: post
 ---
 BNH is a volunteer-driven organization whose main mission is to support grassroots development projects in Central America. In 2002, workers from a coffee co-op, El Porvenir, approached volunteers from BNH as their community was in dire need of support to find buyers for their coffee. The El Porvenir Coffee Cooperative is a worker-owned, certified-organic coffee farm situated near Leon, Nicaragua managed by 46 member families. BNH supports El Porvenir through a direct trade relationship to sell the coffee in Pittsburgh, and through grants for education, infrastructure development, and emergency relief. In addition to supporting the local community, BNH is partnering with the local community to expand the market for ethically traded coffee.
