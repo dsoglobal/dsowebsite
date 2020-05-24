@@ -39,6 +39,7 @@ sections:
         author: Sneha Krishnan
         dsotitle:
           - '["Advisor"]'
+        avatar: /images/sneha-krishnan.jpg
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
