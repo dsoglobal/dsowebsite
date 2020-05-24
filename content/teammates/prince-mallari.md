@@ -4,7 +4,7 @@ teams:
   - Washington DC
 title: Sneha Krishnan
 dsotitle:
-  - Engagement Lead
+  - Advisor
 work: MA Candidate
 company: Sotheby's Institute of Art
 thumb_img_path: /images/sneha-krishnan.jpg
