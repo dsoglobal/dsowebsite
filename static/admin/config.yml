@@ -1267,6 +1267,7 @@ collections:
         label: Link Team Members
         collection: peoplepost
         valueField: title
+        optionsLength: 1000
         multiple: true
         required: false
         searchFields:
@@ -1370,6 +1371,7 @@ collections:
                     label: Name
                     collection: peoplepost
                     valueField: title
+                    optionsLength: 1000
                     multiple: false
                     required: true
                     searchFields:
@@ -1393,6 +1395,7 @@ collections:
                     label: Picture
                     collection: peoplepost
                     valueField: thumb_img_path
+                    optionsLength: 1000
                     multiple: false
                     required: false
                     searchFields:
