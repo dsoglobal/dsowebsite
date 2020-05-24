@@ -1,7 +1,7 @@
 ---
 date: 2020-04-14T20:16:37.979Z
 teams:
-  - Washington DC
+  - Bay Area
 title: Sneha Krishnan
 dsotitle:
   - Advisor
