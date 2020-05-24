@@ -35,6 +35,10 @@ sections:
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/0-3-.jpg
         author: Amy Badiani
+      - type: testimonialsblock
+        author: Sneha Krishnan
+        dsotitle:
+          - '["Advisor"]'
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
