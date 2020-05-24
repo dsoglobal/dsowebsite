@@ -7,6 +7,6 @@ dsotitle:
   - Engagement Lead
 work: MA Candidate
 company: Sotheby's Institute of Art
-thumb_img_path: /images/sneha.jpg
+thumb_img_path: /images/sneha-krishnan.jpg
 layout: post
 ---
