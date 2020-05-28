@@ -29,4 +29,4 @@ I joined DSO because I want to work with and learn from individuals also passion
 
 To be a part of or start an organization in either Central or East Africa that strives to alleviate poverty sustainably in a creative way
 
-**[Get In Touch](farahnanji@berkeley.edu)**
+**[Get In Touch](mailto:farahnanji@berkeley.edu)**
