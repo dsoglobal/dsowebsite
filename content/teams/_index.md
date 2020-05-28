@@ -5,6 +5,11 @@ subtitle: Our teams are the heart of DSO. We have teams in several locations
   around the US.
 layout_style: tiles
 sections:
+  - type: heroblock
+    component: hero_block.html
+    content: '![DSO
+      Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg "DSO
+      Workshop")'
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates' Work
@@ -33,11 +38,6 @@ sections:
         author: Vungle
         avatar: /images/vungle.png
         linkstatus: true
-  - type: heroblock
-    component: hero_block.html
-    content: '![DSO
-      Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg "DSO
-      Workshop")'
 menu:
   main:
     identifier: teams
