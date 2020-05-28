@@ -24,4 +24,4 @@ Aspiration(s):**
 
 To work for a company that creates electric cars that are more efficient and effective than fossil fuel vehicles and bringing them to developing countries that need them the most
 
-**[Get in Touch](kiara.w@dsoglobal.org)**
+**[Get in Touch](mailto:kiara.w@dsoglobal.org)**
