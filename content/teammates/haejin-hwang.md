@@ -28,4 +28,4 @@ layout: post
 
 Work at the intersection of policy and business to help communities be more inclusive; be paid to travel internationally and experience the world (cultures & food!)
 
-[Get In Touch](haejinhwang@dsoglobal.org)
+[Get In Touch](mailto:haejinhwang@dsoglobal.org)
