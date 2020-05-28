@@ -3,30 +3,23 @@ date: 2020-05-28T00:59:22.297Z
 teams:
   - Bay Area
 Location: Berkeley
-title: "Farah Nanji "
-subtitle: “I see the world in terms of what I would like to see happen, not what
-  actually does.” - Paulo Coelho
+title: Alma Chen
+subtitle: "Never believe that a few caring people can change the world. For
+  indeed, that’s all who ever have  - Margaret Mead "
 dsotitle:
   - Student Consultant
-  - Managing Director
-thumb_img_path: /images/farah-nanji.png
+thumb_img_path: ""
 actions:
   - label: LinkedIn
-    url: https://www.linkedin.com/in/farah-nanji-583a36149/
+    url: http://www.linkedin.com/in/xiuzhu-alma-chen-88923b1a1
 layout: post
 ---
-**Why I joined DSO:**
+Why I joined DSO: passionate about international development and seeking to gain some consulting experience
 
-I joined DSO because I want to work with and learn from individuals also passionate about social change to gain a better understanding of how international organizations operate. Additionally, I am hoping to gain insight about consulting and my future career path.
+Projects: Ek Tara
 
-**Projects:**
+At DSO here’s what I am up to: learn about pressing issues that a company faces and sharpen out my professional skills
 
-[BasicNeeds](http://www.basicneeds.org/)
+Ask me about/I’m passionate about: traveling, education, humanitarian, psychology, hearing about different personal stories
 
-[Kiva Crowdvet](https://www.crowdvet.org/)
-
-**Aspiration(s):**
-
-To be a part of or start an organization in either Central or East Africa that strives to alleviate poverty sustainably in a creative way
-
-**[Get In Touch](farahnanji@berkeley.edu)**
+**Aspiration(s):** create a sustainable impact that improve the livelihood of people, whether it’s a small group or a big community.
