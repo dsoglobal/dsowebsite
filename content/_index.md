@@ -106,6 +106,11 @@ sections:
         num_count: "300"
     title: ""
     subtitle: ""
+  - type: contentblock
+    component: content_block.html
+    content: '![DSO
+      Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg "DSO
+      Workshop")'
   - type: postsblock
     component: posts_block.html
     num_posts_displayed: 2
