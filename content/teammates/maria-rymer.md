@@ -26,4 +26,4 @@ layout: post
 
 Improve on myself daily; Continue to involve myself with organizations that strive to positively impact the world.
 
-**[Get in Touch](mariarymer@dsoglobal.org)**
+**[Get in Touch](mailto:mariarymer@dsoglobal.org)**
