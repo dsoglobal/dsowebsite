@@ -26,7 +26,7 @@ DSO works with some of the brightest minds at universities around the United Sta
 * 5 to 10 hours a week of project work and meetings
 * Present and receive feedback from professionals and client partners
 
-  ![](/images/83096308-2ff04e00-a05a-11ea-801b-6a3dc3a649d0.jpg "DSO Students")
+  ![DSO Students](/images/83096308-2ff04e00-a05a-11ea-801b-6a3dc3a649d0.jpg "DSO Students")
 
 # Experienced Professionals
 
@@ -44,6 +44,8 @@ At DSO, professionals act as Engagement Leads or Advisors, leading projects at v
 * Make a difference in a student’s career, through project guidance and mentorship
 * Coordinating with client and team members to ensure a successful engagement
 * Network with like-minded professionals and talented students
+
+  ![DSO ELs](/images/83096347-44344b00-a05a-11ea-9985-cd2c08c8d103.jpg "DSO ELs")
 
 # Partners
 
