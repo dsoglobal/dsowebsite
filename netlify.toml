@@ -10,3 +10,6 @@ command = "./stackbit-build.sh"
   
 [[plugins]]
   package = "netlify-plugin-algolia-index"
+
+[[plugins]]
+package = "netlify-plugin-checklinks"
