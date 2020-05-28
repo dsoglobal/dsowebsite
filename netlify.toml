@@ -9,4 +9,4 @@ command = "./stackbit-build.sh"
   package = "@netlify/plugin-sitemap"
   
 [[plugins]]
-  package = "netlify-plugin-algolia-index"
+  package = "netlify-plugin-search-index"
