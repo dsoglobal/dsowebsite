@@ -7,9 +7,12 @@ layout_style: tiles
 sections:
   - type: heroblock
     component: hero_block.html
-    content: '![DSO
-      Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg "DSO
-      Workshop")'
+    content: >-
+      |                                                                            |     |
+
+      | -------------------------------------------------------------------------- | --- |
+
+      | ![DSO Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg) |     |
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates' Work
