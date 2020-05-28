@@ -15,16 +15,13 @@ img {
   }
 } 
 
-.block-copy {
-  img {
+.block-copy img {
     width: 50%;
-  }
 } 
 
-.block-copy p {
+.block-copy p, img {
     margin-left: 20px;
-    display: inline-block;
-    vertical-align: top;
+    display: inline;
 }
 
 .post {
