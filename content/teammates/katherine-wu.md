@@ -27,4 +27,4 @@ layout: post
 
 I want to use technology to solve problems and improve the lives of those around us.
 
-**[Get In Touch](kjwu00@stanford.edu)**
+**[Get In Touch](mailto:kjwu00@stanford.edu)**
