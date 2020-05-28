@@ -16,14 +16,10 @@ img {
 } 
 
 .block-copy {
-  p {
-    display: inline-block; 
-    max-width: 50%;
-   
-    img:nth-child(1) { float:left;  }
-    img:nth-child(2) { float:right; }
+  img {
+    display: inline;
+    width: 50%;
   }
-
 } 
 
 .post {
