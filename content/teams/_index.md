@@ -8,9 +8,9 @@ sections:
   - type: heroblock
     component: hero_block.html
     content: <img src="/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg
-      "DSO Workshop"" width="45%"></img> <img
+      "DSO Workshop"" width="20%"></img> <img
       src="/images/83096445-85c4f600-a05a-11ea-94b1-fb5ab054e2d1.jpg "DSO Case
-      Competition"" width="45%"></img>
+      Competition"" width="20%"></img>
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates' Work
