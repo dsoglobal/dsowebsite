@@ -17,10 +17,15 @@ img {
 
 .block-copy {
   img {
-    display: inline;
     width: 50%;
   }
 } 
+
+.block-copy p {
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
 
 .post {
   margin-bottom: 3.33333em;
