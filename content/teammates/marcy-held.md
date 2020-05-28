@@ -28,4 +28,4 @@ layout: post
 
 To listen, to help, to continually learn. I also have the goal of eventually teaching design in some capacity.
 
-**[Get In Touch](marcy@dsoglobal.org)**
+**[Get In Touch](mailto:marcy@dsoglobal.org)**
