@@ -23,4 +23,4 @@ To have meaningful impact on nonprofits that help communities both locally and i
 
 improve the lives of those in need
 
-[Get In Touch](agrondin@dsoglobal.org)
+[Get In Touch](mailto:agrondin@dsoglobal.org)
