@@ -26,6 +26,8 @@ DSO works with some of the brightest minds at universities around the United Sta
 * 5 to 10 hours a week of project work and meetings
 * Present and receive feedback from professionals and client partners
 
+  ![](/images/83096308-2ff04e00-a05a-11ea-801b-6a3dc3a649d0.jpg "DSO Students")
+
 # Experienced Professionals
 
 At DSO, professionals act as Engagement Leads or Advisors, leading projects at various hubs that work with recruited students and other professionals to get the projects done for our partners. Engagement Leads manage positive relationships with clients, ensure projects run smoothly, and mentor students. Advisors provide subject matter expertise on an ad hoc basis. We are open to remote work and collaboration - you don't have to be in one of our hub locations to join DSO.
