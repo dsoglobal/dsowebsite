@@ -24,4 +24,4 @@ layout: post
 
 Encourage corporate social responsibility and find a way to make an impact!
 
-**[Get in Touch](pmoser@dsoglobal.org)**
+**[Get in Touch](mailto:pmoser@dsoglobal.org)**
