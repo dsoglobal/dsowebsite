@@ -7,11 +7,17 @@ layout_style: tiles
 sections:
   - type: heroblock
     component: hero_block.html
-    content: '![DSO
-      Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg "DSO
-      Workshop") ![DSO Case
-      Competition](/images/83096445-85c4f600-a05a-11ea-94b1-fb5ab054e2d1.jpg
-      "DSO Case Competition")'
+    content: "<p float=\"left\">\r
+
+      <img
+      src=\"/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg\"
+      width=\"100\" />\r
+
+      <img
+      src=\"/images/83096445-85c4f600-a05a-11ea-94b1-fb5ab054e2d1.jpg\"
+      width=\"100\" />\r
+
+      </p>"
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates' Work
