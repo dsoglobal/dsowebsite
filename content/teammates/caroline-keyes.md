@@ -23,4 +23,4 @@ layout: post
 
 To help everyone in the world have an equal opportunity for success
 
-**[Get in Touch](carolinekeyes@dsoglobal.org)**
+**[Get in Touch](mailto:carolinekeyes@dsoglobal.org)**
