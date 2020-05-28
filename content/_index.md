@@ -108,9 +108,12 @@ sections:
     subtitle: ""
   - type: contentblock
     component: content_block.html
-    content: '![DSO
-      Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg "DSO
-      Workshop")'
+    content: >-
+      ![DSO Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg
+      "DSO Workshop")
+
+
+      ![DSO Workshop](/images/83096678-2b786500-a05b-11ea-80b2-32962e460a21.jpg "DSO Workshop")
   - type: postsblock
     component: posts_block.html
     num_posts_displayed: 2
