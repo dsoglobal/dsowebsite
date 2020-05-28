@@ -8,7 +8,8 @@ sections:
   - type: heroblock
     component: hero_block.html
     content: >-
-      ![DSO Workshop](/images/83096324-341c6b80-a05a-11ea-8bef-a5fe6f26f5ca.jpg)
+      ![DSO Games](/images/83096319-32eb3e80-a05a-11ea-962f-f35db1dc451f.jpg
+      "DSO Games")
 
 
       ![DSO Case Competition](/images/83096445-85c4f600-a05a-11ea-94b1-fb5ab054e2d1.jpg)
