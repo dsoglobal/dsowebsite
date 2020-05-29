@@ -5,14 +5,6 @@ subtitle: Our teams are the heart of DSO. We have teams in several locations
   around the US.
 layout_style: tiles
 sections:
-  - type: heroblock
-    component: hero_block.html
-    content: >-
-      ![DSO Games](/images/83096319-32eb3e80-a05a-11ea-962f-f35db1dc451f.jpg
-      "DSO Games")
-
-
-      ![DSO Case Competition](/images/83096445-85c4f600-a05a-11ea-94b1-fb5ab054e2d1.jpg)
   - type: testimonialsblock
     component: testimonials_block.html
     title: Our Teammates' Work
