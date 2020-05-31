@@ -25,6 +25,11 @@ sections:
         avatar: /images/salma-al-khairi.jpg
         dsotitle:
           - '["Student Consultant"]'
+      - type: testimonialsblock
+        author: Alma Chen
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: ""
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
