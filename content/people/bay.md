@@ -30,6 +30,11 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: ""
+      - type: testimonialsblock
+        author: Mahek Zindani
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/mahek.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
