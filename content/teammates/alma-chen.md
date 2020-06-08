@@ -8,7 +8,7 @@ subtitle: "Never believe that a few caring people can change the world. For
   indeed, that’s all who ever have  - Margaret Mead "
 dsotitle:
   - Student Consultant
-thumb_img_path: ""
+thumb_img_path: /images/alma.jpeg
 actions:
   - label: LinkedIn
     url: http://www.linkedin.com/in/xiuzhu-alma-chen-88923b1a1
