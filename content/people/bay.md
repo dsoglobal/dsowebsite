@@ -14,7 +14,7 @@ sections:
         author: "Farah Nanji "
         dsotitle:
           - '["Student Consultant","Managing Director"]'
-        avatar: /images/farah-nanji.png
+        avatar: /images/farah.jpeg
       - type: testimonialsblock
         author: Kiki Wong
         avatar: /images/kiki-wong.png
@@ -40,6 +40,10 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/jkim.png
+      - type: testimonialsblock
+        author: Farah Khurshid
+        dsotitle:
+          - '["Student Consultant"]'
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
