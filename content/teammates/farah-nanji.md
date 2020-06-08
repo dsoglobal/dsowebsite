@@ -9,7 +9,7 @@ subtitle: “I see the world in terms of what I would like to see happen, not wh
 dsotitle:
   - Student Consultant
   - Managing Director
-thumb_img_path: /images/farah-nanji.png
+thumb_img_path: /images/farah.jpeg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/farah-nanji-583a36149/
