@@ -3,30 +3,26 @@ date: 2020-06-08T23:07:32.886Z
 teams:
   - Bay Area
 Location: Berkeley
-title: "Farah Nanji "
-subtitle: “I see the world in terms of what I would like to see happen, not what
-  actually does.” - Paulo Coelho
+title: Farah Khurshid
+subtitle: "“For it is in giving that we receive.” St. Francis of Assisi "
 dsotitle:
   - Student Consultant
-  - Managing Director
-thumb_img_path: /images/farah.jpeg
+thumb_img_path: ""
 actions:
   - label: LinkedIn
-    url: https://www.linkedin.com/in/farah-nanji-583a36149/
+    url: ""
 layout: post
 ---
 **Why I joined DSO:**
 
-I joined DSO because I want to work with and learn from individuals also passionate about social change to gain a better understanding of how international organizations operate. Additionally, I am hoping to gain insight about consulting and my future career path.
+I am very passionate about international development and want to play a role in social impact.
 
 **Projects:**
-
-[BasicNeeds](http://www.basicneeds.org/)
 
 [Kiva Crowdvet](https://www.crowdvet.org/)
 
 **Aspiration(s):**
 
-To be a part of or start an organization in either Central or East Africa that strives to alleviate poverty sustainably in a creative way
+Pushing to make a global impact socially and economically
 
-**[Get In Touch](mailto:farahnanji@berkeley.edu)**
+**Ask me about/I’m passionate about:** Education, social impact, social and economic development, policy, food, cats
