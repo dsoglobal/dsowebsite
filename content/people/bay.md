@@ -36,11 +36,6 @@ sections:
           - '["Student Consultant"]'
         avatar: /images/mahek.jpg
       - type: testimonialsblock
-        author: Joshua Kim
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jkim.png
-      - type: testimonialsblock
         author: Farah Khurshid
         dsotitle:
           - '["Student Consultant"]'
