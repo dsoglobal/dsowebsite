@@ -8,9 +8,7 @@ subtitle: "“For it is in giving that we receive.” St. Francis of Assisi "
 dsotitle:
   - Student Consultant
 thumb_img_path: ""
-actions:
-  - label: LinkedIn
-    url: ""
+actions: []
 layout: post
 ---
 **Why I joined DSO:**
