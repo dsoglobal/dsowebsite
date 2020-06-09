@@ -29,7 +29,7 @@ sections:
         author: Alma Chen
         dsotitle:
           - '["Student Consultant"]'
-        avatar: ""
+        avatar: /images/alma.jpeg
       - type: testimonialsblock
         author: Mahek Zindani
         dsotitle:
