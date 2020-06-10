@@ -39,6 +39,7 @@ sections:
         author: Farah Khurshid
         dsotitle:
           - '["Student Consultant"]'
+        avatar: /images/farahk.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
