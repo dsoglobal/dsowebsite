@@ -7,7 +7,7 @@ title: Farah Khurshid
 subtitle: "“For it is in giving that we receive.” St. Francis of Assisi "
 dsotitle:
   - Student Consultant
-thumb_img_path: ""
+thumb_img_path: /images/farahk.jpg
 actions: []
 layout: post
 ---
