@@ -537,6 +537,10 @@ models:
     fields:
       - name: component
         default: services_block.html
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.        
       - type: list
         name: serviceslist
         label: Services
