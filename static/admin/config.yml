@@ -396,6 +396,7 @@ collections:
                     name: subtitle
                     label: Subtitle
                     required: false
+                    hint: The subtitle of the section.
                   - widget: string
                     name: section_id
                     label: Element ID
@@ -405,11 +406,6 @@ collections:
                     label: Component
                     required: true
                     default: services_block.html
-                  - widget: string
-                    name: subtitle
-                    label: Subtitle
-                    required: false
-                    hint: The subtitle of the section.
                   - widget: list
                     name: serviceslist
                     label: Services
