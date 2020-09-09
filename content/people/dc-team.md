@@ -44,7 +44,7 @@ sections:
       - type: testimonialsblock
         author: Haejin Hwang
         dsotitle:
-          - '["Engagement Lead","Managing Director"]'
+          - - Engagement Lead
         avatar: /images/haejin-hwang.png
       - type: testimonialsblock
         author: Mary Mallampalli
@@ -68,7 +68,8 @@ sections:
       - type: testimonialsblock
         author: Emily Rosenberg
         dsotitle:
-          - '["Engagement Lead"]'
+          - - Engagement Lead
+            - Managing Director
         avatar: /images/emilyr.jpg
       - type: testimonialsblock
         author: Haidi Al-Shabrawey
