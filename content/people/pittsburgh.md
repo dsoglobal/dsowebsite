@@ -23,7 +23,7 @@ sections:
       - type: testimonialsblock
         author: Karthik Kumar
         dsotitle:
-          - - Engagement Lead
+          - Engagement Lead
         avatar: /images/karthik-kumar.jpeg
     teammembers:
       - Arlane Gordon-Bray
