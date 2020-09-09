@@ -20,6 +20,11 @@ sections:
         dsotitle:
           - '["Engagement Lead"]'
         avatar: /images/maria-rymer.jpeg
+      - type: testimonialsblock
+        author: Karthik Kumar
+        dsotitle:
+          - - Engagement Lead
+        avatar: /images/karthik-kumar.jpeg
     teammembers:
       - Arlane Gordon-Bray
 ---
