@@ -8,7 +8,7 @@ sections:
   - type: testimonialsblock
     component: testimonials_block.html
     title: CXOs
-    subtitle: CXO set DSO Strategy
+    subtitle: CXOs set DSO Strategy
     testimonialslist:
       - type: testimonialsblock
         author: Amy Badiani
