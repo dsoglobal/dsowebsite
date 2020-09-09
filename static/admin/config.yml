@@ -1378,12 +1378,12 @@ collections:
                     label: DSO Title
                     collection: peoplepost
                     valueField: dsotitle
-                    multiple: true
+                    multiple: false
                     required: false
                     searchFields:
                       - title
-                      - dsotitle
                     displayFields:
+                      - title
                       - dsotitle
                     hint: The DSO titles of the team member. Search by name. Add team member under Individual Team Members first.
                   - widget: relation
