@@ -42,6 +42,12 @@ sections:
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
+        author: Emily Rosenberg
+        dsotitle:
+          - - Engagement Lead
+            - Managing Director
+        avatar: /images/emilyr.jpg
+      - type: testimonialsblock
         author: Haejin Hwang
         dsotitle:
           - - Engagement Lead
@@ -65,12 +71,6 @@ sections:
         dsotitle:
           - '["Advisor"]'
         avatar: /images/aparna.jpg
-      - type: testimonialsblock
-        author: Emily Rosenberg
-        dsotitle:
-          - - Engagement Lead
-            - Managing Director
-        avatar: /images/emilyr.jpg
       - type: testimonialsblock
         author: Haidi Al-Shabrawey
         dsotitle:
