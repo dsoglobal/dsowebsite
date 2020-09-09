@@ -1378,6 +1378,7 @@ collections:
                     label: DSO Title
                     collection: peoplepost
                     valueField: dsotitle
+                    optionsLength: 1000
                     multiple: false
                     required: false
                     searchFields:
