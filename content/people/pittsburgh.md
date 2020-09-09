@@ -13,12 +13,12 @@ sections:
       - type: testimonialsblock
         author: Arlane Gordon-Bray
         dsotitle:
-          - '["Engagement Lead"]'
+          - Engagement Lead
         avatar: /images/arlane.jpg
       - type: testimonialsblock
         author: Maria Rymer
         dsotitle:
-          - '["Engagement Lead"]'
+          - Engagement Lead
         avatar: /images/maria-rymer.jpeg
       - type: testimonialsblock
         author: Karthik Kumar
