@@ -21,7 +21,7 @@ We welcome ideas and suggestions from our broader community. Contact [inquiries@
 3. Anti-racist resources
 4. Interest in joining DSO
 
-   ### Learning Questions to Consider
+ **Learning Questions to Consider**
 
    **Creating processes for progress:**
 
