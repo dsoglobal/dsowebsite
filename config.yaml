@@ -20,9 +20,9 @@ taxonomies:
   tag: tags
   category: categories
 related:
-  threshold: 0
+  threshold: 25
   includeNewer: true
-  toLower: false
+  toLower: true
   indices:
     - name: categories
       weight: 100
