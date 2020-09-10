@@ -20,7 +20,7 @@ taxonomies:
   tag: tags
   category: categories
 related:
-  threshold: 25
+  threshold: 0
   includeNewer: true
   toLower: true
   indices:
