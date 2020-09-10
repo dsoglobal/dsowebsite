@@ -1,11 +1,11 @@
 <p class="related-content">
  {{ $pages :=  .Site.RegularPages.Related | first 100 }}
- {{ $teammates :=  where .Site.RegularPages.Related "Section" "teammates" }}
- {{ $teams :=  where .Site.RegularPages.Related "Section" "teamms" }}
+ {{ $projects :=  where .Site.RegularPages.Related "Section" "posts" }}
+ {{ $teams :=  where .Site.RegularPages.Related "Section" "teams" }}
   {{ if .Params.dsotitle }}
-    {{ $related := $pages | first 5 }}
+    {{ $related := $teammates | first 5 }}
   {{ else }}
-    {{ $related := $pages | complement $teammates $teams | first 5 }}
+    {{ $related := $projects | first 5 }}
   {{ end }}
   {{ with $related }}
    <h3>See Also</h3>
