@@ -12,9 +12,6 @@ command = "./stackbit-build.sh"
   package = "netlify-plugin-search-index"
 
 [[plugins]]
-  package = "netlify-plugin-image-optim"
-
-[[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
 
 	[plugins.inputs]
