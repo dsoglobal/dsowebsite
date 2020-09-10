@@ -1,12 +1,5 @@
 <p class="related-content">
- {{ $related := .Site.RegularPages.Related . | first 100 }}
- {{ $projects := where .Site.RegularPages.Related "Section" "posts" }}
- {{ $blog := where .Site.RegularPages.Related "Section" "blogposts" }}
-  {{ if .Params.showcomments }}
-    {{ $related := $blog | first 5 }}
-  {{ else }}
-    {{ $related := $projects | first 5 }}
-  {{ end }}
+ {{ $related := .Site.RegularPages.Related . | first 5 }}
   {{ with $related }}
    <h3>See Also</h3>
      <ul>
