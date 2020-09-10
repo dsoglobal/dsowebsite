@@ -34,5 +34,3 @@ related:
       weight: 50
     - name: dsotitle
       weight: 40
-    - name: date
-      weight: 10
