@@ -1,5 +1,5 @@
 <p class="related-content">
- {{ $related :=  .Site.RegularPages.Related | first 100 }}
+ {{ $related :=  .Site.RegularPages.Related . | first 100 }}
  {{ $projects :=  where .Site.RegularPages.Related "Section" "posts" }}
  {{ $blog :=  where .Site.RegularPages.Related "Section" "blogposts" }}
   {{ if .Params.showcomments }}
