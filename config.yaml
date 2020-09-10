@@ -28,6 +28,8 @@ related:
       weight: 100
     - name: tags
       weight: 75
+    - name: posts
+      weight: 50
     - name: teams
       weight: 50
     - name: dsotitle
