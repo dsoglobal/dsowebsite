@@ -3,9 +3,9 @@
  {{ $teammates :=  where .Site.RegularPages.Related "Section" "teammates" }}	
   {{ if .Params.dsotitle }}
     {{ $related := $pages | first 5 }}
-  {{ end }}
   {{ else }}
     {{ $related := $pages | complement $teammates | first 5 }}
+  {{ end }}
   {{ with $related }}
    <h3>See Also</h3>
      <ul>
