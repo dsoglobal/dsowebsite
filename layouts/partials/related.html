@@ -1,9 +1,9 @@
 <p class="related-content">
  {{ $pages :=  .Site.RegularPages.Related | first 100 }}
  {{ $projects :=  where .Site.RegularPages.Related "Section" "posts" }}
- {{ $teams :=  where .Site.RegularPages.Related "Section" "teams" }}
-  {{ if .Params.dsotitle }}
-    {{ $related := $teammates | first 5 }}
+ {{ $blog :=  where .Site.RegularPages.Related "Section" "blogposts" }}
+  {{ if .Params.showcomments }}
+    {{ $related := $blog | first 5 }}
   {{ else }}
     {{ $related := $projects | first 5 }}
   {{ end }}
