@@ -1,10 +1,18 @@
 ---
+excerpt: The DC hub has experienced great growth since launching in Georgetown
+  in 2014. We focus on achieving tangible, measurable results for global clients
+  we believe in through creativity, passion, and teamwork. To do this, we are
+  deliberately using our position as a member of the global DC community to
+  enhance our projects and grow our hub.
+content_img_path: ""
+showcomments: true
 date: 2016-03-29T04:00:00.000Z
 title: State of the Hub - DC
 thumb_img_path: /images/8892957.jpg
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - Washington DC
+  - Georgetown
+  - Financial Sustainability
 layout: post
 ---
 The DC hub has experienced great growth since launching in Georgetown two years ago. We focus on achieving tangible, measurable results for global clients we believe in through creativity, passion, and teamwork. To do this, we are deliberately using our position as a member of the global DC community to enhance our projects and grow our hub.
