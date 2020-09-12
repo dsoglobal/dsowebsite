@@ -1,10 +1,15 @@
 ---
+excerpt: "Matt reflects on his study abroad in Taipei, Taiwan and expounds upon
+  his experience by introducing Taiwan through his eyes. "
+content_img_path: ""
+showcomments: true
 date: 2015-01-29T05:00:00.000Z
 title: My Time in the Other China
 thumb_img_path: /images/8422547_orig.jpg
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - Personal Reflection
+  - Taiwan
+  - China
 layout: post
 ---
 Last semester, I was fortunate enough to study abroad in Taipei, Taiwan. Many Americans know very little about Taiwan, so before I expound upon my experience, I think that it is important to introduce Taiwan. First of all, though it may be obvious, Taiwan is not Thailand. Americans often confuse the two. Taiwan is culturally Chinese, and its inhabitants are for the most part ethnically Han. They speak Mandarin, and at home they speak other Chinese dialects, primarily Taiwanese (Minnan) and Hakka. More formally known as the Republic of China, Taiwan is a small island nation of around 20 million people. It is separated from Mainland China by a narrow strait. Taiwan’s political situation is rather precarious, as the island is claimed by the People’s Republic of China. Taiwan doesn’t have a seat in the UN, nor is it formally recognized by most other countries. Despite its lack of recognition, Taiwan has built itself into a modern and vibrant nation. Within the past 50 years or so, it has developed rapidly, and today, the Taiwanese people enjoy a high standard of living. Taipei is a buzzing city, filled with parks, museums, and a plethora of eclectic cafes. Still, undertones of ancient Chinese culture permeate everyday life. Temples are clumsily juxtaposed next to malls, and night markets are filled with both traditional Taiwanese delicacies and Western-influenced treats.
