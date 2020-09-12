@@ -11,6 +11,7 @@ title: "State of the Hub: Washington DC"
 thumb_img_path: /images/8892957.jpg
 tags:
   - Washington DC
+  - State of the Hub
   - Georgetown
   - Financial Sustainability
 layout: post
