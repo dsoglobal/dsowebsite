@@ -11,7 +11,7 @@ For instructions, please visit https://bit.ly/3kfqCdI.
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d4de1fc1-cba3-4be8-be6a-6305981f2a6a/deploy-status)](https://app.netlify.com/sites/dsowebsite-179d5/deploys)
 
 <details>
-  #<summary>Running Your Site Locally</summary>
+  <summary>Running Your Site Locally</summary>
 
 1. [Install Hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo)
 
