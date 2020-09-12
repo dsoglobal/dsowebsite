@@ -1,12 +1,14 @@
 ---
-date: 2015-05-19T04:00:00.000Z
-title: Coast to Coast
-thumb_img_path: /images/1_4180829.jpg
-content_img_path: ""
-showcomments: true
 excerpt: Hannah lived in the DC Metro area her entire life but left the east
   coast and moved out west all the way to Southern California. She reflects on
   her cross country move.
+content_img_path: ""
+showcomments: true
+date: 2015-05-19T04:00:00.000Z
+title: Coast to Coast
+thumb_img_path: /images/1_4180829.jpg
+tags:
+  - Personal Reflection
 layout: post
 ---
 I've lived in the DC Metro area my entire life but just a week ago I left the east coast and moved out west all the way to Southern California. As I reflect on my cross country move and one of the biggest changes of my life, a few things came across my mind:
