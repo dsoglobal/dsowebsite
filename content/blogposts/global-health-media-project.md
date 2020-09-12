@@ -2,9 +2,14 @@
 date: 2015-09-18T04:00:00.000Z
 title: Global Health Media Project
 thumb_img_path: /images/logo2.jpg
-content_img_path: ''
+content_img_path: ""
 showcomments: true
-excerpt: ''
+excerpt: Global Health Media Project (GHMP) is a nonprofit that develops and
+  distributes high-quality video training materials for health workers in
+  low-resource settings. It’s an organization that meets all three of the
+  conditions listed above. GHMP’s precise and descriptive videos are used as
+  primary educational materials. GHMP’s videos have been downloaded in almost
+  every country, both developing and developed, across the globe.
 layout: post
 ---
 <div>
@@ -17,7 +22,7 @@ No matter where you are in the world, medicine is a demanding and difficult prac
 
 ![](/images/9003244.jpg)
 
-Given resource constraints, training materials for these health workers should be detailed yet easily understood. Training materials should be easy to access, requiring little more than an internet connection and a computer screen. And most importantly, training materials should be free. It would be difficult for an organization to meet any two of these ideal conditions, let alone all three.<
+Given resource constraints, training materials for these health workers should be detailed yet easily understood. Training materials should be easy to access, requiring little more than an internet connection and a computer screen. And most importantly, training materials should be free. It would be difficult for an organization to meet any two of these ideal conditions, let alone all three.
 
 That’s where Global Health Media Project comes in.
 
