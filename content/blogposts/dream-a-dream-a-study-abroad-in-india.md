@@ -1,14 +1,18 @@
 ---
-date: 2015-11-02T05:00:00.000Z
-title: "Dream a Dream: A Study Abroad in India"
-thumb_img_path: /images/3228336.jpg
-content_img_path: ""
-showcomments: true
 excerpt: ​​If you’re planning on studying abroad, you may be able to test out a
   career path while still pursuing your education by taking advantage of an
   intern abroad program. Now a days, more and more employers are recognizing the
   benefits of studying abroad, and are actively seeking out candidates with
   study abroad experience.
+content_img_path: ""
+showcomments: true
+date: 2015-11-02T05:00:00.000Z
+title: "Dream a Dream: A Study Abroad in India"
+thumb_img_path: /images/3228336.jpg
+tags:
+  - Study abroad
+  - India
+  - Personal Reflection
 layout: post
 ---
 ​​If you're planning on studying abroad, you may be able to test out a career path while still pursuing your education by taking advantage of an intern abroad program. Now a days, more and more employers are recognizing the benefits of studying abroad, and are actively seeking out candidates with study abroad experience. This past summer, I was able to spend 10 weeks interning for a non profit in Bangalore, India., through the GU Impacts program. The GU Impacts program provides Georgetown University students the opportunity to intern abroad in Peru, Nicaragua, Phillipines, or India, and engage with local communities through program partners including non-profit organizations, businesses, and government initiatives.
