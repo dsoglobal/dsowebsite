@@ -1,10 +1,18 @@
 ---
+excerpt: Lucus reflects on earned how he learned to work with a team through all
+  sorts of challenges, small and large, got a window into the world of
+  international development consulting and DC’s corporate culture, worked on his
+  own business skills, but more importantly he got to work on a project that had
+  an impact on the world and will continue to in the future.
+content_img_path: ""
+showcomments: true
 date: 2015-05-31T04:00:00.000Z
 title: My Future and Africa’s Thanks to Future Forward
-thumb_img_path: ''
-content_img_path: ''
-showcomments: true
-excerpt: ''
+thumb_img_path: ""
+tags:
+  - Personal Reflection
+  - Africa
+  - Social entrepreneurship
 layout: post
 ---
 When I joined DSO in the fall, I had little knowledge of Africa, the social entrepreneurship sphere, how they could combine, or that I could play any role in that combination. Over the course of the year I learned more about all of these things than I think would have been possible in any class I could’ve taken or other program I could’ve been a part of. I had the opportunity not only to work with an incredible group of consultants and professionals in DC, but also with basically the coolest international social innovation firm in the world (Ashoka), and on projects that had an impact on communities in countries as far away as Kenya.
