@@ -7,7 +7,7 @@ excerpt: The DC hub has experienced great growth since launching in Georgetown
 content_img_path: ""
 showcomments: true
 date: 2016-03-29T04:00:00.000Z
-title: State of the Hub - DC
+title: "State of the Hub: Washington DC"
 thumb_img_path: /images/8892957.jpg
 tags:
   - Washington DC
