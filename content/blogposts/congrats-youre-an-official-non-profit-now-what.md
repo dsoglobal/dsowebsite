@@ -1,10 +1,14 @@
 ---
 date: 2015-04-15T04:00:00.000Z
-title: 'Congrats, you’re An “Official Non Profit”. Now What?'
-thumb_img_path: ''
-content_img_path: ''
+title: Congrats, you’re An “Official Non Profit”. Now What?
+thumb_img_path: ""
+content_img_path: ""
 showcomments: true
-excerpt: ''
+excerpt: If you recently started a nonprofit or work/volunteer for a small
+  organization you might be overwhelmed with everything there is to do to setup
+  your organization for success in executing their mission. Here at Development
+  Solutions Organization we went from a student organization in 2008 to an
+  official 501©(3) and have some tips on getting started.
 layout: post
 ---
 If you recently started a nonprofit or work/volunteer for a small organization you might be overwhelmed with everything there is to do to setup your organization for success in executing their mission. Here at **Development Solutions Organization** we went from a student organization in 2008 to an official 501(c)(3) and have some tips on getting started.
