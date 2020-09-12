@@ -1,10 +1,16 @@
 ---
-date: 2014-09-21T04:00:00.000Z
-title: 'Stepping into your BIGness, Africa leading the way'
-thumb_img_path: /images/summarybigness.png
-content_img_path: ''
+excerpt: Amy reflects on her amazing opportunity to travel to Kenya for a
+  Changemakers Summit and how the way we learn and grow is changing profoundly
+  and she am at the core of that change.
+content_img_path: ""
 showcomments: true
-excerpt: ''
+date: 2014-09-21T04:00:00.000Z
+title: Stepping into your BIGness, Africa leading the way
+thumb_img_path: /images/summarybigness.png
+tags:
+  - Personal Reflection
+  - Kenya
+  - Africa
 layout: post
 ---
 The way we learn and grow is changing profoundly and I am at the core of that change.
