@@ -11,6 +11,7 @@ title: Improving online course engagement with Gooru
 thumb_img_path: /images/352623_orig.jpg
 tags:
   - Education
+  - online learning
 layout: post
 ---
 Online education has been recognized as one of the most important disruptive innovations of the 21st century. Although the effectiveness of online education has not been completely confirmed, relevant research suggests that information technology does have some distinctive advantages over the traditional classroom, especially in the way of [blended learning](https://en.wikipedia.org/wiki/Blended_learning).
