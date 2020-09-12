@@ -21,7 +21,7 @@
     {
       "type": "email",
       "title": "Email",
-      "icon": "fa-usps",
+      "icon": "fa-google",
       "url": "mailto:inquiries@dsoglobal.org"
     }
   ]
