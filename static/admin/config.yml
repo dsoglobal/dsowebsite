@@ -1437,7 +1437,7 @@ collections:
         name: Location
         label: Location
         required: false
-        hint: (Optional) Additional location information, for example Berkeley, Stanford or Amersterdam
+        hint: (Optional) Additional location information, for example Berkeley, Stanford or Amsterdam
       - widget: string
         name: title
         label: Name
