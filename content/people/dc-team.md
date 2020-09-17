@@ -15,6 +15,11 @@ sections:
           - '["Student Consultant"]'
         avatar: /images/connor.jpg
       - type: testimonialsblock
+        author: Ananya Chowla
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-7-.jpg
+      - type: testimonialsblock
         author: Javier Guerrero Vicente
         dsotitle:
           - '["Student Consultant"]'
