@@ -1,18 +1,17 @@
 ---
-excerpt: football, soccer
+excerpt: One of DSO’s clients, Cameroon Development Football Program understands
+  the power of this coordinating device and is using soccer to empower and
+  educate the youth of Cameron. Mandela, like CFDP understood the power of
+  soccer and sports and used it as a coordinating device for attempting to unite
+  races in South Africa and as an emotional outlet when he was in prison.
 content_img_path: ""
 showcomments: true
 date: 2014-07-18T04:00:00.000Z
 title: Lets not pretend to celebrate Mandela Day
 thumb_img_path: /images/5387613.jpg
 tags:
-  - One of DSO’s clients
-  - Cameroon Development Football Program understands the power of this
-    coordinating device and is using soccer to empower and educate the youth of
-    Cameron. Mandela
-  - like CFDP understood the power of soccer and sports and used it as a
-    coordinating device for attempting to unite races in South Africa and as an
-    emotional outlet when he was in prison.
+  - football
+  - soccer
 layout: post
 ---
 The FIFA World Cup in Brazil is heralded as one of the best world cups. It was full of upsets, new star players, and a champion that epitomized a true team. The World Cup is the most popular sporting event worldwide and it brings together people from all over the world. The power of futbol or soccer is grand. According to a quick google search around ~3.5B [1](http://www.top10zen.com/most-popular-sports-1584?page=5) people watch soccer worldwide and ~200-300M people play soccer worldwide [2](http://www.fifa.com/mm/document/fifafacts/bcoffsurv/emaga_9384_10704.pdf) (Including a growing number of women). The beauty about soccer is that it is a coordinating device and a passion shared by ~50% of the world population. People don’t like agreeing on things but they do agree on their passion for soccer. Remember this.
