@@ -5,7 +5,7 @@ teams:
 Location: ""
 title: Ayan Kishore
 dsotitle:
-  - Other
+  - Board Member
 work: Director, Digital Development
 company: Creative Associates International
 thumb_img_path: /images/0-1-.jfif
