@@ -32,4 +32,10 @@ sections:
     component: testimonials_block.html
     title: Board
     subtitle: Board of Directors
+    testimonialslist:
+      - type: testimonialsblock
+        author: Ayan Kishore
+        dsotitle:
+          - Board Member
+        avatar: /images/0-1-.jfif
 ---
