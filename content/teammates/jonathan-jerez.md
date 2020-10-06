@@ -7,6 +7,9 @@ dsotitle:
   - Engagement Lead
 work: Senior Consultant (Data Scientist)
 company: "Booz Allen Hamilton "
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/jonathan-jerez-a82281125/
 layout: post
 ---
 **Why I joined DSO:** To provide value to high impact nonprofits and positively Impact students through mentorship
