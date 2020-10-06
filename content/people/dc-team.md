@@ -98,16 +98,6 @@ sections:
         dsotitle:
           - Advisor
         avatar: /images/sneha.jpg
-      - type: testimonialsblock
-        author: Patrice Major
-        dsotitle:
-          - Engagement Lead
-        avatar: ""
-      - type: testimonialsblock
-        author: Jonathan Jerez
-        dsotitle:
-          - Engagement Lead
-        avatar: ""
     teammembers:
       - Anthony Buchanan
 ---
