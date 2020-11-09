@@ -59,6 +59,11 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/0-30-.jpg
+      - type: testimonialsblock
+        author: Rina Matsumoto
+        dsotitle:
+          - Advisor
+        avatar: /images/0-31-.jpg
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
