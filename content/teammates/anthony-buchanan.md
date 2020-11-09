@@ -10,7 +10,7 @@ dsotitle:
   - CXO
 work: Senior Lead Technologist
 company: Booz Allen Hamilton
-thumb_img_path: /images/anthonyb.jpg
+thumb_img_path: /images/headshot_new.jpeg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/anthonyjbuchanan
