@@ -10,7 +10,7 @@ dsotitle:
   - Executive Board
   - Student Consultant
 work: ""
-company: ""
+company: Stanford University
 thumb_img_path: /images/katieropers.jpg
 actions:
   - label: LinkedIn
