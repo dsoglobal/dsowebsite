@@ -12,3 +12,10 @@ actions:
     url: https://www.linkedin.com/in/connor-jones-37010a195/
 layout: post
 ---
+**Why I joined DSO:** 
+
+**Projects:** 
+
+**Aspiration(s):** 
+
+**[Get in Touch](mailto:connorjones@dsoglobal.org)**
