@@ -96,6 +96,12 @@ sections:
           - Student Consultant
         avatar: /images/0-32-.jpg
       - type: testimonialsblock
+        author: Amy Shin
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/0-33-.jpg
+      - type: testimonialsblock
         author: Caroline Keyes
         dsotitle:
           - Executive Board
