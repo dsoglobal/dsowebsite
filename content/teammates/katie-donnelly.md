@@ -7,6 +7,7 @@ dsotitle:
   - Engagement Lead
 work: Management Consultant
 company: Booz Allen Hamilton
+thumb_img_path: /images/0-19-.jpg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/katiedonnelly/
