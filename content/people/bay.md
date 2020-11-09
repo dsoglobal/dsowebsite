@@ -70,6 +70,11 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/polly-moser.png
+      - type: testimonialsblock
+        author: Katie Ropers
+        dsotitle:
+          - Student Consultant
+        avatar: /images/katieropers.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
