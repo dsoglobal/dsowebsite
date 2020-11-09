@@ -7,6 +7,7 @@ dsotitle:
   - Engagement Lead
 work: Associate
 company: Booz Allen Hamilton
+thumb_img_path: /images/0-16-.jpg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/emily-blagg/
