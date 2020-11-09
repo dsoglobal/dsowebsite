@@ -78,6 +78,11 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/0-14-.jpg
+      - type: testimonialsblock
+        author: Matt Green
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-15-.jpg
     teammembers:
       - Anthony Buchanan
 ---
