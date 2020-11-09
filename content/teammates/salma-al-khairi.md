@@ -6,6 +6,7 @@ Location: Berkeley
 title: Salma Al-Khairi
 subtitle: "Few know how much we must know in order to know how little we know. "
 dsotitle:
+  - Project Lead
   - Student Consultant
 thumb_img_path: /images/salma-al-khairi.jpg
 layout: post
