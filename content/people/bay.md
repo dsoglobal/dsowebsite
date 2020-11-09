@@ -108,6 +108,12 @@ sections:
           - Student Consultant
         avatar: /images/caroline-keyes.png
       - type: testimonialsblock
+        author: Evelyn Correa
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/5585-photoevelyn-correa.png
+      - type: testimonialsblock
         author: Polly Moser
         dsotitle:
           - Executive Board
