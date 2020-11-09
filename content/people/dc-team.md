@@ -20,25 +20,15 @@ sections:
           - Student Consultant
         avatar: /images/0-7-.jpg
       - type: testimonialsblock
-        author: Javier Guerrero Vicente
+        author: Chloe Li
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jvg.jpg
+          - Student Consultant
+        avatar: /images/0-20-.jpg
       - type: testimonialsblock
-        author: Michael Miller
+        author: Alice Ye
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/michaelmiller.jpg
-      - type: testimonialsblock
-        author: Susie Kim
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/susiekim.jpg
-      - type: testimonialsblock
-        author: Jacob Cohen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jacobcohen.jpg
+          - Student Consultant
+        avatar: /images/0-21-.jpg
     title: DC Team
     teammembers: []
   - type: testimonialsblock
@@ -83,6 +73,26 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/0-15-.jpg
+      - type: testimonialsblock
+        author: Emily Blagg
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-16-.jpg
+      - type: testimonialsblock
+        author: Max Zeitlin
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-17-.jpg
+      - type: testimonialsblock
+        author: Christina McAllister
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-18-.jpg
+      - type: testimonialsblock
+        author: Katie Donnelly
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-19-.jpg
     teammembers:
       - Anthony Buchanan
 ---
