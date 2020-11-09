@@ -54,6 +54,11 @@ sections:
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/0-3-.jpg
         author: Amy Badiani
+      - type: testimonialsblock
+        author: Becca Gale
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-30-.jpg
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
