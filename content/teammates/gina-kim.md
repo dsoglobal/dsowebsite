@@ -16,6 +16,8 @@ layout: post
 
 **Projects:**
 
+[Ek Tara](https://ektara.org.in/)
+
 **Aspiration(s):**
 
 **Ask me about/I’m passionate about:** 
