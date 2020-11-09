@@ -12,10 +12,10 @@ actions:
     url: https://www.linkedin.com/in/xinru-alice-ye/
 layout: post
 ---
-**Why I joined DSO:** 
+**Why I joined DSO:** To combine my interests in consulting & international development, and meet and learn from peers and mentors beyond Georgetown!
 
-**Projects:** 
+**Projects:** SJP Project
 
-**Aspiration(s):** 
+**Aspiration(s):** Working at the intersection of finance and economic development (or becoming a professional food/travel blogger)
 
 **[Get in Touch](mailto:aliceye@dsoglobal.org)**
