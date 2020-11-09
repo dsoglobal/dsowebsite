@@ -54,6 +54,26 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/0-26-.jpg
+      - type: testimonialsblock
+        author: Ji Yeon Suh
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jiyeonsuh.png
+      - type: testimonialsblock
+        author: Sargun Kaur
+        dsotitle:
+          - Student Consultant
+        avatar: /images/kaur.png
+      - type: testimonialsblock
+        author: Katherine Zhou
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-27-.jpg
+      - type: testimonialsblock
+        author: May Tan
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-28-.jpg
     title: DC Team
     teammembers: []
   - type: testimonialsblock
