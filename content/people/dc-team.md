@@ -72,7 +72,7 @@ sections:
         author: Jonathan Jerez
         dsotitle:
           - Engagement Lead
-        avatar: ""
+        avatar: /images/blank.png
     teammembers:
       - Anthony Buchanan
 ---
