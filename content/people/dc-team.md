@@ -58,46 +58,21 @@ sections:
           - Engagement Lead
         avatar: /images/haejin-hwang.png
       - type: testimonialsblock
-        author: Mary Mallampalli
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/marym.jpg
-      - type: testimonialsblock
         author: Anthony Buchanan
         dsotitle:
           - Engagement Lead
           - CXO
         avatar: /images/anthonyb.jpg
       - type: testimonialsblock
-        author: Marcy Held
+        author: Patrice Major
         dsotitle:
           - Engagement Lead
-        avatar: /images/screen-shot-2020-04-12-at-5.49.48-pm.png
+        avatar: /images/blank.png
       - type: testimonialsblock
-        author: Aparna Sanjay
-        dsotitle:
-          - Advisor
-        avatar: /images/aparna.jpg
-      - type: testimonialsblock
-        author: Haidi Al-Shabrawey
+        author: Jonathan Jerez
         dsotitle:
           - Engagement Lead
-        avatar: /images/0-1
-      - type: testimonialsblock
-        author: Jack Chan
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/jackchan.jpg
-      - type: testimonialsblock
-        author: Justin Pizzimenti
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/justinp.jpg
-      - type: testimonialsblock
-        author: Sneha Krishnan
-        dsotitle:
-          - Advisor
-        avatar: /images/sneha.jpg
+        avatar: ""
     teammembers:
       - Anthony Buchanan
 ---
