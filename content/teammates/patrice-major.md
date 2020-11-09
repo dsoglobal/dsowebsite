@@ -7,7 +7,7 @@ dsotitle:
   - Engagement Lead
 work: Project Manager
 company: Booz Allen Hamilton
-thumb_img_path: ""
+thumb_img_path: /images/blank.png
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/patricemajor/
