@@ -7,6 +7,7 @@ dsotitle:
   - Engagement Lead
 work: Senior Consultant (Data Scientist)
 company: "Booz Allen Hamilton "
+thumb_img_path: /images/blank.png
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/jonathan-jerez-a82281125/
