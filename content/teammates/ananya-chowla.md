@@ -5,6 +5,10 @@ teams:
 title: Ananya Chowla
 dsotitle:
   - Student Consultant
+company: Georgetown University
 thumb_img_path: /images/0-7-.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/ananya-chowla-354166145/
 layout: post
 ---
