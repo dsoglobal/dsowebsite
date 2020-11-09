@@ -6,6 +6,10 @@ title: Alice Ye
 dsotitle:
   - Student Consultant
 company: Georgetown University
+thumb_img_path: /images/0-21-.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/xinru-alice-ye/
 layout: post
 ---
 **Why I joined DSO:** 
