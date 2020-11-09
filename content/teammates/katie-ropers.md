@@ -7,6 +7,7 @@ title: Katie Ropers
 subtitle: “Real change, enduring change, happens one step at a time.” - Ruth
   Bader Ginsburg
 dsotitle:
+  - Executive Board
   - Student Consultant
 work: ""
 company: ""
