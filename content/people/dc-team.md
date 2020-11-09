@@ -15,11 +15,6 @@ sections:
           - '["Student Consultant"]'
         avatar: /images/connor.jpg
       - type: testimonialsblock
-        author: Ananya Chowla
-        dsotitle:
-          - Student Consultant
-        avatar: /images/0-7-.jpg
-      - type: testimonialsblock
         author: Chloe Li
         dsotitle:
           - Student Consultant
@@ -29,6 +24,16 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/0-21-.jpg
+      - type: testimonialsblock
+        author: Kathy Chung
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-22-.jpg
+      - type: testimonialsblock
+        author: Ananya Chowla
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-7-.jpg
     title: DC Team
     teammembers: []
   - type: testimonialsblock
