@@ -8,6 +8,7 @@ subtitle: “Real change, enduring change, happens one step at a time.” - Ruth
   Bader Ginsburg
 dsotitle:
   - Student Consultant
+work: ""
 company: ""
 thumb_img_path: /images/katieropers.jpg
 actions:
