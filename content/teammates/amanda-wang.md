@@ -6,8 +6,8 @@ Location: Stanford
 title: Amanda Wang
 subtitle: “Whether you think you can, or you think you can’t, you’re right.” - Henry Ford
 dsotitle:
+  - Co-President
   - Student Consultant
-  - Project Lead
 thumb_img_path: /images/amanda-wang.png
 actions:
   - label: LinkedIn
