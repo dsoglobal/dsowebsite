@@ -7,6 +7,7 @@ dsotitle:
   - Engagement Lead
 work: Consultant (Data Scientist)
 company: Booz Allen Hamilton
+thumb_img_path: /images/0-15-.jpg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/matt-t-green-2018/
