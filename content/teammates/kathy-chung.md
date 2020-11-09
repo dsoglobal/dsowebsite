@@ -6,6 +6,10 @@ title: Kathy Chung
 dsotitle:
   - Student Consultant
 company: Carnegie Mellon University
+thumb_img_path: /images/0-22-.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/kathy-girim-chung-a40239116/
 layout: post
 ---
 **Why I joined DSO:** Being part of a space that allows skillsets and creativity to inspire actionable impact on society!
