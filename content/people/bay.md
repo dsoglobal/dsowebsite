@@ -16,11 +16,6 @@ sections:
           - '["Student Consultant","Managing Director"]'
         avatar: /images/farah.jpeg
       - type: testimonialsblock
-        author: Kiki Wong
-        avatar: /images/kiki-wong.png
-        dsotitle:
-          - '["Student Consultant"]'
-      - type: testimonialsblock
         author: Salma Al-Khairi
         avatar: /images/salma-al-khairi.jpg
         dsotitle:
@@ -50,11 +45,6 @@ sections:
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/0-3-.jpg
         author: Amy Badiani
-      - type: testimonialsblock
-        author: Sneha Krishnan
-        dsotitle:
-          - '["Advisor"]'
-        avatar: /images/sneha-krishnan.jpg
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
@@ -75,10 +65,6 @@ sections:
         author: Amanda Wang
         dsotitle: '["Student Consultant","Project Lead"]'
         avatar: /images/amanda-wang.png
-      - type: testimonialsblock
-        author: Katherine Wu
-        dsotitle: '["Project Lead","Student Consultant"]'
-        avatar: /images/katherine-wu.png
       - type: testimonialsblock
         author: Polly Moser
         dsotitle:
