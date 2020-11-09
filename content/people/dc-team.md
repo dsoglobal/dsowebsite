@@ -34,6 +34,26 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/0-7-.jpg
+      - type: testimonialsblock
+        author: Jacob VanderZwaag
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-23-.jpg
+      - type: testimonialsblock
+        author: Annika Lin
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-24-.jpg
+      - type: testimonialsblock
+        author: Anika Venkatesh
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-25-.jpg
+      - type: testimonialsblock
+        author: Kaycee Ikeonu
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-26-.jpg
     title: DC Team
     teammembers: []
   - type: testimonialsblock
