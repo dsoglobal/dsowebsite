@@ -17,6 +17,12 @@ sections:
           - Student Consultant
         avatar: /images/farah.jpeg
       - type: testimonialsblock
+        author: Riyah Maqbool
+        dsotitle:
+          - Vice President
+          - Student Consultant
+        avatar: /images/0-29-.jpg
+      - type: testimonialsblock
         author: Salma Al-Khairi
         avatar: /images/salma-al-khairi.jpg
         dsotitle:
