@@ -6,8 +6,10 @@ Location: Stanford
 title: Polly Moser
 subtitle: "Striving to find balance and make the world a better place "
 dsotitle:
+  - Executive Board
   - Student Consultant
 work: ""
+company: Stanford University
 thumb_img_path: /images/polly-moser.png
 actions:
   - label: LinkedIn
