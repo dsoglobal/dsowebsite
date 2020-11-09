@@ -6,6 +6,7 @@ Location: Berkeley
 title: Mahek Zindani
 subtitle: “The right to hope is the most powerful human motivation I know.” - Aga Khan IV
 dsotitle:
+  - Project Lead
   - Student Consultant
 thumb_img_path: /images/mahek.jpg
 actions:
