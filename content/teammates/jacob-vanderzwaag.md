@@ -6,6 +6,10 @@ title: Jacob VanderZwaag
 dsotitle:
   - Student Consultant
 company: Georgetown University
+thumb_img_path: /images/0-23-.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/jacob-vanderzwaag-2022/
 layout: post
 ---
 **Why I joined DSO:** To work with impactful nonprofits to make a positive difference in their communities, while also developing workplace skills and building strong connections with my fellow team members.
