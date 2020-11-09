@@ -2,7 +2,7 @@
 date: 2020-11-09T04:14:49.099Z
 teams:
   - Washington DC
-title: Katherine Zhou
+title: Katherine Zhuo
 dsotitle:
   - Student Consultant
 company: Georgetown University
