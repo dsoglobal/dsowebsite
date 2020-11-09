@@ -13,13 +13,14 @@ sections:
       - type: testimonialsblock
         author: "Farah Nanji "
         dsotitle:
-          - '["Student Consultant","Managing Director"]'
+          - Student Consultant
+          - Managing Director
         avatar: /images/farah.jpeg
       - type: testimonialsblock
         author: Salma Al-Khairi
         avatar: /images/salma-al-khairi.jpg
         dsotitle:
-          - '["Student Consultant"]'
+          - Student Consultant
       - type: testimonialsblock
         author: Alma Chen
         dsotitle:
@@ -53,26 +54,33 @@ sections:
     subtitle: Student Consultants
     testimonialslist:
       - type: testimonialsblock
+        author: Amanda Wang
+        dsotitle:
+          - Co-President
+          - Student Consultant
+        avatar: /images/amanda-wang.png
+      - type: testimonialsblock
         author: Armelle Grondin
         dsotitle:
-          - '["Student Consultant","Managing Director"]'
+          - Co-President
+          - Student Consultant
         avatar: /images/armelle-grondin.png
       - type: testimonialsblock
         author: Caroline Keyes
-        dsotitle: '["Student Consultant"]'
+        dsotitle:
+          - Executive Board
+          - Student Consultant
         avatar: /images/caroline-keyes.png
-      - type: testimonialsblock
-        author: Amanda Wang
-        dsotitle: '["Student Consultant","Project Lead"]'
-        avatar: /images/amanda-wang.png
       - type: testimonialsblock
         author: Polly Moser
         dsotitle:
-          - '["Student Consultant"]'
+          - Executive Board
+          - Student Consultant
         avatar: /images/polly-moser.png
       - type: testimonialsblock
         author: Katie Ropers
         dsotitle:
+          - Executive Board
           - Student Consultant
         avatar: /images/katieropers.jpg
   - type: testimonialsblock
