@@ -65,7 +65,7 @@ sections:
           - Student Consultant
         avatar: /images/kaur.png
       - type: testimonialsblock
-        author: Katherine Zhou
+        author: Katherine Zhuo
         dsotitle:
           - Student Consultant
         avatar: /images/0-27-.jpg
