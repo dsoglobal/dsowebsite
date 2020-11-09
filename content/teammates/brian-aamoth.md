@@ -7,6 +7,7 @@ dsotitle:
   - Engagement Lead
 work: Associate
 company: Booz Allen Hamilton
+thumb_img_path: /images/0-14-.jpg
 actions:
   - url: https://www.linkedin.com/in/brian-aamoth-9b1162b8/
     label: LinkedIn
