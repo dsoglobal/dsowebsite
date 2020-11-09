@@ -13,3 +13,10 @@ actions:
     url: https://www.linkedin.com/in/chloe-li-lc/
 layout: post
 ---
+**Why I joined DSO:** 
+
+**Projects:** 
+
+**Aspiration(s):** 
+
+**[Get in Touch](mailto:chloeli@dsoglobal.org)**
