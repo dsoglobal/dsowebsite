@@ -44,6 +44,12 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/farahk.jpg
+      - type: testimonialsblock
+        author: Gina Kim
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/blank.png
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
