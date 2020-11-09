@@ -73,6 +73,11 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Brian Aamoth
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-14-.jpg
     teammembers:
       - Anthony Buchanan
 ---
