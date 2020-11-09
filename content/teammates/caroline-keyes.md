@@ -6,7 +6,9 @@ Location: Stanford
 title: Caroline Keyes
 subtitle: “Nothing will work unless you do” - Maya Angelou
 dsotitle:
+  - Executive Board
   - Student Consultant
+company: Stanford University
 thumb_img_path: /images/caroline-keyes.png
 actions:
   - label: LinkedIn
