@@ -90,6 +90,12 @@ sections:
           - Student Consultant
         avatar: /images/armelle-grondin.png
       - type: testimonialsblock
+        author: Sarah Guller
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/0-32-.jpg
+      - type: testimonialsblock
         author: Caroline Keyes
         dsotitle:
           - Executive Board
