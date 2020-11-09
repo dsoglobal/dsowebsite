@@ -7,8 +7,8 @@ title: "Farah Nanji "
 subtitle: “I see the world in terms of what I would like to see happen, not what
   actually does.” - Paulo Coelho
 dsotitle:
+  - President
   - Student Consultant
-  - Managing Director
 thumb_img_path: /images/farah.jpeg
 actions:
   - label: LinkedIn
