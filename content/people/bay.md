@@ -13,24 +13,26 @@ sections:
       - type: testimonialsblock
         author: "Farah Nanji "
         dsotitle:
+          - President
           - Student Consultant
-          - Managing Director
         avatar: /images/farah.jpeg
       - type: testimonialsblock
         author: Salma Al-Khairi
         avatar: /images/salma-al-khairi.jpg
         dsotitle:
+          - Project Lead
           - Student Consultant
+      - type: testimonialsblock
+        author: Mahek Zindani
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/mahek.jpg
       - type: testimonialsblock
         author: Alma Chen
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/alma.jpeg
-      - type: testimonialsblock
-        author: Mahek Zindani
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/mahek.jpg
       - type: testimonialsblock
         author: Farah Khurshid
         dsotitle:
