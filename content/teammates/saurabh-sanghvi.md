@@ -24,40 +24,38 @@ I have stayed because of the unparalleled learning I have had through interactio
 
 **Projects:**
 
-[Cameroon Football Development Program](https://openfieldintl.org/) 
+- [Cameroon Football Development Program](https://openfieldintl.org/) 
 
-[Case Competition with Building New Hope](https://dsowebsite-179d5.netlify.app/posts/building-new-hope-bnh/)
+- [Case Competition with Building New Hope](https://dsowebsite-179d5.netlify.app/posts/building-new-hope-bnh/)
 
-[Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
+- [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
 
-[Creative Associates](https://www.creativeassociatesinternational.com/)
+- [Creative Associates](https://www.creativeassociatesinternational.com/)
 
-[Disrupt: Social Games for Peace](https://dsowebsite-179d5.netlify.com/posts/disrupt/) 
+- [Disrupt: Social Games for Peace](https://dsoglobal.org/posts/disrupt/) 
 
-DSO Labs
+- DSO Labs
 
-[Global Health Media Project](https://dsowebsite-179d5.netlify.com/posts/global-health-media-project/)
+- [Global Health Media Project](https://dsoglobal.org/posts/global-health-media-project/)
 
-[Gooru](http://gooru.org/about/)
+- [Gooru](http://gooru.org/about/)
 
-Habla Centro
+- Habla Centro
 
-[Kara Solar](https://karasolar.com/)
+- [Kara Solar](https://karasolar.com/)
 
-[Kiva](https://www.kiva.org/)
+- [Kiva](https://www.kiva.org/)
 
-[Mediators Beyond Borders: Impact Investment Strategy](https://mediatorsbeyondborders.org/)
+- [Mediators Beyond Borders: Impact Investment Strategy](https://mediatorsbeyondborders.org/)
 
-[PlanJunto: Social Eco Incubator](https://dsowebsite-179d5.netlify.com/posts/planjunto/)
+- [PlanJunto: Social Eco Incubator](https://dsowebsite-179d5.netlify.com/posts/planjunto/)
 
-Pro Use
+- Pro Use
 
-[Samasource](https://www.samasource.com/)
+- [Samasource](https://www.samasource.com/)
 
-Tierra Roja
+- Tierra Roja
 
-**Aspiration(s):**
-
-To keep learning, helping, and having fun
+  **Aspiration(s):** To keep learning, helping, and having fun
 
 **[Get in Touch](mailto:ssanghvi@dsoglobal.org)**
