@@ -21,8 +21,6 @@ layout: post
 
 [Costa Rican Humanitarian Foundation](http://www.crhf.org/)
 
-**Aspiration(s):**
-
-To help everyone in the world have an equal opportunity for success
+**Aspiration(s):** To help everyone in the world have an equal opportunity for success
 
 **[Get in Touch](mailto:carolinekeyes@dsoglobal.org)**
