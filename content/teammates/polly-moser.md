@@ -22,8 +22,6 @@ layout: post
 
 [Costa Rican Humanitarian Foundation](http://www.crhf.org/)
 
-**Aspiration(s):**
-
-Encourage corporate social responsibility and find a way to make an impact!
+**Aspiration(s):** Encourage corporate social responsibility and find a way to make an impact!
 
 **[Get in Touch](mailto:pmoser@dsoglobal.org)**
