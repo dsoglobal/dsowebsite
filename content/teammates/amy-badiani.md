@@ -22,6 +22,7 @@ layout: post
 
 **Projects:** 
 - [Access Afya](https://www.accessafya.com/)
+
 - [Ashoka Future Forward](https://dsoglobal.org/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/)
 - [Cameroon Football Development Program](https://openfieldintl.org/)
 - [Case Competition with Building New Hope](https://dsoglobal.org/posts/building-new-hope-bnh/)
