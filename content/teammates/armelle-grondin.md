@@ -19,8 +19,6 @@ To have meaningful impact on nonprofits that help communities both locally and i
 
 [BasicNeeds](https://www.basicneeds.org/)
 
-**Aspiration(s)**
-
-improve the lives of those in need
+**Aspiration(s):** Improve the lives of those in need
 
 [Get In Touch](mailto:agrondin@dsoglobal.org)
