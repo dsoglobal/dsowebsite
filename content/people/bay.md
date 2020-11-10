@@ -50,6 +50,11 @@ sections:
           - Project Lead
           - Student Consultant
         avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Hannah Lee
+        dsotitle:
+          - Student Consultant
+        avatar: /images/hannahlee.png
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
