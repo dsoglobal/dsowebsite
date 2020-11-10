@@ -160,6 +160,113 @@ sections:
           - Executive Board
           - Student Consultant
         avatar: /images/katieropers.jpg
+      - type: testimonialsblock
+        author: Nadine Fattah
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/nadinefattah.jpg
+      - type: testimonialsblock
+        author: Sohayla Eldeeb
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/sohaylaeldeeb.jpg
+      - type: testimonialsblock
+        author: Alexander Lam
+        dsotitle:
+          - Student Consultant
+        avatar: /images/alexanderlam.jpg
+      - type: testimonialsblock
+        author: Danya Adib
+        dsotitle:
+          - Student Consultant
+        avatar: /images/danyaadib-azpeitia.jpg
+      - type: testimonialsblock
+        author: Miranda Johnson
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mirandajohnson.jpg
+      - type: testimonialsblock
+        author: Ravichandra Tadigadapa
+        dsotitle:
+          - Student Consultant
+        avatar: /images/ravichandratadigadapa.jpg
+      - type: testimonialsblock
+        author: Kaitlyn Choe
+        dsotitle:
+          - Student Consultant
+        avatar: /images/kaitlynchoe.jpg
+      - type: testimonialsblock
+        author: Jose Gandara
+        dsotitle:
+          - Student Consultant
+        avatar: /images/josegandara.jpg
+      - type: testimonialsblock
+        author: Hannah Kelley
+        dsotitle:
+          - Student Consultant
+        avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Ali Cohen
+        dsotitle:
+          - Student Consultant
+        avatar: /images/alicohen.jpg
+      - type: testimonialsblock
+        author: Cindy Chau
+        dsotitle:
+          - Student Consultant
+        avatar: /images/cindychau.jpg
+      - type: testimonialsblock
+        author: Mahlet Getahun
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mahletgetahun.jpg
+      - type: testimonialsblock
+        dsotitle:
+          - Student Consultant
+        author: Smiti Mittal
+        avatar: /images/smitimittal.jpg
+      - type: testimonialsblock
+        author: Amrita Kaur
+        dsotitle:
+          - Student Consultant
+        avatar: /images/amrita_kaur.jpg
+      - type: testimonialsblock
+        author: Lee Duan
+        dsotitle:
+          - Student Consultant
+        avatar: /images/leeduan.jpg
+      - type: testimonialsblock
+        author: Cameron Huang
+        dsotitle:
+          - Student Consultant
+        avatar: /images/cameronhuang.jpg
+      - type: testimonialsblock
+        author: Siddarth Gehlaut
+        dsotitle:
+          - Student Consultant
+        avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Clara da Silva
+        dsotitle:
+          - Student Consultant
+        avatar: /images/claradasilva.jpg
+      - type: testimonialsblock
+        author: Lusha Jetley
+        dsotitle:
+          - Student Consultant
+        avatar: /images/lushajetley.jpg
+      - type: testimonialsblock
+        author: Lily Croddick
+        dsotitle:
+          - Student Consultant
+        avatar: /images/lilycroddick.jpg
+      - type: testimonialsblock
+        author: Bud Nelson
+        dsotitle:
+          - Student Consultant
+        avatar: /images/budnelson.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
