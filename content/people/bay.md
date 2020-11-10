@@ -55,6 +55,36 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/hannahlee.png
+      - type: testimonialsblock
+        author: Carlos Escalante
+        dsotitle:
+          - Student Consultant
+        avatar: /images/carlosescalante.png
+      - type: testimonialsblock
+        author: Katrina Toups
+        dsotitle:
+          - Student Consultant
+        avatar: /images/katrinatoups.png
+      - type: testimonialsblock
+        author: Caitlin Parker
+        dsotitle:
+          - Student Consultant
+        avatar: /images/caitlinparker.png
+      - type: testimonialsblock
+        author: Jennifer Laux
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jenniferlaux.png
+      - type: testimonialsblock
+        author: Vanshika Sapra
+        dsotitle:
+          - Student Consultant
+        avatar: /images/vanshikasapra.png
+      - type: testimonialsblock
+        author: Maya Basha
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mayabasha.png
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
