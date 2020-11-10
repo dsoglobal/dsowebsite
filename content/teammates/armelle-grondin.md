@@ -11,9 +11,7 @@ dsotitle:
 thumb_img_path: /images/armelle-grondin.png
 layout: post
 ---
-**Why I joined DSO:**
-
-To have meaningful impact on nonprofits that help communities both locally and internationally.
+**Why I joined DSO:** To have meaningful impact on nonprofits that help communities both locally and internationally.
 
 **Projects:**
 
