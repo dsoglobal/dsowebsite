@@ -21,6 +21,7 @@ layout: post
 **Why I joined DSO:** To understand and co-create human-centered, sustainable solutions in international development and make lifelong friends
 
 **Projects:** 
+
 - [Access Afya](https://www.accessafya.com/)
 
 - [Ashoka Future Forward](https://dsoglobal.org/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/)
