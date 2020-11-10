@@ -15,7 +15,7 @@ actions:
     url: https://www.linkedin.com/in/rebecca-gale-mph-b0211389/
 layout: post
 ---
-**Why I joined DSO:** To be involved in more social impact projects, domestically and internationally, as well as have the opportunity to mentor and give back
+**Why I joined DSO:** To be involved in more social impact projects, domestically and internationally, as well as have the opportunity to mentor and give back
 
 **Projects:**
 
