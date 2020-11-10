@@ -21,6 +21,7 @@ layout: post
 **Why I joined DSO:** Work with inspiring people and use technology to make the world a better place
 
 **Projects:** 
+
 - [Case Competition with Building New Hope](https://dsoglobal.org/posts/building-new-hope-bnh/)
 
 - [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
