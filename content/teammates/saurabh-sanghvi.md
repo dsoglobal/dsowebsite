@@ -25,7 +25,6 @@ I have stayed because of the unparalleled learning I have had through interactio
 **Projects:**
 
 - [Cameroon Football Development Program](https://openfieldintl.org/)
-
 - [Case Competition with Building New Hope](https://dsoglobal.org/posts/building-new-hope-bnh/)
 - [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
 - [Creative Associates](https://www.creativeassociatesinternational.com/)
