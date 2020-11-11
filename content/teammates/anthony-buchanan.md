@@ -24,6 +24,7 @@ layout: post
 
 - [Case Competition with Building New Hope](https://dsoglobal.org/posts/building-new-hope-bnh/)
 - [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
+- [Family Crisis Center of Baltimore](https://www.dsoglobal.org/posts/family-crisis-center-of-baltimore/)
 - [Creative Associates](https://www.creativeassociatesinternational.com/)
 - Freedom Connect
 - Watkins Elementary School
