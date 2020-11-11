@@ -15,8 +15,7 @@ tags:
   - Youth
   - Social Innovation
 layout: post
-teammembers:
-  - Amy Badiani
+teammembers: []
 ---
 [Future Forward: Innovations for Youth Employment in Africa](https://www.changemakers.com/futureforward) is supporting a cohort of 25 Fellows (leading social entrepreneurs) and building a global community of Changemakers who are shifting the conversation from recognizing the problem to one about creating solutions ([such as 24 year old Madelle's Jumpstart Academy Africa](http://www.forbes.com/sites/ashoka/2015/02/05/how-innovative-young-africans-are-fixing-a-broken-education-system/). Madelle is cultivating an entrepreneurship curriculum and mentorship in schools in Cameroon) that engage Africa's youth in strengthening sense of purpose and[create new fields of meaningful employment](http://www.forbes.com/sites/ashoka/2014/04/16/the-9-best-jobs-in-africa-dont-exist-yet/) to improve livelihoods.
 
