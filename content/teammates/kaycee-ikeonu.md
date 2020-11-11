@@ -15,8 +15,7 @@ layout: post
 **Why I joined DSO:** 
 Very interested in the intersection between economic, social development and consulting. I believe my work with DSO would nurture me for what a career in these fields would be like after graduation.
 
-**Projects:** 
-POISE Foundation
+**Projects:** [POISE Foundation](https://www.poisefoundation.org/)
 
 **Aspiration(s):** 
 Short-term: work in a field that merges strategy with development. Long term: Start an international developmental organization with the aim of channeling investments and growth opportunities to sub-Saharan Africa.
