@@ -19,11 +19,9 @@ layout: post
 
 **Projects:** 
 
-[PlanJunto: Social Eco Incubator](https://drive.google.com/open?id=0ByJIhlEpMRsVWHZHT0gzYloycVk)
-
-[Family Crisis Center of Baltimore](https://www.familycrisiscenter.net/)
-
-[The POISE Foundation Case Competition](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
+- [PlanJunto: Social Eco Incubator](https://dsoglobal.org/posts/planjunto/)
+- [Family Crisis Center of Baltimore](https://www.familycrisiscenter.net/)
+- [The POISE Foundation Case Competition](https://www.dsoglobal.org/posts/poise-foundation/)
 
 **Aspiration(s):**
 
