@@ -18,9 +18,8 @@ layout: post
 
 **Projects:** 
 
-[ScholarshipPlus](https://dsowebsite-179d5.netlify.app/posts/scholarship-plus/)
-
-[Tierra Roja Cuxitali](http://www.tierrarojacuxtitali.org/)
+- [ScholarshipPlus](https://dsowebsite-179d5.netlify.app/posts/scholarship-plus/)
+- [Tierra Roja Cuxitali](http://www.tierrarojacuxtitali.org/)
 
 **Aspiration(s):**
 
