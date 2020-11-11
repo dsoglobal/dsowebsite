@@ -18,6 +18,7 @@ layout: post
 
 **Projects:** 
 
+- [The POISE Foundation Case Competition](https://www.dsoglobal.org/posts/poise-foundation/)
 - [ScholarshipPlus](https://dsoglobal.org/posts/scholarship-plus/)
 - [Tierra Roja Cuxitali](http://www.tierrarojacuxtitali.org/)
 
