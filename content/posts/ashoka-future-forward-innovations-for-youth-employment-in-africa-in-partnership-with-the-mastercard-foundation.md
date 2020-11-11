@@ -1,14 +1,12 @@
 ---
-title: >-
-  Ashoka Future Forward: Innovations for Youth Employment in Africa in
-  partnership with The Mastercard Foundation
+title: "Ashoka Future Forward: Innovations for Youth Employment in Africa in
+  partnership with The Mastercard Foundation"
 date: 2014-10-01T04:00:00.000Z
 thumb_img_path: /images/tech-needs-girls.jpg
-excerpt: >-
-  A collaborative partnership between Development Solutions Organization (DSO)
-  and Ashoka Future Forward, this project focused on content generation, social
-  media strategy and implementation that engages target audience with the work
-  of leading social entrepreneurs transforming youth employment in Africa.
+excerpt: A collaborative partnership between Development Solutions Organization
+  (DSO) and Ashoka Future Forward, this project focused on content generation,
+  social media strategy and implementation that engages target audience with the
+  work of leading social entrepreneurs transforming youth employment in Africa.
 categories:
   - Communications
   - Strategy
@@ -38,5 +36,4 @@ Created an infographic to convey one Fellow’s solution in the bigger picture o
 >
 > – Lynsey, Program Manager, Ashoka Future Forward
 
-\
 **Team:** Jessica Aguero, Amy Badiani, Srujana Penumetcha, Lucas Brooks, Timothy Loh
