@@ -14,7 +14,10 @@ layout: post
 ---
 **Why I joined DSO:** Work with inspiring people and use technology to make the world a better place
 
-**Projects:** [POISE Foundation](https://www.dsoglobal.org/posts/poise-foundation/index.html)
+**Projects:** 
+
+- [POISE Foundation](https://www.dsoglobal.org/posts/poise-foundation/index.html)
+- [Cameroon Football Development Program](https://www.dsoglobal.org/posts/cameroon-football-development-program-cfdp/)
 
 **Aspiration(s):**
 
