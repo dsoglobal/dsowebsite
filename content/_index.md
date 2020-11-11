@@ -87,7 +87,7 @@ sections:
     counterlist:
       - num_start: 0
         title: "4 or 5 partner rating on work quality and impact "
-        num_count: "100"
+        num_count: "90"
         percent: true
       - num_start: 0
         title: "# of volunteer hrs to date"
