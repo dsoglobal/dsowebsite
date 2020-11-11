@@ -20,7 +20,7 @@ layout: post
 **Projects:** 
 
 - [PlanJunto: Social Eco Incubator](https://dsoglobal.org/posts/planjunto/)
-- [Family Crisis Center of Baltimore](https://www.familycrisiscenter.net/)
+- [Family Crisis Center of Baltimore](https://www.dsoglobal.org/posts/family-crisis-center-of-baltimore/)
 - [The POISE Foundation Case Competition](https://www.dsoglobal.org/posts/poise-foundation/)
 
 **Aspiration(s):**
