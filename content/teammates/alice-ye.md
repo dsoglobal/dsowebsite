@@ -14,7 +14,9 @@ layout: post
 ---
 **Why I joined DSO:** To combine my interests in consulting & international development, and meet and learn from peers and mentors beyond Georgetown!
 
-**Projects:** [SJP Project](http://www.sjpdc.org/)
+**Projects:** 
+
+- [School Justice Project](http://www.sjpdc.org/)
 
 **Aspiration(s):** Working at the intersection of finance and economic development (or becoming a professional food/travel blogger)
 
