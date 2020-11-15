@@ -16,6 +16,8 @@ layout: post
 
 **Projects:** 
 
+- DSO Best Practice Playbook (Summer Internship)
+
 **Aspiration(s):** 
 
 **[Get in Touch](mailto:ananyachowla@dsoglobal.org)**
