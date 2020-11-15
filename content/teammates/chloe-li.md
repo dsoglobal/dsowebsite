@@ -17,6 +17,8 @@ layout: post
 
 **Projects:** 
 
+- [School Justice Project](http://www.sjpdc.org/)
+
 **Aspiration(s):** 
 
 **[Get in Touch](mailto:chloeli@dsoglobal.org)**
