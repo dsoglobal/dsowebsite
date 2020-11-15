@@ -15,7 +15,7 @@ layout: post
 
 **Projects:**
 
-[BasicNeeds](https://www.basicneeds.org/)
+- [BasicNeeds](https://www.basicneeds.org/)
 
 **Aspiration(s):** Improve the lives of those in need
 
