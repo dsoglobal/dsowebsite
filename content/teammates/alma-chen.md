@@ -16,7 +16,9 @@ layout: post
 ---
 **Why I joined DSO:** passionate about international development and seeking to gain some consulting experience
 
-**Projects**: Ek Tara
+**Projects**: 
+
+[Ek Tara](https://ektara.org.in/)
 
 **At DSO here’s what I am up to:** learn about pressing issues that a company faces and sharpen out my professional skills
 
