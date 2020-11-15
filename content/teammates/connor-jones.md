@@ -14,7 +14,10 @@ layout: post
 ---
 **Why I joined DSO:** 
 
-**Projects:** 
+**Projects:**
+
+- [Rocky Mountain Institute](https://rmi.org/)
+- DSO Best Practice Playbook (Summer Internship)
 
 **Aspiration(s):** 
 
