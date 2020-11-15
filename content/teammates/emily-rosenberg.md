@@ -16,7 +16,9 @@ layout: post
 ---
 **Why I joined DSO**: I’m excited to hone my consulting skills in a more mission-driven capacity and work with other passionate professionals and students to transform our partners
 
-**Projects:** [Disaster Accountability Project](http://disasteraccountability.org/)
+**Projects:** 
+
+- [Disaster Accountability Project](http://disasteraccountability.org/)
 
 **Aspiration(s):** Educational equality, women’s empowerment, crime tv shows and podcasts
 
