@@ -2,7 +2,7 @@
 showcomments: true
 date: 2019-02-01T05:00:00.000Z
 title: DSO Report February 2019
-thumb_img_path: /images/dsoreunion_large-1-.png
+thumb_img_path: ""
 excerpt: DSO Reunion Celebration. We feature favorite moments and highlights
   from our student and professional volunteers both across the USA and globally.
   You will quickly see why we are so excited about our team!
@@ -10,6 +10,8 @@ tags:
   - Volunteers
 layout: post
 ---
+![DSO Reunion Celebration](/images/dsoreunion_large-1-.png "DSO Reunion Celebration")
+
 Hello!
 
 In this report, we feature favorite moments and highlights from our student and professional volunteers both across the USA and globally. You will quickly see why we are so excited about our team!
