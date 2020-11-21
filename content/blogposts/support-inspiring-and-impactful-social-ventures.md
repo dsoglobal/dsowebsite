@@ -11,8 +11,6 @@ tags:
   - ""
 layout: post
 ---
-[![](https://www.globalgiving.org/pfil/17280/swirlyhandtree_Large.png)](https://www.globalgiving.org/pfil/17280/swirlyhandtree_Large.png)
-
 Our care and concern extends to all those impacted by COVID-19.
 
 At DSO we have the honor of working with inspiring and impactful social impact partners around the world. A bunch of our partners directly support frontline workers, underserved, and/or vulnerable people to sustain their own livelihoods. 
