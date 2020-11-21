@@ -36,8 +36,8 @@ The summer is almost over and DSO’s student volunteers will be returning to th
 
 Here's a first look at our team's shared passion for international development and what DSO means to us.
 
-  <div id="embedyoutube" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
- <iframe width="560" height="315" src="https://www.youtube.com/watch?v=V5LpG8HjEvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ <div id="embedyoutube" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V5LpG8HjEvE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Sincerely,
 
