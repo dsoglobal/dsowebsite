@@ -8,7 +8,6 @@ excerpt: "DSO Update May 2020. we want to amplify some of our current partners
   about them in their own words. We hope you’ll consider supporting them. "
 tags:
   - Social Ventures
-  - ""
 layout: post
 ---
 Our care and concern extends to all those impacted by COVID-19.
