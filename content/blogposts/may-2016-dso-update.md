@@ -17,7 +17,9 @@ As we wrap up the academic year and along with it most of our projects, we are e
 
 This summer, we will prepare for the fall academic semester with new projects and team members. We will continue to grow the Los Angeles and San Francisco Tech hubs and improve on the great work in our other Pittsburgh, San Francisco and Washington DC hubs. Stay tuned for future expansion plans!
 
-In this report, we will feature our project with the [Disrupt Team](https://www.dsoglobal.org/posts/disrupt/) of Derek Caelin and Giselle Lopez from the US Institute of Peace’s [PeaceTech Lab](http://www.peacetechlab.org/about). This project was completed with our Washington DC DSO team.  As we mentioned in a past report, this partnership came as a result of last September’s **[Peacehack DC](https://vimeo.com/147601225)** (video).
+In this report, we will feature our project with the [Disrupt Team](https://www.dsoglobal.org/posts/disrupt/) of Derek Caelin and Giselle Lopez from the US Institute of Peace’s [PeaceTech Lab](http://www.peacetechlab.org/about). This project was completed with our Washington DC DSO team.  As we mentioned in a past report, this partnership came as a result of last September’s **[Peacehack DC](https://vimeo.com/147601225)**.
+
+<div id="embedvunei" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="https://player.vimeo.com/video/147601225?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><a href="https://vimeo.com/147601225">#PeacehackDC-Behind the scenes of a hackathon for peace</a> from <a href="https://vimeo.com/creativeassociates">Creative Associates Int&#039;l</a> on <a href="https://vimeo.com">Vimeo</a>.</p></div>
 
 **Featured Project**
 
