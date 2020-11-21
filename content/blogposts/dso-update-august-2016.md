@@ -28,5 +28,3 @@ Today Liberia’s education system is in a state of emergency with approximately
 Our DSO project team (Amir, Anusha, Bian, Chung-Yan, Hannah, Joshua, Mark, Rosie, Sean) consisted of Stanford Students and professionals from San Francisco, Los Angeles, and Seattle. The objective of the project was to identify and test how to optimally position MTM’s social and web strategy to increase its digital presence, deepen engagement with its audience, and increase awareness of MTM’s powerful mission in Liberia.
 
 For each platform, DSO measured MTM’s current baseline, compared that to other nonprofits, researched best practices, and determined MTM-specific recommendations to improve MTM’s digital marketing efforts across several channels: website, Facebook, Twitter, Newsletter, and Instagram. The end recommendations included some low-hanging fruit recommendations as well as recommendations that would require iterative A/B testing. The A/B testing methodology will help MTM become more agile and allow for faster digital marketing improvement based on data from their desired audiences.
-
-<!--EndFragment-->
