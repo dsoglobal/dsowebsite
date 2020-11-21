@@ -25,6 +25,6 @@ Our partnership with Bridge for Billions focused on identifying strategies to sc
 
 **A Testimonial from Bridge for Billions**
 
-*“Thank you so much for the work you provided us! We really enjoyed working and learning with you. We will recommend DSO to many of our social enterprises.”*
-
-– Pablo Santaeufemia , Co-Founder, Bridge for Billions
+> *“Thank you so much for the work you provided us! We really enjoyed working and learning with you. We will recommend DSO to many of our social enterprises.”*
+>
+> – Pablo Santaeufemia , Co-Founder, Bridge for Billions
