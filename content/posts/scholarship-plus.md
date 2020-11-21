@@ -1,13 +1,12 @@
 ---
 title: Scholarship Plus
-subtitle: 'Sustainable and Growing Fundraising. '
+subtitle: "Sustainable and Growing Fundraising. "
 date: 2016-10-01T04:00:00.000Z
 thumb_img_path: /images/scholarship-plus.jpeg
-excerpt: >-
-  A partnership between Development Solution Organization and the Scholarship
-  Plus team, this project focused on improving branding through market research
-  and website design. The end objective was to increase the scholarship
-  program’s exposure and access to funding opportunities.
+excerpt: A partnership between Development Solution Organization and the
+  Scholarship Plus team, this project focused on improving branding through
+  market research and website design. The end objective was to increase the
+  scholarship program’s exposure and access to funding opportunities.
 categories:
   - Strategy
   - Marketing
@@ -16,26 +15,17 @@ tags:
   - Education
 layout: post
 ---
-Scholarship Plus currently operates under a “pod” fundraising system; a pod consists of seven donors who contribute one thousand dollars a year to
+[Scholarship Plus](https://www.scholarshipplus.org) currently operates under a “pod” fundraising system; a pod consists of seven donors who contribute one thousand dollars a year to
 a scholarship recipient for four years.
 
 **What We Did:**
 
-Conducted market research to understand current fundraising trends
-
-Conducted analysis of current / past sponsors and current / past
-
-recipients
-
-Recommended a marketing strategy to maximize outreach
-
-Recommended a fundraising strategy to maximize sustainable Generation X and Millennial donations and
-
-involvement
-
-Provided actionable steps to get involved with corporations
-
-Redesigned the Scholarship Plus website for a cleaner and more attractive interface
+* Conducted market research to understand current fundraising trends
+* Conducted analysis of current / past sponsors and current / past recipients
+* Recommended a marketing strategy to maximize outreach
+* Recommended a fundraising strategy to maximize sustainable Generation X and Millennial donations and involvement
+* Provided actionable steps to get involved with corporations
+* Redesigned the Scholarship Plus website for a cleaner and more attractive interface
 
 **Testimonial:**
 
@@ -43,5 +33,6 @@ Redesigned the Scholarship Plus website for a cleaner and more attractive interf
 >
 > * Kate Fenneman Stokes, Program Manager at Scholarship Plus
 
-\
 **Team:** Sheetal Laad, Maria Rymer, Kelly Mok, Nina Yoo, Sophia Cheng, Weikun Liang
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/dso-update-february-2017/)
