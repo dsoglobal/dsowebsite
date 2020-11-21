@@ -29,4 +29,4 @@ Our partnership with the POISE Foundation focused on increasing the percentage o
 
 **A Testimonial from POISE Foundation**
 
-"We had been struggling with marketing towards and engagement of younger donors. DSO's unique approach combined student and professional Recommendations that were well thought-out and thorough. Their work was invaluable; we had not been able to address this marketing issue with our limited resources and capacity. The team was very professional and we would high recommend their services" - Shirrell Burton, Director, Fund Development, POISE Foundation
+> "We had been struggling with marketing towards and engagement of younger donors. DSO's unique approach combined student and professional Recommendations that were well thought-out and thorough. Their work was invaluable; we had not been able to address this marketing issue with our limited resources and capacity. The team was very professional and we would high recommend their services" - Shirrell Burton, Director, Fund Development, POISE Foundation
