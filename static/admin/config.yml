@@ -1546,7 +1546,7 @@ collections:
       - widget: list
         name: tags
         label: Tags
-        hint: Add tags for the blog areas, separated by comma and space - e.g. human empowerment, economic development
+        hint: Add tags for the blog areas, separated by comma and space - e.g. human empowerment, economic development. Small quirk - you have to type words together (e.g. humanempowerment) then use the back arrow to go back and add the space.
         required: false        
       - widget: hidden
         name: layout
