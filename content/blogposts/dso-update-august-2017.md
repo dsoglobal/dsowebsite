@@ -39,6 +39,6 @@ Our project with Memunatu focused on guiding the formation and engagement of a L
 
 **A Testimonial from Memunatu**
 
-*“It was a pleasure working with DSO. The team was professional—I could depend on DSO to produce quality work. The final presentation was indicative of that! My team and I found both the presentation and accompanying deliverables to be thoroughly researched and well organized. This showed great attention to detail and speaks to the standards to which they hold their team. Overall, what impressed me most about DSO was how they cared about our mission. This passion showed when they engaged with our team and their own. I particularly appreciated how DSO team members \[went] out of their way to attend our event. Not only did this show eagerness to learn more about our organization, but it also demonstrated their personal support for our work!”*
-
-– Mariama Kabia, Co-Founder, Memunatu
+> *“It was a pleasure working with DSO. The team was professional—I could depend on DSO to produce quality work. The final presentation was indicative of that! My team and I found both the presentation and accompanying deliverables to be thoroughly researched and well organized. This showed great attention to detail and speaks to the standards to which they hold their team. Overall, what impressed me most about DSO was how they cared about our mission. This passion showed when they engaged with our team and their own. I particularly appreciated how DSO team members \[went] out of their way to attend our event. Not only did this show eagerness to learn more about our organization, but it also demonstrated their personal support for our work!”*
+>
+> – Mariama Kabia, Co-Founder, Memunatu
