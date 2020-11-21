@@ -42,6 +42,6 @@ Stay tuned for future DSO design-thinking events!
 
 **A Testimonial from A Touch of Understanding**
 
-“We have already used the whiteboard brainstorming ideas since returning to our office and it was very beneficial. Building on others’ ideas is very powerful.”
-
-– Leslie DeDora, Executive Director, A Touch of Understanding
+> “We have already used the whiteboard brainstorming ideas since returning to our office and it was very beneficial. Building on others’ ideas is very powerful.”
+>
+> – Leslie DeDora, Executive Director, A Touch of Understanding
