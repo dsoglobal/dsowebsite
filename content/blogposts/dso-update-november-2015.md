@@ -36,4 +36,4 @@ We created seven Fellows’ profiles using the Changemakers platform to clearly 
 
 **A Testimonial from Ashoka**
 
-*Working with DSO was a great experience because it allowed us to get fresh perspectives on the work we are doing and reminded us what we could and should focus on most. – Lynsey, Program Manager*
+> *Working with DSO was a great experience because it allowed us to get fresh perspectives on the work we are doing and reminded us what we could and should focus on most. – Lynsey, Program Manager*
