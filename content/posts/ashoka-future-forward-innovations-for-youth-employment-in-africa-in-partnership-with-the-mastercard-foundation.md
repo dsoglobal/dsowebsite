@@ -36,3 +36,5 @@ Created an infographic to convey one Fellow’s solution in the bigger picture o
 > – Lynsey, Program Manager, Ashoka Future Forward
 
 **Team:** Jessica Aguero, Amy Badiani, Srujana Penumetcha, Lucas Brooks, Timothy Loh
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/dso-update-november-2015/) and [project personal reflection](https://www.dsoglobal.org/blogposts/my-future-and-africas-thanks-to-future-forward/)
