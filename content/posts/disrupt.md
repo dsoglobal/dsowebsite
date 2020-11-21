@@ -3,10 +3,9 @@ title: Disrupt
 subtitle: Social Game Development for Peace
 date: 2016-01-01T05:00:00.000Z
 thumb_img_path: /images/peace-tech-lab.png
-excerpt: >-
-  A collaborative partnership between Development Solutions Organization and the
-  Disrupt team from the US Institute of Peace’s PeaceTech Lab, this project
-  focused on market research to create a game that incentivizes online
+excerpt: A collaborative partnership between Development Solutions Organization
+  and the Disrupt team from the US Institute of Peace’s PeaceTech Lab, this
+  project focused on market research to create a game that incentivizes online
   disruption of pro-Islamic State messaging and propaganda through the
   generation of pro-peace content.
 categories:
@@ -38,3 +37,5 @@ Recommended the best potential countries to launch the game
 
 \
 **Team:** Anthony Buchanan, Sonum Garg, Ellen Singer, Jesse Jacobs, Maxine Yao
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/may-2016-dso-update/)
