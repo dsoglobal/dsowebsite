@@ -34,3 +34,9 @@ The DSO team was comprised of DSO Engagement Leads Haejin Hwang, Anthony Buchana
 **Testimonial**
 
 “*Working with the DSO team was an incredible experience. The leadership the team provided on these difficult issues was unparalleled, and the deliverables that the team produced were high-quality, professional, and extremely useful to our organization and the entire DC community. We are so grateful to the DSO team and students for dedicating such significant time and energy to the research and report. They tackled issues we at SJP have been struggling with for years, and their thorough research, quality synthesis of materials, and detailed analysis will have an enormous impact on improving education for court-involved students with disabilities in DC. Thank you, DSO!*” - School Justice Project
+
+**Links:**
+
+* [Final Project Report](https://docs.google.com/presentation/d/1LBUaTOwlYe-F2GRYM9j0Ea3EBD6k08nnyhITHTgGhXA/edit#slide=id.p)
+* [Students in the Care of D.C. Working Group Recommendations 2018](https://bit.ly/36urbdG)
+* [Students in the Care of DC Coordinating Committee Act of 2018](http://www.davidgrosso.org/grosso-analysis/2018/9/18/students-in-the-care-of-dc-coordinating-committee-act-of-2018)
