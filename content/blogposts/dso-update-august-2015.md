@@ -18,7 +18,7 @@ In this report, we will focus on our project with Hummingbill and discuss DSO’
 
 **Featured Project**
 
-DSO had the pleasure of working with [Hummingbill](http://hummingbill.com/), an automated mobile billing platform, and their CEO social entrepreneur [Adam Walker](https://in.linkedin.com/pub/adam-walker/22/b1a/640). DSO focused on helping Hummingbill understand their key customer market segments better, as well as improve their go to market strategy during a pivot from Kenya to India.
+DSO had the pleasure of working with [Hummingbill](http://hummingbill.com/) (now part of [Kredx](https://www.kredx.com/)), an automated mobile billing platform, and their CEO social entrepreneur [Adam Walker](https://in.linkedin.com/pub/adam-walker/22/b1a/640). DSO focused on helping Hummingbill understand their key customer market segments better, as well as improve their go to market strategy during a pivot from Kenya to India.
 
 Hummingbill is an advanced mobile subscription billing platform designed to end manual invoicing by simplifying automated payment and invoicing and aims to be the leading mobile billing platform in their key markets. Hummingbill focuses on improving the invoicing and payment management process for Indian small and medium businesses (SMEs) and their customers.  Among its feature are invoice and payment tracking, integration with multiple software packages such as Tally and QuickBooks Online, client payment reminders, and mobile access.
 
