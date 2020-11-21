@@ -25,6 +25,6 @@ Sonia, Esther, Shubhangam, and Marlen from our Pittsburgh project team aimed to 
 
 **A Testimonial from Kiva**
 
-*I was very impressed with the DSO team I worked with. They did a great job at every stage of the engagement in terms of asking the right questions, seeking clarification, and adapting to changing circumstances in order to deliver a relevant and high-quality deliverable. The final result was a thoughtful analysis, which will allow us to make informed decisions and move our program in a direction that further achieves our organizational goals, while improving the program experience for our participants.*
-
-*– Shana, Senior Program Manager, Kiva.org*
+> *I was very impressed with the DSO team I worked with. They did a great job at every stage of the engagement in terms of asking the right questions, seeking clarification, and adapting to changing circumstances in order to deliver a relevant and high-quality deliverable. The final result was a thoughtful analysis, which will allow us to make informed decisions and move our program in a direction that further achieves our organizational goals, while improving the program experience for our participants.*
+>
+> *– Shana, Senior Program Manager, Kiva.org*
