@@ -16,8 +16,6 @@ layout: post
 ---
 Taking a happy break! Photo Credit: [Therese Tardio](https://www.cmu.edu/dietrich/modlang/people/faculty/therese-tardio.html)
 
-<!--StartFragment-->
-
 Hello!
 
 Similar to our last update, we continue to make change locally and globally. This means ensuring we are demonstrating empathy in action, taking an ‘end-user first’ approach to tackling problems, understanding the specific and shared needs of our communities, and partnering with impactful global and local organizations.
