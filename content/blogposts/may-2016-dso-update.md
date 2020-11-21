@@ -28,8 +28,8 @@ The mission was to help our clients create a game that incentivizes online disru
 
 **A Testimonial from Disrupt**
 
-*DSO was wonderful to work with. The team helped us to refine our project concept - using game design and social media listening to incentivize online disruption of extremist messaging and amplify pro-peace narratives.*
-
-*To better understand our audience and the market, DSO conducted research on internet and mobile penetration, social media use, and the gaming industry across our region of interest. They also worked with us to identify key behaviors and trends that we would want to take into account. Their support was definitely beneficial to our efforts and we would be happy to work with them again!*
-
-*– Derek and Giselle, Team Leads, Disrupt*
+> *DSO was wonderful to work with. The team helped us to refine our project concept - using game design and social media listening to incentivize online disruption of extremist messaging and amplify pro-peace narratives.*
+>
+> *To better understand our audience and the market, DSO conducted research on internet and mobile penetration, social media use, and the gaming industry across our region of interest. They also worked with us to identify key behaviors and trends that we would want to take into account. Their support was definitely beneficial to our efforts and we would be happy to work with them again!*
+>
+> *– Derek and Giselle, Team Leads, Disrupt*
