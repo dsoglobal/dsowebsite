@@ -10,7 +10,11 @@ tags:
   - Volunteers
 layout: post
 ---
+
+
 ![DSO Reunion Celebration](/images/dsoreunion_large-1-.png "DSO Reunion Celebration")
+
+*DSO Reunion Celebration*
 
 Hello!
 
