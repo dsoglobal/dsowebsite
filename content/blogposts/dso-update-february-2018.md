@@ -32,10 +32,10 @@ Stay tuned for updates on future DSO projects including several others in suppor
 
 **Testimonials from Banyan and DSO team members:**
 
-*“Thanks for all your help with the website!”*
-
-\- Vandana Gopikumar, Ph.D, Co-Founder, The Banyan and The Banyan Academy of Leadership in Mental Health (BALM)
-
-*“I enjoyed working on this project because of the insightful and specialized experience of our students and our peers at Banyan. It was a wonderful learning experience for me to really understand the stigmatization and complexities associated with mental health especially in India”*
-
-– Karthik Kumar, Volunteer, Development Solutions Organization
+> *“Thanks for all your help with the website!”*
+>
+> \- Vandana Gopikumar, Ph.D, Co-Founder, The Banyan and The Banyan Academy of Leadership in Mental Health (BALM)
+>
+> *“I enjoyed working on this project because of the insightful and specialized experience of our students and our peers at Banyan. It was a wonderful learning experience for me to really understand the stigmatization and complexities associated with mental health especially in India”*
+>
+> – Karthik Kumar, Volunteer, Development Solutions Organization
