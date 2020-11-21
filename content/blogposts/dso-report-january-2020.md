@@ -36,9 +36,9 @@ We’re grateful for the help of our great co-facilitators Erin from studio b:as
 
 **Testimonials and Actionable Insights**
 
-*"Huge thanks for hosting such a great workshop! I really enjoyed the conversation and exercise." - Mayura, Participant*
-
-*“It was good to connect with people in other organizations doing the same job responsibilities.” - Justina, Participant* 
+> *"Huge thanks for hosting such a great workshop! I really enjoyed the conversation and exercise." - Mayura, Participant*
+>
+> *“It was good to connect with people in other organizations doing the same job responsibilities.” - Justina, Participant* 
 
 Some actionable insights from Participants:
 
