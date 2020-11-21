@@ -1,6 +1,6 @@
 ---
 showcomments: true
-date: 2020-11-21T22:14:21.242Z
+date: 2014-11-01T04:00:00.000Z
 title: DSO Update November 2014
 thumb_img_path: /images/photo_49_large-1-.jpg
 excerpt: A glimpse of our DC team kickoff. We will share testimonials from two
