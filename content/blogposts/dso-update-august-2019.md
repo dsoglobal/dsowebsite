@@ -36,9 +36,9 @@ The DSO team is comprised of DSO teammates Haejin Hwang, Anthony Buchanan, Justi
 
 **Testimonial**
 
-*“The DSO team’s data discovery effort has illuminated the complex data landscape of the DC juvenile and criminal justice systems and illustrated the importance of our work for the population of DC court-involved students with disabilities.”*
-
-*\-* Haejin Hwang, DSO DC Engagement Lead and SJP Project Team Lead
+> *“The DSO team’s data discovery effort has illuminated the complex data landscape of the DC juvenile and criminal justice systems and illustrated the importance of our work for the population of DC court-involved students with disabilities.”*
+>
+> *\-* Haejin Hwang, DSO DC Engagement Lead and SJP Project Team Lead
 
 **Links:**
 
