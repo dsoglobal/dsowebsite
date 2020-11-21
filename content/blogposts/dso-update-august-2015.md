@@ -28,7 +28,7 @@ The team was led by professionals Anthony and Caroline, with impressive work fro
 
 **A Testimonial from Hummingbill**
 
-*DSO was an overall pleasure to work with. The mentors like Caroline and Anthony were incredibly professional in how they managed the students and always hit deadlines on time ... and the students were great to work with because of their enthusiasm and the marketing content they discovered for me that I would not have otherwise found on my own. All in all DSO was a great support in doing the fact-finding, top-down market research that's so helpful for any new startup's product marketing and fundraising. - Adam, Founder & CEO*
+> *DSO was an overall pleasure to work with. The mentors like Caroline and Anthony were incredibly professional in how they managed the students and always hit deadlines on time ... and the students were great to work with because of their enthusiasm and the marketing content they discovered for me that I would not have otherwise found on my own. All in all DSO was a great support in doing the fact-finding, top-down market research that's so helpful for any new startup's product marketing and fundraising. - Adam, Founder & CEO*
 
 **What’s Next for DSO?**
 
