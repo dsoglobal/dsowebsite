@@ -14,7 +14,7 @@ menu:
   main:
     name: Giving to our Community Partners
 ---
-Holiday Giving Guide: [bit.ly/dsogivingguide](bit.ly/dsogivingguide)
+Holiday Giving Guide: [bit.ly/dsogivingguide](https://bit.ly/dsogivingguide)
 
 It’s a privilege to be able to connect our Partners with donors. In this Holiday Giving Guide, DSO is honored to feature some organizations we currently collaborate with : [BMe](https://bmecommunity.org/), [POISE Foundation](https://www.poisefoundation.org/), [Court Appointed Special Advocates for Children - Alexandria / Arlington](https://www.scanva.org/child-advocacy/alexandriaarlington/), [Ek Tara](https://ektara.org.in/), [OneProsper](https://www.oneprosper.org/), and [Agami](https://agami.in/). Donor contributions are critical to achieving impact and helping organizations be resilient.
 
