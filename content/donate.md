@@ -12,7 +12,9 @@ layout: page
 ---
 With your help, we can collectively better tackle the world's challenges, one client at a time. DSO received its non profit 501c3 tax exempt status in February 2012. Donations are welcome and can be placed through our giving platform.
 
-<!--Donorbox
+<!--Donorbox -->
+
+<!--
 
 <div align="center" ><script type="text/javascript" defer src="https://donorbox.org/install-popup-button.js"></script><a class="dbox-donation-button" style="background: #009fd9 url(https://d1iczxrky3cnb2.cloudfront.net/red_logo.png) no-repeat 37px;color: #fff;text-decoration: none;font-family: Verdana,sans-serif;display: inline-block;font-size: 16px;padding: 15px 38px;padding-left: 75px;-webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;box-shadow: 0 1px 0 0 #1f5a89;text-shadow: 0 1px rgba(0, 0, 0, 0.3);" href="https://donorbox.org/support-our-mission-9">Donate</a></div>
 
