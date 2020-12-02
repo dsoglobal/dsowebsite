@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2018-11-01T04:00:00.000Z
-title: Our Project with Bridge for Billions | November 2018 DSO Update
+title: Helping social entrepreneurs effectively launch their businesses |
+  November 2018 DSO Update
 thumb_img_path: /images/b4b_large-1-.png
 excerpt: Bridge for Billions Team. We feature a project from our DC team with
   Bridge for Billions, a digital ecosystem that connects early-stage
