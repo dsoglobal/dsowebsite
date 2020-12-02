@@ -10,6 +10,7 @@ excerpt: Bridge for Billions Team. We feature a project from our DC team with
 tags:
   - Entrepreneur
   - Bridge for Billions
+  - Featured Project
 layout: post
 ---
 Hello and Happy Fall!
