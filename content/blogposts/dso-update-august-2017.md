@@ -8,6 +8,7 @@ excerpt: Memunatu's community-led approach. We feature a project our DC and LA
   teams did with Memunatu.
 tags:
   - Memunatu
+  - Featured Project
 layout: post
 ---
 *Memunatu's community-led approach*
