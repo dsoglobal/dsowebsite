@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2019-11-01T04:00:00.000Z
-title: DSO Report November 2019
+title: Our Project with School Justice Project | November 2019 DSO Update
 thumb_img_path: /images/courtpop_large-1-.png
 excerpt: We feature our recently-concluded work with the School Justice Project,
   which is a legal services and advocacy organization serving older students
