@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2015-02-01T05:00:00.000Z
-title: DSO Update February 2015
+title: Designing a delightful 'Everyone a Changemaker' experience | DSO Update
+  February 2015
 thumb_img_path: /images/dscf3315_large-1-.jpg
 excerpt: Changemakers staff at DSO design presentation
 tags:
