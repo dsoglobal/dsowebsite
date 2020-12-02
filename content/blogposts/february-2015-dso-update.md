@@ -8,6 +8,7 @@ excerpt: Kiva work session. We will feature the Pittsburgh Hub’s most recent
   engagement with Kiva.
 tags:
   - Kiva
+  - Featured Project
 layout: post
 ---
 *By Marlen, Amy, Srujana, Hannah, Amy*
