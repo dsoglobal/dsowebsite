@@ -20,9 +20,13 @@ We hope you enjoy learning more about our team as much as we have!
 
 **Testimonials from two of our Student Consultants**
 
-> *Working with DSO has been a tremendous learning experience. It has allowed me to sharpen my business skills while making a tangible impact on real-world business issues for clients committed to international development. The projects provide great exposure to top management with years of industry expertise, to mentors and professional volunteers committed to your personal and professional development, and to other students passionate about making a difference. I'm excited to learn and grow in another year with DSO! -* **Rachel, San Francisco**
->
-> *My reasons for joining DSO soon turned into the reasons that I love being a part of DSO.  As a college student who's goals were to break into the consulting industry, it was hard to gain the experience that firms usually look for as well as philanthropy that reaches further than just raising money. Through DSO I was able to gain experience through two projects which involved real life scenarios such as improving brand names and helping human trafficking NGOs move from a paper based system to an online system.  Being able to interact with clients and perform roles from requirements gathering to developing the actual app gave me deep insight into the industry that I was aiming to break into. Additionally it was great to see how our work benefits the client to be able to pursue their passions and help more people. The guidance and mentorship that I received from the amazing DSO leads enabled me to land a consulting job and gain a network of dedicated and passionate friends. -* **Sonum, Washington DC**
+> *"Working with DSO has been a tremendous learning experience. It has allowed me to sharpen my business skills while making a tangible impact on real-world business issues for clients committed to international development. The projects provide great exposure to top management with years of industry expertise, to mentors and professional volunteers committed to your personal and professional development, and to other students passionate about making a difference. I'm excited to learn and grow in another year with DSO!"* 
+
+\- Rachel, San Francisco
+
+> *"My reasons for joining DSO soon turned into the reasons that I love being a part of DSO.  As a college student who's goals were to break into the consulting industry, it was hard to gain the experience that firms usually look for as well as philanthropy that reaches further than just raising money. Through DSO I was able to gain experience through two projects which involved real life scenarios such as improving brand names and helping human trafficking NGOs move from a paper based system to an online system.  Being able to interact with clients and perform roles from requirements gathering to developing the actual app gave me deep insight into the industry that I was aiming to break into. Additionally it was great to see how our work benefits the client to be able to pursue their passions and help more people. The guidance and mentorship that I received from the amazing DSO leads enabled me to land a consulting job and gain a network of dedicated and passionate friends."* 
+
+\- Sonum, Washington DC
 
 **Some of our proudest accomplishments**
 
