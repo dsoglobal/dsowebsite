@@ -9,6 +9,7 @@ tags:
   - More Than Me
   - Social Change
   - Women Empowerment
+  - Featured Project
 layout: post
 ---
 *MTM Empowering Girls and Social Change in Liberia*
