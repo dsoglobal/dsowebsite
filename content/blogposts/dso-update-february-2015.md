@@ -7,6 +7,7 @@ thumb_img_path: /images/dscf3315_large-1-.jpg
 excerpt: Changemakers staff at DSO design presentation
 tags:
   - Ashoka Changemakers
+  - Featured Project
 layout: post
 ---
 *Changemakers staff at DSO design presentation*
