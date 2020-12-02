@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2017-05-01T04:00:00.000Z
-title: DSO Update May 2017
+title: Expanding the market for ethically traded coffee | May 2017 DSO Update
 thumb_img_path: /images/dsc03053_large-1-.jpg
 excerpt: "Taking a happy break! (Photo Credit: Therese Tardio). We feature our
   first ever social impact case competition initiative. This was done in
