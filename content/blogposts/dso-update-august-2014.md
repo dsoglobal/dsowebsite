@@ -9,6 +9,7 @@ excerpt: We feature our project with Cameroon Football Development Program
 tags:
   - Cameroon Football Development
   - CFPD
+  - Featured Project
 layout: post
 ---
 *Cameroon Football Development Program*
