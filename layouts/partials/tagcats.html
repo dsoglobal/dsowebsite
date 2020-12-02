@@ -20,7 +20,7 @@
      <input id="collapsible2" class="toggle" type="checkbox"> <!-- add checked to keep open -->
      <label for="collapsible2" class="lbl-toggle">Find Projects by Project Topic</label>
      <div class="tags-terms collapsible-content">               
-          {{ $tags := $.Site.Taxonomies.tags.ByCount.Alphabetical }}
+          {{ $tags := $.Site.Taxonomies.tags.ByCount }}
            {{ $v1 := where $tags "Count" ">=" 1 }}
            {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
          {{ range $v2 }}
