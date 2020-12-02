@@ -9,6 +9,7 @@ excerpt: Design Thinking Workshop at SAP Palo Alto Campus. We feature our
 tags:
   - Design Thinking
   - Workshop
+  - Featured Project
 layout: post
 ---
 *Design Thinking Workshop at SAP Palo Alto Campus*
