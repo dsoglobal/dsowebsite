@@ -10,6 +10,7 @@ excerpt: Highlighting stories + Impact via website redesign with ScholarshipPlus
   their overall marketing.
 tags:
   - Scholarship Plus
+  - Featured Project
 layout: post
 ---
 Hello!
