@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2018-05-01T04:00:00.000Z
-title: DSO Update May 2018
+title: Developing the participation of Black philanthropists in the economic and
+  social development of the Black community | May 2018 DSO Update
 thumb_img_path: /images/photo_large-1-.jpg
 excerpt: DSO Case Competition. We feature a case competition with POISE Foundation.
 tags:
