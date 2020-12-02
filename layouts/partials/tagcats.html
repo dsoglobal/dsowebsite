@@ -3,7 +3,7 @@
      <input id="collapsible" class="toggle" type="checkbox"> <!-- add checked to keep open -->
      <label for="collapsible" class="lbl-toggle">Find Projects by Functional Area</label>
      <div class="categories-terms collapsible-content">
-          {{ $categories := $.Site.Taxonomies.categories.Alphabetical }}
+          {{ $categories := $.Site.Taxonomies.categories.ByCount }}
            {{ $v1 := where $categories "Count" ">=" 1 }}
            {{ $v2 := where $v1 "Term" "not in" (slice "hugo" "tags" "rss") }}
          {{ range $v2 }}
