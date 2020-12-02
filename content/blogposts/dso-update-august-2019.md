@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2019-08-01T04:00:00.000Z
-title: DSO Update August 2019
+title: Improving education for young people in the juvenile justice and criminal
+  justice systems | August 2019 DSO Update
 thumb_img_path: /images/mvimg_20190726_145443_large-1-.jpg
 excerpt: We have two amazing volunteer interns Hanxi and Ankita who are
   revamping marketing and recruiting materials to increase engagement with
