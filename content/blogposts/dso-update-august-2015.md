@@ -9,6 +9,7 @@ excerpt: Hummingbill Users. We will focus on our project with Hummingbill and
 tags:
   - Hummingbill
   - Mobile Money
+  - Featured Project
 layout: post
 ---
 *Hummingbill Users*
