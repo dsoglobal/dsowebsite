@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2014-11-01T04:00:00.000Z
-title: DSO Update November 2014
+title: Our passionate, diverse, and accomplished DC Team! | November 2014 DSO Update
 thumb_img_path: /images/photo_49_large-1-.jpg
 excerpt: A glimpse of our DC team kickoff. We will share testimonials from two
   returning students, feature an overview of our talent, share some of our
