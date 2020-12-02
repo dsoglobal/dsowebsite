@@ -10,6 +10,7 @@ tags:
   - Future Forward
   - Ashoka
   - Future Forward
+  - Featured Project
 layout: post
 ---
 In this report, we will feature our project with [Ashoka’s Future Forward: Innovations for Youth Employment in Africa](https://www.dsoglobal.org/posts/ashoka-future-forward-innovations-for-youth-employment-in-africa-in-partnership-with-the-mastercard-foundation/) initiative in partnership with The MasterCard Foundation.
