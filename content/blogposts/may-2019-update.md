@@ -31,10 +31,10 @@ DSO teammates Kelly Mok, Maria Rymer, Anthony Buchanan, Saurabh Sanghvi, Marcy H
 
 > *“I loved learning about DSO’s mission. It’s inspiring to see people at all stages of their career come together to work on social impact. The case competition presented a unique challenge that required us to think outside of the box and combine our experiences with marketing skills. Our strategy was to expand upon the potential of students, increase the presence, and develop more personal connections. We presented on ideas such as leveraging student networks, informalizing the interview process, and targeting alumni at prestigious companies. The DSO team was encouraging and gave thoughtful feedback throughout the process, which made the case competition an absolute joy to work on.”*
 
-- Roshni Mehta, Case Comp Participant & Student, Carnegie Mellon University
+\- Roshni Mehta, Case Comp Participant & Student, Carnegie Mellon University
 
-> *“The case competition was great! The teams all approached the problem differently and we are already implementing several suggestions - improving our website, better showcasing our value proposition and great team members, and simplifying our student outreach. We look forward to some of the team members joining DSO to co-create their vision with us.”*  
+> *"The case competition was great! The teams all approached the problem differently and we are already implementing several suggestions - improving our website, better showcasing our value proposition and great team members, and simplifying our student outreach. We look forward to some of the team members joining DSO to co-create their vision with us."*  
 
-- Anthony Buchanan, CXO, DSO
+\- Anthony Buchanan, CXO, DSO
 
 ![](https://www.globalgiving.org/pfil/17280/IMG_20190419_194708_Large.jpg)
