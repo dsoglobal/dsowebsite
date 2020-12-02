@@ -10,9 +10,8 @@ sections:
     num_posts_displayed: 1000
     type: postsblock
     actions:
-      - url: "https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle\
-          -global-issues/reports/#menu "
-        label: For more projects and partner testimonials see our Global Giving page
+      - url: https://www.dsoglobal.org/tags/featured-project/
+        label: For more projects and partner testimonials see our project blogs
 menu:
   main:
     name: Projects
