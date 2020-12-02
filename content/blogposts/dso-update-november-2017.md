@@ -2,7 +2,7 @@
 showcomments: true
 date: 2017-11-01T04:00:00.000Z
 title: '"How might we increase the efficiency and impact of non-profit’s
-  fundraising?" | November 2017 DSO Update'
+  fundraising?" | October 2017 Design Thinking Workshop'
 thumb_img_path: /images/dso_large-1-.png
 excerpt: Design Thinking Workshop at SAP Palo Alto Campus. We feature our
   inaugural design thinking workshop.
