@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2015-11-01T04:00:00.000Z
-title: DSO Update November 2015
+title: Advancing innovation in youth employment in Africa | November 2015 DSO Update
 thumb_img_path: /images/young_women_in_ict_soronko_solutions_large-1-.png
 excerpt: "Young Women in Tech, Regina Agyare, Future Forward. We feature our
   project with Ashoka’s Future Forward: Innovations for Youth Employment in
