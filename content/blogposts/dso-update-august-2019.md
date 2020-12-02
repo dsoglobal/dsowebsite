@@ -13,6 +13,7 @@ excerpt: We have two amazing volunteer interns Hanxi and Ankita who are
 tags:
   - Summer Interns
   - Design Thinking
+  - Featured Project
 layout: post
 ---
 Hello Supporters!
