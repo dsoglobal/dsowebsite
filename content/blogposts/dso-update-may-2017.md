@@ -12,6 +12,7 @@ tags:
   - Case Competition
   - Building New Hope
   - Coffee
+  - Featured Project
 layout: post
 ---
 Taking a happy break! Photo Credit: [Therese Tardio](https://www.cmu.edu/dietrich/modlang/people/faculty/therese-tardio.html)
