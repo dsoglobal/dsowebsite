@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2015-05-01T04:00:00.000Z
-title: DSO Update May 2015
+title: "Open sourcing disaster relief | May 2015 DSO Update "
 thumb_img_path: /images/11348953_10153419445345681_1888248462_n_large-1-.jpg
 excerpt: DSO Team Sahana. We feature our project with Sahana Software Foundation
   and discuss DSO's next steps.
