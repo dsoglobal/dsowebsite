@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2015-08-01T04:00:00.000Z
-title: Our Project with Hummingbill | August 2015 DSO Update
+title: Improving the invoicing and payment management process for small and
+  medium businesses and their customers | August 2015 DSO Update
 thumb_img_path: /images/20140219_12.27.59_large-1-.jpg
 excerpt: Hummingbill Users. We will focus on our project with Hummingbill and
   discuss DSO’s next steps.
