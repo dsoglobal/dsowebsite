@@ -7,6 +7,7 @@ thumb_img_path: /images/banner_large-1-.jpg
 excerpt: DSO Report January 2020. We feature our 2019 Design Thinking Session.
 tags:
   - Design Thinking
+  - Featured Project
 layout: post
 ---
 Hello,
