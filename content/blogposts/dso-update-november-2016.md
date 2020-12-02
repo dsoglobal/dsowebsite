@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2016-11-01T04:00:00.000Z
-title: DSO Update November 2016
+title: Creating meaningful local impact | November 2016 DSO Update
 excerpt: We share our initiatives to create local impact and apply our skillsets
   and experience to developing local and global partnerships
 tags:
