@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2019-05-01T04:00:00.000Z
-title: May 2019 Update
+title: Improving recruiting and retention at DSO | May 2019 DSO Update
 thumb_img_path: /images/screen_shot_20190508_at_12.39.14_pm_large-1-.png
 excerpt: Rosh Mehta and Jenny Zhu share their analysis. Our 2019 social impact
   case competition focused on improving how we recruit and retain teammates at
