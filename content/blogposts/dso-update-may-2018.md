@@ -8,6 +8,7 @@ excerpt: DSO Case Competition. We feature a case competition with POISE Foundati
 tags:
   - Case Competition
   - POISE Foundation
+  - Featured Project
 layout: post
 ---
 Hello!
