@@ -7,6 +7,7 @@ excerpt: DSO Team Sahana. We feature our project with Sahana Software Foundation
   and discuss DSO's next steps.
 tags:
   - Sahana
+  - Featured Project
 layout: post
 ---
 *DSO Team Sahana*
