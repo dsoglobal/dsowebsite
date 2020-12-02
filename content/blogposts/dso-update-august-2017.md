@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2017-08-01T04:00:00.000Z
-title: Our Project with Memunatu | August 2017 DSO Update
+title: Amplifying girls' literacy, leadership, and empowerment | August 2017 DSO
+  Update
 thumb_img_path: /images/memunatu_large-1-.jpg
 excerpt: Memunatu's community-led approach. We feature a project our DC and LA
   teams did with Memunatu.
