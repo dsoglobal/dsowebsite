@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2016-08-01T04:00:00.000Z
-title: Our Project with More than Me | August 2016 DSO Update
+title: Empowering girls and social change in Liberia | August 2016 DSO Update
 thumb_img_path: /images/more_than_me_mission_large-1-.jpg
 excerpt: We feature our project with More than Me (MTM) Empowering Girls and
   Social Change in Liberia.
