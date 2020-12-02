@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2015-02-01T05:00:00.000Z
-title: February 2015 DSO Update
+title: Our Project with Kiva | February 2015 DSO Update
 thumb_img_path: /images/img_0310_large-1-.jpg
 excerpt: Kiva work session. We will feature the Pittsburgh Hub’s most recent
   engagement with Kiva.
