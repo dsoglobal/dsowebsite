@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2017-02-01T05:00:00.000Z
-title: DSO Update February 2017
+title: Supporting the college careers of outstanding New York City high school
+  graduates | February 2017 DSO Update
 thumb_img_path: /images/scholarshipplus_large-1-.png
 excerpt: Highlighting stories + Impact via website redesign with ScholarshipPlus
   to support the college careers of outstanding economically deprived New York
