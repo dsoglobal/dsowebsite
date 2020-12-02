@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2015-02-01T05:00:00.000Z
-title: Our Project with Kiva | February 2015 DSO Update
+title: Empowering individuals through lending to alleviate poverty  | DSO Update
+  February 2015
 thumb_img_path: /images/img_0310_large-1-.jpg
 excerpt: Kiva work session. We will feature the Pittsburgh Hub’s most recent
   engagement with Kiva.
