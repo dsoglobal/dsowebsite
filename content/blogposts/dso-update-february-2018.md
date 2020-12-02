@@ -7,6 +7,7 @@ excerpt: The Banyan
 tags:
   - The Banyan
   - Mental Health
+  - Featured Project
 layout: post
 ---
 Hello,
