@@ -1,7 +1,8 @@
 ---
 showcomments: true
 date: 2020-01-01T20:18:29.921Z
-title: DSO Report January 2020
+title:  “How might we help nonprofits be sustainable given the reality of
+  increasing costs to operate?” | July 2019 Design Thinking Workshop
 thumb_img_path: /images/banner_large-1-.jpg
 excerpt: DSO Report January 2020. We feature our 2019 Design Thinking Session.
 tags:
