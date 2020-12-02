@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2016-05-01T04:00:00.000Z
-title: May 2016 DSO Update
+title: Amplifying pro-peace narratives and actions | DSO Update May 2016
 thumb_img_path: /images/peacetech.png
 excerpt: We feature our project with the Disrupt Team of Derek Caelin and
   Giselle Lopez from the US Institute of Peace’s PeaceTech Lab. This project was
