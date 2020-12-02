@@ -12,6 +12,7 @@ tags:
   - Hackathon
   - Games
   - Peace Hack
+  - Featured Project
 layout: post
 ---
 As we wrap up the academic year and along with it most of our projects, we are excited to share with you our recent growth, as well as our plans for the summer. In addition to the Pittsburgh team’s [Kiva](http://www.kiva.org/) project mentioned in our last report, the San Francisco team is wrapping up several projects, including [Girls Helping Girls](http://girlshelpinggirls.ca/), a non profit that empowers underprivileged girls to go to school and [Gooru](http://www.gooru.org/), a group that uses their online platform, to help teachers create customized and personalized learning experiences for their students and [More than Me](https://morethanme.org/), a non-profit that uses education as a catalyst for transformative social change for Girls in Liberia.  
