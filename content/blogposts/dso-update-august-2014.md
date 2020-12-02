@@ -1,8 +1,8 @@
 ---
 showcomments: true
 date: 2014-08-01T04:00:00.000Z
-title: "Our Project with Cameroon Football Development Program | August 2014 DSO
-  Update "
+title: "Advancing youth leadership and changemaking through football | August
+  2014 DSO Update "
 thumb_img_path: /images/cameroonfdp_large-1-.png
 excerpt: We feature our project with Cameroon Football Development Program
   (CFDP) and discuss DSO’s next steps.
