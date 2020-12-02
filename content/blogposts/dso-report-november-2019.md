@@ -9,6 +9,7 @@ excerpt: We feature our recently-concluded work with the School Justice Project,
   justice systems
 tags:
   - Justice
+  - Featured Project
 layout: post
 ---
 Hello!
