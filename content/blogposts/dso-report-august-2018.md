@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2018-08-01T04:00:00.000Z
-title: DSO Report August 2018
+title: Partnership Lessons Learned and Applied
 excerpt: We feature how we are continuing to incorporate lessons learned from
   our projects to improve our approach.
 tags:
