@@ -33,7 +33,7 @@ DSO teammates Kelly Mok, Maria Rymer, Anthony Buchanan, Saurabh Sanghvi, Marcy H
 
 \- Roshni Mehta, Case Comp Participant & Student, Carnegie Mellon University
 
-> *"The case competition was great! The teams all approached the problem differently and we are already implementing several suggestions - improving our website, better showcasing our value proposition and great team members, and simplifying our student outreach. We look forward to some of the team members joining DSO to co-create their vision with us."*  
+> *“The case competition was great! The teams all approached the problem differently and we are already implementing several suggestions - improving our website, better showcasing our value proposition and great team members, and simplifying our student outreach. We look forward to some of the team members joining DSO to co-create their vision with us.”*  
 
 \- Anthony Buchanan, CXO, DSO
 
