@@ -1,7 +1,7 @@
 ---
 showcomments: true
 date: 2019-02-01T05:00:00.000Z
-title: DSO Report February 2019
+title: DSO Experience Highlights from our Team
 thumb_img_path: ""
 excerpt: DSO Reunion Celebration. We feature favorite moments and highlights
   from our student and professional volunteers both across the USA and globally.
@@ -50,7 +50,7 @@ In this report, we feature favorite moments and highlights from our student and 
 
 [![Poise Foundation Case Competition](https://www.globalgiving.org/pfil/17280/PoiseFoundationCase_Large.PNG)](https://www.globalgiving.org/pfil/17280/PoiseFoundationCase_Large.PNG)
 
-*Poise Foundation Case Competition*
+*POISE Foundation Case Competition*
 
 [![Watkins School Garden](https://www.globalgiving.org/pfil/17280/WatkinsGarden_Large.PNG)](https://www.globalgiving.org/pfil/17280/WatkinsGarden_Large.PNG)
 
