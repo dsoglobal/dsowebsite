@@ -10,7 +10,7 @@ menu:
     weight: 4
 layout: page
 ---
-With your help, we can collectively better tackle the world's challenges, one client at a time. DSO received its non profit 501c3 tax exempt status in February 2012. Donations are welcome and can be placed through our giving platform.
+With your help, we can collectively better tackle the world's challenges, one client at a time. DSO received its non profit 501c3 tax exempt status in February 2012. Donations are welcome and can be placed through our giving platform or through your employers' giving platform such as Benevity which may allow matching donations.
 
 <!--Donorbox -->
 
