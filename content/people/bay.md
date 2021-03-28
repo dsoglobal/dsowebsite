@@ -28,7 +28,7 @@ sections:
           - Student Consultant
         avatar: /images/0-29-.jpg
       - type: testimonialsblock
-        author: Gina Kim
+        author: Mahek Zindani
         dsotitle:
           - Project Lead
           - Student Consultant
