@@ -47,9 +47,8 @@ sections:
       - type: testimonialsblock
         author: Gina Kim
         dsotitle:
-          - Project Lead
-          - Student Consultant
-        avatar: /images/blank.png
+          - President
+        avatar: /images/received_990243427980080.jpeg
       - type: testimonialsblock
         author: Hannah Lee
         dsotitle:
