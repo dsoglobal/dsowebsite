@@ -29,11 +29,6 @@ sections:
         avatar: /images/0-29-.jpg
       - type: testimonialsblock
         author: Gina Kim
-        avatar: /images/received_990243427980080.jpeg
-        dsotitle:
-          - President
-      - type: testimonialsblock
-        author: Mahek Zindani
         dsotitle:
           - Project Lead
           - Student Consultant
