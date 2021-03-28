@@ -11,6 +11,11 @@ sections:
     subtitle: Student Consultants
     testimonialslist:
       - type: testimonialsblock
+        author: Gina Kim
+        dsotitle:
+          - President
+        avatar: /images/received_990243427980080.jpeg
+      - type: testimonialsblock
         author: "Farah Nanji "
         dsotitle:
           - President
@@ -23,11 +28,10 @@ sections:
           - Student Consultant
         avatar: /images/0-29-.jpg
       - type: testimonialsblock
-        author: Salma Al-Khairi
-        avatar: /images/salma-al-khairi.jpg
+        author: Gina Kim
+        avatar: /images/received_990243427980080.jpeg
         dsotitle:
-          - Project Lead
-          - Student Consultant
+          - President
       - type: testimonialsblock
         author: Mahek Zindani
         dsotitle:
@@ -42,13 +46,8 @@ sections:
       - type: testimonialsblock
         author: Farah Khurshid
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/farahk.jpg
-      - type: testimonialsblock
-        author: Gina Kim
-        dsotitle:
           - President
-        avatar: /images/received_990243427980080.jpeg
+        avatar: /images/farahk.jpg
       - type: testimonialsblock
         author: Hannah Lee
         dsotitle:
