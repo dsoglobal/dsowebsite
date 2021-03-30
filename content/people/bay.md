@@ -52,6 +52,7 @@ sections:
         author: Carlos Escalante
         dsotitle:
           - Student Consultant
+          - Project Lead
         avatar: /images/carlosescalante.png
       - type: testimonialsblock
         author: Katrina Toups
