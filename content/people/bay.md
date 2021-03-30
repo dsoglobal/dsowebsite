@@ -45,9 +45,8 @@ sections:
         avatar: /images/farahk.jpg
       - type: testimonialsblock
         author: Hannah Lee
-        dsotitle:
-          - Student Consultant
-        avatar: /images/hannahlee.png
+        dsotitle: ""
+        avatar: /images/hannah-lee.jpg
       - type: testimonialsblock
         author: Carlos Escalante
         dsotitle:
