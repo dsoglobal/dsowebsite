@@ -5,8 +5,8 @@ teams:
 Location: Berkeley
 title: Carlos Escalante
 dsotitle:
-  - Student Consultant
   - Project Lead
+  - Student Consultant
 thumb_img_path: /images/carlosescalante.png
 actions:
   - label: LinkedIn
