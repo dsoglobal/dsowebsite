@@ -34,21 +34,6 @@ sections:
           - Student Consultant
         avatar: /images/mahek.jpg
       - type: testimonialsblock
-        author: Alma Chen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/alma.jpeg
-      - type: testimonialsblock
-        author: Farah Khurshid
-        dsotitle:
-          - President
-        avatar: /images/farahk.jpg
-      - type: testimonialsblock
-        author: Hannah Lee
-        dsotitle:
-          - Student Consultant
-        avatar: /images/hannah-lee.jpg
-      - type: testimonialsblock
         author: Carlos Escalante
         dsotitle:
           - Project Lead
@@ -61,25 +46,40 @@ sections:
           - Student Consultant
         avatar: /images/katrinatoups.png
       - type: testimonialsblock
+        author: Jennifer Laux
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jenniferlaux.png
+      - type: testimonialsblock
+        author: Farah Khurshid
+        dsotitle:
+          - President
+        avatar: /images/farahk.jpg
+      - type: testimonialsblock
+        author: Hannah Lee
+        dsotitle:
+          - Student Consultant
+        avatar: /images/hannah-lee.jpg
+      - type: testimonialsblock
         author: Caitlin Parker
         dsotitle:
           - Student Consultant
         avatar: /images/caitlinparker.png
       - type: testimonialsblock
-        author: Jennifer Laux
+        author: Maya Basha
         dsotitle:
           - Student Consultant
-        avatar: /images/jenniferlaux.png
+        avatar: /images/mayabasha.png
       - type: testimonialsblock
         author: Vanshika Sapra
         dsotitle:
           - Student Consultant
         avatar: /images/vanshikasapra.png
       - type: testimonialsblock
-        author: Maya Basha
+        author: Alma Chen
         dsotitle:
-          - Student Consultant
-        avatar: /images/mayabasha.png
+          - '["Student Consultant"]'
+        avatar: /images/alma.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
