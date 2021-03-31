@@ -81,6 +81,11 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/alma.jpeg
+      - type: testimonialsblock
+        author: Jackson Smith
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jackson-smith.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
