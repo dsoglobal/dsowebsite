@@ -66,15 +66,6 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/jackson-smith.jpg
-      - type: testimonialsblock
-        author: Vanshika Sapra
-        dsotitle:
-          - Student Consultant
-        avatar: /images/vanshikasapra.png
-      - author: Alma Chen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/vanshikasapra.png
       - author: Skander Zmerli
         dsotitle:
           - Student Consultant
@@ -83,6 +74,20 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/jackson-smith.jpg
+      - type: testimonialsblock
+        author: Alma Chen
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/vanshikasapra.png
+      - author: Maya Basha
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mayabasha.png
+      - type: testimonialsblock
+        author: Carolyn Nguyen
+        dsotitle:
+          - Student Consultant
+        avatar: ""
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
