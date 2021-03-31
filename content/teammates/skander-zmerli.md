@@ -40,6 +40,6 @@ Gandhi once said that life itself is an aspiration; my aspiration would be to wa
 
 My passion has no limits; it goes from swimming, sailing, to playing video games and working out. Ultimately, my passion is just to seek discomfort;  boldly saying yes to immerse myself in adventures to face my demons and break my comfort zone.
 
-<!--EndFragment-->
+<!--EndFragment-->[](mailto:zmerli_skander@dsoglobal.org)
 
-**[Get In Touch](zmerli_skander@dsoglobal.org)**
+**[Get In Touch](mailto:zmerli_skander@dsoglobal.org)**
