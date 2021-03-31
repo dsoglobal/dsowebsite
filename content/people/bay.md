@@ -53,7 +53,7 @@ sections:
       - type: testimonialsblock
         author: Farah Khurshid
         dsotitle:
-          - President
+          - Student Consultant
         avatar: /images/farahk.jpg
       - type: testimonialsblock
         author: Hannah Lee
