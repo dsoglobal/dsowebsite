@@ -57,6 +57,7 @@ sections:
       - type: testimonialsblock
         author: Katrina Toups
         dsotitle:
+          - Project Lead
           - Student Consultant
         avatar: /images/katrinatoups.png
       - type: testimonialsblock
