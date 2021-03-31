@@ -4,6 +4,7 @@ teams:
   - Bay Area
 title: Jennifer Laux
 dsotitle:
+  - Project Lead
   - Student Consultant
 thumb_img_path: /images/jenniferlaux.png
 actions:
@@ -13,10 +14,10 @@ layout: post
 ---
 **Why I joined DSO:**
 
-**Projects:**
+**Projects:** [Ek Tara](https://ektara.org.in/)
 
 **Aspiration(s):**
 
 **Ask me about/I’m passionate about:** 
 
-**[Get In Touch](mailto:jenniferlaux@dsoglobal.org)**
+**[Get In Touch](mailto:jenniferlaux@dsoglobal.org)**
