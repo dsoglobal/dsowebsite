@@ -33,4 +33,4 @@ layout: post
 
 <!--EndFragment-->
 
-**[Get In Touch](ginakim@dsoglobal.org)**
+**[Get In Touch](mailto:ginakim@dsoglobal.org)**
