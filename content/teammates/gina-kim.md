@@ -13,7 +13,7 @@ layout: post
 ---
 **Why I joined DSO:** 
 
-<!--StartFragment-->To work with people who share the same passion about global issues and develop skills that would allow me to make a social impact.
+<!--StartFragment-->To work with people who share the same passion about global issues and develop skills that would allow me to make a social impact
 
 <!--EndFragment-->
 
