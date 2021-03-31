@@ -85,6 +85,12 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/vanshikasapra.png
+      - type: testimonialsblock
+        author: Salma Al-Khairi
+        dsotitle:
+          - Vice President
+          - Student Consultant
+        avatar: /images/salma-al-khairi.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
