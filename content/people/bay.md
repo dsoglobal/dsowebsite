@@ -85,10 +85,6 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/vanshikasapra.png
-      - author: Alma Chen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/alma.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
