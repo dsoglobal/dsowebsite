@@ -82,7 +82,7 @@ sections:
         author: Carolyn Nguyen
         dsotitle:
           - Student Consultant
-        avatar: ""
+        avatar: /images/blank.png
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
