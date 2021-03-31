@@ -74,11 +74,6 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/jackson-smith.jpg
-      - type: testimonialsblock
-        author: Alma Chen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/vanshikasapra.png
       - author: Maya Basha
         dsotitle:
           - Student Consultant
