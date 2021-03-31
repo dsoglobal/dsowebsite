@@ -86,6 +86,11 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/jackson-smith.jpg
+      - type: testimonialsblock
+        author: Skander Zmerli
+        dsotitle:
+          - Student Consultant
+        avatar: /images/skander-zmerli.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
