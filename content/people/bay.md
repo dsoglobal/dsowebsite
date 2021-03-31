@@ -16,6 +16,12 @@ sections:
           - President
         avatar: /images/received_990243427980080.jpeg
       - type: testimonialsblock
+        author: Salma Al-Khairi
+        dsotitle:
+          - Vice President
+          - Student Consultant
+        avatar: /images/salma-al-khairi.jpg
+      - type: testimonialsblock
         author: Carlos Escalante
         dsotitle:
           - Project Lead
@@ -56,41 +62,23 @@ sections:
           - Student Consultant
         avatar: /images/caitlinparker.png
       - type: testimonialsblock
-        author: Maya Basha
-        dsotitle:
-          - Student Consultant
-        avatar: /images/mayabasha.png
-      - type: testimonialsblock
         author: Hannah Lee
         dsotitle:
           - Student Consultant
-        avatar: /images/hannah-lee.jpg
-      - type: testimonialsblock
-        author: Jackson Smith
-        dsotitle:
-          - Student Consultant
         avatar: /images/jackson-smith.jpg
-      - type: testimonialsblock
-        author: Skander Zmerli
-        dsotitle:
-          - Student Consultant
-        avatar: /images/skander-zmerli.jpeg
       - type: testimonialsblock
         author: Vanshika Sapra
         dsotitle:
           - Student Consultant
         avatar: /images/vanshikasapra.png
-      - type: testimonialsblock
-        author: Alma Chen
+      - author: Alma Chen
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/vanshikasapra.png
-      - type: testimonialsblock
-        author: Salma Al-Khairi
+      - author: Alma Chen
         dsotitle:
-          - Vice President
-          - Student Consultant
-        avatar: /images/salma-al-khairi.jpg
+          - '["Student Consultant"]'
+        avatar: /images/vanshikasapra.png
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
