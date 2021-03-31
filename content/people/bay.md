@@ -48,6 +48,7 @@ sections:
       - type: testimonialsblock
         author: Jennifer Laux
         dsotitle:
+          - Project Lead
           - Student Consultant
         avatar: /images/jenniferlaux.png
       - type: testimonialsblock
