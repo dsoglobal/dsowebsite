@@ -16,29 +16,17 @@ sections:
           - President
         avatar: /images/received_990243427980080.jpeg
       - type: testimonialsblock
-        author: "Farah Nanji "
+        author: Carlos Escalante
         dsotitle:
-          - President
+          - Project Lead
           - Student Consultant
-        avatar: /images/farah.jpeg
-      - type: testimonialsblock
-        author: Riyah Maqbool
-        dsotitle:
-          - Vice President
-          - Student Consultant
-        avatar: /images/0-29-.jpg
+        avatar: /images/carlosescalante.png
       - type: testimonialsblock
         author: Mahek Zindani
         dsotitle:
           - Project Lead
           - Student Consultant
         avatar: /images/mahek.jpg
-      - type: testimonialsblock
-        author: Carlos Escalante
-        dsotitle:
-          - Project Lead
-          - Student Consultant
-        avatar: /images/carlosescalante.png
       - type: testimonialsblock
         author: Katrina Toups
         dsotitle:
@@ -52,15 +40,22 @@ sections:
           - Student Consultant
         avatar: /images/jenniferlaux.png
       - type: testimonialsblock
+        author: Jennifer Laux
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/jenniferlaux.png
+      - type: testimonialsblock
+        author: "Farah Nanji "
+        dsotitle:
+          - Advisor
+          - Student Consultant
+        avatar: /images/farah.jpeg
+      - type: testimonialsblock
         author: Farah Khurshid
         dsotitle:
           - Student Consultant
         avatar: /images/farahk.jpg
-      - type: testimonialsblock
-        author: Hannah Lee
-        dsotitle:
-          - Student Consultant
-        avatar: /images/hannah-lee.jpg
       - type: testimonialsblock
         author: Caitlin Parker
         dsotitle:
@@ -72,15 +67,10 @@ sections:
           - Student Consultant
         avatar: /images/mayabasha.png
       - type: testimonialsblock
-        author: Vanshika Sapra
+        author: Hannah Lee
         dsotitle:
           - Student Consultant
-        avatar: /images/vanshikasapra.png
-      - type: testimonialsblock
-        author: Alma Chen
-        dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/alma.jpeg
+        avatar: /images/hannah-lee.jpg
       - type: testimonialsblock
         author: Jackson Smith
         dsotitle:
@@ -91,6 +81,16 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/skander-zmerli.jpeg
+      - type: testimonialsblock
+        author: Vanshika Sapra
+        dsotitle:
+          - Student Consultant
+        avatar: /images/vanshikasapra.png
+      - type: testimonialsblock
+        author: Alma Chen
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/alma.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
