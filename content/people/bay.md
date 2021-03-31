@@ -40,12 +40,6 @@ sections:
           - Student Consultant
         avatar: /images/jenniferlaux.png
       - type: testimonialsblock
-        author: Jennifer Laux
-        dsotitle:
-          - Project Lead
-          - Student Consultant
-        avatar: /images/jenniferlaux.png
-      - type: testimonialsblock
         author: "Farah Nanji "
         dsotitle:
           - Advisor
@@ -88,6 +82,10 @@ sections:
         avatar: /images/vanshikasapra.png
       - type: testimonialsblock
         author: Alma Chen
+        dsotitle:
+          - '["Student Consultant"]'
+        avatar: /images/vanshikasapra.png
+      - author: Alma Chen
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/alma.jpeg
