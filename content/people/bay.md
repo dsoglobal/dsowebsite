@@ -69,7 +69,7 @@ sections:
         author: Hannah Lee
         dsotitle:
           - Student Consultant
-        avatar: /images/jackson-smith.jpg
+        avatar: /images/hannah-lee.jpg
       - author: Skander Zmerli
         dsotitle:
           - Student Consultant
