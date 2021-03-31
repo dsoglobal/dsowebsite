@@ -19,7 +19,7 @@ I originally joined DSO because it seemed to be the perfect intersection between
 
 <!--EndFragment-->
 
-**Projects:**
+**Projects:** [Ek Tara](https://ektara.org.in/)
 
 **Aspiration(s):** <!--StartFragment-->
 
