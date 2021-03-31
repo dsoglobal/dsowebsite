@@ -61,6 +61,10 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/caitlinparker.png
+      - author: Maya Basha
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mayabasha.png
       - type: testimonialsblock
         author: Hannah Lee
         dsotitle:
@@ -74,10 +78,6 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/jackson-smith.jpg
-      - author: Maya Basha
-        dsotitle:
-          - Student Consultant
-        avatar: /images/mayabasha.png
       - type: testimonialsblock
         author: Carolyn Nguyen
         dsotitle:
