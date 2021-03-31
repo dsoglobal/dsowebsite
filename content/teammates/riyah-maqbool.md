@@ -7,8 +7,7 @@ title: Riyah Maqbool
 subtitle: "While we cannot live without history we need not live within it
   either - Amartya Sen "
 dsotitle:
-  - Vice President
-  - Student Consultant
+  - Advisor
 company: " University of California, Berkeley"
 thumb_img_path: /images/0-29-.jpg
 actions:
