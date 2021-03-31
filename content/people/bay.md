@@ -75,11 +75,14 @@ sections:
         dsotitle:
           - '["Student Consultant"]'
         avatar: /images/vanshikasapra.png
-      - author: Alma Chen
+      - author: Skander Zmerli
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/vanshikasapra.png
-      - author: Alma Chen
+          - Student Consultant
+        avatar: /images/skander-zmerli.jpeg
+      - author: Jackson Smith
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jackson-smith.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     title: ""
