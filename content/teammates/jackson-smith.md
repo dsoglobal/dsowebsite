@@ -40,6 +40,6 @@ Work to alleviate global inequality through promoting human and economic develop
 
 Politics, traveling, fashion, foreign language, running, hiking.
 
-<!--EndFragment-->
+<!--EndFragment-->[](mailto:jsmith@dsoglobal.org)
 
-**[Get In Touch](jsmith@dsoglobal.org)**
+**[Get In Touch](mailto:jsmith@dsoglobal.org)**
