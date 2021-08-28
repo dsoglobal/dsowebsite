@@ -5,13 +5,17 @@ teams:
 title: Emily Pan
 dsotitle:
   - Student Consultant
+work: Community Building Chair
 thumb_img_path: /images/emilypan.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/emilypan02/
 layout: post
 ---
-**Why I joined DSO:** 
+**Why I joined DSO:** To learn more about consulting from other consultants and professions as well as be part of the social impact sector
 
 **Projects:**
 
-**Aspiration(s):**
+**Aspiration(s):** Continue to learn everyday, build a career that utilizes analytical skills and technology to solve problems that positively impacts a greater social good
 
 **[Get In Touch](mailto:emilypan@dsoglobal.org)**
