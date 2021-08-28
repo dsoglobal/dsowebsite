@@ -25,6 +25,11 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/karthik-kumar.jpeg
+      - type: testimonialsblock
+        avatar: /images/bhavishya-banda.jpg
+        author: Bhavishya Banda
+        dsotitle:
+          - Managing Director
   - type: testimonialsblock
     component: testimonials_block.html
     subtitle: Student Consultants
