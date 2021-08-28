@@ -11,25 +11,25 @@ sections:
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
+        avatar: /images/bhavishya-banda.jpg
+        author: Bhavishya Banda
+        dsotitle:
+          - Managing Director
+      - type: testimonialsblock
         author: Arlane Gordon-Bray
         dsotitle:
           - Engagement Lead
         avatar: /images/arlane.jpg
-      - type: testimonialsblock
-        author: Maria Rymer
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/maria-rymer.jpeg
       - type: testimonialsblock
         author: Karthik Kumar
         dsotitle:
           - Engagement Lead
         avatar: /images/karthik-kumar.jpeg
       - type: testimonialsblock
-        avatar: /images/bhavishya-banda.jpg
         author: Bhavishya Banda
         dsotitle:
-          - Managing Director
+          - Engagement Lead
+        avatar: /images/karthik-kumar.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     subtitle: Student Consultants
