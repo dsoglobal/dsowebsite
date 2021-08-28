@@ -7,6 +7,7 @@ title: Katrina Toups
 dsotitle:
   - Project Lead
   - Student Consultant
+  - Marketing Manager
 thumb_img_path: /images/katrinatoups.png
 actions:
   - label: LinkedIn
