@@ -8,3 +8,10 @@ dsotitle:
 thumb_img_path: /images/emilypan.jpg
 layout: post
 ---
+**Why I joined DSO:** 
+
+**Projects:**
+
+**Aspiration(s):**
+
+**[Get In Touch](mailto:emilypan@dsoglobal.org)**
