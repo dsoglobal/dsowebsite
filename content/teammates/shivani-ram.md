@@ -6,12 +6,15 @@ title: Shivani Ram
 dsotitle:
   - Student Consultant
 thumb_img_path: /images/shivani-ram.jpg
+actions:
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/shivaniiii/
 layout: post
 ---
-**Why I joined DSO:** 
+**Why I joined DSO:** To gain experience in the field of consulting, and to solve real world problems in the social impact sector. 
 
 **Projects:**
 
-**Aspiration(s):**
+**Aspiration(s):** To gain and develop skills such as business strategy & impact, and business development
 
 **[Get In Touch](mailto:shivaniram@dsoglobal.org)**
