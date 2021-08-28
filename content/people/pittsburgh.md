@@ -25,20 +25,15 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/karthik-kumar.jpeg
-      - type: testimonialsblock
-        author: Bhavishya Banda
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/karthik-kumar.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     subtitle: Student Consultants
     testimonialslist:
       - type: testimonialsblock
-        author: Emily Pan
+        author: Prisha Goyal
         dsotitle:
           - Student Consultant
-        avatar: /images/emilypan.jpg
+        avatar: /images/prisha-goyal.jpeg
       - type: testimonialsblock
         author: Chelsea Tang
         dsotitle:
