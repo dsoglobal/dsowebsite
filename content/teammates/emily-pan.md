@@ -6,6 +6,7 @@ title: Emily Pan
 subtitle: Change is never easy but always possible.
 dsotitle:
   - Student Consultant
+  - Community Building Chair
 work: Community Building Chair
 thumb_img_path: /images/emilypan.jpg
 actions:
