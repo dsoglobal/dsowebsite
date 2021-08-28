@@ -7,7 +7,7 @@ subtitle: Change is never easy but always possible.
 dsotitle:
   - Student Consultant
   - Community Building Chair
-work: Community Building Chair
+work: ""
 thumb_img_path: /images/emilypan.jpg
 actions:
   - label: LinkedIn
