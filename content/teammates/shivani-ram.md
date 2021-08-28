@@ -3,6 +3,7 @@ date: 2021-08-28T18:38:45.472Z
 teams:
   - Pittsburgh
 title: Shivani Ram
+subtitle: Always give value before you ask for value - James Clear
 dsotitle:
   - Student Consultant
 thumb_img_path: /images/shivani-ram.jpg
