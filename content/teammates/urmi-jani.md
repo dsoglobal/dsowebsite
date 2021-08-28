@@ -6,6 +6,7 @@ title: Urmi Jani
 subtitle: Comparison is the Thief of Joy
 dsotitle:
   - Student Consultant
+  - Community Outreach
 work: Community Outreach
 thumb_img_path: /images/urmi-jani.png
 actions:
