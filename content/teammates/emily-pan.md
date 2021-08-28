@@ -3,6 +3,7 @@ date: 2021-08-28T18:35:44.071Z
 teams:
   - Pittsburgh
 title: Emily Pan
+subtitle: Change is never easy but always possible.
 dsotitle:
   - Student Consultant
 work: Community Building Chair
