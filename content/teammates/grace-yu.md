@@ -9,12 +9,12 @@ dsotitle:
 thumb_img_path: /images/screen-shot-2021-08-28-at-10.48.16-am-grace-yu.png
 layout: post
 ---
-**hy I joined DSO:** To enact upon my interests in social impact and business and to delve into the world of consulting, exploring how it can be used to aid the larger society.
+**Why I joined DSO:** To enact upon my interests in social impact and business and to delve into the world of consulting, exploring how it can be used to aid the larger society.
 
 **Projects:** TBD﻿
 
-At
 
-Ask
+
+A
 
 Aspirations: Gain experience in consulting, expand my network, and learn from the talented individuals that surround me
