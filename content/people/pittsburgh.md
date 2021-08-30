@@ -40,11 +40,6 @@ sections:
           - Student Consultant
         avatar: /images/chelsea-tang.jpg
       - type: testimonialsblock
-        author: Prisha Goyal
-        dsotitle:
-          - Student Consultant
-        avatar: /images/prisha-goyal.jpeg
-      - type: testimonialsblock
         author: Chelsea Yang
         dsotitle:
           - Student Consultant
@@ -94,4 +89,14 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/jessica-liu.jpg
+      - type: testimonialsblock
+        author: Saloni Gandhi
+        dsotitle:
+          - Student Consultant
+        avatar: /images/profile-pic-saloni-gandhi.jpg
+      - type: testimonialsblock
+        author: Grace Yu
+        dsotitle:
+          - Student Consultant
+        avatar: /images/screen-shot-2021-08-28-at-10.48.16-am-grace-yu.png
 ---
