@@ -14,24 +14,12 @@ actions:
     url: https://www.linkedin.com/in/katrina-toups/
 layout: post
 ---
-**Why I joined DSO:**<!--StartFragment-->
-
-I originally joined DSO because it seemed to be the perfect intersection between business and international development, however after spending some time working on projects, I realized it is so much more than that. DSO really has become the perfect place for me to pursue my interests while also working towards making a positive impact around the world.
-
-<!--EndFragment-->
+**Why I joined DSO:** I originally joined DSO because it seemed to be the perfect intersection between business and international development, however after spending some time working on projects, I realized it is so much more than that. DSO really has become the perfect place for me to pursue my interests while also working towards making a positive impact around the world.
 
 **Projects:** [Ek Tara](https://ektara.org.in/)
 
-**Aspiration(s):** <!--StartFragment-->
+**Aspiration(s):** To do work that fulfills me and makes a greater impact!
 
-To do work that fulfills me and makes a greater impact!
-
-<!--EndFragment-->
-
-**Ask me about/I’m passionate about:** <!--StartFragment-->
-
-dogs, anything related to travel, and whatever else you'd like!
-
-<!--EndFragment-->
+**Ask me about/I’m passionate about:** dogs, anything related to travel, and whatever else you'd like!
 
 **[Get In Touch](mailto:katrinatoups@dsoglobal.org)**
