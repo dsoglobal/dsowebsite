@@ -13,8 +13,6 @@ layout: post
 
 **Projects:** 
 
+**Aspirations:** Gain experience in consulting, expand my network, and learn from the talented individuals that surround me
 
-
-A
-
-Aspirations: Gain experience in consulting, expand my network, and learn from the talented individuals that surround me
+[Get In Touch](mailto:graceyu@dsoglobal.org)
