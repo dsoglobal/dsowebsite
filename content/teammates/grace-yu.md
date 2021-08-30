@@ -11,7 +11,7 @@ layout: post
 ---
 **Why I joined DSO:** To enact upon my interests in social impact and business and to delve into the world of consulting, exploring how it can be used to aid the larger society.
 
-**Projects:** TBD﻿
+**Projects:** 
 
 
 
