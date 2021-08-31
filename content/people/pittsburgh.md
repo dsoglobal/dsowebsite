@@ -99,4 +99,9 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/screen-shot-2021-08-28-at-10.48.16-am-grace-yu.png
+      - type: testimonialsblock
+        author: Saaniya Bhushan
+        dsotitle:
+          - Student Consultant
+        avatar: /images/img_2787-saaniya-bhushan.jpg
 ---
