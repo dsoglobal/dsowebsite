@@ -4,6 +4,7 @@ teams:
   - Washington DC
 title: Jonathan Jerez
 dsotitle:
+  - Managing Director
   - Engagement Lead
 work: Senior Consultant (Data Scientist)
 company: "Booz Allen Hamilton "
