@@ -82,11 +82,16 @@ sections:
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
+        author: Jonathan Jerez
+        dsotitle:
+          - Managing Director
+          - Engagement Lead
+        avatar: /images/blank.png
+      - type: testimonialsblock
         author: Emily Rosenberg
         dsotitle:
           - Engagement Lead
-          - Managing Director
-        avatar: /images/emilyr.jpg
+        avatar: /images/emilyrosenberg.jpg
       - type: testimonialsblock
         author: Haejin Hwang
         dsotitle:
@@ -100,11 +105,6 @@ sections:
         avatar: /images/anthonyb.jpg
       - type: testimonialsblock
         author: Patrice Major
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/blank.png
-      - type: testimonialsblock
-        author: Jonathan Jerez
         dsotitle:
           - Engagement Lead
         avatar: /images/blank.png
