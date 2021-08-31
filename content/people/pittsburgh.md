@@ -104,4 +104,10 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/img_2787-saaniya-bhushan.jpg
+      - type: testimonialsblock
+        author: Lauren Woody
+        dsotitle:
+          - Student Consultant
+          - Community Building Chair
+        avatar: /images/photo-lauren-woody.png
 ---
