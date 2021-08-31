@@ -12,10 +12,10 @@ actions:
     url: http://linkedin.com/in/saloni-gandhi-8b94331a1
 layout: post
 ---
-**Why I joined DSO:** To use my skills to work on incredible projects that help nonprofits and make a social impact
+**Why I joined DSO:** To use my skills to work on incredible projects that help nonprofits and make a social impact.
 
 **Projects:**
 
-**Aspiration(s):** Gain experience in technology, Make an impact on the community, Develop design & research skills
+**Aspiration(s):** Gain experience in technology, Make an impact on the community, Develop design & research skills.
 
 **[Get In Touch](mailto:sbgandhi@dsoglobal.org)**
