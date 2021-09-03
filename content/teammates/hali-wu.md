@@ -14,3 +14,5 @@ layout: post
 **Projects:** 
 
 **Aspiration(s):** Meet new people and work together to foster meaningful professional and personal relationships.
+
+**[Get In Touch](mailto:haliwu@dsoglobal.org)**
