@@ -115,4 +115,15 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/headshot-sammi-yang.jpg
+      - type: testimonialsblock
+        author: Sanjana Shanbhag
+        dsotitle:
+          - Student Consultant
+        avatar: /images/sanjana-shanbhag.png
+      - type: testimonialsblock
+        author: Hali Wu
+        dsotitle:
+          - Student Consultant
+          - Project Lead
+        avatar: /images/hali-wu.png
 ---
