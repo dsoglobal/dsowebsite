@@ -5,10 +5,13 @@ teams:
 title: Sanjana Shanbhag
 dsotitle:
   - Student Consultant
+thumb_img_path: /images/sanjana-shanbhag.png
 layout: post
 ---
-**Why I joined DSO:** 
+**Why I joined DSO:** To further my interest in consulting and have a positive social impact
 
 **Projects:**
 
-**Aspiration(s):**
+**Aspiration(s):** Work with a variety of people from around the country, fostering new relationships professionally
+
+**[Get In Touch](mailto:sshanbhag@dsoglobal.org)**
