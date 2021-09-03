@@ -110,4 +110,9 @@ sections:
           - Student Consultant
           - Community Building Chair
         avatar: /images/photo-lauren-woody.png
+      - type: testimonialsblock
+        author: Sammi Yang
+        dsotitle:
+          - Student Consultant
+        avatar: /images/headshot-sammi-yang.jpg
 ---
