@@ -74,6 +74,21 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/0-28-.jpg
+      - type: testimonialsblock
+        author: Richelle Chow
+        dsotitle:
+          - Student Consultant
+        avatar: /images/richellechow.jpg
+      - type: testimonialsblock
+        author: Yichu Huang
+        dsotitle:
+          - Student Consultant
+        avatar: /images/yichu.png
+      - type: testimonialsblock
+        author: Jackson Mittleman
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mittleman.jpg
     title: DC Team
     teammembers: []
   - type: testimonialsblock
@@ -138,6 +153,11 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/0-19-.jpg
+      - type: testimonialsblock
+        author: Matthew Li
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/mattli.jpg
     teammembers:
       - Anthony Buchanan
 ---
