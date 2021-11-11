@@ -158,6 +158,11 @@ sections:
         dsotitle:
           - Engagement Lead
         avatar: /images/mattli.jpg
+      - type: testimonialsblock
+        author: Sarah Galvin
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/1620882325086.jpg
     teammembers:
       - Anthony Buchanan
 ---
