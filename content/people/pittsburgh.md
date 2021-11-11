@@ -15,16 +15,6 @@ sections:
         author: Bhavishya Banda
         dsotitle:
           - Managing Director
-      - type: testimonialsblock
-        author: Arlane Gordon-Bray
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/arlane.jpg
-      - type: testimonialsblock
-        author: Karthik Kumar
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/karthik-kumar.jpeg
   - type: testimonialsblock
     component: testimonials_block.html
     subtitle: Student Consultants
