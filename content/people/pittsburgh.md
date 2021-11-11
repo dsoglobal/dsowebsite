@@ -15,6 +15,12 @@ sections:
         author: Bhavishya Banda
         dsotitle:
           - Managing Director
+      - type: testimonialsblock
+        author: Amy Badiani
+        dsotitle:
+          - Engagement Lead
+          - CXO
+        avatar: /images/0-3-.jpg
   - type: testimonialsblock
     component: testimonials_block.html
     subtitle: Student Consultants
