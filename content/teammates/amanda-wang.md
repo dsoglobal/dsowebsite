@@ -24,4 +24,4 @@ layout: post
 
 Positively affect those around me
 
-**[Get In Touch](mailto:awang21@stanford.edu)**
+**[Get In Touch](mailto:awang21@dsoglobal.org)**
