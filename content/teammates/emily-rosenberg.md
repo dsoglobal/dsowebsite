@@ -4,6 +4,7 @@ teams:
   - Washington DC
 title: Emily Rosenberg
 dsotitle:
+  - Managing Director
   - Engagement Lead
 work: Senior Consultant
 company: Booz Allen Hamilton
