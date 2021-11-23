@@ -97,16 +97,17 @@ sections:
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
+        author: Emily Rosenberg
+        dsotitle:
+          - Managing Director
+          - Engagement Lead
+        avatar: /images/emilyrosenberg.jpg
+      - type: testimonialsblock
         author: Jonathan Jerez
         dsotitle:
           - Managing Director
           - Engagement Lead
         avatar: /images/blank.png
-      - type: testimonialsblock
-        author: Emily Rosenberg
-        dsotitle:
-          - Engagement Lead
-        avatar: /images/emilyrosenberg.jpg
       - type: testimonialsblock
         author: Haejin Hwang
         dsotitle:
