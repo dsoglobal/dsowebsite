@@ -11,7 +11,7 @@ menu:
 ---
 
 
-Holiday Giving Guide 2021: [bit.ly/dsogivingguide21](https://bit.ly/dsogivingguide21)
+**Holiday Giving Guide 2021: [bit.ly/dsogivingguide21](https://bit.ly/dsogivingguide21)**
 
 It’s a privilege to be able to connect our Partners with donors. In this Holiday Giving Guide, DSO is honored to feature some organizations we currently collaborate with: [Design for Change](https://www.designforchange.us/), [Vocal Justice](https://www.vocaljustice.org/), [Libraries Without Borders](https://www.librarieswithoutborders.org/), and [Climate Spheres](https://www.climate-spheres.org/). Learn more about these wonderful social impact leaders and changemakers and support! We also wanted to highlight the [15% Pledge](https://15percentpledge.org/holiday) – a way to commit 15% of your holiday shopping to Black-owned brands.
 
@@ -19,7 +19,7 @@ It’s a privilege to be able to connect our Partners with donors. In this Holid
 
 
 
-Holiday Giving Guide 2020: [bit.ly/dsogivingguide](https://bit.ly/dsogivingguide)
+**Holiday Giving Guide 2020: [bit.ly/dsogivingguide](https://bit.ly/dsogivingguide)**
 
 It’s a privilege to be able to connect our Partners with donors. In this Holiday Giving Guide, DSO is honored to feature some organizations we currently collaborate with: [BMe](https://bmecommunity.org/), [POISE Foundation](https://www.poisefoundation.org/), [Court Appointed Special Advocates for Children - Alexandria / Arlington](https://www.scanva.org/child-advocacy/alexandriaarlington/), [Ek Tara](https://ektara.org.in/), [OneProsper](https://www.oneprosper.org/), and [Agami](https://agami.in/). Donor contributions are critical to achieving impact and helping organizations be resilient.
 
