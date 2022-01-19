@@ -122,4 +122,9 @@ sections:
           - Student Consultant
           - Project Lead
         avatar: /images/hali-wu.png
+      - type: testimonialsblock
+        author: Ayush Tripathi
+        dsotitle:
+          - Student Consultant
+        avatar: /images/screenshot-2022-01-18-210258.png
 ---
