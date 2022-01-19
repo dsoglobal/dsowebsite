@@ -127,4 +127,9 @@ sections:
         dsotitle:
           - Student Consultant
         avatar: /images/screenshot-2022-01-18-210258.png
+      - type: testimonialsblock
+        author: Astha Shah
+        dsotitle:
+          - Student Consultant
+        avatar: /images/astha.png
 ---
