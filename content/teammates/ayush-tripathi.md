@@ -11,16 +11,10 @@ actions:
     url: https://www.linkedin.com/in/ayushi-tripathi-452b961ab/
 layout: post
 ---
-Why I joined DSO: I joined DSO because I am interested in exploring different consulting projects and making a social impact.
+**Why I joined DSO:** I joined DSO because I am interested in exploring different consulting projects and making a social impact.
 
+**Projects:**
 
-
-Projects:
-
-
-
-Aspiration(s): As a student consultant in DSO, I plan to apply the technical and business skills I have gained through coursework and internships to contribute to a project that will make a meaningful impact.
-
-
+**Aspiration(s):** As a student consultant in DSO, I plan to apply the technical and business skills I have gained through coursework and internships to contribute to a project that will make a meaningful impact.
 
 [Get In Touch](mailto:ayushtripathi@dsoglobal.org)
