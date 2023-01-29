@@ -1,5 +1,5 @@
 stackbitVersion: 0.4.0
-ssgName: hugo
+ssgName: custom
 buildCommand: ./ssg-build.sh
 publishDir: public
 staticDir: static
