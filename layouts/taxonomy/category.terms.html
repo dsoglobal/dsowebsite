@@ -3,7 +3,7 @@
   <div class="inner">
 	<div class="categories-terms">
 		    {{ $data := .Data }}
-		    {{ $thisURL := .URL}}
+		    {{ $thisURL := .Permalink}}
 		    {{ range $key,$value := .Data.Terms.Alphabetical }}
 		    <div class="innercategorytag">
 		       <div class="md-chip"><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}" role="button">{{ replace $value.Name "-" " " }}</a><div class="md-chip-icon">{{ $value.Count }}</div></div>
