@@ -3,12 +3,11 @@ title: Banyan
 subtitle: Holistic mental health solutions
 date: 2017-10-01T04:00:00.000Z
 thumb_img_path: /images/banyan.png
-content_img_path: ''
-excerpt: >-
-  DSO partnered with Banyan, a mental health organization that has been an
-  integral part of the care of for people with mental illness in Chennai since
-  1993. The teams consisted of 6 volunteers from DSO and several stakeholders
-  from Banyan.
+content_img_path: ""
+excerpt: DSO partnered with Banyan, a mental health organization that has been
+  an integral part of the care of for people with mental illness in Chennai
+  since 1993. The teams consisted of 6 volunteers from DSO and several
+  stakeholders from Banyan.
 categories:
   - Research
   - Fundraising
@@ -33,3 +32,5 @@ Banyan is a mental health organization that has been an integral part of the car
 
 \
 **Team:** Sanjana Padmanabhan, Shubh Tekriwal, Karthik Kumar, Anurati Sodani, Ivori Liu, Christina Jin, ZiZi Liao, Sihan Dong
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/dso-update-february-2018/index.html)

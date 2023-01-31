@@ -3,9 +3,8 @@ title: Cameroon Football Development Program (CFDP)
 subtitle: Sport for Development
 date: 2016-12-01T05:00:00.000Z
 thumb_img_path: /images/cameroonfdp.jpg
-excerpt: >-
-  A collaborative partnership between Development Solutions Organization (DSO)
-  and CameroonFDP, this project focused on developing a market analysis of
+excerpt: A collaborative partnership between Development Solutions Organization
+  (DSO) and CameroonFDP, this project focused on developing a market analysis of
   potential sponsors, partners, and donors, and providing an overview of the
   competitive landscape and fundraising strategies of similar organizations.
 categories:
@@ -29,3 +28,5 @@ Created donor profiles to guide CameroonFDP in tailoring future fundraising effo
 Provided recommendations to pursue fundraising activities in risk vs reward format
 
 **Team:** Andrea Salomon, Arlane Gordon-Bray, Shubhangam Tekriwal
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/dso-update-august-2014/)

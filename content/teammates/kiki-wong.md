@@ -2,6 +2,7 @@
 date: 2020-04-12T22:56:26.565Z
 teams:
   - Bay Area
+Location: Berkeley
 title: Kiki Wong
 subtitle: “The mountains are calling and I must go” - John Muir
 dsotitle:
@@ -23,4 +24,4 @@ Aspiration(s):**
 
 To work for a company that creates electric cars that are more efficient and effective than fossil fuel vehicles and bringing them to developing countries that need them the most
 
-**[Get in Touch](kiara.w@dsoglobal.org)**
+**[Get in Touch](mailto:kiara.w@dsoglobal.org)**

@@ -1,10 +1,14 @@
 ---
+excerpt: Outlining DSO’s ongoing effort to evolve our online presence and
+  presentation and update our logo.
+content_img_path: ""
+showcomments: true
 date: 2014-02-24T05:00:00.000Z
 title: The evolution of the DSO logo
 thumb_img_path: /images/6843188.png
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - DSO
+  - Logo
 layout: post
 ---
 Here it is – the beginnings of the DSO brand

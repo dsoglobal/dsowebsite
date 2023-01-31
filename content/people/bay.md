@@ -11,23 +11,81 @@ sections:
     subtitle: Student Consultants
     testimonialslist:
       - type: testimonialsblock
-        author: "Farah Nanji "
+        author: Gina Kim
         dsotitle:
-          - '["Student Consultant","Managing Director"]'
-        avatar: /images/farah-nanji.png
-      - type: testimonialsblock
-        author: Kiki Wong
-        avatar: /images/kiki-wong.png
-        dsotitle:
-          - '["Student Consultant"]'
+          - President
+        avatar: /images/received_990243427980080.jpeg
       - type: testimonialsblock
         author: Salma Al-Khairi
-        avatar: /images/salma-al-khairi.jpg
         dsotitle:
-          - '["Student Consultant"]'
+          - Vice President
+          - Student Consultant
+        avatar: /images/salma-al-khairi.jpg
+      - type: testimonialsblock
+        author: Carlos Escalante
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/carlosescalante.png
+      - type: testimonialsblock
+        author: Mahek Zindani
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/mahek.jpg
+      - type: testimonialsblock
+        author: Katrina Toups
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/katrinatoups.png
+      - type: testimonialsblock
+        author: Jennifer Laux
+        dsotitle:
+          - Project Lead
+          - Student Consultant
+        avatar: /images/jenniferlaux.png
+      - type: testimonialsblock
+        author: "Farah Nanji "
+        dsotitle:
+          - Advisor
+          - Student Consultant
+        avatar: /images/farah.jpeg
+      - type: testimonialsblock
+        author: Farah Khurshid
+        dsotitle:
+          - Student Consultant
+        avatar: /images/farahk.jpg
+      - type: testimonialsblock
+        author: Caitlin Parker
+        dsotitle:
+          - Student Consultant
+        avatar: /images/caitlinparker.png
+      - author: Maya Basha
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mayabasha.png
+      - type: testimonialsblock
+        author: Hannah Lee
+        dsotitle:
+          - Student Consultant
+        avatar: /images/hannah-lee.jpg
+      - author: Skander Zmerli
+        dsotitle:
+          - Student Consultant
+        avatar: /images/skander-zmerli.jpeg
+      - author: Jackson Smith
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jackson-smith.jpg
+      - type: testimonialsblock
+        author: Carolyn Nguyen
+        dsotitle:
+          - Student Consultant
+        avatar: /images/blank.png
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Berkeley Team
+    title: ""
     subtitle: Engagement Leads and Advisors
     testimonialslist:
       - type: testimonialsblock
@@ -35,6 +93,16 @@ sections:
         dsotitle: '["Engagement Lead","CXO"]'
         avatar: /images/0-3-.jpg
         author: Amy Badiani
+      - type: testimonialsblock
+        author: Becca Gale
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-30-.jpg
+      - type: testimonialsblock
+        author: Rina Matsumoto
+        dsotitle:
+          - Advisor
+        avatar: /images/0-31-.jpg
     teammembers:
       - Amy Badiani
   - type: testimonialsblock
@@ -43,30 +111,163 @@ sections:
     subtitle: Student Consultants
     testimonialslist:
       - type: testimonialsblock
-        author: Armelle Grondin
-        dsotitle:
-          - '["Student Consultant","Managing Director"]'
-        avatar: /images/armelle-grondin.png
-      - type: testimonialsblock
-        author: Caroline Keyes
-        dsotitle: '["Student Consultant"]'
-        avatar: /images/caroline-keyes.png
-      - type: testimonialsblock
         author: Amanda Wang
-        dsotitle: '["Student Consultant","Project Lead"]'
+        dsotitle:
+          - Co-President
+          - Student Consultant
         avatar: /images/amanda-wang.png
       - type: testimonialsblock
-        author: Katherine Wu
-        dsotitle: '["Project Lead","Student Consultant"]'
-        avatar: /images/katherine-wu.png
+        author: Armelle Grondin
+        dsotitle:
+          - Co-President
+          - Student Consultant
+        avatar: /images/armelle-grondin.png
+      - type: testimonialsblock
+        author: Sarah Guller
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/0-32-.jpg
+      - type: testimonialsblock
+        author: Amy Shin
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/0-33-.jpg
+      - type: testimonialsblock
+        author: Caroline Keyes
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/caroline-keyes.png
+      - type: testimonialsblock
+        author: Evelyn Correa
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/5585-photoevelyn-correa.png
       - type: testimonialsblock
         author: Polly Moser
         dsotitle:
-          - '["Student Consultant"]'
+          - Executive Board
+          - Student Consultant
         avatar: /images/polly-moser.png
+      - type: testimonialsblock
+        author: Katie Ropers
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/katieropers.jpg
+      - type: testimonialsblock
+        author: Nadine Fattah
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/nadinefattah.jpg
+      - type: testimonialsblock
+        author: Sohayla Eldeeb
+        dsotitle:
+          - Executive Board
+          - Student Consultant
+        avatar: /images/sohaylaeldeeb.jpg
+      - type: testimonialsblock
+        author: Alexander Lam
+        dsotitle:
+          - Student Consultant
+        avatar: /images/alexanderlam.jpg
+      - type: testimonialsblock
+        author: Danya Adib
+        dsotitle:
+          - Student Consultant
+        avatar: /images/danyaadib-azpeitia.jpg
+      - type: testimonialsblock
+        author: Miranda Johnson
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mirandajohnson.jpg
+      - type: testimonialsblock
+        author: Ravichandra Tadigadapa
+        dsotitle:
+          - Student Consultant
+        avatar: /images/ravichandratadigadapa.jpg
+      - type: testimonialsblock
+        author: Kaitlyn Choe
+        dsotitle:
+          - Student Consultant
+        avatar: /images/kaitlynchoe.jpg
+      - type: testimonialsblock
+        author: Jose Gandara
+        dsotitle:
+          - Student Consultant
+        avatar: /images/josegandara.jpg
+      - type: testimonialsblock
+        author: Hannah Kelley
+        dsotitle:
+          - Student Consultant
+        avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Ali Cohen
+        dsotitle:
+          - Student Consultant
+        avatar: /images/alicohen.jpg
+      - type: testimonialsblock
+        author: Cindy Chau
+        dsotitle:
+          - Student Consultant
+        avatar: /images/cindychau.jpg
+      - type: testimonialsblock
+        author: Mahlet Getahun
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mahletgetahun.jpg
+      - type: testimonialsblock
+        dsotitle:
+          - Student Consultant
+        author: Smiti Mittal
+        avatar: /images/smitimittal.jpg
+      - type: testimonialsblock
+        author: Amrita Kaur
+        dsotitle:
+          - Student Consultant
+        avatar: /images/amrita_kaur.jpg
+      - type: testimonialsblock
+        author: Lee Duan
+        dsotitle:
+          - Student Consultant
+        avatar: /images/leeduan.jpg
+      - type: testimonialsblock
+        author: Cameron Huang
+        dsotitle:
+          - Student Consultant
+        avatar: /images/cameronhuang.jpg
+      - type: testimonialsblock
+        author: Siddarth Gehlaut
+        dsotitle:
+          - Student Consultant
+        avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Clara da Silva
+        dsotitle:
+          - Student Consultant
+        avatar: /images/claradasilva.jpg
+      - type: testimonialsblock
+        author: Lusha Jetley
+        dsotitle:
+          - Student Consultant
+        avatar: /images/lushajetley.jpg
+      - type: testimonialsblock
+        author: Lily Croddick
+        dsotitle:
+          - Student Consultant
+        avatar: /images/lilycroddick.jpg
+      - type: testimonialsblock
+        author: Bud Nelson
+        dsotitle:
+          - Student Consultant
+        avatar: /images/budnelson.jpg
   - type: testimonialsblock
     component: testimonials_block.html
-    title: Stanford Team
+    title: ""
     subtitle: Engagement Leads and Advisers
     teammembers:
       - Arlane Gordon-Bray

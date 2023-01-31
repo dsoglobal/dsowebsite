@@ -1,10 +1,16 @@
 ---
+excerpt: Trisha reflects on the Importance of Being Busy. Do what you love. It's
+  absolutely important to spend time with your [self | friends | family], but
+  you also owe it to yourself (and society!) to follow your passions and be
+  happy.
+content_img_path: ""
+showcomments: true
 date: 2014-10-25T04:00:00.000Z
 title: The Importance of Being Busy
-thumb_img_path: ''
-content_img_path: ''
-showcomments: true
-excerpt: ''
+thumb_img_path: ""
+tags:
+  - Personal Reflection
+  - Busy
 layout: post
 ---
  A while back, about two years ago, someone wrote an article called The ['Busy Trap](http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/)' and it went viral. Everyone was sharing it, and the general theme was: Slow down. Relax. Enjoy Life. 

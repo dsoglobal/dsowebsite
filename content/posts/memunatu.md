@@ -3,9 +3,8 @@ title: Memunatu
 subtitle: Aligning girls literacy and leadership with strong champions and partners
 date: 2017-02-01T05:00:00.000Z
 thumb_img_path: /images/journalism-issue-ipad-picture.png
-content_img_path: ''
-excerpt: >-
-  DSO partnered with Memunatu, an organization that promotes literacy,
+content_img_path: ""
+excerpt: DSO partnered with Memunatu, an organization that promotes literacy,
   leadership, and empowerment for teenage that has educational and fun content.
   girls (10-17 years old) in West Africa through a community-driven publication
   / magazine.
@@ -40,3 +39,5 @@ Memunatu promotes literacy, leadership, and empowerment for teenage girls (10-17
 **Project Time Frame:** February - April 2017
 
 **Team:** Edgar Ortiz, Elizabeth Prosch, Luke Butcher, Maxine Yao, Amy Badiani, and Aruna Cadambi
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/dso-update-august-2017/)

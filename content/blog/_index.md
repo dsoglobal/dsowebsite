@@ -8,6 +8,6 @@ template: blog
 menu:
   main:
     name: Blog
-    weight: 7
+    weight: 8
     identifier: blog
 ---

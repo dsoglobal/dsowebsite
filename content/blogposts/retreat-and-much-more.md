@@ -1,10 +1,16 @@
 ---
+excerpt: Sonal reflects on a SF DSO Retreat and the opportunity to get to know
+  the SF team better in a gorgeous sun-kissed setting, have delicious food for
+  every meal and most of all for the time to reignite her passion for
+  international development.
+content_img_path: ""
+showcomments: true
 date: 2014-05-13T04:00:00.000Z
 title: Retreat and much more …
 thumb_img_path: /images/648887_orig.jpg
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - Personal Reflection
+  - Retreat
 layout: post
 ---
 I had the lucky pleasure of living in a cozy, beautiful vacation home in beautiful Santa Cruz, thanks to the DSO SF team retreat. And now sitting in my dorm room waiting for a new week, I am happy, relaxed and recharged. Happy for reconnecting with this amazing group of people, relaxed because that’s why beaches exist (!) and recharged after intimate and inspiring conversations. 

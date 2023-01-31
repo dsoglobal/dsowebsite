@@ -1,10 +1,17 @@
 ---
-date: 2015-05-31T04:00:00.000Z
-title: 'Social Impact Investing: An Exercise in Efficiency'
-thumb_img_path: /images/5087844.jpg
-content_img_path: ''
+excerpt: Minkee reflects on a panel of thought leaders in social
+  entrepreneurship speaking at Stanford’s Graduate School of Business arguing
+  that leveraging the private sector is vital to grow out an organization
+  focused on social change.
+content_img_path: ""
 showcomments: true
-excerpt: ''
+date: 2015-05-31T04:00:00.000Z
+title: "Social Impact Investing: An Exercise in Efficiency"
+thumb_img_path: /images/5087844.jpg
+tags:
+  - Impact Investing
+  - Panel
+  - Personal Reflection
 layout: post
 ---
 Are social impact and profit maximization mutually exclusive? Does “nonprofit” mean “not profitable?”   

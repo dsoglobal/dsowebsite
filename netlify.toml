@@ -1,6 +1,20 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
+functions = "./functions"
 
-  [build.environment]
-  HUGO_VERSION = "0.47"
+[build.environment]
+  HUGO_VERSION = "0.92.2"
+
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+  
+[[plugins]]
+  package = "netlify-plugin-search-index"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+
+	[plugins.inputs]
+	# If it should show more verbose logs (optional, default = true)
+	debug = true

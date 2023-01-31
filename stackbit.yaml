@@ -1,6 +1,5 @@
-stackbitVersion: ~0.2.0
+stackbitVersion: 0.2.0
 ssgName: hugo
-ssgVersion: 0.1.12
 buildCommand: ./ssg-build.sh
 publishDir: public
 staticDir: static
@@ -540,7 +539,7 @@ models:
       - type: string
         name: subtitle
         label: Subtitle
-        description: The subtitle of the section.
+        description: The subtitle of the section.        
       - type: list
         name: serviceslist
         label: Services

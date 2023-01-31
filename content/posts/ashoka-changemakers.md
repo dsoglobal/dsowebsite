@@ -26,3 +26,5 @@ DSO thoroughly evaluated existing content, conducted several user studies, met w
 
 \
 **Team:** Jess Agüero and Hannah Salinas
+
+**See More:** [Blog Post](https://www.dsoglobal.org/blogposts/dso-update-february-2015/)

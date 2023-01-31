@@ -16,8 +16,11 @@ layout: post
 
 **Projects:** 
 
+- [POISE Foundation](https://www.dsoglobal.org/posts/poise-foundation/index.html)
+- [Cameroon Football Development Program](https://www.dsoglobal.org/posts/cameroon-football-development-program-cfdp/)
+
 **Aspiration(s):**
 
 Devoting my life to something bigger than myself.
 
-**[Get in Touch](<>)**
+**[Get in Touch](mailto:arlane@dsoglobal.org)**

@@ -1,10 +1,16 @@
 ---
-date: 2014-07-24T04:00:00.000Z
-title: 'Mobile Money: When Piggy Banks Fly'
-thumb_img_path: ''
-content_img_path: ''
+excerpt: Mobile money is bringing financial services to the poor around the
+  world, and DSO is taking part in the revolution with Hummingbill, a solution
+  that allows companies to send customers accurate, timely bills, which
+  customers pay on their cell phones via SMS even if they don’t have a bank
+  account or a data connection.
+content_img_path: ""
 showcomments: true
-excerpt: ''
+date: 2014-07-24T04:00:00.000Z
+title: "Mobile Money: When Piggy Banks Fly"
+thumb_img_path: ""
+tags:
+  - mobile money
 layout: post
 ---
 Mobile money is bringing financial services to the poor around the world, and DSO is taking part in the revolution with Hummingbill, a solution that allows companies to send customers accurate, timely bills, which customers pay on their cell phones via SMS even if they don’t have a bank account or a data connection [1](https://hummingbill.com/). As we’ve researched the market landscape for Hummingbill, the DC team has uncovered lots of reasons to be enthusiastic about the benefits of mobile money in the developing world.

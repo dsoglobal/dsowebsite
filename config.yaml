@@ -22,15 +22,15 @@ taxonomies:
 related:
   threshold: 0
   includeNewer: true
-  toLower: false
+  toLower: true
   indices:
     - name: categories
       weight: 100
     - name: tags
       weight: 75
+    - name: posts
+      weight: 50
     - name: teams
       weight: 50
     - name: dsotitle
       weight: 40
-    - name: date
-      weight: 10

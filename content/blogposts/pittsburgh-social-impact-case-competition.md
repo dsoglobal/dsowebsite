@@ -1,10 +1,20 @@
 ---
+excerpt: The Pittsburgh team, with the help of members from the DC and SF team
+  to hosted a case competition on Carnegie Mellon’s campus at the Tepper School
+  of Business. This was one of the first social impact case competitions this
+  campus has seen, and with solid on the ground marketing help from a student
+  organization, Undergraduate Marketing Organization (UMO), we ended up having 8
+  teams (28 participants) take part in the day’s affair.
+content_img_path: ""
+showcomments: true
 date: 2017-06-29T04:00:00.000Z
 title: Pittsburgh Social Impact Case Competition
 thumb_img_path: /images/screen-shot-2017-06-29-at-11-54-25-pm.png
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - Case Competition
+  - coffee
+  - Pittsburgh
+  - social impact
 layout: post
 ---
 **Sprouting Hope From Beans**

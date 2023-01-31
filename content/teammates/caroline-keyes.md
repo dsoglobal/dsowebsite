@@ -2,10 +2,13 @@
 date: 2020-04-12T04:00:00.000Z
 teams:
   - Bay Area
+Location: Stanford
 title: Caroline Keyes
 subtitle: “Nothing will work unless you do” - Maya Angelou
 dsotitle:
+  - Executive Board
   - Student Consultant
+company: Stanford University
 thumb_img_path: /images/caroline-keyes.png
 actions:
   - label: LinkedIn
@@ -18,8 +21,6 @@ layout: post
 
 [Costa Rican Humanitarian Foundation](http://www.crhf.org/)
 
-**Aspiration(s):**
+**Aspiration(s):** To help everyone in the world have an equal opportunity for success
 
-To help everyone in the world have an equal opportunity for success
-
-**[Get in Touch](carolinekeyes@dsoglobal.org)**
+**[Get in Touch](mailto:carolinekeyes@dsoglobal.org)**

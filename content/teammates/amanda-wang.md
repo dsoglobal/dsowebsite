@@ -2,11 +2,12 @@
 date: 2020-04-13T00:52:39.135Z
 teams:
   - Bay Area
+Location: Stanford
 title: Amanda Wang
 subtitle: “Whether you think you can, or you think you can’t, you’re right.” - Henry Ford
 dsotitle:
+  - Co-President
   - Student Consultant
-  - Project Lead
 thumb_img_path: /images/amanda-wang.png
 actions:
   - label: LinkedIn
@@ -23,4 +24,4 @@ layout: post
 
 Positively affect those around me
 
-**[Get In Touch](mailto:awang21@stanford.edu)**
+**[Get In Touch](mailto:awang21@dsoglobal.org)**

@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 media_folder: static/images
 public_folder: /images
 collections:
@@ -396,6 +396,7 @@ collections:
                     name: subtitle
                     label: Subtitle
                     required: false
+                    hint: The subtitle of the section.
                   - widget: string
                     name: section_id
                     label: Element ID
@@ -405,11 +406,6 @@ collections:
                     label: Component
                     required: true
                     default: services_block.html
-                  - widget: string
-                    name: subtitle
-                    label: Subtitle
-                    required: false
-                    hint: The subtitle of the section.
                   - widget: list
                     name: serviceslist
                     label: Services
@@ -1088,6 +1084,11 @@ collections:
         label: Image
         required: false
         hint: The image shown below the page title and subtitle.
+      - widget: boolean
+        name: appform
+        label: Include Application Form?
+        required: false
+        default: false
       - widget: object
         name: menu
         label: Page Menus
@@ -1262,6 +1263,7 @@ collections:
         label: Link Team Members
         collection: peoplepost
         valueField: title
+        optionsLength: 1000
         multiple: true
         required: false
         searchFields:
@@ -1365,6 +1367,7 @@ collections:
                     label: Name
                     collection: peoplepost
                     valueField: title
+                    optionsLength: 1000
                     multiple: false
                     required: true
                     searchFields:
@@ -1375,12 +1378,13 @@ collections:
                     label: DSO Title
                     collection: peoplepost
                     valueField: dsotitle
-                    multiple: true
+                    optionsLength: 1000
+                    multiple: false
                     required: false
                     searchFields:
                       - title
-                      - dsotitle
                     displayFields:
+                      - title
                       - dsotitle
                     hint: The DSO titles of the team member. Search by name. Add team member under Individual Team Members first.
                   - widget: relation
@@ -1388,6 +1392,7 @@ collections:
                     label: Picture
                     collection: peoplepost
                     valueField: thumb_img_path
+                    optionsLength: 1000
                     multiple: false
                     required: false
                     searchFields:
@@ -1427,7 +1432,12 @@ collections:
         required: false
         searchFields:
           - title
-        hint: The team you are on. Add teams under Individual Teams first.        
+        hint: The team you are on. Add teams under Individual Teams first.       
+      - widget: string
+        name: Location
+        label: Location
+        required: false
+        hint: (Optional) Additional location information, for example Berkeley, Stanford or Amsterdam
       - widget: string
         name: title
         label: Name
@@ -1449,8 +1459,19 @@ collections:
           - Student Consultant
           - Advisor
           - CXO
+          - Board Member
           - Project Lead
           - Recruiting Lead
+          - Vice President
+          - President
+          - Co-President
+          - Executive Board
+          - Community Outreach
+          - Community Building Chair
+          - Marketing Manager
+          - Summer Intern
+          - Recruitment Chair
+          - Business Development Chair
           - Alumni (Student)
           - Alumni (Engagement Lead or Advisor)
           - Other
@@ -1531,7 +1552,7 @@ collections:
       - widget: list
         name: tags
         label: Tags
-        hint: Add tags for the blog areas, separated by comma and space - e.g. human empowerment, economic development
+        hint: Add tags for the blog areas, separated by comma and space - e.g. human empowerment, economic development. Small quirk - you have to type words together (e.g. humanempowerment) then use the back arrow to go back and add the space.
         required: false        
       - widget: hidden
         name: layout

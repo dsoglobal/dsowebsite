@@ -4,6 +4,18 @@
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>
   <p class="form-row">
+    <label class="form-label" for="contact-user-subject">Subject</label>
+    <select name="name" id="contact-user-subject" class="form-input">
+      <option hidden disabled selected value>Select an Option</option>
+      <option value="EL">Work with DSO as a Professional Consultant</option>
+      <option value="Student">Work with DSO as a Student Consultant</option>
+      <option value="Partner">Work with DSO as a Client</option>
+      <option value="Newsletter">Subscribe to Occasional Updates</option>
+      <option value="Other">Other</option>
+    </select>
+    <span class="input-focus" aria-hidden="true"></span>
+  </p>
+  <p class="form-row">
     <label class="form-label" for="contact-user-name">Name</label>
     <input type="text" name="name" id="contact-user-name" class="form-input" placeholder="Enter your name">
     <span class="input-focus" aria-hidden="true"></span>

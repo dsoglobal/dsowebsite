@@ -1,10 +1,19 @@
 ---
+excerpt: Wei had had the privilege of working with an amazing community located
+  in the foothills of Nepal, called Sabhung. As part of the Hartford
+  Professional Chapter (HPC) of Engineers without Borders (EWB) USA, he
+  partnered with a local NGO, Namlo, to help improve water access to the Ward 8
+  community of about 800 residents.
+content_img_path: ""
+showcomments: true
 date: 2014-11-18T05:00:00.000Z
 title: Improving Water Access in Nepal
 thumb_img_path: /images/415055_orig.png
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - Nepal
+  - Water
+  - engineer
+  - Personal Reflection
 layout: post
 ---
 ***View overlooking Sabhung, Nepal community***

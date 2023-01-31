@@ -6,7 +6,7 @@ sections:
       volunteer-led consultancy teams talented and dedicated professionals and
       university students.
     section_id: hero
-    title: Development Solution Organization
+    title: Development Solutions Organization
     type: heroblock
   - component: services_block.html
     section_id: services
@@ -64,7 +64,7 @@ sections:
           that big corporations benefit from. Our engagement with DSO has truly
           transformed our business and we expect to be able to hire many more
           survivors as a result.
-      - author: " Justin Forzano, Founder, Cameroon Football Development Program (CFPD)"
+      - author: " Justin Forzano, Founder, Cameroon Football Development Program (CFDP)"
         content: Working with DSO was a great pleasure and ultimately beneficial to the
           growth of our organization. Early on in the consulting engagement, DSO
           took time to get a deep understanding of operations and impact and
@@ -87,7 +87,7 @@ sections:
     counterlist:
       - num_start: 0
         title: "4 or 5 partner rating on work quality and impact "
-        num_count: "100"
+        num_count: "90"
         percent: true
       - num_start: 0
         title: "# of volunteer hrs to date"

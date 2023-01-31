@@ -7,8 +7,7 @@ subtitle: Transforming and scaling high potential, early stage social impact
   organizations through the intersection of policy and business
 dsotitle:
   - Engagement Lead
-  - Managing Director
-work: Senior Consultant
+work: Lead Technologist
 company: Booz Allen Hamilton
 thumb_img_path: /images/haejin-hwang.png
 actions:
@@ -16,16 +15,15 @@ actions:
     url: https://www.linkedin.com/in/haejin-hwang-415a0341/
 layout: post
 ---
-**Why I joined DSO**:(1) Collaborate with passionate and driven individuals; (2) Work together to transform our non-profit partners and serve the world's most vulnerable populations.
+**Why I joined DSO**:
+(1) Collaborate with passionate and driven individuals; 
+(2) Work together to transform our non-profit partners and serve the world's most vulnerable populations.
 
 **Projects:**
 
-[The POISE Foundation Case Competition](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
+- [The POISE Foundation Case Competition](https://www.dsoglobal.org/posts/poise-foundation/)
+- [School Justice Project](http://www.sjpdc.org/)
 
-[School Justice Project](http://www.sjpdc.org/)
+**Aspiration(s):** Work at the intersection of policy and business to help communities be more inclusive; be paid to travel internationally and experience the world (cultures & food!)
 
-**Aspiration(s):**
-
-Work at the intersection of policy and business to help communities be more inclusive; be paid to travel internationally and experience the world (cultures & food!)
-
-[Get In Touch](haejinhwang@dsoglobal.org)
+[Get In Touch](mailto:haejinhwang@dsoglobal.org)

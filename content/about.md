@@ -1,9 +1,8 @@
 ---
 title: About Us
-subtitle: >-
-  Our mission is to partner with social impact organizations to tackle the
-  world's challenges.
-img_path: ''
+subtitle: Our mission is to partner with social impact organizations to tackle
+  the world's challenges.
+img_path: ""
 menu:
   main:
     name: About
@@ -20,7 +19,7 @@ layout: page
 
 Our vision in the short-term is to increase the availability and accessibility of “Fortune 500” caliber volunteer consulting teams. Over the long run, we aim to take a leadership role in negotiating more deliberate collaboration between the business and civic/non profit worlds. To us, every partner is an opportunity to empathize and apply insights and practices from across a wide range of sectors — and create a more inclusive approach in social impact.
 
-![](/images/dsomodel.png)
+![](/images/dsomodel2.png)
 
 # Our History
 

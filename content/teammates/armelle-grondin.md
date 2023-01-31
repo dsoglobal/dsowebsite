@@ -2,24 +2,21 @@
 date: 2020-04-13T00:10:53.734Z
 teams:
   - Bay Area
+Location: Stanford
 title: Armelle Grondin
 subtitle: “L’homme est à inventer chaque jour.”
 dsotitle:
+  - Co-President
   - Student Consultant
-  - Managing Director
 thumb_img_path: /images/armelle-grondin.png
 layout: post
 ---
-**Why I joined DSO:**
-
-To have meaningful impact on nonprofits that help communities both locally and internationally.
+**Why I joined DSO:** To have meaningful impact on nonprofits that help communities both locally and internationally.
 
 **Projects:**
 
-[BasicNeeds](https://www.basicneeds.org/)
+- [BasicNeeds](https://www.basicneeds.org/)
 
-**Aspiration(s)**
+**Aspiration(s):** Improve the lives of those in need
 
-improve the lives of those in need
-
-[Get In Touch](agrondin@dsoglobal.org)
+**[Get In Touch](mailto:agrondin@dsoglobal.org)**

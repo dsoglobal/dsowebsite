@@ -1,15 +1,20 @@
 ---
+excerpt: Ajay outlines four principles on why mentoring matters - mentoring is
+  important, each member matters, choice assignments and mentoring is a two-way
+  street.
+content_img_path: ""
+showcomments: true
 date: 2014-12-11T05:00:00.000Z
 title: Why Mentoring Matters
-thumb_img_path: ''
-content_img_path: ''
-showcomments: true
-excerpt: ''
+thumb_img_path: ""
+tags:
+  - Personal Reflection
+  - Mentoring
 layout: post
 ---
 “*Lemon, I would like to teach you something. I would like to be Michelle Pfeiffer to your angry black kid who learns that poetry is just another way to rap*.” – Jack Donaghy \[1]
 
-These were the promising words spoken by Alec Baldwin’s character to Tina Fey’s Liz Lemon as a formal offering to be her mentor. Although she initially declined, the dynamics of their quirky relationship made for excellent TV, and yet, also highlighted the importance of fostering a budding mentor-mentee relationship in the workplace.<
+These were the promising words spoken by Alec Baldwin’s character to Tina Fey’s Liz Lemon as a formal offering to be her mentor. Although she initially declined, the dynamics of their quirky relationship made for excellent TV, and yet, also highlighted the importance of fostering a budding mentor-mentee relationship in the workplace.
 
 The Harvard Business Review states “professional services firms live and die by their intellectual capital.” \[2] Jack couldn’t agree more. I would argue that we at DSO feel the same way – each one of us engagement leaders and student consultants bring valuable skills and traits to the organization and the projects we work on. Losing such talent and motivation would be a travesty.
 
@@ -38,7 +43,6 @@ Give and take can be equally rewarding and makes for a significant contribution 
 Now DSO does uniquely stand out from a traditional professional service as it is a self-selective group of young professionals and students volunteering their time and therefore it does not bear the same burdens that plague most firms of their workers. However, I would hope that mentoring does not become passé and the corporate world continues to promote the vital role a mentor can play on the psyche of a fresh employee.
 
 **Contributed by Ajay Ghadiyaram**
-
 
 \[1] "Quotes." *IMDb*. IMDb.com, n.d. Web. 08 Dec. 2014.
 

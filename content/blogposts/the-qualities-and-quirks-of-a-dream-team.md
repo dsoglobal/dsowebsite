@@ -1,14 +1,18 @@
 ---
+excerpt: Amy reflects on the roles of a dream team, outlining the Fierce
+  Imaginer, Silent Do-er, Strengths Sparker, Graceful Gather, Endless Energizer,
+  Tough Lover and Guilt Tripper.
+content_img_path: ""
+showcomments: true
 date: 2015-05-31T04:00:00.000Z
 title: The Qualities and Quirks of a Dream Team
-thumb_img_path: ''
-content_img_path: ''
-showcomments: true
-excerpt: ''
+thumb_img_path: ""
+tags:
+  - Dream Team
+  - Personal Reflection
 layout: post
 ---
 I think a lot about Dream Team and the qualities and quirks that play out in a Dream Team.
-
 
 I am lucky to have been on a few Dream Teams growing up until now. With people that can believe even more than you do, know how you are feeling before you even figure out how to express it, can seamlessly think and do bold together, pick up on each other’s subtleties, accentuate each other’s strengths, embrace each other’s failures, call you out and call you in, celebrate you in all your quirkiness, challenge you and challenge the norm, motivate you to be the best you, and drive you absolutely insane. 
 
@@ -70,7 +74,7 @@ This person also helps us hold ourselves accountable to each other and to high s
 
 Bring in The Guilt Tripper wisely because she/he is very powerful. 
 
-*Note: The Guilt Tripper cannot be swayed with baked goods or other acts of post-sincerity, so don’t even try.* <
+*Note: The Guilt Tripper cannot be swayed with baked goods or other acts of post-sincerity, so don’t even try.*
 
 <font color="#ff6600">**To the Dream Team. These are wholesome humans. The best kind. I am keeping them close.** </font>
 

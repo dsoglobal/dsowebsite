@@ -2,7 +2,6 @@
 
 <div class="outer">
   <div class="inner">
-
     <article class="post page post-full">
       <header class="post-header inner-small">
         <h1 class="post-title line-top">{{ .Params.title }}</h1>
@@ -18,11 +17,12 @@
       </div><!-- .post-thumbnail -->
       {{ end }}
       <div class="post-content inner-small">
+       {{ if .Params.appform }}
+        {{ partial "application_form.html" . }}
+       {{ end }}
         {{ .Content }}
       </div><!-- .post-content -->
     </article><!-- .post -->
-
   </div><!-- .inner-->
 </div><!-- .outer -->
-
 {{ end }}

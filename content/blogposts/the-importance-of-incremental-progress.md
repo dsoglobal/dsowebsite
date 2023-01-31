@@ -1,10 +1,17 @@
 ---
+excerpt: Saurabh reflects on time spent at an ART clinic in Zambia working with
+  3 other classmates on a project to improve overall patient wait-time. This
+  incremental progress is hugely rewarding and impactful and the reason why more
+  of us need to work on the world’s biggest challenges.
+content_img_path: ""
+showcomments: true
 date: 2014-04-01T04:00:00.000Z
 title: The Importance of Incremental Progress
 thumb_img_path: /images/2347778_orig.jpg
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - Zambia
+  - medical
+  - Personal Reflection
 layout: post
 ---
 Once you are HIV positive, there is no cure. To survive, you need to take antiretrovirals every day for the rest of your life. Or as one patient stated, “You start treating pills like food”. Zambia currently has an AIDS epidemic with over ~12% of the population between 15-45 being HIV positive. Over the past 2 weeks, I have been working with 3 other classmates in an ART clinic working on a project to improve overall patient wait-time. Once a week, the clinic has a pediatrics day where children are invited. Many of these children have been infected since birth as a result of their mothers having a lack of access to drugs, having a lack of awareness of their status, or not being adherent to a proper drug regimen. Luckily the Government of Zambia has spearheaded multiple initiatives to improve access to medication to people in low income communities. Although progress has been made, the current state remains an epidemic and further solutions are required to help solve the epidemic.

@@ -1,10 +1,17 @@
 ---
+excerpt: Lizzie reflects on her experience at the Women Techmaker's Summit
+  hosted by Google, where she had the opportunity to network with many talented
+  women working in tech, as well as hear great talks by some of the tech
+  industry's most inspiring women leaders.
+content_img_path: ""
+showcomments: true
 date: 2014-03-13T04:00:00.000Z
 title: Women Techmakers Summit
-thumb_img_path: ''
-content_img_path: ''
-showcomments: true
-excerpt: ''
+thumb_img_path: ""
+tags:
+  - Personal Reflection
+  - women
+  - techmakers
 layout: post
 ---
 A belated Happy International Women's Day! Last weekend, I attended the [Women Techmakers Summit](http://g.co/WomenTechmakers) hosted by [Google](http://www.google.com/) at their Mountain View campus. I had the opportunity to network with many talented women working in tech, as well as hear great talks by some of the tech industry's most inspiring women leaders!

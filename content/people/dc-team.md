@@ -15,25 +15,80 @@ sections:
           - '["Student Consultant"]'
         avatar: /images/connor.jpg
       - type: testimonialsblock
-        author: Javier Guerrero Vicente
+        author: Chloe Li
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jvg.jpg
+          - Student Consultant
+        avatar: /images/0-20-.jpg
       - type: testimonialsblock
-        author: Michael Miller
+        author: Alice Ye
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/michaelmiller.jpg
+          - Student Consultant
+        avatar: /images/0-21-.jpg
       - type: testimonialsblock
-        author: Susie Kim
+        author: Kathy Chung
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/susiekim.jpg
+          - Student Consultant
+        avatar: /images/0-22-.jpg
       - type: testimonialsblock
-        author: Jacob Cohen
+        author: Ananya Chowla
         dsotitle:
-          - '["Student Consultant"]'
-        avatar: /images/jacobcohen.jpg
+          - Student Consultant
+        avatar: /images/0-7-.jpg
+      - type: testimonialsblock
+        author: Jacob VanderZwaag
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-23-.jpg
+      - type: testimonialsblock
+        author: Annika Lin
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-24-.jpg
+      - type: testimonialsblock
+        author: Anika Venkatesh
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-25-.jpg
+      - type: testimonialsblock
+        author: Kaycee Ikeonu
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-26-.jpg
+      - type: testimonialsblock
+        author: Ji Yeon Suh
+        dsotitle:
+          - Student Consultant
+        avatar: /images/jiyeonsuh.png
+      - type: testimonialsblock
+        author: Sargun Kaur
+        dsotitle:
+          - Student Consultant
+        avatar: /images/kaur.png
+      - type: testimonialsblock
+        author: Katherine Zhuo
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-27-.jpg
+      - type: testimonialsblock
+        author: May Tan
+        dsotitle:
+          - Student Consultant
+        avatar: /images/0-28-.jpg
+      - type: testimonialsblock
+        author: Richelle Chow
+        dsotitle:
+          - Student Consultant
+        avatar: /images/richellechow.jpg
+      - type: testimonialsblock
+        author: Yichu Huang
+        dsotitle:
+          - Student Consultant
+        avatar: /images/yichu.png
+      - type: testimonialsblock
+        author: Jackson Mittleman
+        dsotitle:
+          - Student Consultant
+        avatar: /images/mittleman.jpg
     title: DC Team
     teammembers: []
   - type: testimonialsblock
@@ -42,54 +97,73 @@ sections:
     subtitle: Engagement Leads and Advisers
     testimonialslist:
       - type: testimonialsblock
-        author: Haejin Hwang
-        dsotitle:
-          - '["Engagement Lead","Managing Director"]'
-        avatar: /images/haejin-hwang.png
-      - type: testimonialsblock
-        author: Mary Mallampalli
-        dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/marym.jpg
-      - type: testimonialsblock
-        author: Anthony Buchanan
-        dsotitle: '["Engagement Lead","CXO"]'
-        avatar: /images/anthonyb.jpg
-      - type: testimonialsblock
-        author: Marcy Held
-        dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/screen-shot-2020-04-12-at-5.49.48-pm.png
-      - type: testimonialsblock
-        author: Aparna Sanjay
-        dsotitle:
-          - '["Advisor"]'
-        avatar: /images/aparna.jpg
-      - type: testimonialsblock
         author: Emily Rosenberg
         dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/emilyr.jpg
+          - Managing Director
+          - Engagement Lead
+        avatar: /images/emilyrosenberg.jpg
       - type: testimonialsblock
-        author: Haidi Al-Shabrawey
+        author: Jonathan Jerez
         dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/0-1
+          - Managing Director
+          - Engagement Lead
+        avatar: /images/blank.png
       - type: testimonialsblock
-        author: Jack Chan
+        author: Haejin Hwang
         dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/jackchan.jpg
+          - Engagement Lead
+        avatar: /images/haejin-hwang.png
       - type: testimonialsblock
-        author: Justin Pizzimenti
+        author: Anthony Buchanan
         dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/justinp.jpg
+          - Engagement Lead
+          - CXO
+        avatar: /images/anthonyb.jpg
       - type: testimonialsblock
-        author: Sneha Krishnan
+        author: Patrice Major
         dsotitle:
-          - '["Engagement Lead"]'
-        avatar: /images/sneha.jpg
+          - Engagement Lead
+        avatar: /images/blank.png
+      - type: testimonialsblock
+        author: Brian Aamoth
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-14-.jpg
+      - type: testimonialsblock
+        author: Matt Green
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-15-.jpg
+      - type: testimonialsblock
+        author: Emily Blagg
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-16-.jpg
+      - type: testimonialsblock
+        author: Max Zeitlin
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-17-.jpg
+      - type: testimonialsblock
+        author: Christina McAllister
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-18-.jpg
+      - type: testimonialsblock
+        author: Katie Donnelly
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/0-19-.jpg
+      - type: testimonialsblock
+        author: Matthew Li
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/mattli.jpg
+      - type: testimonialsblock
+        author: Sarah Galvin
+        dsotitle:
+          - Engagement Lead
+        avatar: /images/1620882325086.jpg
     teammembers:
       - Anthony Buchanan
 ---

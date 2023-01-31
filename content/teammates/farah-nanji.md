@@ -2,13 +2,14 @@
 date: 2020-04-13T00:33:52.105Z
 teams:
   - Bay Area
+Location: Berkeley
 title: "Farah Nanji "
 subtitle: “I see the world in terms of what I would like to see happen, not what
   actually does.” - Paulo Coelho
 dsotitle:
+  - Advisor
   - Student Consultant
-  - Managing Director
-thumb_img_path: /images/farah-nanji.png
+thumb_img_path: /images/farah.jpeg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/farah-nanji-583a36149/
@@ -28,4 +29,4 @@ I joined DSO because I want to work with and learn from individuals also passion
 
 To be a part of or start an organization in either Central or East Africa that strives to alleviate poverty sustainably in a creative way
 
-**[Get In Touch](farahnanji@berkeley.edu)**
+**[Get In Touch](mailto:farahnanji@dsoglobal.org)**

@@ -2,11 +2,14 @@
 date: 2020-04-13T00:15:44.274Z
 teams:
   - Bay Area
+Location: Stanford
 title: Polly Moser
 subtitle: "Striving to find balance and make the world a better place "
 dsotitle:
+  - Executive Board
   - Student Consultant
 work: ""
+company: Stanford University
 thumb_img_path: /images/polly-moser.png
 actions:
   - label: LinkedIn
@@ -19,8 +22,6 @@ layout: post
 
 [Costa Rican Humanitarian Foundation](http://www.crhf.org/)
 
-**Aspiration(s):**
+**Aspiration(s):** Encourage corporate social responsibility and find a way to make an impact!
 
-Encourage corporate social responsibility and find a way to make an impact!
-
-**[Get in Touch](pmoser@dsoglobal.org)**
+**[Get in Touch](mailto:pmoser@dsoglobal.org)**

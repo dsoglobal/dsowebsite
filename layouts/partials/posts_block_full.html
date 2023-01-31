@@ -1,10 +1,8 @@
 <section id="{{ .section.section_id }}" class="posts-block block outer">
-             <div class="innercategorytag">
-               {{ partial "tagcats.html" . }}
-           </div>
   <div class="inner">
       <div class="block-content">
         <div class="post-feed">
+          {{ partial "tagcats.html" . }}
           {{ $display_posts := ((.Site.GetPage "section" "/posts").Pages).ByDate.Reverse }}
           {{ $recent_posts := $display_posts | first .section.num_posts_displayed }}
           {{ range $post := $recent_posts }}

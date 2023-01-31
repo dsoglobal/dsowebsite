@@ -1,10 +1,17 @@
 ---
+excerpt: Design thinking is a concept that has seen increased interest in DSO
+  recently. Our professional volunteers have been introduced to frameworks and
+  tools around implementing design thinking into project work. Companies such as
+  SAP, Pariveda, and Ashoka have all contributed to an increasing awareness of
+  design thinking.
+content_img_path: ""
+showcomments: true
 date: 2017-06-30T04:00:00.000Z
 title: DSO Design Thinking Workshop
 thumb_img_path: /images/screen-shot-2017-06-18-at-08-04-29_orig.png
-content_img_path: ''
-showcomments: true
-excerpt: ''
+tags:
+  - design thinking
+  - workshop
 layout: post
 ---
 Design thinking is a concept that has seen increased interest in DSO recently. Our professional volunteers have been introduced to frameworks and tools around implementing design thinking into project work. Companies such as SAP, Pariveda, and Ashoka have all contributed to an increasing awareness of design thinking. With many DSO members gaining new insights and knowledge about design thinking, we have launched an initiative to introduce design thinking concepts and tools to DSO project teams.

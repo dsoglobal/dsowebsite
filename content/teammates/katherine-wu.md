@@ -2,6 +2,7 @@
 date: 2020-04-13T00:41:54.721Z
 teams:
   - Bay Area
+Location: Stanford
 title: Katherine Wu
 subtitle: “You’re braver than you believe, and stronger than you seem, and
   smarter than you think.” – Winnie the Pooh
@@ -26,4 +27,4 @@ layout: post
 
 I want to use technology to solve problems and improve the lives of those around us.
 
-**[Get In Touch](kjwu00@stanford.edu)**
+**[Get In Touch](mailto:kjwu00@stanford.edu)**

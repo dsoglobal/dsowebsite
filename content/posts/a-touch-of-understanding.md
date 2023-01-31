@@ -1,12 +1,11 @@
 ---
-title: 'A Touch of Understanding '
-subtitle: 'Organizational Expansion Strategies '
+title: "A Touch of Understanding "
+subtitle: "Organizational Expansion Strategies "
 date: 2017-11-01T04:00:00.000Z
 thumb_img_path: /images/atou.jpg
-excerpt: >-
-  DSO partnered with A Touch of Understanding to evaluate expansion strategies,
-  sustainable financial models, set goals and research how similar programs have
-  scaled up in support of their disability awareness programs.
+excerpt: DSO partnered with A Touch of Understanding to evaluate expansion
+  strategies, sustainable financial models, set goals and research how similar
+  programs have scaled up in support of their disability awareness programs.
 categories:
   - Strategy
   - Knowledge Management
@@ -26,7 +25,4 @@ layout: post
 >
 > – Leslie DeDora, Executive Direction and Founder, ATOU
 
-\
-**Team:** Deena Kim, Anna von Wendorff, Virginia Rose La Puma, Evelyn Tavares Colunga,
-
-Christiana Lee, Angela Luo, Steven Michael Wang
+**Team:** Deena Kim, Anna von Wendorff, Virginia Rose La Puma, Evelyn Tavares Colunga, Christiana Lee, Angela Luo, Steven Michael Wang

@@ -1,21 +1,28 @@
 ---
+excerpt: Amy reflects on her experience at the American Red Cross Global Refugee
+  Simulation. Families forced to leave their homes would never have a home
+  again. Water, food, sanitation, and education; basic necessities to her, had
+  become a luxury for 15.4 million people around the world.
+content_img_path: ""
+showcomments: true
 date: 2014-04-01T04:00:00.000Z
 title: Six hours in the life of a refugee …
-thumb_img_path: ''
-content_img_path: ''
-showcomments: true
-excerpt: ''
+thumb_img_path: ""
+tags:
+  - Red Cross
+  - Refugee
+  - Personal Reflection
 layout: post
 ---
 This past Saturday I participated in the [American Red Cross Global Refugee Simulation](http://www.redcross.org/global-refugee-simulation-and-conference). 
 
-In college I learned about how entire generations can pass in refugee camps. Families forced to leave their homes would never have a home again. Water, food, sanitation, and education &#8212; basic necessities to me, had become a luxury for 15.4 million people around the world.
+In college I learned about how entire generations can pass in refugee camps. Families forced to leave their homes would never have a home again. Water, food, sanitation, and education; basic necessities to me, had become a luxury for 15.4 million people around the world.
 
 How could this be fair? On Saturday, I experienced just a little bit of how unfair it is. 
 
 It was a cold and rainy day. We were told the simulation would happen regardless of the weather because refugees often live through inclement weather. When I checked in, I was given two tokens. One token represented my dignity and the other token represented my self worth. I was warned not to lose these tokens during my journey. 
 
-I then joined a group of participants and we were dubbed the Limboda family from Qinta. During our ride to the refugee site, we carefully studied our family background, country history, and simulation ground rules. Winston Limboda was the patriarch of our family, a former university dean and philosophy professor. His wife Denny and daughter Sydney were elementary school teachers. Sydney’s husband Jessie, was a professor and the head of our household. The Limbodas adopted the neighboring children Avery and Micah, whose parents were killed as a result of violent conflict. There were also two family members, Christina and Hyun Ji, that were forcefully separated from us years ago and we would be desperately searching for them during our journey.<
+I then joined a group of participants and we were dubbed the Limboda family from Qinta. During our ride to the refugee site, we carefully studied our family background, country history, and simulation ground rules. Winston Limboda was the patriarch of our family, a former university dean and philosophy professor. His wife Denny and daughter Sydney were elementary school teachers. Sydney’s husband Jessie, was a professor and the head of our household. The Limbodas adopted the neighboring children Avery and Micah, whose parents were killed as a result of violent conflict. There were also two family members, Christina and Hyun Ji, that were forcefully separated from us years ago and we would be desperately searching for them during our journey.
 
 I was Micah, 21 years old and my sister Avery was 19 years old. We only had a high school education. 
 
@@ -62,5 +69,5 @@ After graduation, I grasped the opportunity to work at the International Institu
 There were a series of gun shootings in St. Louis this past year. Innocent people died, including a resettled refugee who had a family and a newborn child. One of my former clients, a resettled refugee from Senegal and owner of her own hairbraiding business became determined to start Community Talk Information Centers where she could educate others about nonviolence, health, entrepreneurship, and bring together other resources that would help her community thrive.  A gun shooting had occurred right next to her business.
 
 I dedicate this post to the refugees that have touched my life in so many ways. I hope I can do justice to your stories and resiliency. 
-  
+
 **Contributed by Amy Badiani**

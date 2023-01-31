@@ -1,10 +1,13 @@
 ---
 date: 2014-08-25T04:00:00.000Z
 title: Agency and Positive Change
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: ""
+content_img_path: ""
 showcomments: true
-excerpt: ''
+excerpt: "Agency, in simple terms, deals with choices. Your capacity to make
+  choices and decisions to determine your future and shape the world around you.
+  People’s happiness, health and well being are closely tied to their agency
+  whether they are in the “first world”; countries or developing nations. "
 layout: post
 ---
 Over the last few weeks and months, the news has been filled with disturbing global conflicts. There have also been various human level conflicts - Eric Garner or Michael Brown versus the police or the various issues over diversity in technology and the treatment of women and minorities, both professionally and in society. No matter your personal politics, the human tragedy of these events touched a chord and sparked many conversations in the media, around dinner tables and among friends.  As I think about the conversations I've had or seen play out on social media there has been a consistent underlying thread throughout – the concept of agency.

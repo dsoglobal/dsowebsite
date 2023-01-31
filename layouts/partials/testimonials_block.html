@@ -1,57 +1,57 @@
 <section id="{{ .section.section_id }}" class="block testimonials-block outer">
-	<div class="inner">
-	  <div class="block-inside">
-		<div class="block-header">
-		  <h2 class="block-title line-top">{{ .section.title }}</h2>
-		  {{ if .section.subtitle }}
-		  <p class="block-subtitle">
-			{{ .section.subtitle | safeHTML }}
-		  </p>
+  <div class="inner">
+    <div class="block-inside">
+      <div class="block-header">
+        <h2 class="block-title line-top">{{ .section.title }}</h2>
+        {{ if .section.subtitle }}
+        <p class="block-subtitle">
+          {{ .section.subtitle | safeHTML }}
+        </p>
+        {{ end }}
+      </div><!-- .block-header -->
+      {{ if .section.testimonialslist }}
+      <div class="block-content">
+        <div class="testimonials-list">
+       {{ range $testimonial := .section.testimonialslist }}
+        <p class="testimonial-footer">
+            <p class="testimonial">
+               {{ if $testimonial.avatar }}
+		  {{ if $testimonial.linkstatus }}
+		    <img class="testimonial-avatar-small" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
+		  {{ else }}		  
+                   <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
 		  {{ end }}
-		</div><!-- .block-header -->
-		{{ if .section.testimonialslist }}
-		<div class="block-content">
-		  <div class="testimonials-list">
-		 {{ range $testimonial := .section.testimonialslist }}
-		  <p class="testimonial-footer">
-			  <p class="testimonial">
-				 {{ if $testimonial.avatar }}
-			{{ if $testimonial.linkstatus }}
-			  <img class="testimonial-avatar-small" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-			{{ else }}		  
-					 <img class="testimonial-avatar" src="{{ $testimonial.avatar | relURL }}" alt="Author avatar">
-			{{ end }}
-				 {{ end }}
-			 {{ if  $testimonial.author }}
-			   <cite class="testimonial-author">{{ $testimonial.author }}</cite>
-			 {{ end }}
-			 {{ if  $testimonial.dsotitle }}
-		   {{ if $testimonial.dsotitle  }}
-			 {{ $dsotitleval :=  replace (trim (delimit $testimonial.dsotitle " and ") "[],\"") "\",\"" " and \n" }}
-			  <cite class="testimonial-title">{{ $dsotitleval }}</cite>
-		   {{ else }}
-			 {{ $dsotitleval :=  replace (trim $testimonial.dsotitle "[],\"") "\",\"" " and \n" }}
-			  <cite class="testimonial-title">{{ $dsotitleval }}</cite>
-			   {{ end }}		   
-		  {{ end }}
-			 {{ if  $testimonial.content }}
-					 {{ $testimonial.content | safeHTML }}
-			 {{ end }}
-			 {{ if $testimonial.actions }}
-			 {{ range $action := $testimonial.actions }}
-				   <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
-			 {{ end }}
-			 {{ end }}
-			 {{ if not $testimonial.linkstatus }}
-			{{ $pglink :=  $testimonial.author | urlize }}
-				 <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
-			 {{ end }}      
-			  </p><!-- .testimonial -->          
-		  </p>        
-		  {{ end }}
-		  </div><!-- .testimonials-list -->        
-		</div><!-- .block-content -->
-	  {{ end }}
-	  </div><!-- .block-inside -->
-	</div><!-- .inner -->
-  </section><!-- .block -->
+               {{ end }}
+	       {{ if  $testimonial.author }}
+	         <cite class="testimonial-author">{{ $testimonial.author }}</cite>
+	       {{ end }}
+	       {{ if  $testimonial.dsotitle }}
+		 {{ if $testimonial.dsotitle  }}
+		   {{ $dsotitleval :=  replace (trim (delimit $testimonial.dsotitle " and ") "[],\"") "\",\"" " and \n" }}
+		    <cite class="testimonial-title">{{ $dsotitleval }}</cite>
+		 {{ else }}
+		   {{ $dsotitleval :=  replace (trim $testimonial.dsotitle "[],\"") "\",\"" " and \n" }}
+		    <cite class="testimonial-title">{{ $dsotitleval }}</cite>
+	         {{ end }}		   
+		{{ end }}
+	       {{ if  $testimonial.content }}
+	       		{{ $testimonial.content | safeHTML }}
+	       {{ end }}
+	       {{ if $testimonial.actions }}
+		   {{ range $action := $testimonial.actions }}
+		         <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+		   {{ end }}
+	       {{ end }}
+	       {{ if not $testimonial.linkstatus }}
+		  {{ $pglink :=  $testimonial.author | urlize }}
+		       <a href="/teammates/{{ $pglink }}" class="button">Learn More</a> 
+	       {{ end }}      
+            </p><!-- .testimonial -->          
+        </p>        
+        {{ end }}
+        </div><!-- .testimonials-list -->        
+      </div><!-- .block-content -->
+    {{ end }}
+    </div><!-- .block-inside -->
+  </div><!-- .inner -->
+</section><!-- .block -->

@@ -1,6 +1,7 @@
 ---
 date: 2020-03-29T04:08:00.694Z
 teams:
+  - DSO Board and Leadership
   - Bay Area
 title: Saurabh Sanghvi
 subtitle: Junkie. Sports, Development, Mexican Food
@@ -23,40 +24,23 @@ I have stayed because of the unparalleled learning I have had through interactio
 
 **Projects:**
 
-[Cameroon Football Development Program](https://openfieldintl.org/) 
+- [Cameroon Football Development Program](https://openfieldintl.org/)
+- [Case Competition with Building New Hope](https://dsoglobal.org/posts/building-new-hope-bnh/)
+- [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
+- [Creative Associates](https://www.creativeassociatesinternational.com/)
+- [Disrupt: Social Games for Peace](https://dsoglobal.org/posts/disrupt/) 
+- DSO Labs
+- [Global Health Media Project](https://dsoglobal.org/posts/global-health-media-project/)
+- [Gooru](http://gooru.org/about/)
+- Habla Centro
+- [Kara Solar](https://karasolar.com/)
+- [Kiva](https://www.kiva.org/)
+- [Mediators Beyond Borders: Impact Investment Strategy](https://mediatorsbeyondborders.org/)
+- [PlanJunto: Social Eco Incubator](https://dsoglobal.org/posts/planjunto/)
+- Pro Use
+- [Samasource](https://www.samasource.com/)
+- Tierra Roja
 
-[Case Competition with Building New Hope](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
-
-[Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
-
-[Creative Associates](https://www.creativeassociatesinternational.com/)
-
-[Disrupt: Social Games for Peace](https://dsowebsite-179d5.netlify.com/posts/disrupt/) 
-
-DSO Labs
-
-[Global Health Media Project](https://dsowebsite-179d5.netlify.com/posts/global-health-media-project/)
-
-[Gooru](http://gooru.org/about/)
-
-Habla Centro
-
-[Kara Solar](https://karasolar.com/)
-
-[Kiva](https://www.kiva.org/)
-
-[Mediators Beyond Borders: Impact Investment Strategy](https://mediatorsbeyondborders.org/)
-
-[PlanJunto: Social Eco Incubator](https://dsowebsite-179d5.netlify.com/posts/planjunto/)
-
-Pro Use
-
-[Samasource](https://www.samasource.com/)
-
-Tierra Roja
-
-**Aspiration(s):**
-
-To keep learning, helping, and having fun
+  **Aspiration(s):** To keep learning, helping, and having fun
 
 **[Get in Touch](mailto:ssanghvi@dsoglobal.org)**

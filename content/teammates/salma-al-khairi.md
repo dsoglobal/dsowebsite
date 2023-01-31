@@ -2,9 +2,11 @@
 date: 2020-04-12T23:14:07.127Z
 teams:
   - Bay Area
+Location: Berkeley
 title: Salma Al-Khairi
 subtitle: "Few know how much we must know in order to know how little we know. "
 dsotitle:
+  - Vice President
   - Student Consultant
 thumb_img_path: /images/salma-al-khairi.jpg
 layout: post

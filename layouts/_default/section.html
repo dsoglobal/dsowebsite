@@ -1,0 +1,32 @@
+{{ define "content" }}
+
+{{ range $section := .Params.sections }}
+  {{ $include_dict := dict "section" $section "Site" $.Site }}
+  {{ partial $section.component $include_dict }}
+
+<section id="{{ .section.section_id }}" class="posts-block block outer">
+  <div class="inner">
+    <div class="block-inside">
+      <div class="block-header">
+        <h2 class="block-title line-top">{{ .section.title }}</h2>
+        {{ if .section.subtitle }}
+        <p class="block-subtitle">
+          {{ .section.subtitle | safeHTML }}
+        </p>
+        {{ end }}
+      </div><!-- .block-header -->
+      <div class="block-content">
+        {{ if .section.actions }}
+        <p class="block-cta">
+          {{ range $action := .section.actions }}
+          <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+          {{ end }}
+        </p><!-- .block-cta -->
+        {{ end }}
+      </div><!-- .block-content -->
+    </div><!-- .block-inside -->
+  </div><!-- .inner -->
+</section><!-- .block -->
+{{ end }}
+
+{{ end }}

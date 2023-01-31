@@ -1,6 +1,7 @@
 ---
 date: 2020-03-04T06:55:48.808Z
 teams:
+  - DSO Board and Leadership
   - Washington DC
 title: Anthony Buchanan
 subtitle: Technology Makes Me Happy
@@ -9,7 +10,7 @@ dsotitle:
   - CXO
 work: Senior Lead Technologist
 company: Booz Allen Hamilton
-thumb_img_path: /images/anthonyb.jpg
+thumb_img_path: /images/headshot_new.jpeg
 actions:
   - label: LinkedIn
     url: https://www.linkedin.com/in/anthonyjbuchanan
@@ -21,22 +22,18 @@ layout: post
 
 **Projects:** 
 
-[Case Competition with Building New Hope](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=107650)
+- [Case Competition with Building New Hope](https://dsoglobal.org/posts/building-new-hope-bnh/)
+- [Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
+- [Family Crisis Center of Baltimore](https://www.dsoglobal.org/posts/family-crisis-center-of-baltimore/)
+- [Creative Associates](https://www.creativeassociatesinternational.com/)
+- Freedom Connect
+- Watkins Elementary School
+- [Disrupt: Social Games for Peace](https://dsoglobal.org/posts/disrupt/) 
+- [PlanJunto: Social Eco Incubator](https://dsoglobal.org/posts/planjunto/)
+- [Hummingbill: Mobile Billing](https://gust.com/companies/hummingbill) (Acquired by KredX)
+- [PlanJunto: Social Eco Incubator](https://dsoglobal.org/posts/planjunto/)
+- [School Justice Project](http://www.sjpdc.org/)
 
-[Case Competition with DSO](https://www.globalgiving.org/projects/enable-volunteer-consultants-tackle-global-issues/reports/?subid=127473)
-
-[Disrupt: Social Games for Peace](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVTkc3NTB1ZU5raEE&sa=D&ust=1583293938901000&usg=AFQjCNGT7bu80isx1age-jQ50_C4y4Znhg)
-
-[Hummingbill: Mobile Billing](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
-
-[PlanJunto: Social Eco Incubator](https://www.google.com/url?q=https://drive.google.com/open?id%3D0ByJIhlEpMRsVQXAtZVlSdEZBV2s&sa=D&ust=1583293938900000&usg=AFQjCNE4yUlzj_GtTy2H_izeEA2p_xYyuA)
-
-School Justice Project
-
-**Aspiration(s):**
-
-To lead a team using technology to inspire and innovate (CTO/COO)
-
-To help DSO become a leader in helping non profits reach their full potential
+**Aspiration(s):** To lead a team using technology to inspire and innovate (CTO/COO) and to help DSO become a leader in helping non profits reach their full potential
 
 **[Get in Touch](mailto:anthonybuchanan@dsoglobal.org)**
