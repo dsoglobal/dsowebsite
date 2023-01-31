@@ -1,5 +1,9 @@
 {{ define "content" }}
 
+{{ range $section := .Params.sections }}
+  {{ $include_dict := dict "section" $section "Site" $.Site }}
+  {{ partial $section.component $include_dict }}
+
 <section id="{{ .section.section_id }}" class="posts-block block outer">
   <div class="inner">
     <div class="block-inside">
@@ -23,5 +27,6 @@
     </div><!-- .block-inside -->
   </div><!-- .inner -->
 </section><!-- .block -->
+{{ end }}
 
 {{ end }}
