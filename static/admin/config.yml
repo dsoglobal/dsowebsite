@@ -140,7 +140,7 @@ collections:
                     hint: Position for sorting
                     valueType: int
                   - widget: string
-name: parent
+                    name: parent
                     label: Parent Menu Identifier
                     required: false
                     hint: >-
