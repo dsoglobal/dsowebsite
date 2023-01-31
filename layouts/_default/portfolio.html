@@ -13,7 +13,7 @@
       {{ $display_projects := ((.Site.GetPage "section" "/people").Pages) }}
       {{ range $post := $display_projects }}
       <article class="post project">
-        <a href="{{ $post.URL }}" class="post-link">
+        <a href="{{ $post.Permalink }}" class="post-link">
           {{ if $post.Params.thumb_img_path }}
           <div class="post-thumbnail">
             <img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" />
