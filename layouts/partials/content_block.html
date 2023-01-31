@@ -15,7 +15,7 @@
           {{ if .section.actions }}
           <p class="block-cta">
             {{ range $action := .section.actions }}
-            <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
+            <a href="{{ $action.Permalink | relURL }}" class="button">{{ $action.label }}</a>
             {{ end }}
           </p>
           {{ end }}
