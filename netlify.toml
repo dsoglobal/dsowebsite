@@ -3,8 +3,8 @@ publish = "public"
 command = "./stackbit-build.sh"
 functions = "./functions"
 
-  [build.environment]
-  HUGO_VERSION = "0.47"
+[build.environment]
+  HUGO_VERSION = "0.110.0"
 
 [[plugins]]
   package = "@netlify/plugin-sitemap"
