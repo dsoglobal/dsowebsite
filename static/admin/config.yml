@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
 media_folder: static/images
 public_folder: /images
 collections:
@@ -140,7 +140,7 @@ collections:
                     hint: Position for sorting
                     valueType: int
                   - widget: string
-                    name: parent
+name: parent
                     label: Parent Menu Identifier
                     required: false
                     hint: >-
