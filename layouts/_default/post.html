@@ -50,7 +50,7 @@
       <p class="block-cta">
         {{ range $key, $value := .Params.actions }}
           {{if ne $value "null"}}
-            <a href="{{ $value.url | relURL }}" class="button">{{ $value.label }}</a>
+            <a href="{{ $value.Permalink | relURL }}" class="button">{{ $value.label }}</a>
           {{end}}
         {{ end }}
       </p><!-- .block-cta -->
