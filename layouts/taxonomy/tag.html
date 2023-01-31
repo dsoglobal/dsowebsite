@@ -15,10 +15,10 @@
 	     {{ range $post := (.Data.Pages).ByDate.Reverse }}
 		<article class="post">
 		  {{ if $post.Params.thumb_img_path }}
-		     <a class="post-thumbnail" href="{{ $post.URL }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
+		     <a class="post-thumbnail" href="{{ $post.Permalink }}"><img class="thumbnail" src="{{ $post.Params.thumb_img_path | relURL }}" alt="{{ $post.Params.title }}" /></a>
 		  {{ end }}
 		  <header class="post-header">
-		    <h3 class="post-title"><a href="{{ $post.URL }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
+		    <h3 class="post-title"><a href="{{ $post.Permalink }}" rel="bookmark">{{ $post.Params.title }}</a></h3>
 		    <div class="post-meta">
 		      <time class="published" datetime="{{ $post.Date | dateFormat "2006-01-02 15:04" }}">{{ $post.Date | dateFormat "January 02, 2006" }}</time>
 		    </div>
