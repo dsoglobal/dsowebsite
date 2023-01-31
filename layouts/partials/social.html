@@ -1,7 +1,7 @@
 <ul class="social-links">
   {{ range $link := .Site.Data.social.links }}
   <li>
-    <a href="{{ $link.url }}" target="_blank" rel="noopener"><span class="fab {{ $link.icon }}"
+    <a href="{{ $link.Permalink }}" target="_blank" rel="noopener"><span class="fab {{ $link.icon }}"
         aria-hidden="true"></span><span class="screen-reader-text">{{ $link.title }}</span></a>
   </li>
   {{ end }}
