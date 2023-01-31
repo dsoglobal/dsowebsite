@@ -1,0 +1,108 @@
+{{ define "content" }}
+
+<div class="outer">
+  <div class="inner">
+    <article class="post post-full">
+      <header class="post-header inner-small">
+        <h1 class="post-title line-top">{{ .Params.title }}</h1>
+        {{ if .Params.dsotitle }}
+         <div class="post-subtitle dsotitle">
+          {{ delimit .Params.dsotitle " and " | title | safeHTML }}
+          {{ if .Params.teams }}
+            <br/>{{ delimit .Params.teams " and " | title | safeHTML }}
+          {{ end }}
+          {{ if .Params.location }}
+            - {{ .Params.location }}
+          {{ end }}
+         </div><!-- .post-subtitle -->
+        {{ else }}        
+         <div class="post-meta">
+           <time class="published"
+             datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "January 02, 2006" }}</time>
+         </div><!-- .post-meta -->
+        {{ end }}
+        {{ if .Params.subtitle }}
+        <div class="post-subtitle">
+          {{ .Params.subtitle | safeHTML }}
+        </div><!-- .post-subtitle -->
+        {{ end }}
+      </header><!-- .post-header -->
+      {{ if .Params.thumb_img_path }}
+      <div class="post-thumbnail">
+        <img src="{{ .Params.thumb_img_path | relURL }}" alt="{{ .Params.title }}" />
+      </div><!-- .post-thumbnail -->
+      {{ end }}
+      <div class="post-content inner-small">
+        {{ if or (.Params.categories) (.Params.tags) }}
+          {{ partial "tags.html" . }}
+        {{ end }}
+        {{ .Content }}
+       {{ if .Params.teammembers }}  
+        <p class="team">Learn More About: 
+          {{ range $key, $value := .Params.teammembers }}
+            {{if ne $value "null"}}
+              <span class="teaminner"><a href="/teammates/{{ $value | urlize  }}">{{ $value }}</a></span>
+            {{end}}
+          {{ end }}     
+        </p>
+        {{ end }}
+    {{ if .Params.actions }}
+      <p class="block-cta">
+        {{ range $key, $value := .Params.actions }}
+          {{if ne $value "null"}}
+            <a href="{{ $value.url | relURL }}" class="button">{{ $value.label }}</a>
+          {{end}}
+        {{ end }}
+      </p><!-- .block-cta -->
+     {{ end }}
+    </div><!-- .post-content -->
+     {{ if .Params.dsotitle }}
+      <div class="post-content">
+        {{ partial "related_people.html" . }}
+      </div><!-- .post-content -->
+     {{ else }}
+      <div class="post-content inner-small">
+        {{ partial "related.html" . }}
+      </div><!-- .post-content -->
+     {{ end }}      
+    </article><!-- .post -->
+
+    <!-- Next/previous post navigation TBD -->
+    <!--
+    <nav class="read-next inner-small">
+      <h2 class="read-next-title line-top">Read Next</h2>
+      <div class="post-feed">
+        <article class="post">
+          <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
+          <header class="post-header">
+            <h3 class="post-title"><a href="#" rel="bookmark">Previous Post Title</a></h3>
+            <div class="post-meta">
+              <time class="published" datetime="">Previous post date</time>
+            </div>
+          </header>
+          <div class="post-excerpt">
+            <p>Previous post excerpt...</p>
+          </div>
+        </article>
+        <article class="post">
+          <a class="post-thumbnail" href="#"><img src="#" alt="" /></a>
+          <header class="post-header">
+            <h3 class="post-title"><a href="#" rel="bookmark">Next Post Title</a></h3>
+            <div class="post-meta">
+              <time class="published" datetime="">Next post date</time>
+            </div>
+          </header>
+          <div class="post-excerpt">
+            <p>Next post excerpt...</p>
+          </div>
+        </article>
+      </div>
+    </nav>
+    -->
+  {{ if .Params.showcomments }}
+     {{ partial "disqus.html" . }}
+  {{ end }}
+  </div><!-- .inner -->
+</div><!-- .outer-->
+
+{{ end }}
