@@ -1,4 +1,4 @@
-stackbitVersion: 0.2.0
+stackbitVersion: 0.3.0
 ssgName: hugo
 buildCommand: ./ssg-build.sh
 publishDir: public
@@ -19,7 +19,7 @@ stackbit_banner:
   show_banner: true
   name: Exto
   create_url: 'https://app.stackbit.com/create?theme=exto'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-exto'
+  github_url: 'https://github.com/stackbit/stackbit-theme-exto-hugo'
 models:
   config:
     type: config
