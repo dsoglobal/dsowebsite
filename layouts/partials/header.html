@@ -21,7 +21,7 @@
           <button id="menu-close" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-close" aria-hidden="true"></span></button>
           <ul class="menu">
             {{ range $item := .Site.Menus.main }}
-              <li class="menu-item {{ if eq $.Permalink $item.Permalink }} current-menu-item{{ end }}">
+              <li class="menu-item {{ if eq $.Permalink $item.URL }} current-menu-item{{ end }}">
                 <a href="{{ $item.Permalink | relURL }}">{{ $item.Name }}</a>
               </li>
             {{ end }}
