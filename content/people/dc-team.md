@@ -118,7 +118,7 @@ sections:
         dsotitle:
           - Engagement Lead
           - CXO
-        avatar: /images/anthonyb.jpg
+        avatar: /images/headshot_new.jpeg
       - type: testimonialsblock
         author: Patrice Major
         dsotitle:
