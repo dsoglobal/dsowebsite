@@ -22,7 +22,7 @@
           <ul class="menu">
             {{ range $item := .Site.Menus.main }}
               <li class="menu-item {{ if eq $.Permalink $item.URL }} current-menu-item{{ end }}">
-                <a href="{{ $item.Permalink | relURL }}">{{ $item.Name }}</a>
+                <a href="{{ $item.URL | relURL }}">{{ $item.Name }}</a>
               </li>
             {{ end }}
           </ul><!-- .menu -->
