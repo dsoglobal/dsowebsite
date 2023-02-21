@@ -13,7 +13,7 @@ company: Booz Allen Hamilton
 thumb_img_path: /images/headshot_new.jpeg
 actions:
   - label: Website
-    url: http://anthonybuchanan.org
+    url: https://anthonybuchanan.com
   - label: LinkedIn
     url: https://www.linkedin.com/in/anthonyjbuchanan
 layout: post
