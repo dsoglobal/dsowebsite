@@ -6,9 +6,22 @@
    <input id="search-input" type="search" placeholder="Loading..." name="search" class="searchbox">
    <br/>
    <section id="search-results" class="search"></section>
+ 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+    <script type="text/javascript">
+      algoliasearchNetlify({    
+    appId: 'DSUBFQBR6A',
+    apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
+    siteId: 'd4de1fc1-cba3-4be8-be6a-6305981f2a6a',
+    branch: 'main',
+    selector: 'div#search',
+  });
+    </script>
+    
   </div><!-- .inner-->
 </div><!-- .outer -->
-
+<!--
 <script src="https://unpkg.com/lunr@2.3.9/lunr.js"></script>
 <script type="text/javascript">
 // define globale variables
@@ -118,4 +131,5 @@ window.onload = function() {
     )
 }
 </script>
+-->
 {{ end }}
