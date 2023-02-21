@@ -1,7 +1,7 @@
 [build]
 publish = "public"
 command = "./stackbit-build.sh"
-functions = "functions"
+#functions = "functions"
 
 [build.environment]
   HUGO_VERSION = "0.110.0"
@@ -9,8 +9,8 @@ functions = "functions"
 [[plugins]]
   package = "@netlify/plugin-sitemap"
   
-[[plugins]]
-  package = "netlify-plugin-search-index"
+#[[plugins]]
+ # package = "netlify-plugin-search-index"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
