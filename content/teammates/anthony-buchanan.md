@@ -12,10 +12,10 @@ work: Senior Lead Technologist
 company: Booz Allen Hamilton
 thumb_img_path: /images/headshot_new.jpeg
 actions:
-  - label: LinkedIn
-    url: https://www.linkedin.com/in/anthonyjbuchanan
   - label: Website
     url: http://anthonybuchanan.org
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/anthonyjbuchanan
 layout: post
 ---
 **Why I joined DSO:** Work with inspiring people and use technology to make the world a better place
