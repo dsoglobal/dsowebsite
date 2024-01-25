@@ -90,7 +90,9 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         teammembersname: Amy Badiani
-        dsotitle: '["Engagement Lead","CXO"]'
+        dsotitle:
+          - Engagement Lead
+          - CXO
         avatar: /images/0-3-.jpg
         author: Amy Badiani
       - type: testimonialsblock
@@ -268,6 +270,8 @@ sections:
     testimonialslist:
       - type: testimonialsblock
         author: Saurabh Sanghvi
-        dsotitle: '["Engagement Lead","CXO"]'
+        dsotitle:
+          - Engagement Lead
+          - CXO
         avatar: /images/saurabh_orig.jpg
 ---
