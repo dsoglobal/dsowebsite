@@ -159,12 +159,6 @@ sections:
           - Student Consultant
         avatar: /images/katieropers.jpg
       - type: testimonialsblock
-        author: Nadine Fattah
-        dsotitle:
-          - Executive Board
-          - Student Consultant
-        avatar: /images/nadinefattah.jpg
-      - type: testimonialsblock
         author: Sohayla Eldeeb
         dsotitle:
           - Executive Board
