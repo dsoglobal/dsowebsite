@@ -8,7 +8,7 @@ content_img_path: ""
 showcomments: true
 date: 2014-07-18T04:00:00.000Z
 title: Lets not pretend to celebrate Mandela Day
-thumb_img_path: /images/5387613.jpg
+thumb_img_path: ""
 tags:
   - football
   - soccer
